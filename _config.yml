@@ -1,0 +1,30 @@
+#-- Dependencies
+markdown:         kramdown
+kramdown:
+  input:          GFM
+  hard_wrap:      false
+  toc_levels:     2..2
+  smart_quotes:   lsquo,rsquo,ldquo,rdquo
+  # use_coderay:    false
+highlighter:      pygments
+excerpt_separator: "<!--more-->"
+
+#-- Permalinks
+permalink:            pretty
+# permalink:            /:categories/:title/
+# relative_permalinks:  true
+
+#-- Setup
+title:            Hugo Ledoux
+tagline:          'assistant-prof in <a href="http://3dgeoinfo.bk.tudelft.nl">3D geoinformation</a> at <a href="http://www.tudelft.nl">TU Delft</a>'
+# description:      'yo'
+url:              "tudelftgeomatics.github.io/thesis"
+baseurl:          ""
+
+# author:
+#   name:           'Hugo Ledoux'
+#   url:            https://twitter.com/hugoledoux
+
+# paginate:         5
+
+
