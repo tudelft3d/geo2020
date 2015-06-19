@@ -4,7 +4,6 @@ title: FAQ
 permalink: /faq/
 ---
 
-- - -
 
 * Table of Content
 {:toc}

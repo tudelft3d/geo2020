@@ -15,16 +15,10 @@ permalink:            pretty
 # relative_permalinks:  true
 
 #-- Setup
-title:            Hugo Ledoux
-tagline:          'assistant-prof in <a href="http://3dgeoinfo.bk.tudelft.nl">3D geoinformation</a> at <a href="http://www.tudelft.nl">TU Delft</a>'
+title:            TU Delft MSc Geomatics graduation thesis
+# tagline:          'assistant-prof in <a href="http://3dgeoinfo.bk.tudelft.nl">3D geoinformation</a> at <a href="http://www.tudelft.nl">TU Delft</a>'
 # description:      'yo'
 url:              "tudelftgeomatics.github.io/thesis"
 baseurl:          ""
-
-# author:
-#   name:           'Hugo Ledoux'
-#   url:            https://twitter.com/hugoledoux
-
-# paginate:         5
 
 
