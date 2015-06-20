@@ -11,13 +11,9 @@ excerpt_separator: "<!--more-->"
 
 #-- Permalinks
 permalink:            pretty
-# permalink:            /:categories/:title/
-# relative_permalinks:  true
 
 #-- Setup
 title:            TU Delft MSc Geomatics graduation thesis
-# tagline:          'assistant-prof in <a href="http://3dgeoinfo.bk.tudelft.nl">3D geoinformation</a> at <a href="http://www.tudelft.nl">TU Delft</a>'
-# description:      'yo'
 url:              "tudelftgeomatics.github.io/thesis"
 baseurl:          ""
 

@@ -1,45 +1,45 @@
 
-- url:    /news
+- url:    /news/
   text:   Latest news
   icon:   fa-bullhorn
   colour:  yellow accent-4
 
-- url:    /rules
+- url:    /rules/
   text:   Graduation manual & rules
   icon:   fa-university
   colour: cyan darken-3
 
-- url:    /faq
+- url:    /faq/
   text:   Frequently asked questions
   icon:   fa-question
   colour: light-green darken-3
 
-- url:    /introdays
+- url:    /introdays/
   text:   Introduction days
   icon:   fa-users
   colour: purple accent-1
 
-- url:    /tips
+- url:    /tips/
   text:   Research & writing tips
   icon:   fa-lightbulb-o
   colour: yellow darken-3
 
-- url:    /potentialtopics
+- url:    /potentialtopics/
   text:   Potential topics
   icon:   fa-list-ol
   colour: deep-orange darken-2
 
-- url:    /templates
+- url:    /templates/
   text:   Templates for P2 and P4/P5
   icon:   fa-file-text
   colour:  brown darken-1
 
-- url:    /completedtheses
+- url:    /completedtheses/
   text:   Recently completed theses
   icon:   fa-graduation-cap
   colour: light-blue darken-1
 
-- url:    /contact
+- url:    /contact/
   text:   Contact the coordinator
   icon:   fa-send
   colour: grey darken-1
