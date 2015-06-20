@@ -1,4 +1,9 @@
 
+- url:    /news
+  text:   All the latest news
+  icon:   fa-bullhorn
+  colour: yellow darken-1
+
 - url:    /rules
   text:   The graduation manual and its rules
   icon:   fa-university
@@ -16,18 +21,13 @@
 
 - url:    /potentialtopics
   text:   Looking for an MSc topic?
-  icon:   fa-university
+  icon:   fa-list-ol
   colour: deep-orange darken-2
-
-- url:    /news
-  text:   All the latest news
-  icon:   fa-bullhorn
-  colour:  brown darken-1
 
 - url:    /templates
   text:   Templates for P2 and the final thesis
   icon:   fa-file
-  colour: light-blue darken-1
+  colour:  brown darken-1
 
 - url:    /completedtheses
   text:   Recently completed theses
