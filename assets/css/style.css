@@ -32,16 +32,17 @@ ul#markdown-toc > li > a {
 }
 
 a {
-  color: #434343;
+  color: #2393D6;
 }
 
 p > a {  
-  background-color: #FFF8CC;
+  color: #434343;
+  background-color: #FFF8DF;
 }
 
-h4 > a {  
-  background-color: #FFF8CC;
-}
+/*h4 > a {  
+  background-color: #FFF8DF;
+}*/
 
 code {
   padding: .25em .5em;

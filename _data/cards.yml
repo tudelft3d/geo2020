@@ -2,7 +2,8 @@
 - url:    /news/
   text:   Latest news
   icon:   fa-bullhorn
-  colour:  yellow accent-4
+  colour:  pink darken-3
+  # colour:  yellow accent-4
 
 - url:    /rules/
   text:   Graduation manual & rules
@@ -17,7 +18,7 @@
 - url:    /introdays/
   text:   Introduction days
   icon:   fa-users
-  colour: purple accent-1
+  colour: grey darken-1
 
 - url:    /tips/
   text:   Research & writing tips
@@ -42,4 +43,4 @@
 - url:    /contact/
   text:   Contact the coordinator
   icon:   fa-send
-  colour: grey darken-1
+  colour: deep-orange accent-2
