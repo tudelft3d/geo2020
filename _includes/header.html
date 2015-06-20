@@ -1,12 +1,19 @@
 <nav>
-  <div class="nav-wrapper blue-grey darken-2">
+  <div class="nav-wrapper grey">
     {% if page.title %}
-    <a href="" class="brand-logo center">{{ page.title }}</a>
-    <ul class="left">
-      <li><a href="/"><i class="mdi-navigation-arrow-back"></i></a></li>
-    </ul>
+      {% if page.id %}
+      <a class="brand-logo center">News</a>
+      <ul class="left">
+        <li><a href="/"><i class="mdi-navigation-apps"></i></a></li>
+      </ul>
+      {% else %}
+      <a class="brand-logo center">{{ page.title }}</a>
+      <ul class="left">
+        <li><a href="/"><i class="mdi-navigation-apps"></i></a></li>
+      </ul>
+      {% endif %}
     {% else %}
-    <a href="" class="brand-logo center">GEO2010/GEO2020</a>
+    <a class="brand-logo center">GEO2010/GEO2020</a>
     <ul class="left hide-on-med-and-down">
       <li><a href="http://geomatics.tudelft.nl">TU Delft MSc Geomatics</a></li>
   </ul>

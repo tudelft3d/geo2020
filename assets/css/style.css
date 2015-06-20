@@ -10,18 +10,42 @@
   padding: 0 15px;
 }
 
-p {
-  font-family: "ff-tisa-sans-web-pro",sans-serif;
-  font-style: normal;
-  font-weight: 400;
-}
 
 html, h1, h2, h3, h4, h5, h6 {
   font-family: "brandon-grotesque",sans-serif;
-  /*font-family: "jaf-bernino-sans-condensed",sans-serif;*/
-  /*font-family: "jaf-domus-titling-web",sans-serif;*/
-  /*font-style: normal;*/
-  /*font-weight: 700;*/
 }
 
+code,
+pre {
+  font-family: "source-code-pro";
+  font-size: 1em;
+}
 
+p {
+  font-size: 1.2em;
+}
+
+ul#markdown-toc > li > a {
+  font-size: 1.2em;
+  /*padding: 1rem;*/
+  background-color: #FFF8CC;
+}
+
+a {
+  color: #434343;
+}
+
+p > a {  
+  background-color: #FFF8CC;
+}
+
+h4 > a {  
+  background-color: #FFF8CC;
+}
+
+code {
+  padding: .25em .5em;
+  color: #bf616a;
+  background-color: #f9f9f9;
+  /*border-radius: 3px;*/
+}
