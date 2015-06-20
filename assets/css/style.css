@@ -9,3 +9,19 @@
 .icon-block {
   padding: 0 15px;
 }
+
+p {
+  font-family: "ff-tisa-sans-web-pro",sans-serif;
+  font-style: normal;
+  font-weight: 400;
+}
+
+html, h1, h2, h3, h4, h5, h6 {
+  font-family: "brandon-grotesque",sans-serif;
+  /*font-family: "jaf-bernino-sans-condensed",sans-serif;*/
+  /*font-family: "jaf-domus-titling-web",sans-serif;*/
+  /*font-style: normal;*/
+  /*font-weight: 700;*/
+}
+
+

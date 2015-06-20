@@ -1,0 +1,35 @@
+
+- url:    /rules
+  text:   The graduation manual and its rules
+  icon:   fa-university
+  colour: cyan darken-3
+
+- url:    /faq
+  text:   Frequently asked questions
+  icon:   fa-question
+  colour: light-green darken-3
+
+- url:    /tips
+  text:   Some writing and working tips
+  icon:   fa-lightbulb-o
+  colour:  amber darken-2
+
+- url:    /potentialtopics
+  text:   Looking for an MSc topic?
+  icon:   fa-university
+  colour: deep-orange darken-2
+
+- url:    /news
+  text:   All the latest news
+  icon:   fa-bullhorn
+  colour:  brown darken-1
+
+- url:    /templates
+  text:   Templates for P2 and the final thesis
+  icon:   fa-file
+  colour: light-blue darken-1
+
+- url:    /completedtheses
+  text:   Recently completed theses
+  icon:   fa-graduation-cap
+  colour: light-blue darken-1
