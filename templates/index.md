@@ -23,26 +23,16 @@ We expect you to present the methodology you will use to solve your scientific p
 ## Template for the final thesis (P4 & P5)
 
 Officially there is no template.
+However, we have made a [LaTeX template](https://github.com/tudelft3d/MScGeomaticsThesisTemplate) that containing all the parts that are required and is structured in such a way that most/all supervisors expect.
+It looks like [this](https://github.com/tudelft3d/MScGeomaticsThesisTemplate/raw/master/thesis.pdf).
+*It is not an official template and it is not mandatory to use it.*
 
-The TU Delft offers one for report, but it is buggy and in my opinion not very pretty.
+<!-- http://web.stanford.edu/~pmcmahon/ThesisWritingTips.pdf -->
+While you're allowed to structure your thesis you way you like it, good theses (ie the ones that got hight marks) roughly follow this structure:
 
-[Unofficial LaTeX template](https://github.com/tudelft3d/MScGeomaticsThesisTemplate)
-
-Looks like [this](https://github.com/tudelft3d/MScGeomaticsThesisTemplate/raw/master/thesis.pdf)
-
-The thesis report documents the results of the Master’s Thesis Project (Use: "Guidelines for writing a report"). It contains an account of the work, the followed procedure, intermediate milestones and the decisions taken.
-
-The thesis report must be written in English.
-
-The thesis report has a title page which contains the title of the thesis, the date of the thesis defense, the name and student number, the chosen specialisation, the master programme, the faculty EEMCS, and TU Delft.
-
-The thesis report contains a preface that explains the topic of the thesis, the context (institute or company), the main findings in a few lines and the names of the members of the thesis committee. The preface may end with a few acknowledgements, and completed with name and date.
-
-The thesis report contains an introduction chapter that introduces the main research themes and gives an overview of the report.
-
-The thesis report contains a chapter with prior art that describes previous work and scientific publications relevant for the topic. This chapter reformulates the research questions in a form that complies with the state of the art in the field.
-
-The thesis report contains several chapters that describe the performed work.
-
-The thesis report concludes with a concluding chapter with a discussion of the results, and 
-recommendations and suggestions for future research.
+  1. __Introduction__ ∼5 pages. Explain the purpose of the thesis. 
+  2. __Related Work__ ∼15 pages. Overview of all topics related to your main topic. You must provide some context for the reader, and when explaining what others have done, explain how their work relates to yours.
+  3. __Experimental Design__ 20-30 pages. Explain the specific problems you set out to solve, and describe the design of your experiments.
+  4. __Results and Analysis__ – 20-30 pages. Present your results, and provide analysis of them.
+  5. __Conclusion, discussion and future work__ – ∼5 pages. Summarize what you did, what worked and what didn’t. Discuss potential future work that may fill gaps in your work, or approaches that seem promising to overcome problems you encountered but that you weren’t able to tackle.
+  6.  Appendices – Include any material that would break the flow of the main body of your thesis in appendices. For example, appendices often include presentation of non-essential data; long proofs; elaborations of ideas for future work; code listings or other “methods” information (circuit designs and suchlike), and other documentation such as user guides.

@@ -5,34 +5,21 @@ permalink: /tips/
 ---
 
 
-<div class="container">
-  <div class="section">
-  <div class="col s12">
+* Table of Content
+{:toc}
 
-   <ul class="collection">
-    <li class="collection-item avatar">
-      <i class="mdi-alert-error circle"></i>
-      <span class="title">Title</span>
-      <p>First Line</p>
-    </li>
-    <li class="collection-item avatar">
-      <i class="mdi-file-folder circle"></i>
-      <span class="title">Title</span>
-      <p>First Line</p>
-    </li>
-    <li class="collection-item avatar">
-      <i class="mdi-action-assessment circle green"></i>
-      <span class="title">Title</span>
-      <p>First Line</p>
-    </li>
-    <li class="collection-item avatar">
-      <i class="mdi-av-play-arrow circle red"></i>
-      <span class="title">Title</span>
-      <p>First Line</p>
-    </li>
-  </ul>
+- - -
 
-  </div>
-  </div>
-  </div>
+
+#### Start writing early in the process
+
+
+#### Recommended tools
+
+- learn LaTeX, you won't regret it!
+- IPE for drawing, or Illustrator (avoid raster figures, they are huge and not-readable)
+- jabref or endnote
+
+
+
 

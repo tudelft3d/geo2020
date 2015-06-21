@@ -35,7 +35,7 @@
   colour: teal 
 
 - url:    /completedtheses/
-  text:   Recently completed theses
+  text:   Completed theses
   icon:   fa-graduation-cap
   colour: green 
 

@@ -3,7 +3,7 @@ markdown:         kramdown
 kramdown:
   input:          GFM
   hard_wrap:      false
-  toc_levels:     2..3
+  toc_levels:     2..4
   smart_quotes:   lsquo,rsquo,ldquo,rdquo
   # use_coderay:    false
 highlighter:      pygments

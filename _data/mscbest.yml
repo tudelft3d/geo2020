@@ -1,0 +1,29 @@
+
+- surname: Xu
+  name: Weilin 
+  title: Spatial model-aided indoor tracking
+  link: http://repository.tudelft.nl/view/ir/uuid%3A8fd6a9ef-3dfb-4bd1-b54e-44d5b2cca973/
+  image: xu.png
+  year: 2014
+
+- surname: Boeters
+  name: Roeland 
+  title: Automatic enhancement of CityGML LoD2 models with interiors and its usability for net internal area determination
+  link: http://repository.tudelft.nl/view/ir/uuid:b22a2b93-4a0a-4aa7-8e3b-6e08e0027634
+  image: roeland.jpg
+  github: https://github.com/tudelft3d/lod2plus
+  year: 2013
+
+- surname: Peters
+  name: Ravi 
+  title: A Voronoi- and surface-based approach for the automatic generation of depth-contours for hydrographic charts
+  link: http://repository.tudelft.nl/view/ir/uuid%3A5977a99b-0875-44b4-abe1-09288bf2aed1/
+  image: ravi.png
+  year: 2012
+
+- surname: Biljecki
+  name: Filip 
+  title: Automatic segmentation and classification of movement trajectories for transportation modes
+  link: http://repository.tudelft.nl/view/ir/uuid%3A654587d2-6e93-4619-ab9a-29d95f843f35/
+  image: filip.png
+  year: 2010
