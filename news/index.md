@@ -11,4 +11,4 @@ permalink: /news/
 
 <hr>
 
-<a href="{{ site.baseurl }}/feed.xml"><i class="fa fa-rss"></i> RSS</a>
+Suscribe to receive the news automatically: <a href="{{ site.baseurl }}/feed.xml"><i class="fa fa-rss"></i> RSS</a>

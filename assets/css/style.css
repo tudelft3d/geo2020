@@ -18,35 +18,44 @@ html, h1, h2, h3, h4, h5, h6 {
 code,
 pre {
   font-family: "source-code-pro";
-  font-size: 1em;
+}
+code {
+  font-size: 0.85em;
+  color: #bf616a;
+  background-color: #f9f9f9;
+  /*border-radius: 3px;*/
+  /*padding: .25em .5em;*/
 }
 
-p {
-  font-size: 1.2em;
+body {
+  font-size: 125%;
+  /*font-size: 1.2em;*/
 }
 
-ul#markdown-toc > li > a {
-  font-size: 1.2em;
-  /*padding: 1rem;*/
-  background-color: #FFF8CC;
-}
 
-a {
-  color: #2393D6;
-}
-
-p > a {  
+/*ul#markdown-toc > li > a {
   color: #434343;
   background-color: #FFF8DF;
 }
+*/
+
+
+
+a {  
+  color: #434343;
+  background-color: #FFF8DF;
+}
+
+.brand-logo {
+  background-color: transparent;
+}
+
+.nav-wrapper > ul > li > a {
+  background-color: transparent;
+}
+
 
 /*h4 > a {  
   background-color: #FFF8DF;
 }*/
 
-code {
-  padding: .25em .5em;
-  color: #bf616a;
-  background-color: #f9f9f9;
-  /*border-radius: 3px;*/
-}

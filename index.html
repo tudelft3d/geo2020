@@ -2,15 +2,13 @@
 layout: default
 ---
 
-
-
 <div class="container">
   <div class="section">
     <div class="row">
     {% for i in site.data.cards %}
       <div class="col s12 m4">
         <a href="{{ i.url }}">
-        <div class="card {{ i.colour }}">
+        <div class="card {{ i.colour }} darken-1">
           <div class="card-content white-text">
             <h2 class="center"><i class="fa {{ i.icon }}"></i></h2>
             <h6 class="center">{{ i.text}}</h6>

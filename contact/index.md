@@ -9,7 +9,7 @@ permalink: /contact/
       <img class="responsive-img" src="me.png">
   </div>
     <div class="col m5 s12">
-    <div class="card-panel deep-orange accent-2">
+    <div class="card-panel orange darken-1">
       <span class="white-text">
       <b>Hugo Ledoux</b><br><br>
       h.ledoux@tudelft.nl<br>

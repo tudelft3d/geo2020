@@ -10,6 +10,14 @@ permalink: /faq/
 
 - - -
 
+### How to I pick a topic?
+
+Two options:
+
+  1. you like one MSc Geomatics staff and like her/his area of research? Contact directly that person to discuss a topic.
+  2. have a look a the [potiental topics](/potentialtopics/) offered and contact directly the person listed as daily supervisor and/or graduation professor.
+
+
 ### How long should my thesis be?
 
 As short as possible, but needs to cover everything that is asked in the criteria.

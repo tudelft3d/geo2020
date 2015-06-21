@@ -7,16 +7,17 @@ permalink: /templates/
 
 ## P2 template
 
-The template in the graduation manual is the one you should follow.
+The template in the graduation manual is the one you should follow (see Appendix 2).
 *Ignore* any template you get from the central BK system if different, they send these emails without realising that Geomatics doesn't have the same criteria.
 
-P2 is a research proposal that should contain all the elements listed in the template.
-You are however free to write it with the word processor of your choice (including LaTeX), as long as all the sections are present.
+The document for P2 is a research proposal containing all the elements listed in the template.
+You are however free to write it with the word processor of your choice (including LaTeX), as long as all the sections are present (you are allowed to add sub-sections).
+Also, this is a scientific proposal, so references are mandatory.
 
 We expect a project plan to be around 10-15 pages.
-It should show that you clearly know the problem you will aim at solving, and that you know the related work.
-You may or may not have started your research, so if you have no results to show it is fine.
-You should however have a crystal-clear idea of what you will do, with what methodology, and the pitfalls that you will encounter.
+It should show that you clearly know the problem you will aim at solving, and that you master the related work.
+We expect you to present the methodology you will use to solve your scientific problem(s), and to present preliminary results.
+<!-- You should however have a crystal-clear idea of what you will do, with what methodology, and the pitfalls that you will encounter. -->
 
 
 ## Template for the final thesis (P4 & P5)
