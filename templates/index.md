@@ -23,9 +23,13 @@ We expect you to present the methodology you will use to solve your scientific p
 ## Template for the final thesis (P4 & P5)
 
 Officially there is no template.
-However, we have made a [LaTeX template](https://github.com/tudelft3d/MScGeomaticsThesisTemplate) that containing all the parts that are required and is structured in such a way that most/all supervisors expect.
+However, we have made a [LaTeX template](https://github.com/tudelft3d/MScGeomaticsThesisTemplate) containing all the parts that are required and is structured in such a way that most/all supervisors expect.
 It looks like [this](https://github.com/tudelft3d/MScGeomaticsThesisTemplate/raw/master/thesis.pdf).
 *It is not an official template and it is not mandatory to use it.*
+
+Notice that the TU Delft also has a [generic template for report](https://intranet.tudelft.nl/fileadmin/Files/medewerkersportal/mc/huisstijl/Downloads/latex_newreport.zip), but it's rather buggy and must be modified for an MSc thesis.
+
+You are of course allowed to use Word (or others), if you want.
 
 <!-- http://web.stanford.edu/~pmcmahon/ThesisWritingTips.pdf -->
 While you're allowed to structure your thesis you way you like it, good theses (ie the ones that got hight marks) roughly follow this structure:
