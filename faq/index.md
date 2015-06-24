@@ -10,7 +10,7 @@ permalink: /faq/
 
 - - -
 
-#### How to I pick a topic?
+#### How do I pick a topic?
 
 Two options:
 
@@ -21,7 +21,7 @@ Two options:
 
 #### How long should my thesis be?
 
-*As short as possible*, but it needs to cover all the criteria in the Appendix 1.
+*As short as possible*, but it needs to cover all the criteria in the Appendix 1 of the [Graduation Manual](/rules/)
 
 Writing concisely is difficult and time-consuming.
 Actually, it takes more time than writing long pieces.
@@ -75,6 +75,6 @@ First, read the [TU Delft position about fraud and plagiarism](http://studenten.
 
 There are [serious consequences](http://studenten.tudelft.nl/en/students/legal-position/fraud-plagiarism/consequences/) if you are caught. 
 
-### how about the scope of related work?
+<!-- ### how about the scope of related work? -->
 
-### aim to cite papers, not websites
+<!-- ### aim to cite papers, not websites -->

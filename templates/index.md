@@ -10,9 +10,9 @@ permalink: /templates/
 The template in the graduation manual is the one you should follow (see Appendix 2).
 *Ignore* any template you get from the central BK system if different, they send these emails without realising that Geomatics doesn't have the same criteria.
 
-The document for P2 is a research proposal containing all the elements listed in the template.
+The document for P2 is a research proposal that must contain all the elements listed in the template.
 You are however free to write it with the word processor of your choice (including LaTeX), as long as all the sections are present (you are allowed to add sub-sections).
-Also, this is a scientific proposal, so references are mandatory.
+Also, this is a scientific proposal, so references are mandatory (even if there is not specific section in the template).
 
 We expect a project plan to be around 10-15 pages.
 It should show that you clearly know the problem you will aim at solving, and that you master the related work.
@@ -23,8 +23,8 @@ We expect you to present the methodology you will use to solve your scientific p
 ## Template for the final thesis (P4 & P5)
 
 Officially there is no template.
-However, we have made a [LaTeX template](https://github.com/tudelft3d/MScGeomaticsThesisTemplate) containing all the parts that are required and is structured in such a way that most/all supervisors expect.
-It looks like [this](https://github.com/tudelft3d/MScGeomaticsThesisTemplate/raw/master/thesis.pdf).
+However, we have made a [LaTeX template](https://github.com/tudelftgeomatics/thesis_template) containing all the parts that are required and is structured in such a way that most/all supervisors expect.
+It looks like [this](https://github.com/tudelftgeomatics/thesis_template/raw/master/thesis.pdf).
 *It is not an official template and it is not mandatory to use it.*
 
 Notice that the TU Delft also has a [generic template for report](https://intranet.tudelft.nl/fileadmin/Files/medewerkersportal/mc/huisstijl/Downloads/latex_newreport.zip), but it's rather buggy and must be modified for an MSc thesis.
@@ -34,7 +34,20 @@ You are of course allowed to use Word (or others), if you want.
 <!-- http://web.stanford.edu/~pmcmahon/ThesisWritingTips.pdf -->
 While you're allowed to structure your thesis you way you like it, good theses (ie the ones that got hight marks) roughly follow this structure:
 
-  1. __Introduction__ ∼5 pages. Explain the purpose of the thesis. 
+##### 1. Introduction (~7 pages)
+
+What is the scientific problem are aiming to solve? Why is it relevant in Geomatics? What are your research questions?
+
+##### 2. Related work (~15 pages)
+
+Overview of all the topics related to your main research question. 
+You must provide some context for the reader, and when explaining what others have done, explain clearly how their work relates to yours.
+
+##### 3. Introduction (~7 pages)
+
+What is the scientific problem are aiming to solve? Why is it relevant in Geomatics? What are your research questions?
+
+  1. __Introduction__ ∼7 pages. What is the problem, why is it Explain the purpose of the thesis. 
   2. __Related Work__ ∼15 pages. Overview of all topics related to your main topic. You must provide some context for the reader, and when explaining what others have done, explain how their work relates to yours.
   3. __Experimental Design__ 20-30 pages. Explain the specific problems you set out to solve, and describe the design of your experiments.
   4. __Results and Analysis__ – 20-30 pages. Present your results, and provide analysis of them.
