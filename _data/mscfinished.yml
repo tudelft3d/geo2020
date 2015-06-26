@@ -1,4 +1,12 @@
 
+- surname: Pronk
+  name: Maarten 
+  title: Storing massive TINs in a DBMS -- A comparison and a prototype implementation of the multistar approach
+  link: http://repository.tudelft.nl/view/ir/uuid%3Ada6b7329-f45b-4560-8374-bb522e78121f/
+  image: maarten.png
+  # github: https://github.com/tudelft3d/lod2plus
+  year: 2015
+
 - surname: Boeters
   name: Roeland 
   title: Automatic enhancement of CityGML LoD2 models with interiors and its usability for net internal area determination

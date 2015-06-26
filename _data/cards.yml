@@ -7,32 +7,37 @@
 - url:    /rules/
   text:   Graduation manual & rules
   icon:   fa-university
-  colour: cyan 
-
-- url:    /faq/
-  text:   Frequently asked questions
-  icon:   fa-question
-  colour: light-green 
-
-- url:    /introdays/
-  text:   Introduction days
-  icon:   fa-users
-  colour: blue-grey 
-
-- url:    /tips/
-  text:   Research & writing tips
-  icon:   fa-lightbulb-o
   colour: amber 
 
-- url:    /potentialtopics/
-  text:   Potential topics
-  icon:   fa-list-ol
-  colour: deep-orange 
+- url:    /dates/
+  text:   Important dates
+  icon:   fa-calendar
+  colour: blue-grey 
+
+- url:    /introsession/
+  text:   Introduction session
+  icon:   fa-users
+  colour: light-green 
 
 - url:    /templates/
   text:   Templates for P2 and P4/P5
   icon:   fa-file-text
   colour: teal 
+
+- url:    /faq/
+  text:   Frequently asked questions
+  icon:   fa-question
+  colour: brown 
+
+- url:    /tips/
+  text:   Research & writing tips
+  icon:   fa-lightbulb-o
+  colour: cyan 
+
+- url:    /potentialtopics/
+  text:   Potential topics
+  icon:   fa-list-ol
+  colour: deep-orange 
 
 - url:    /completedtheses/
   text:   Completed theses
