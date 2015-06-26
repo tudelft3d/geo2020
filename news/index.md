@@ -38,7 +38,7 @@ permalink: /news/
   <div class="col s12 m6">
     <div class="card-panel">
       <span class="grey-text darken-4-text">
-      Suscribe to receive the news with <a href="{{ site.baseurl }}/feed.xml"><i class="fa fa-rss"></i> RSS</a>
+      Subscribe to receive the news with <a href="{{ site.baseurl }}/feed.xml"><i class="fa fa-rss"></i> RSS</a>
       </span>
     </div>
   </div>

@@ -25,7 +25,7 @@ GEO2020 is for the rest, you get a grade a the end of P5 (and the remaining 45 E
 Two options:
 
   1. you like one MSc Geomatics staff and like her/his area of research? Contact directly that person to discuss a topic.
-  2. have a look a the [potiental topics](/potentialtopics/) offered and contact directly the person listed as daily supervisor and/or graduation professor.
+  2. have a look at the [potential topics](/potentialtopics/) offered and contact directly the person listed as daily supervisor and/or graduation professor.
 
 - - -
 
@@ -39,7 +39,7 @@ As Blaise Pascal wrote (free translation):
 
 > I would have written a shorter letter, but I did not have the time.
 
-But since you insist on having a page number, around 75 pages (with a "normal" amount of figures and tables) is probably what is expected. 
+But since you insist on having a page number, around 75 pages is probably what is expected (with a "normal" amount of figures and tables). 
 
 This plot shows the average number of pages of MSc theses at the University of Minnesota in different fields.
 Geomatics is not in the list, but the average is clearly under 100, and in many fields a bit above 50.

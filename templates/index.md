@@ -12,7 +12,7 @@ The template in the graduation manual is the one you should follow (see Appendix
 
 The document for P2 is a research proposal that must contain all the elements listed in the template.
 You are however free to write it with the word processor of your choice (including LaTeX), as long as all the sections are present (you are allowed to add sub-sections).
-Also, this is a scientific proposal, so references are mandatory (even if there is not specific section in the template).
+Also, this is a scientific proposal, so references are mandatory (even if there is no specific section in the template).
 
 We expect a project plan to be around 10-15 pages.
 It should show that you clearly know the problem you will aim at solving, and that you master the related work.
@@ -43,13 +43,22 @@ What is the scientific problem are aiming to solve? Why is it relevant in Geomat
 Overview of all the topics related to your main research question. 
 You must provide some context for the reader, and when explaining what others have done, explain clearly how their work relates to yours.
 
-##### 3. Introduction (~7 pages)
+##### 3. Methodology/Experimental design (~25 pages)
 
-What is the scientific problem are aiming to solve? Why is it relevant in Geomatics? What are your research questions?
+Describe the design of your experiments and/or present the algorithm/methodology you propose.
 
-  1. __Introduction__ ∼7 pages. What is the problem, why is it Explain the purpose of the thesis. 
-  2. __Related Work__ ∼15 pages. Overview of all topics related to your main topic. You must provide some context for the reader, and when explaining what others have done, explain how their work relates to yours.
-  3. __Experimental Design__ 20-30 pages. Explain the specific problems you set out to solve, and describe the design of your experiments.
-  4. __Results and Analysis__ – 20-30 pages. Present your results, and provide analysis of them.
-  5. __Conclusion, discussion and future work__ – ∼5 pages. Summarize what you did, what worked and what didn’t. Discuss potential future work that may fill gaps in your work, or approaches that seem promising to overcome problems you encountered but that you weren’t able to tackle.
-  6.  Appendices – Include any material that would break the flow of the main body of your thesis in appendices. For example, appendices often include presentation of non-essential data; long proofs; elaborations of ideas for future work; code listings or other “methods” information (circuit designs and suchlike), and other documentation such as user guides.
+##### 4. Experiments, results and analysis (~20 pages)
+
+Present your results, details of the experiments (including datasets used) and provide an analysis of them.
+
+##### 5. Conclusion, discussion and future work (∼5 pages)
+
+Summarise your main result and give a clear answer to the research question you defined in the Introduction.
+Discuss what did not work too.
+Give an overview of new research questions that arose during your research, or promising ideas you had but didn't have time to investigate.
+
+#####  6.  Appendices
+ 
+Any material that would break the flow of the thesis: details about datasets, UML diagrams, list of tools and configurations used, etc.
+Code you wrote you should be all printed in your thesis.
+Instead, put it somewhere publicly accessible (eg GitHub) and give a link to the reader.
