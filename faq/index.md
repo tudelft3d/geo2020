@@ -10,6 +10,16 @@ permalink: /faq/
 
 - - -
 
+#### Why are there 2 separates courses? GEO2010 & GEO2020
+
+GEO2010 is for the preparation and up to the P2.
+If you pass P2 you pass GEO2010 (and get the 15 ECTS).
+There is no grade attached to it.
+
+GEO2020 is for the rest, you get a grade a the end of P5 (and the remaining 45 ECTS).
+
+- - -
+
 #### How do I pick a topic?
 
 Two options:
