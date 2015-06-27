@@ -12,11 +12,11 @@ permalink: /faq/
 
 #### Why are there 2 separates courses? GEO2010 & GEO2020
 
-GEO2010 is for the preparation and up to the P2.
-If you pass P2 you pass GEO2010 (and get the 15 ECTS).
-There is no grade attached to it.
+[GEO2010](http://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=35530) is for the preparation work and up to the P2 (including it).
+If you pass P2, you pass GEO2010 (and get the 15 ECTS).
+There is no grade attached to it, it's either a pass or a fail.
 
-GEO2020 is for the rest, you get a grade a the end of P5 (and the remaining 45 ECTS).
+[GEO2020](http://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=35531) is for the rest of the graduation trajectory; you get a grade a the end of P5 (and the remaining 30 ECTS).
 
 - - -
 
@@ -84,6 +84,13 @@ Complex question to answer here.
 First, read the [TU Delft position about fraud and plagiarism](http://studenten.tudelft.nl/en/students/legal-position/fraud-plagiarism/what-is-fraud/), and if in doubt speak to your daily supervisor and graduation professor.
 
 There are [serious consequences](http://studenten.tudelft.nl/en/students/legal-position/fraud-plagiarism/consequences/) if you are caught. 
+
+- - -
+
+#### Can my thesis be written in Dutch?
+
+No. And your presentations must also be in English.
+
 
 <!-- ### how about the scope of related work? -->
 

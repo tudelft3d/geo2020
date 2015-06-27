@@ -38,6 +38,14 @@ Keep this in mind, and allocate enough time for the writing up.
 
 - - -
 
+#### Read many scientific papers and theses 
+
+The best way to get to know how to write and structure a thesis is to read many of them.
+We propose some [examples of good MSc Geomatics theses](/completedtheses/) in recent years.
+Scientific articles are also a good way to get to know how to write "in a academic style".
+
+- - -
+
 #### Use LaTeX (and not Word)
 
 We offer a [LaTeX template](https://github.com/tudelftgeomatics/thesis_template) to help you start.
@@ -50,31 +58,15 @@ To compile LaTeX, you need a full installation of [MiKTeX](http://miktex.org/abo
 
 - - -
 
-#### Use a reference manager for your references
+#### Use a reference manager 
 
-*Every* paper you read should be added to your manager with all the details.
-It takes 2min to do it after you've read the paper.
-Also, it's a good idea to summarise the paper in your own words.
-Sounds silly, but we can guarantee you that 6 months later when you are writing your thesis you'll think that this is the best thing you've ever done.
+*Every* paper you read should be added to your reference manager, with all the details (volume, issue, pages, editors, etc).
+It only takes 2min to do it right after you've read the paper.
+Also, it's a good idea to *summarise the paper in your own words*.
+It might sound silly and a waste of time, but we can guarantee you that 6 months later when you are writing your thesis you'll think that this is the best thing you've ever done.
 
-If you use LaTeX, [JabRef](http://jabref.sourceforge.net/) is a great cross-platform one.
-If you use Word, [Endnote](http://endnote.com) is the equivalent (it's free for students on the Blackboard apparently).
-
-- - -
-
-#### What you learned in a course might not be best for a thesis
-
-Piece of advise from [Peter McMahon](http://web.stanford.edu/~pmcmahon/ThesisWritingTips.pdf):
-
-> The structure and style of a good thesis typically looks very different to what is taught in "professional communication" classes in many universities. This is unsurprising: in most cases, professional communication lecturers are neither scientists nor engineers, and have never written a scientific document, let alone a science or engineering thesis. No wonder their advice is ill-suited for science or engineering writing! Any grammar lessons that one obtains in professional communications classes are advantageous, but I recommend that you ignore everything else that they teach about report writing. 
-
-- - -
-
-#### Read scientific papers and theses 
-
-The best way to get to know how to write and structure a thesis is to read many of them.
-We propose some [examples of good MSc Geomatics theses](/completedtheses/) in recent years.
-Scientific articles are also a good way to get to know how to write "in a academic style".
+If you use LaTeX, [JabRef](http://jabref.sourceforge.net/) is a great cross-platform manager.
+If you use Word, [Endnote](http://endnote.com) is the obvious choice.
 
 - - -
 
@@ -94,3 +86,28 @@ This rebuttal and corrections document should be 1-2 pages maximum, submitted as
 Include all the significant/important parts that you have modified or added.
 Also, if you didn't process some comments from a member of the committee, write it clearly and state why.
 
+- - - 
+
+#### What you learned in a course might not be best for a scientific thesis
+
+Piece of advise from [Peter McMahon](http://web.stanford.edu/~pmcmahon/ThesisWritingTips.pdf):
+
+> The structure and style of a good thesis typically looks very different to what is taught in "professional communication" classes in many universities. This is unsurprising: in most cases, professional communication lecturers are neither scientists nor engineers, and have never written a scientific document, let alone a science or engineering thesis. No wonder their advice is ill-suited for science or engineering writing! Any grammar lessons that one obtains in professional communications classes are advantageous, but I recommend that you ignore everything else that they teach about report writing. 
+
+- - -
+
+#### Read this document about producing research articles
+
+[Hengl, T, Gould, M (2006). *The unofficial guide for authors (or how to produce research articles worth citing)*. EUR 22191 EN, 54 pp. Office for Official Publications of the European Communities, Luxemburg. ISBN: 92-79-01703-9](/pdfs/HenglGould06.pdf)
+
+(skip Sections 1.1.3, 1.1.4 and 1.2.x)
+
+This is a nice overview full of tips about writing a research paper.
+It was written by two scientists working in the GIS community.
+It's for research articles, but most of the advices are nonetheless valuable---replace 'paper' by 'thesis', 'editor' by 'graduation professor', and 'reviewers' by 'members of your graduation committee'.
+
+Section 2.1.3 about the audience raises the question: who is the audience for an MSc thesis?
+The short answer is: your fellow students.
+Think of them when writing, they should be able to understand.
+They have the same background as you, but obviously they did not dig deeper into the topic you are investigating.
+It is a good idea to let one of them proof-read the thesis to know if they understand.
