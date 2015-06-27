@@ -4,9 +4,9 @@ title: Graduation manual & rules
 permalink: /rules/
 ---
 
-## The offical material
+## The official material
 
-  - [Offical Graduation Manual 2014-2015](http://studenten.tudelft.nl/fileadmin/Files/studentenportal/os/BKspecifiek/Graduation_Manual_Geomatics_2014-2015.pdf)
+  - [Official Graduation Manual 2014-2015](http://studenten.tudelft.nl/fileadmin/Files/studentenportal/os/BKspecifiek/Graduation_Manual_Geomatics_2014-2015.pdf)
   - [Forms for P2/P4/P5](http://studenten.tudelft.nl/en/students/faculty-specific/architecture/forms/)
 
 - - - 

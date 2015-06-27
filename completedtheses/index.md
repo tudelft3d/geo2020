@@ -6,7 +6,7 @@ permalink: /completedtheses/
 
 ## Good theses that should be used as examples
 
-{% assign theses = site.data.mscbest | sort: 'year' | reverse %}
+{% assign theses = site.data.mscbest | sort: 'surname' %}
 <div class="row">
 {% for i in theses %}
   <div class="col s12 m4">

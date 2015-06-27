@@ -6,7 +6,7 @@ permalink: /templates/
 
 ## P2 template
 
-The template in the graduation manual is the one you should follow (see Appendix 2).
+The template in the graduation manual is the one you should follow (see Appendix 2, or get it directly [there](http://studenten.tudelft.nl/fileadmin/Files/studentenportal/os/BKspecifiek/Graduation_Plan_Template_Geomatics.docx)).
 *Ignore* any template you get from the central BK system if different, they send these emails without realising that Geomatics doesn't have the same criteria.
 
 The document for P2 is a research proposal that must contain all the elements listed in the template.
