@@ -4,7 +4,7 @@ title: Completed theses
 permalink: /completedtheses/
 ---
 
-## Good theses that should be used as examples
+## Some good theses that can be used as examples
 
 {% assign theses = site.data.mscbest | sort: 'surname' %}
 <div class="row">
