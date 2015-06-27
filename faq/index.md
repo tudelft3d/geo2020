@@ -72,7 +72,7 @@ But we provide a [LaTeX one]({{ "/templates/" | prepend: site.baseurl }}) to hel
 
 Yes. As long as you make it crystal clear that this is *not* your own figure and that you put a clear reference in the caption.
 
-![]({{ site.baseurl }}img/citefig.png)
+![](img/citefig.png)
 
 Notice that if all your figures are taken from other sources, that gives the impression that you didn't develop your own solution.
 
