@@ -25,13 +25,13 @@ There is no grade attached to it, it's either a pass or a fail.
 Two options:
 
   1. you like one MSc Geomatics staff and like her/his area of research? Contact directly that person to discuss a topic.
-  2. have a look at the [potential topics](/potentialtopics/) offered and contact directly the person listed as daily supervisor and/or graduation professor.
+  2. have a look at the [potential topics]({{ "/potentialtopics/" | prepend: site.baseurl }}) offered and contact directly the person listed as daily supervisor and/or graduation professor.
 
 - - -
 
 #### How long should my thesis be?
 
-*As short as possible*, but it needs to cover all the criteria in the Appendix 1 of the [Graduation Manual](/rules/)
+*As short as possible*, but it needs to cover all the criteria in the Appendix 1 of the [Graduation Manual]({{ "/rules/" | prepend: site.baseurl }})
 
 Writing concisely is difficult and time-consuming.
 Actually, it takes more time than writing long pieces.
@@ -64,7 +64,7 @@ Yes.
 #### Is there a template for the final thesis?
 
 Officially no.
-But we provide a [LaTeX one](/templates/) to help you start.
+But we provide a [LaTeX one]({{ "/templates/" | prepend: site.baseurl }}) to help you start.
 
 - - -
 

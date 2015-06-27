@@ -4,12 +4,12 @@
       {% if page.id %}
       <a class="brand-logo center">News</a>
       <ul class="left">
-        <li><a href="/"><i class="mdi-navigation-apps"></i></a></li>
+        <li><a href="{{ "/" | prepend: site.baseurl }}"><i class="mdi-navigation-apps"></i></a></li>
       </ul>
       {% else %}
       <a class="brand-logo center">{{ page.title }}</a>
       <ul class="left">
-        <li><a href="/"><i class="mdi-navigation-apps"></i></a></li>
+        <li><a href="{{ "/" | prepend: site.baseurl }}"><i class="mdi-navigation-apps"></i></a></li>
       </ul>
       {% endif %}
     {% else %}

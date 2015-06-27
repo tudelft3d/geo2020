@@ -41,7 +41,7 @@ Keep this in mind, and allocate enough time for the writing up.
 #### Read many scientific papers and theses 
 
 The best way to get to know how to write and structure a thesis is to read many of them.
-We propose some [examples of good MSc Geomatics theses](/completedtheses/) in recent years.
+We propose some [examples of good MSc Geomatics theses]({{ "/completedtheses/" | prepend: site.baseurl }}) in recent years.
 Scientific articles are also a good way to get to know how to write "in a academic style".
 
 - - -
@@ -98,7 +98,7 @@ Piece of advise from [Peter McMahon](http://web.stanford.edu/~pmcmahon/ThesisWri
 
 #### Read this document about producing research articles
 
-[Hengl, T, Gould, M (2006). *The unofficial guide for authors (or how to produce research articles worth citing)*. EUR 22191 EN, 54 pp. Office for Official Publications of the European Communities, Luxemburg. ISBN: 92-79-01703-9](/pdfs/HenglGould06.pdf)
+[Hengl, T, Gould, M (2006). *The unofficial guide for authors (or how to produce research articles worth citing)*. EUR 22191 EN, 54 pp. Office for Official Publications of the European Communities, Luxemburg. ISBN: 92-79-01703-9]({{ "/pdfs/HenglGould06.pdf" | prepend: site.baseurl }})
 
 (skip Sections 1.1.3, 1.1.4 and 1.2.x)
 
