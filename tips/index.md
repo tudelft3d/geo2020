@@ -50,11 +50,11 @@ Scientific articles are also a good way to get to know how to write "in a academ
 
 We offer a [LaTeX template](https://github.com/tudelftgeomatics/thesis_template) to help you start.
 Since you've learned to program in Python, LaTeX should take you no more than 2 days to master.
-These two days are worth it, your structure will most likely be better structured, will look better, and will contain less errors.
+These two days are worth it, your thesis most likely will be better structured, will look better, and will contain less errors.
 
-Basically everything you need to know---from installation to details---is available in [this free book](http://en.wikibooks.org/wiki/LaTeX).
+To start with LaTeX, everything you need to know---from installation to writing details---is available in [this free online book](http://en.wikibooks.org/wiki/LaTeX).
 
-To compile LaTeX, you need a full installation of [MiKTeX](http://miktex.org/about) (Windows) or [MacTeX](https://tug.org/mactex) (OSX) or [TeXLive](https://www.tug.org/texlive) (cross-platform).
+To compile our thesis template, you need a full installation of [MiKTeX](http://miktex.org/about) (Windows) or [MacTeX](https://tug.org/mactex) (OS X).
 
 - - -
 
@@ -62,7 +62,7 @@ To compile LaTeX, you need a full installation of [MiKTeX](http://miktex.org/abo
 
 *Every* paper you read should be added to your reference manager, with all the details (volume, issue, pages, editors, etc).
 It only takes 2min to do it right after you've read the paper.
-Also, it's a good idea to *summarise the paper in your own words*.
+Also, it's a good idea to *summarise the paper in your own words* and add it to the entry in your manager.
 It might sound silly and a waste of time, but we can guarantee you that 6 months later when you are writing your thesis you'll think that this is the best thing you've ever done.
 
 If you use LaTeX, [JabRef](http://jabref.sourceforge.net/) is a great cross-platform manager.
@@ -88,7 +88,7 @@ Also, if you didn't process some comments from a member of the committee, write 
 
 - - - 
 
-#### What you learned in a course might not be best for a scientific thesis
+#### What you learned in a past writing course might not be best for a scientific thesis
 
 Piece of advise from [Peter McMahon](http://web.stanford.edu/~pmcmahon/ThesisWritingTips.pdf):
 
@@ -110,4 +110,4 @@ Section 2.1.3 about the audience raises the question: who is the audience for an
 The short answer is: your fellow students.
 Think of them when writing, they should be able to understand.
 They have the same background as you, but obviously they did not dig deeper into the topic you are investigating.
-It is a good idea to let one of them proof-read the thesis to know if they understand.
+It is a good idea to let one of them proof-read the thesis to see if they understand.
