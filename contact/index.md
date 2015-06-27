@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Coordinator
+title: Contact the coordinator
 permalink: /contact/
 ---
 

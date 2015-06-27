@@ -14,7 +14,7 @@ permalink:            pretty
 
 #-- Setup
 title:            TU Delft MSc Geomatics graduation thesis
-url:              "tudelftgeomatics.github.io/thesis"
-baseurl:          ""
+url:              "http://tudelftgeomatics.github.io"
+baseurl:          "/thesis"
 
 
