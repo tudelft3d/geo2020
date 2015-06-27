@@ -89,7 +89,7 @@ There are [serious consequences](http://studenten.tudelft.nl/en/students/legal-p
 
 #### Can my thesis be written in Dutch?
 
-No. And your presentations must also be in English.
+No, it must be in English. And your presentations must also be made in English.
 
 
 <!-- ### how about the scope of related work? -->
