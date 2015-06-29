@@ -12,24 +12,26 @@ permalink: /tips/
 
 #### Start writing early in the process
 
-Writing 80 pages doesn't take 2 weeks. 
-Or if it does, then you're either a super-hero and the quality of what you wrote is probably poor.
-Start to write *early*, ideally by P3 you should have written your "Related work" section, and parts of some sections.
+Writing 80 pages takes more than 2 weeks. 
+If you manage to write your whole thesis in 2 weeks, then you're surely a super-hero, or the quality of what you wrote is probably poor.
+Start to write *early* in the graduation process, ideally by P3 you should have written most of your "Related work" section, and parts of some sections.
 
 Start early, but do so with a plan.
 First you should plan what the structure of your thesis will be.
 We think it is best to first draft a table of content and discuss it with your supervisors. 
-Once they agree that the structure is logical, then you can start writing without fearing that you'll need to restructure the whole document at a later stage.
+Write down all the chapters, sections, and sub-sub-sections names with a 1-liner that describes what you will be discussing there.
+Once your supervisors agree that the structure is logical and complete, then you can start writing without fearing that you'll need to restructure the whole document at a later stage.
 
-Also, writing often highlights weaknesses and missing experiments.
-So start write early.
+Another reason to start write early is that often we think we have covered all aspects of a topic, and we're convinced that we understand it.
+However, writing almost always highlights weaknesses and missing experiments.
+Thus, start write early.
 
 - - -
 
 #### It's the thesis that counts
 
 What you produce---the thesis---is the main deliverables that will be judged for your final mark.
-How you worked (indepedently?), how you carried out the research project, and how complex is the topic, will, among others, also be taken into account.
+How you worked (independently?), how you carried out the research project, and how complex is the topic, will, among others, also be taken into account.
 But what can be best judged (ie objectively) by the committee at the end is the *thesis*.
 
 This means that you even if you for instance have produced great code that runs faster and smoother than that of your colleague, she might get a higher mark if she produces a "better" thesis.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Hello GEO2010/GEO2020 world!
+title:  Hello GEO2010 / GEO2020 world!
 date:   2015-06-20 14:04
 ---
 

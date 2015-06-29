@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Graduation manual & rules
+title: Graduation rules
 permalink: /rules/
 ---
 
