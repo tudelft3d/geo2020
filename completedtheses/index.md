@@ -38,8 +38,8 @@ permalink: /completedtheses/
         <img src="img/{{ i.image }}">
       </div>
       <div class="card-content">
-        <p><b>{{ i.name }} {{ i.surname }}</b></p>
-        <p><i>{{ i.title }} ({{ i.year }})</i></p>
+        <p><b>{{ i.name }} {{ i.surname }}</b> ({{ i.year }})</p>
+        <p><i>{{ i.title }}</i></p>
       </div>
     </div>
     </a>
