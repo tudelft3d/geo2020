@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Contact the coordinator
-permalink: /contact/
+title: Coordinator
+permalink: /coordinator/
 ---
 
 <div class="row">

@@ -44,7 +44,7 @@
   icon:   fa-graduation-cap
   colour: green 
 
-- url:    /contact/
+- url:    /coordinator/
   text:   Contact the coordinator
   icon:   fa-send
   colour: orange
