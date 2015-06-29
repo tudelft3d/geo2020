@@ -7,16 +7,16 @@
         <li><a href="{{ "/" | prepend: site.baseurl }}"><i class="mdi-navigation-apps"></i></a></li>
       </ul>
       {% else %}
-      <a class="brand-logo center">{{ page.title }}</a>
+      <a class="brand-logo center truncate">{{ page.title }}</a>
       <ul class="left">
         <li><a href="{{ "/" | prepend: site.baseurl }}"><i class="mdi-navigation-apps"></i></a></li>
       </ul>
       {% endif %}
     {% else %}
-    <a class="brand-logo center">GEO2010/GEO2020</a>
-    <ul class="left hide-on-med-and-down">
-      <li><a href="http://geomatics.tudelft.nl">TU Delft MSc Geomatics</a></li>
-  </ul>
+      <a class="brand-logo center">GEO2010/GEO2020</a>
+      <ul class="left hide-on-med-and-down">
+        <li><a href="http://geomatics.tudelft.nl">TU Delft MSc Geomatics</a></li>
+      </ul>
     {% endif %}
   </div>
 </nav>
