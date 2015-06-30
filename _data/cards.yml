@@ -39,8 +39,8 @@
   icon:   fa-list-ol
   colour: deep-orange 
 
-- url:    /completedtheses/
-  text:   Completed theses
+- url:    /exampletheses/
+  text:   Example theses
   icon:   fa-graduation-cap
   colour: green 
 

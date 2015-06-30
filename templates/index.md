@@ -16,7 +16,9 @@ Also, this is a scientific proposal, so references are mandatory (even if there 
 We expect a project plan to be around 10-15 pages.
 It should show that you clearly know the problem you will aim at solving, and that you master the related work.
 We expect you to present the methodology you will use to solve your scientific problem(s), and to present preliminary results.
-<!-- You should however have a crystal-clear idea of what you will do, with what methodology, and the pitfalls that you will encounter. -->
+
+For the system, you need to write a *short version* (1-2 sentences per point) so that these details can be uploaded and be accessible by the chair person of your P2/P4/P5.
+Do not upload the full project plan, this one is only for your mentors.
 
 
 ## Template for the final thesis (P4 & P5)
@@ -34,7 +36,7 @@ You are of course allowed to use Word (or others), if you want.
 ### What should the thesis contain?
 
 <!-- http://web.stanford.edu/~pmcmahon/ThesisWritingTips.pdf -->
-While you're allowed to structure your thesis you way you like it, good theses (ie the ones that got hight marks) roughly follow this structure:
+While you're allowed to structure your thesis you way you like it, good theses (ie the ones that usually get high marks) roughly follow this structure:
 
 ##### 1. Introduction (~7 pages)
 

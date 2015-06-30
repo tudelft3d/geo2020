@@ -14,9 +14,9 @@ permalink: /faq/
 
 [GEO2010](http://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=35530) is for the preparation work and up to the P2 (including it).
 If you pass P2, you pass GEO2010 (and get the 15 ECTS).
-There is no grade attached to it, it's either a pass or a fail.
+There is no grade attached to it, it's either a pass or a fail (a retake is possible though).
 
-[GEO2020](http://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=35531) is for the rest of the graduation trajectory; you get a grade a the end of P5 (and the remaining 30 ECTS).
+[GEO2020](http://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=35531) is for the rest of the graduation trajectory; you get a grade at the end of P5 (and the remaining 30 ECTS).
 
 - - -
 
@@ -29,35 +29,12 @@ Two options:
 
 - - -
 
-#### How long should my thesis be?
+#### Can I pick as First Mentor someone from another faculty?
 
-*As short as possible*, but it needs to cover all the criteria in the Appendix 1 of the [Graduation Manual]({{ "/rules/" | prepend: site.baseurl }})
+No. Your first mentor, who also acts as daily supervisor, must be a staff of the Faculty of Architecture involved in the Geomatics programme.
 
-Writing concisely is difficult and time-consuming.
-Actually, it takes more time than writing long pieces.
-As Blaise Pascal wrote (free translation):
-
-> I would have written a shorter letter, but I did not have the time.
-
-But since you insist on having a page number, around 75 pages is probably what is expected (with a "normal" amount of figures and tables). 
-
-This plot shows the average number of pages of MSc theses at the University of Minnesota in different fields.
-Geomatics is not in the list, but the average is clearly under 100, and in many fields a bit above 50.
-
-[![](http://i1.wp.com/flowingdata.com/wp-content/uploads/2015/06/Thesis-lengths.png?fit=620%2C9999)](http://flowingdata.com/2015/06/09/length-of-the-average-masters-thesis/)
-
-
-- - -
-
-#### Can I pick as Graduation Professor someone from another faculty?
-
-No. The possible persons are listed in the Graduation manual.
-
-- - -
-
-#### Can I pick as Daily Supervisor someone from another faculty?
-
-Yes.
+Your second mentor can however be any staff of the TU Delft.
+And at least of the 2 mentors should hold a PhD degree.
 
 - - -
 
@@ -82,13 +59,25 @@ You can also propose yours if you have a contact.
 
 - - -
 
+#### I've just passed my P5, am I done?
+
+Congratulations. 
+You need to do one last thing to get your diploma: upload your final thesis (in PDF) and your final presentation slides (in PDF) to the [TU Delft repository](http://repository.tudelft.nl/submit/thesis/).
+
+To ensure that all theses from the MSc Geomatics can be easily found and that there is consistency between them, please follow these guidelines:
+
+![](img/uploadrepo.png)
+
+
+- - -
+
 #### Can I put figures I have found in papers/theses/websites?
 
 Yes. As long as you make it crystal clear that this is *not* your own figure and that you put a clear reference in the caption.
+Notice that if all your figures are taken from other sources, that gives the impression that you didn't develop your own solution.
 
 ![](img/citefig.png)
 
-Notice that if all your figures are taken from other sources, that gives the impression that you didn't develop your own solution.
 
 - - -
 
@@ -98,6 +87,25 @@ Complex question to answer here.
 First, read the [TU Delft position about fraud and plagiarism](http://studenten.tudelft.nl/en/students/legal-position/fraud-plagiarism/what-is-fraud/), and if in doubt speak to your daily supervisor and graduation professor.
 
 There are [serious consequences](http://studenten.tudelft.nl/en/students/legal-position/fraud-plagiarism/consequences/) if you are caught. 
+
+- - -
+
+#### How long should my thesis be?
+
+*As short as possible*, but it needs to cover all the criteria in the Appendix 1 of the [Graduation Manual]({{ "/rules/" | prepend: site.baseurl }})
+
+Writing concisely is difficult and time-consuming.
+Actually, it takes more time than writing long pieces.
+As Blaise Pascal wrote (free translation):
+
+> I would have written a shorter letter, but I did not have the time.
+
+But since you insist on having a page number, around 75 pages is probably what is expected (with a "normal" amount of figures and tables). 
+
+This plot shows the average number of pages of MSc theses at the University of Minnesota in different fields.
+Geomatics is not in the list, but the average is clearly under 100, and in many fields a bit above 50.
+
+[![](http://i1.wp.com/flowingdata.com/wp-content/uploads/2015/06/Thesis-lengths.png?fit=620%2C9999)](http://flowingdata.com/2015/06/09/length-of-the-average-masters-thesis/)
 
 - - -
 
