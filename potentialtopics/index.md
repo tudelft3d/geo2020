@@ -4,17 +4,23 @@ title: Potential topics
 permalink: /potentialtopics/
 ---
 
-Below you can find some *potential* topics from the different staff members involved in the MSc Geomatics programme; they are divided by research groups.
-
-These are only indications of a potential topic, and will have to be refined/extended/specified for the P2 milestone.
+Below you can find some *potential* topics, these are only indications of a potential topic, and will have to be refined/extended/specified for the P2 milestone.
 Other topics are possible, and we encourage you to propose your own topics: speak directly to a supervisor of your choice.
 
 The chosen topic must be *related to Geomatics*, ie even if you find one area of civil engineering or urbanism very interesting, the way that topic is approached must be inline with the overall learning objectives of the MSc Geomatics programme.
 
+### Research topics from the groups at BK
 
 <a href="https://3d.bk.tudelft.nl/education/msctopics/"><i class="fa fa-external-link"></i> 3D geoinformation group topics</a>
 
 <a href="http://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics"><i class="fa fa-external-link"></i> OTB GISt group topics</a>
 
 
+### Topics from companies/organisations
+
+It is possible to carry out your graduation thesis work in cooperation with a company/organisation.
+Below are some topics that were sent to us, if you find one interesting contact a staff involved in the MSc Geomatics here at TU Delft, since he/she will be your main mentor.
+Be warned that some of the topics are most likely not 100% suitable as an MSc one, but they are a good way to start.
+
+<a href="{{ "gemeenterotterdam/Stageopdrachten_Basisinformatie.pdf" }}"><i class="fa fa-external-link"></i> Gemeente Rotterdam</a> (only in Dutch, but in the past they were open to having non-Dutch speakers)
   
