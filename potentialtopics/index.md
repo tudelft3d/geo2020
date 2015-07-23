@@ -9,14 +9,14 @@ Other topics are possible, and we encourage you to propose your own topics: spea
 
 The chosen topic must be *related to Geomatics*, ie even if you find one area of civil engineering or urbanism very interesting, the way that topic is approached must be inline with the overall learning objectives of the MSc Geomatics programme.
 
-### Research topics from the groups at BK
+#### Research topics from the groups at BK
 
 <a href="https://3d.bk.tudelft.nl/education/msctopics/"><i class="fa fa-external-link"></i> 3D geoinformation group topics</a>
 
 <a href="http://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics"><i class="fa fa-external-link"></i> OTB GISt group topics</a>
 
 
-### Topics from companies/organisations
+#### Topics from companies/organisations
 
 It is possible to carry out your graduation thesis work in cooperation with a company/organisation.
 Below are some topics that were sent to us, if you find one interesting contact a staff involved in the MSc Geomatics here at TU Delft (the most suitable one topic-wise; if you don't know just [ask me]({{ "/coordinator/" | prepend: site.baseurl }})), since he/she will be your main mentor.

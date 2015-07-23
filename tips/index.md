@@ -26,17 +26,6 @@ Another reason to start write early is that often we think we have covered all a
 However, writing almost always highlights weaknesses and missing experiments.
 Thus, start write early.
 
-- - -
-
-#### It's the thesis that counts
-
-What you produce---the thesis---is the main deliverables that will be judged for your final mark.
-How you worked (independently?), how you carried out the research project, and how complex is the topic, will, among others, also be taken into account.
-But what can be best judged (ie objectively) by the committee at the end is the *thesis*.
-
-This means that you even if you for instance have produced great code that runs faster and smoother than that of your colleague, she might get a higher mark if she produces a "better" thesis.
-
-Keep this in mind, and allocate enough time for the writing up.
 
 - - -
 
@@ -45,6 +34,18 @@ Keep this in mind, and allocate enough time for the writing up.
 The best way to get to know how to write and structure a thesis is to read many of them.
 We propose some [examples of good MSc Geomatics theses]({{ "/completedtheses/" | prepend: site.baseurl }}) in recent years.
 Scientific articles are also a good way to get to know how to write "in a academic style".
+
+- - -
+
+#### It's the thesis that counts
+
+What you produce---the thesis---is the main deliverables that will be judged for your final mark.
+How you worked (independently?), how you carried out the research project, and how complex is the topic, will, among others, also be taken into account.
+But what can be best judged (ie objectively) by the committee at the end is the *thesis*.
+
+This means that even if you have produced great code that runs faster and smoother than that of your colleague, she might get a higher mark if she produces a "better" thesis.
+
+Keep this in mind, and allocate enough time for the writing up.
 
 - - -
 
@@ -77,17 +78,6 @@ If you use Word, [Endnote](http://endnote.com) is the obvious choice.
 Avoid raster figures, they are huge, do not scale well and do not look nice.
 Besides the obvious Adobe Illustrator, we recommend [IPE](http://ipe.otfried.org) and [Inkscape](https://inkscape.org/) (both free and cross-platform).
 
-- - -
-
-#### With the P5 thesis, submit a rebuttal/corrections document
-
-Your committee will have to read your thesis twice: before P4 (the draft thesis) and before P5 (final version).
-It's in your interest to tell them clearly what was changed between the two versions: they will appreciate not having to re-read parts that haven't changed, and will be able to focus on the parts you've improved.
-
-This rebuttal and corrections document should be 1-2 pages maximum, submitted as as extra document (or in an email).
-Include all the significant/important parts that you have modified or added.
-Also, if you didn't process some comments from a member of the committee, write it clearly and state why.
-
 - - - 
 
 #### What you learned in a past writing course might not be best for a scientific thesis
@@ -113,3 +103,14 @@ The short answer is: your fellow students.
 Think of them when writing, they should be able to understand.
 They have the same background as you, but obviously they did not dig deeper into the topic you are investigating.
 It is a good idea to let one of them proof-read the thesis to see if they understand.
+
+- - -
+
+#### With the P5 thesis, submit a rebuttal/corrections document
+
+Your committee will have to read your thesis twice: before P4 (the draft thesis) and before P5 (final version).
+It's in your interest to tell them clearly what was changed between the two versions: they will appreciate not having to re-read parts that haven't changed, and will be able to focus on the parts you've improved.
+
+This rebuttal and corrections document should be 1-2 pages maximum, submitted as as extra document (or in an email).
+Include all the significant/important parts that you have modified or added.
+Also, if you didn't process some comments from a member of the committee, write it clearly and state why.

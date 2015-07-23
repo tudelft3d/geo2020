@@ -25,16 +25,16 @@ There is no grade attached to it, it's either a pass or a fail (a retake is poss
 Two options:
 
   1. you like one MSc Geomatics staff and like her/his area of research? Contact directly that person to discuss a topic.
-  2. have a look at the [potential topics]({{ "/potentialtopics/" | prepend: site.baseurl }}) offered and contact directly the person listed as daily supervisor and/or graduation professor.
+  2. have a look at the [potential topics]({{ "/potentialtopics/" | prepend: site.baseurl }}) offered and contact directly the person(s) listed.
 
 - - -
 
 #### Can I pick as First Mentor someone from another faculty?
 
-No. Your first mentor, who also acts as daily supervisor, must be a staff of the Faculty of Architecture involved in the Geomatics programme.
+No. Your first mentor, who also acts as your daily supervisor, must be a staff of the Faculty of Architecture involved in the Geomatics programme.
 
 Your second mentor can however be any staff of the TU Delft.
-And at least of the 2 mentors should hold a PhD degree.
+Notice that at least one of the two mentors should hold a PhD degree.
 
 - - -
 
@@ -61,8 +61,7 @@ You can also propose yours if you have a contact.
 
 #### I've just passed my P5, am I done?
 
-Congratulations. 
-You need to do one last thing to get your diploma: upload your final thesis (in PDF) and your final presentation slides (in PDF) to the [TU Delft repository](http://repository.tudelft.nl/submit/thesis/).
+No, you need to do one last thing to get your diploma: upload your final thesis (in PDF) and your final presentation slides (in PDF) to the [TU Delft repository](http://repository.tudelft.nl/submit/thesis/).
 
 To ensure that all theses from the MSc Geomatics can be easily found and that there is consistency between them, please follow these guidelines:
 
@@ -111,7 +110,7 @@ Geomatics is not in the list, but the average is clearly under 100, and in many 
 
 #### Can my thesis be written in Dutch?
 
-No, it must be in English. And your presentations must also be made in English.
+No, it must be in English. And your presentations (P1, P2, P3, P4 and P5) must also all be made in English.
 
 
 <!-- ### how about the scope of related work? -->
