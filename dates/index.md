@@ -7,7 +7,7 @@ permalink: /dates/
 
 
 
-| `2015-09-xx`                  | [Introduction session]({{ "/introsession/" | prepend: site.baseurl }}) |
+| `2015-09-07`                  | [Introduction session]({{ "/introsession/" | prepend: site.baseurl }}) |
 | `2015-11-09` --> `2015-11-10` | P1 (tentative dates)  |
 | `2015-11-13`                  | Final registration dates for P2 |
 | `2016-01-11` --> `2016-01-22` | P2s |
