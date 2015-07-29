@@ -23,7 +23,7 @@ Do not upload the full project plan, this one is only for your mentors.
 
 ## Template for the final thesis (P4 & P5)
 
-Officially there is no template.
+Officially, there is no template.
 However, we have made a [LaTeX template](https://github.com/tudelftgeomatics/thesis_template) containing all the parts that are required (eg title page, copyright, abstract, acknowledgements, table of contents, list of figures, appendices, etc.) and is structured in such a way that most/all supervisors expect.
 It looks like [this](https://github.com/tudelftgeomatics/thesis_template/raw/master/thesis.pdf).
 *It is not an official template and it is not mandatory to use it.*
@@ -36,13 +36,15 @@ You are of course allowed to use Word (or others), if you want.
 ### What should the thesis contain?
 
 <!-- http://web.stanford.edu/~pmcmahon/ThesisWritingTips.pdf -->
-While you're allowed to structure your thesis you way you like it, good theses (ie the ones that usually get high marks) roughly follow this structure:
+While you're allowed to structure your thesis you way you like it, good theses usually roughly follow this structure:
 
-##### 1. Introduction (~7 pages)
+##### 1. Introduction (~5 pages)
 
 What is the scientific problem you are aiming to solve? Why is it important? And why is it relevant to Geomatics? (make sure what you intend to do is inline with the overall learning objectives of the Geomatics programme at TU Delft) 
 
 What is the main research question that you plan to answer?
+
+Also, an overview of the obtained results and an overview of the thesis should be given.
 
 ##### 2. Theoretical background & related work (~15 pages)
 
@@ -51,7 +53,7 @@ Here you provide some context for the reader---when describing what others did, 
 
 It's also the place to explain to the reader the concepts that are necessary to understand the rest of the thesis.
 
-##### 3. Methodology/Experimental design (~25 pages)
+##### 3. Methodology/Experimental design and development (~20 pages)
 
 Describe what you did. Present the design of your experiments and/or present the algorithm/methodology you used to answer your research question.
 
@@ -59,17 +61,21 @@ Observe that it's better to separate the theory from the practice.
 That is, if you developed a new algorithm/method to process 3D city models, first describe this algorithm from a conceptual point-of-view (with pseudo-code) without discussing implementation details. 
 These details (eg language details, classes, bits and bytes, running time), should be presented and discussed in a separate part of the thesis (a chapter about the implementation of the methodology is possible for instance).
 
-##### 4. Experiments, results and analysis (~20 pages)
+##### 4. Implementation and Experiments  (~10 pages)
 
-Present your results, details of the experiments (including datasets used) and provide an analysis of them.
+Details of the experiments (including datasets used) and of the implementation of the methodology developed. 
 
-##### 5. Conclusion, discussion and future work (∼5 pages)
+##### 5. Results and Analysis  (~10 pages)
+
+Present your results, and provide an analysis of them.
+
+##### 6. Conclusion, discussion and future work (∼5 pages)
 
 Summarise your main result and give a clear answer to the research question you defined in the Introduction.
 Discuss what did not work too.
 Give an overview of new research questions that arose during your research, or promising ideas you had but didn't have time to investigate.
 
-#####  6.  Appendices
+#####  7.  Appendices
  
 Put here any material that would break the flow of the thesis: details about datasets, UML diagrams, list of tools and configurations used, etc.
 It's possible that you have no appendix at all for your thesis.

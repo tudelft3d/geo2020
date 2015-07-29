@@ -39,13 +39,28 @@ Scientific articles are also a good way to get to know how to write "in a academ
 
 #### It's the thesis that counts
 
-What you produce---the thesis---is the main deliverables that will be judged for your final mark.
-How you worked (independently?), how you carried out the research project, and how complex is the topic, will, among others, also be taken into account.
-But what can be best judged (ie objectively) by the committee at the end is the *thesis*.
+What you produce---a thesis---is the main deliverable that will be judged for your final mark.
+This document should have a scientific character, and should document your results and the engineering decisions you took to achieve your main result.
+While other aspects will be evaluated, such as these:
 
-This means that even if you have produced great code that runs faster and smoother than that of your colleague, she might get a higher mark if she produces a "better" thesis.
+  - whether you worked independently or not;
+  - how you carried out the research project;
+  - how complex is your topic;
+  - your main contribution to the state-of-the-art of your area of research.
+
+what can be best judged (ie objectively) by the committee at the end is the *thesis*.
+This means that software products or prototypes that you developed may only be used to prove that your methodology or theory works.
+These are not the main goal of the project.
+(Even if you have produced great code that runs faster and smoother than that of your colleague, she might get a higher mark if she produces a "better" thesis.)
 
 Keep this in mind, and allocate enough time for the writing up.
+
+
+- - -
+
+#### Report on the good and the bad aspects of your method
+
+Be honest in reporting, ie highlight where your results are good, but do not forget to also document the cases for which your work is not optimal (and try to explain why, and link potential solutions to the state-of-the-art methodologies).
 
 - - -
 
