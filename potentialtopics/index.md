@@ -24,6 +24,8 @@ The contact at the company is *not* one of the two mentors.
 
 Be warned that some of the topics are most likely not 100% suitable as an MSc thesis, but they are a good way to start.
 
+<a href="{{ "deltares/" }}"><i class="fa fa-external-link"></i> Deltares</a>
+
 <a href="{{ "gemeenterotterdam/Stageopdrachten_Basisinformatie.pdf" }}"><i class="fa fa-external-link"></i> Gemeente Rotterdam</a> (only in Dutch, but in the past they were open to having non-Dutch speakers)
   
 <a href="{{ "cyclomedia/cycling.pdf" }}"><i class="fa fa-external-link"></i> Cyclomedia</a>
