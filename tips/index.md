@@ -123,11 +123,15 @@ It is a good idea to let one of them proof-read the thesis to see if they unders
 
 #### With the P5 thesis, submit a rebuttal/corrections document
 
-Your committee will have to read your thesis twice: before P4 (the draft thesis) and before P5 (final version).
+Your committee will have to read your thesis twice: before P4 (draft thesis) and before P5 (final version).
 It's in your interest to tell them clearly what was changed between the two versions: they will appreciate not having to re-read parts that haven't changed, and will be able to focus on the parts you've improved.
 
-When you're using LaTeX, [latexdiff](http://ctan.mirrorcatalogs.com/support/latexdiff/doc/latexdiff-man.pdf) (Perl program) can be used to generate a version that indicates what has changed. [Adobe Acrobat Pro](https://helpx.adobe.com/acrobat/using/compare-documents.html) also has a feature for comparing two versions of a PDF document. If you use Word, track changes is the obvious choice.
-
-This rebuttal and corrections document should be 1-2 pages maximum, submitted as as extra document (or in an email).
+Whe thus suggest that you submit a rebuttal and corrections document, it should be 1-2 pages maximum, submitted as as extra document (or in an email).
 Include all the significant/important parts that you have modified or added.
 Also, if you didn't process some comments from a member of the committee, write it clearly and state why.
+
+You can also submit another document that indicates all the changes.
+If you're using LaTeX, [latexdiff](http://ctan.mirrorcatalogs.com/support/latexdiff/doc/latexdiff-man.pdf) (Perl program) can be used. 
+[Adobe Acrobat Pro](https://helpx.adobe.com/acrobat/using/compare-documents.html) also has a feature for comparing two versions of a PDF document. 
+If you use Word, track changes is the obvious choice.
+
