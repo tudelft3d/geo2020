@@ -126,11 +126,11 @@ It is a good idea to let one of them proof-read the thesis to see if they unders
 Your committee will have to read your thesis twice: before P4 (draft thesis) and before P5 (final version).
 It's in your interest to tell them clearly what was changed between the two versions: they will appreciate not having to re-read parts that haven't changed, and will be able to focus on the parts you've improved.
 
-Whe thus suggest that you submit a rebuttal and corrections document, it should be 1-2 pages maximum, submitted as as extra document (or in an email).
+We thus suggest that you submit a rebuttal and corrections document: a ~2-page document, submitted as extra (or in an email).
 Include all the significant/important parts that you have modified or added.
-Also, if you didn't process some comments from a member of the committee, write it clearly and state why.
+Also, if you didn't process some comments from a member of the committee, write it clearly and state why (you do not need to implement all the corrections from the members, but you need to have a good reason if you do not).
 
-You can also submit another document that indicates all the changes.
+You can also submit another document that indicates all the changes made.
 If you're using LaTeX, [latexdiff](http://ctan.mirrorcatalogs.com/support/latexdiff/doc/latexdiff-man.pdf) (Perl program) can be used. 
 [Adobe Acrobat Pro](https://helpx.adobe.com/acrobat/using/compare-documents.html) also has a feature for comparing two versions of a PDF document. 
 If you use Word, track changes is the obvious choice.
