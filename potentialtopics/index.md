@@ -15,6 +15,8 @@ The chosen topic must be *related to Geomatics*, ie even if you find one area of
 
 <a href="http://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics"><i class="fa fa-external-link"></i> OTB GISt group topics</a>
 
+<a href="{{ "gigb/" }}"><i class="fa fa-external-link"></i> Geo-information Organisation and Legislation</a>
+
 
 #### Topics from companies/organisations
 
