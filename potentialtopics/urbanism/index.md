@@ -24,7 +24,7 @@ Thesis topics can deal with different aspects of this challenge like:
   - spatial analyses and spatial statistics: Investigating the relation of urban form and the temperature in open spaces as well as houses?
   - Geodesign: Development of a 3D model that allows to assess different urban design proposals according to their influence on the urban heat island.
 
-*Contact:* [Alexander Wandl](mailto:a.wandl@tudelft.nl) 
+*Contact:* [Alexander Wandl](mailto:a.wandl@tudelft.nl) or [Franklin van der Hoeven](mailto:F.D.vanderHoeven@tudelft.nl)
 
 - - - 
 
