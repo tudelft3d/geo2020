@@ -28,6 +28,16 @@ Thesis topics can deal with different aspects of this challenge like:
 
 - - - 
 
+#### Campus Project
+
+Delft is developing a campus project. A lot of knowledge is available about the Real Estate, but hardly any accurate data on the 'use' . How is the campus used, how are facilities used? Can we use WiFi tracking as a method to gain insight in actual use ,movement around the campus and effectively make this an instrument to determine changes in the Real Estate, Public Space and Programme of the campus? The research will concentrate on approaches for efficient collection, storage and analysis of
+information. This proposal is linked to the Strategic Campus Project.
+
+
+*Contact:* [Stefan van der Spek](mailto:S.C.vanderSpek@tudelft.nl) or [Edward Verbree](mailto:E.Verbree@tudelft.nl) or or [Alexandra den Heijer](mailto:A.C.denHeijer@tudelft.nl)
+
+- - -
+
 #### Mobility of People
 
 There are loads of datasets with tracks of people collected by GPS collected by different groups, for example pedestrians in city centres or even more interesting all mobility of people in one week. This research intends to investigate rules for mobility per neighbourhood, i.e. defining a relation between spatial configuration of programme and network, position in the city, position in the region and the actual movement pattern of people (mode, destination). The research should also investigate which other spatial data sets will be needed and connect those to the available mobility data.
