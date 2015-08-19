@@ -17,6 +17,8 @@ The chosen topic must be *related to Geomatics*, ie even if you find one area of
 
 <a href="{{ "gigb/" }}"><i class="fa fa-external-link"></i> Geo-information Organisation and Legislation</a>
 
+<a href="{{ "urbanism/" }}"><i class="fa fa-external-link"></i> Urbanism</a>
+
 
 #### Topics from companies/organisations
 
