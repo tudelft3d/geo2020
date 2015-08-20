@@ -18,7 +18,7 @@ In the absence of analytic tools, buildings are usually designed and only analys
 
 The spatial configuration of indoor space directly affects many functional aspects of building such as ease of way finding, sense of privacy and community and likelihood of social interactions; all of which can be studied by means of Computational Graph Theory on spatial network models. An indoor spatial network model can be composed of elements such as a set of discrete rooms or convex units of space; it can also be modelled as a rather continuous set of voxels. Central to spatial analysis are path finding algorithms and visibility analysis algorithms that can be used to rank spaces, cluster spaces or predict their usage in terms of likely frequencies of visit or passage.  This research will concentrate on analysis of indoor spaces to facilitate indoor orientation and wayfinding in unknown environments. On the basis of 3D geometry of rooms and corridors, visibility indicators will be defined that will facilitate guidance of visitors. 
 
-*Contact:* [Pirouz Nourian](mailto:P.Nourian@tudelft.nl) or [Sisi Zlatanova](mailto:s.zlatanova@tudelft.nl) or [Liu Liu-1](mailto:l.liu@tudelft.nl@tudelft.nl)
+*Contact:* [Pirouz Nourian](mailto:P.Nourian@tudelft.nl) or [Sisi Zlatanova](mailto:s.zlatanova@tudelft.nl) or [Liu Liu](mailto:l.liu-1@tudelft.nl@tudelft.nl)
 
 - - - 
 
