@@ -34,6 +34,7 @@ Two options:
 No. Your first mentor, who also acts as your daily supervisor, must be a staff of the Faculty of Architecture involved in the Geomatics programme.
 
 Your second mentor can however be any staff of the TU Delft.
+
 Notice that at least one of the two mentors should hold a PhD degree.
 
 - - -

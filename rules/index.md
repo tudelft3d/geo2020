@@ -6,6 +6,9 @@ permalink: /rules/
 
 ## The official material
 
+The official 2015--2016 manual is not ready yet, when it is (hopefully beginning of September) it'll be put here.
+In the meantime, the one from last year (watch out, many things have changed):
+
   - [Official Graduation Manual 2014-2015](http://studenten.tudelft.nl/fileadmin/Files/studentenportal/os/BKspecifiek/Graduation_Manual_Geomatics_2014-2015.pdf)
   - [Forms for P2/P4/P5](http://studenten.tudelft.nl/en/students/faculty-specific/architecture/forms/)
 
