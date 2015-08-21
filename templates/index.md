@@ -17,8 +17,8 @@ We expect a project plan to be around 10-15 pages.
 It should show that you clearly know the problem you will aim at solving, and that you master the related work.
 We expect you to present the methodology you will use to solve your scientific problem(s), and to present preliminary results.
 
-For the system, you need to write a *short version* (1-2 sentences per point) so that these details can be uploaded and be accessible by the chair person of your P2/P4/P5.
-Do not upload the full project plan, this one is only for your mentors.
+<!-- For the system, you need to write a *short version* (1-2 sentences per point) so that these details can be uploaded and be accessible by the chair person of your P2/P4/P5. -->
+<!-- Do not upload the full project plan, this one is only for your mentors. -->
 
 
 ## Template for the final thesis (P4 & P5)
