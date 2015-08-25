@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Hello GEO2010 / GEO2020 world!
+author: Hugo Ledoux
 date:   2015-06-20 14:04
 ---
 
