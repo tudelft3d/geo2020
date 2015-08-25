@@ -88,6 +88,16 @@ First, read the [TU Delft position about fraud and plagiarism](http://studenten.
 
 There are [serious consequences](http://studenten.tudelft.nl/en/students/legal-position/fraud-plagiarism/consequences/) if you are caught. 
 
+
+- - -
+
+#### Who is the audience of my thesis?
+
+In other words, who do I have to write for?
+
+You should write so that your fellow students can understand your thesis: they have the same background as you have, but haven't specialised in exactly the same area.
+So you don't need to explain at length what a GIS is, but all the more advanced methods techniques you used and developed during your graduation project should be described.
+
 - - -
 
 #### How long should my thesis be?
