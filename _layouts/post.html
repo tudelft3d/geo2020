@@ -7,10 +7,10 @@ layout: default
 <div class="section">
   
   <header class="post-header">
-    <h2>{{ page.title }}</h2>
+    <h4>{{ page.title }}</h4>
     <pre>[{{ page.date | date: "%b %-d, %Y" }}]{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</pre>
   </header>
-
+  <hr>
   <article class="post-content">
     {{ content }}
   </article>
