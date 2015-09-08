@@ -8,7 +8,7 @@ permalink: /dates/
 
 
 | `2015-09-07 (at 9:45)`                  | [Introduction session]({{ "/introsession/" | prepend: site.baseurl }}) |
-| `2015-11-09` --> `2015-11-10` | P1 (tentative dates)  |
+| `2015-11-09` & `2015-11-10` | P1   |
 | `2015-11-13`                  | Final registration dates for P2 |
 | `2016-01-11` --> `2016-01-22` | P2s |
 | `2016-04-08`                  | Final application dates for P4 (thus your P3 needs to be held before that date) |
