@@ -15,7 +15,7 @@ But if you directly contact yourself a company, then finding a topic that is sui
 We have had complex cases in the past, and in the end often students are victim of the differences in interests from both parties.
 
 Keep in mind that the graduation work is a *scientific project*, and that a company can be involved but that the main mentors (1st and 2nd) are staff of the TU Delft.
-For the P1/P2, no compromises will be made on the topic because a company is not interested in a particular topic.
+For the P1/P2, no compromises will be made on the scientific aspect of a topic because a company is not interested in a particular topic.
 
 
 
