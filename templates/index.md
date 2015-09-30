@@ -6,16 +6,25 @@ permalink: /templates/
 
 ## P2 template
 
-The template in the graduation manual is the one you should follow (see Appendix 2, or get it directly [there](http://studenten.tudelft.nl/fileadmin/Files/studentenportal/os/BKspecifiek/Graduation_Plan_Template_Geomatics.docx)).
+The document for P2 is a research proposal that must contain all the elements listed in the template available in the [graduation manual]({{ "/rules/" | prepend: site.baseurl }}) (Appendix 2).
 *Ignore* any template you get from the central BK system if different, they send these emails without realising that Geomatics doesn't have the same criteria.
 
-The document for P2 is a research proposal that must contain all the elements listed in the template.
-You are however free to write it with the word processor of your choice (including LaTeX), as long as all the sections are present (you are allowed to add sub-sections).
+You are free to write your project plan with the word processor of your choice (including LaTeX), as long as all the asked parts are present .
 Also, this is a scientific proposal, so references are mandatory (even if there is no specific section in the template).
 
 We expect a project plan to be around 10-15 pages.
 It should show that you clearly know the problem you will aim at solving, and that you master the related work.
 We expect you to present the methodology you will use to solve your scientific problem(s), and to present preliminary results.
+
+As an example, here's a good [project plan from last year]({{ "/pdfs/example_gradplan_mulder.pdf" | prepend: site.baseurl }}).
+It contains:
+
+  - an Introduction in which the problem statement are clearly defined;
+  - a Related Work section in which the relevant literature is presented and linked to the project;
+  - the Research Objectives and/or research questions are clearly defined, along with the scope (ie what you will *not* be doing);
+  - overview of the Methodology to be used;
+  - Time planning
+  - since specific data and tools have to be used, it's good to present these concretely, so that the mentors know that you have a grasp of all aspects of the project.
 
 <!-- For the system, you need to write a *short version* (1-2 sentences per point) so that these details can be uploaded and be accessible by the chair person of your P2/P4/P5. -->
 <!-- Do not upload the full project plan, this one is only for your mentors. -->
