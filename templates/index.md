@@ -16,7 +16,7 @@ We expect a project plan to be around 10-15 pages.
 It should show that you clearly know the problem you will aim at solving, and that you master the related work.
 We expect you to present the methodology you will use to solve your scientific problem(s), and to present preliminary results.
 
-As an example, here's a good [project plan from last year]({{ "/pdfs/example_gradplan_mulder.pdf" | prepend: site.baseurl }}).
+As an example, here's a [good project plan from last year]({{ "/pdfs/example_gradplan_mulder.pdf" | prepend: site.baseurl }}).
 It contains:
 
   - an introduction in which the relevance of the project and its place in the context of geomatics is described, along with a clearly-defined problem statement;
