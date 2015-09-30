@@ -19,12 +19,13 @@ We expect you to present the methodology you will use to solve your scientific p
 As an example, here's a good [project plan from last year]({{ "/pdfs/example_gradplan_mulder.pdf" | prepend: site.baseurl }}).
 It contains:
 
-  - an Introduction in which the problem statement are clearly defined;
-  - a Related Work section in which the relevant literature is presented and linked to the project;
-  - the Research Objectives and/or research questions are clearly defined, along with the scope (ie what you will *not* be doing);
-  - overview of the Methodology to be used;
-  - Time planning
-  - since specific data and tools have to be used, it's good to present these concretely, so that the mentors know that you have a grasp of all aspects of the project.
+  - an introduction in which the relevance of the project and its place in the context of geomatics is described, along with a clearly-defined problem statement;
+  - a related work section in which the relevant literature is presented and linked to the project;
+  - the research objectives and/or research questions are clearly defined, along with the scope (ie what you will *not* be doing);
+  - overview of the methodology to be used;
+  - time planning---having a [Gantt chart](https://en.wikipedia.org/wiki/Gantt_chart) is probably a better idea then just a list;
+  - since specific data and tools have to be used, it's good to present these concretely, so that the mentors know that you have a grasp of all aspects of the project;
+  - the references.
 
 <!-- For the system, you need to write a *short version* (1-2 sentences per point) so that these details can be uploaded and be accessible by the chair person of your P2/P4/P5. -->
 <!-- Do not upload the full project plan, this one is only for your mentors. -->
