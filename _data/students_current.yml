@@ -1,6 +1,4 @@
 
-
-
 - surname: Fichtner
   name: Florian
   title: Subdivision of 3D space to support 3D indoor localization
@@ -17,11 +15,3 @@
   mentor2: Wilko Quak
   company: KPMG
   objective: "n this project big data should be managed which derive from mobile tracking of the visitors and residents and tweets after filtering. this datasets will be used in order to evaluate the Marketing Plan of Amsterdam which was launched 10 years ago."
-
-
-- surname: Ledoux
-  name: Hugo
-  title: A super test
-  start: 2015/09
-  mentor1: John Smith
-  mentor2: Piet Pataat
