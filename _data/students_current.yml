@@ -1,0 +1,17 @@
+
+- surname: Fichtner
+  name: Florian
+  title: Subdivision of 3D space to support 3D indoor localization
+  start: 2015/09
+  mentor1: Abdoulaye Diakité
+  mentor2: Sisi Zlatanova
+  objective: "Research about how to subdivide a 3D and semantically enriched static model to map a 3D coordinate acquired from Quuppa tags to an object."
+
+- surname: Ntarladima 
+  name: Anna-Maria
+  title: "Sensing Amsterdam pulse: Evaluation of the Marketing Plan of the city of Amsterdam"
+  start: 2015/09
+  mentor1: Stefan van der Spek
+  mentor2: Wilko Quak
+  company: KPMG
+  objective: "n this project big data should be managed which derive from mobile tracking of the visitors and residents and tweets after filtering. this datasets will be used in order to evaluate the Marketing Plan of Amsterdam which was launched 10 years ago."

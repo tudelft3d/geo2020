@@ -44,6 +44,12 @@
   icon:   fa-graduation-cap
   colour: green 
 
+- url:    /inprogress/
+  text:   theses in progress
+  icon:   fa-hourglass-o
+  colour: purple
+
+
 - url:    /coordinator/
   text:   Contact the coordinator
   icon:   fa-send
