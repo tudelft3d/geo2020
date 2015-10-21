@@ -1,12 +1,21 @@
 
-- surname: Fichtner
-  name: Florian
-  title: Subdivision of 3D space to support 3D indoor localization
+- surname: Braaksma
+  name: Hiske
+  title: The shift towards big-data based decision-making by enabling a user oriented solution
   start: 2015/09
-  mentor1: Abdoulaye Diakité
-  mentor2: Sisi Zlatanova
-  company: CGI
-  objective: "Research about how to subdivide a 3D and semantically enriched static model to map a 3D coordinate acquired from Quuppa tags to an object."
+  mentor1: Wilko Quak
+  mentor2: Sander van Nederveen (CiTG)
+  company: "Van Hattum & Blankevoort"
+  objective: 
+
+- surname: Broersen
+  name: Tom
+  title: Automatic identification of water courses from AHN3
+  start: 2015/09
+  mentor1: Hugo Ledoux
+  mentor2: Ravi Peters
+  company: "--"
+  objective: 
 
 - surname: Ntarladima 
   name: Anna-Maria
@@ -16,3 +25,12 @@
   mentor2: Wilko Quak
   company: KPMG
   objective: "n this project big data should be managed which derive from mobile tracking of the visitors and residents and tweets after filtering. this datasets will be used in order to evaluate the Marketing Plan of Amsterdam which was launched 10 years ago."
+
+- surname: Fichtner
+  name: Florian
+  title: Subdivision of 3D space to support 3D indoor localization
+  start: 2015/09
+  mentor1: Abdoulaye Diakité
+  mentor2: Sisi Zlatanova
+  company: CGI
+  objective: "Research about how to subdivide a 3D and semantically enriched static model to map a 3D coordinate acquired from Quuppa tags to an object."
