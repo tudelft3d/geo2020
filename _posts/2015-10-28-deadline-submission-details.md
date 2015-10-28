@@ -11,7 +11,7 @@ I'm afraid I have to put a deadline: Thursday Nov 5th at 8:00.
 
 Then I'll make the exact schedule with the staff and will publish it on Friday morning.
 
-As a remainder, you just need to send me an email (`<h.ledoux@tudelft.nl>`) with the following:
+As a reminder, you just need to send me an email (`<h.ledoux@tudelft.nl>`) with the following:
 
   1. (tentative) title
   2. one-line research objective 
