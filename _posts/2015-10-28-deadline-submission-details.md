@@ -5,7 +5,7 @@ author: Hugo Ledoux
 date:   2015-10-28 09:16
 ---
 
-I have received only 5 confirmations of topics so far, and the P1 is approaching very fast.
+I have received only [5 confirmations of topics]({{ "/inprogress/" | prepend: site.baseurl }}) so far, and the P1 is approaching very fast.
 
 I'm afraid I have to put a deadline: Thursday Nov 5th at 8:00.
 
