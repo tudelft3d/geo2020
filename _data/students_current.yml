@@ -1,4 +1,14 @@
 
+- surname: de Liefde
+  name: Ivo
+  title: "Aggregation of semantic sensor data"
+  start: 2015/09
+  mentor1: Marian de Vries
+  mentor2: Martijn Meijers
+  company: "--"
+  objective: Create a method to semantically link sensor data to real world objects and use these 
+
+
 - surname: Psomadaki
   name: Stella
   title: "How to store a point cloud in a database in a way that is adaptive to local changes?"
