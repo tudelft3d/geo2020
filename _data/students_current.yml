@@ -30,11 +30,11 @@
 
 - surname: Psomadaki
   name: Stella
-  title: "How to store a point cloud in a database in a way that is adaptive to local changes?"
+  title: "Using a database for dynamic point cloud management (in the context of the coast)"
   start: 2015/09
-  mentor1: Peter van Oosterom
-  mentor2: TBD
-  company: "--"
+  mentor1: Theo Tijssen
+  mentor2: Peter van Oosterom
+  company: "Deltares + van Oord"
   objective: 
 
 
