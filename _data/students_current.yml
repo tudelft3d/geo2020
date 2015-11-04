@@ -1,4 +1,23 @@
 
+
+- surname: Heeres
+  name: Erik
+  title: "Creating an automatic, robust and scalable workflow for the creation of the 3D BAG"
+  start: 2015/09
+  mentor1: Hugo Ledoux
+  mentor2: Jantien Stoter
+  company: "--"
+
+
+- surname: Kyritsis
+  name: Dimitris
+  title: "InSAR fingerprinting as a means to detect structural health hazards in the urban environment"
+  start: 2015/09
+  mentor1: Edward Verbree
+  mentor2: Ramon Hanssen (CiTG)
+  company: "--"
+
+
 - surname: de Liefde
   name: Ivo
   title: "Aggregation of semantic sensor data"
