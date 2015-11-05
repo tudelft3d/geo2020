@@ -1,6 +1,6 @@
 
-- surname: ten Kate
-  name: Jan
+- surname: Kate
+  name: Jan ten
   title: "Assessment of the nuisance caused by outdoor music event in Amsterdam"
   start: 2015/09
   mentor1: Filip Biljeci
@@ -62,8 +62,8 @@
   company: "--"
 
 
-- surname: de Liefde
-  name: Ivo
+- surname: Liefde
+  name: Ivo de
   title: "Aggregation of semantic sensor data"
   start: 2015/09
   mentor1: Marian de Vries
