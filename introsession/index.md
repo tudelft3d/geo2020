@@ -14,6 +14,8 @@ I'll give an overview of the graduation process, explain how to find a
 topic and a supervisor, what the milestones are, and how to get a high
 final mark (!).
 
+- - - 
+
 Slides of the introduction session on 2015-09-07:
 
 <div class="row">
