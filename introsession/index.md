@@ -4,14 +4,15 @@ title: Introduction session
 permalink: /introsession/
 ---
 
-<!-- 
-_When_: Monday 7 September 2015, 9:45--12:00
+The next introduction session is 
 
-_Where_: Berlagezaal 1 (BK City)
+_When_: Wednesday 10 February 2016, 9:00--10:30
 
-First part: all the details of the graduation process will be explained.
+_Where_: BK.00.West.350
 
-Second part: the different staff of the MSc Geomatics programme will present briefly their own topics. -->
+I'll give an overview of the graduation process, explain how to find a
+topic and a supervisor, what the milestones are, and how to get a high
+final mark (!).
 
 Slides of the introduction session on 2015-09-07:
 
