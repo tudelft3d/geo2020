@@ -32,6 +32,4 @@ Be warned that some of these topics are not 100% suitable for an MSc thesis in G
 
 <a href="{{ "gemeenterotterdam/Stageopdrachten_Basisinformatie.pdf" }}"><i class="fa fa-external-link"></i> Gemeente Rotterdam</a> (only in Dutch, but in the past they were open to having non-Dutch speakers)
   
-<a href="{{ "cyclomedia/cycling.pdf" }}"><i class="fa fa-external-link"></i> Cyclomedia</a>
-
 <a href="{{ "futureinsight/" }}"><i class="fa fa-external-link"></i> Future Insight</a>
