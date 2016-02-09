@@ -14,6 +14,12 @@ I'll give an overview of the graduation process, explain how to find a
 topic and a supervisor, what the milestones are, and how to get a high
 final mark (!).
 
+<div class="row">
+  <div class="col m6 s12">
+    <script async class="speakerdeck-embed" data-id="d2cf8d85a18d492fafde5522a2edfeeb" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+  </div>
+</div>
+
 - - - 
 
 Slides of the introduction session on 2015-09-07:
