@@ -20,6 +20,16 @@ There is no grade attached to it, it's either a pass or a fail (a retake is poss
 
 - - -
 
+#### Which Graduation Manual apply to me?
+
+The [Graduation Manual]({{ "/rules/" | prepend: site.baseurl }}) , and thus the rules, change almost every year.
+The differences are small but can be significant (eg submitting a reflection at P4 instead of only P5).
+
+You have to follow the rules of the year you started your graducation work.
+Even if it takes you 2 years to complete, the rules that applied when you started are the rules that apply during your whole graduation process.
+
+- - -
+
 #### How do I pick a topic?
 
 Two options:

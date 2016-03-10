@@ -10,6 +10,8 @@ permalink: /rules/
   - [Official Graduation Manual 2014-2015]({{ "/pdfs/Graduation Manual Geomatics 2014-2015.pdf" | prepend: site.baseurl }}) (for those who started before September 2015, this applies to you)
   - [Forms for P2/P4/P5](http://studenten.tudelft.nl/en/students/faculty-specific/architecture/forms/)
 
+Notice that you have to follow the rules of the year you started your graducation work.
+Even if it takes you 2 years to complete, the rules that applied when you started are the rules that apply during your whole graduation process.
 
 
 ## The different milestones of the graduation process 
