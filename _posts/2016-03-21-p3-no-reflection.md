@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Draft reflection at P3 is *not* needed"
+title:  "Draft reflection at P3 is not needed"
 author: Hugo Ledoux
 date:   2016-03-21 16:15
 ---
