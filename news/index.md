@@ -6,7 +6,9 @@ permalink: /news/
 
 
 {% for post in site.posts %}
-  <h5><small>{{ post.date | date_to_string }}</small><br><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h5>
+
+<h5><small>{{ post.date | date_to_string }}</small><br><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h5>
+
 {% endfor %}
 
 <br><br>
