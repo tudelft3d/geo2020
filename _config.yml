@@ -10,7 +10,9 @@ highlighter:      rouge
 excerpt_separator: "<!--more-->"
 
 #-- Permalinks
-permalink:            pretty
+permalink:        pretty
+
+future:           true
 
 #-- Setup
 title:            TU Delft MSc Geomatics graduation thesis
