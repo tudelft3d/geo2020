@@ -4,8 +4,6 @@ title: Theses in progress
 permalink: /inprogress/
 ---
 
-## Started in September 2015
-
  <table class="striped bordered responsive-table">
   <thead>
     <tr>
@@ -14,7 +12,7 @@ permalink: /inprogress/
       <th data-field="price">Title</th>
       <th data-field="price">Mentor #1</th>
       <th data-field="price">Mentor #2</th>
-      <!-- <th data-field="price">Start</th> -->
+      <th data-field="price">Start date</th>
       <th data-field="price">External party</th>
     </tr>
   </thead>
@@ -27,7 +25,7 @@ permalink: /inprogress/
       <td>{{ i.title }}</td>
       <td>{{ i.mentor1 }}</td>
       <td>{{ i.mentor2 }}</td>
-      <!-- <td>{{ i.start }}</td> -->
+      <td>{{ i.start }}</td>
       <td>{{ i.company }}</td>
     </tr>
   {% endfor %}
