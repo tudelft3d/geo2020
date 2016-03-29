@@ -1,3 +1,19 @@
+# - surname: Kastelijns
+#   name: Matthijs
+#   title: "Implementation of new sensor standards in the sensor web"
+#   start: 2015/09
+#   mentor1: Wilko Quak
+#   mentor2: Bastiaan van Loenen
+#   company: "Geonovum"
+
+# - surname: Braaksma
+#   name: Hiske
+#   title: The shift towards big-data based decision-making by enabling a user oriented solution
+#   start: 2015/09
+#   mentor1: Wilko Quak
+#   mentor2: Sander van Nederveen (CiTG)
+#   company: "Van Hattum & Blankevoort"
+#   objective: 
 
 - surname: Koopman
   name: Martijn
@@ -33,16 +49,6 @@
   mentor1: Sisi Zlatanova
   mentor2: Edward Verbree
   company: "--"
-
-
-- surname: Kastelijns
-  name: Matthijs
-  title: "Implementation of new sensor standards in the sensor web"
-  start: 2015/09
-  mentor1: Wilko Quak
-  mentor2: Bastiaan van Loenen
-  company: "Geonovum"
-
 
 - surname: Rook
   name: Merwin
@@ -91,15 +97,6 @@
   objective: 
 
 
-- surname: Braaksma
-  name: Hiske
-  title: The shift towards big-data based decision-making by enabling a user oriented solution
-  start: 2015/09
-  mentor1: Wilko Quak
-  mentor2: Sander van Nederveen (CiTG)
-  company: "Van Hattum & Blankevoort"
-  objective: 
-
 - surname: Broersen
   name: Tom
   title: Automatic identification of water courses from AHN3
@@ -111,12 +108,12 @@
 
 - surname: Ntarladima 
   name: Anna-Maria
-  title: "Sensing Amsterdam pulse: Evaluation of the Marketing Plan of the city of Amsterdam"
-  start: 2015/09
-  mentor1: Stefan van der Spek
-  mentor2: Wilko Quak
-  company: KPMG
-  objective: "n this project big data should be managed which derive from mobile tracking of the visitors and residents and tweets after filtering. this datasets will be used in order to evaluate the Marketing Plan of Amsterdam which was launched 10 years ago."
+  title: "Dynamic representation of the urban heat island effect and the contributing urban factors"
+  start: 2015/11
+  mentor1: Alexander Wandl
+  mentor2: Hugo Ledoux
+  company: "--"
+  # objective: "n this project big data should be managed which derive from mobile tracking of the visitors and residents and tweets after filtering. this datasets will be used in order to evaluate the Marketing Plan of Amsterdam which was launched 10 years ago."
 
 - surname: Fichtner
   name: Florian
