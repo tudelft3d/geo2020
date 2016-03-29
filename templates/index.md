@@ -9,12 +9,14 @@ permalink: /templates/
 The document for P2 is a research proposal that must contain all the elements listed in the template available in the [graduation manual]({{ "/rules/" | prepend: site.baseurl }}) (Appendix 2).
 *Ignore* any template you get from the central BK system if different, they send these emails without realising that Geomatics doesn't have the same criteria.
 
-You are free to write your project plan with the word processor of your choice (including LaTeX), as long as all the asked parts are present .
-Also, this is a scientific proposal, so references are mandatory (even if there is no specific section in the template).
+You are free to write your project plan with the word processor of your choice (including LaTeX), as long as all the asked parts are present.
+You can use that [simple LaTeX template](https://gist.github.com/hugoledoux/9620758fd54acea78624) as starting point.
+
 
 We expect a project plan to be around 10-15 pages.
 It should show that you clearly know the problem you will aim at solving, and that you master the related work.
 We expect you to present the methodology you will use to solve your scientific problem(s), and to present preliminary results.
+Also, this is a scientific proposal, so references are mandatory (even if there is no specific section in the template).
 
 As an example, here's a [good project plan from last year]({{ "/pdfs/example_gradplan_mulder.pdf" | prepend: site.baseurl }}).
 It contains:
