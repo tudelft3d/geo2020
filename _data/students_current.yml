@@ -6,13 +6,13 @@
 #   mentor2: Bastiaan van Loenen
 #   company: "Geonovum"
 
-# - surname: Braaksma
-#   name: Hiske
-#   title: The shift towards big-data based decision-making by enabling a user oriented solution
-#   start: 2015/09
-#   mentor1: Wilko Quak
-#   mentor2: Sander van Nederveen (CiTG)
-#   company: "Van Hattum & Blankevoort"
+- surname: Braaksma
+  name: Hiske
+  title: The integration of sensor networks to enable smart asset management
+  start: 2016/02
+  mentor1: Wilko Quak
+  mentor2: Sander van Nederveen (CiTG)
+  company: "VolkerInfra Design"
 #   objective: 
 
 - surname: Koopman
