@@ -1,10 +1,27 @@
-# - surname: Kastelijns
-#   name: Matthijs
-#   title: "Implementation of new sensor standards in the sensor web"
-#   start: 2015/09
-#   mentor1: Wilko Quak
-#   mentor2: Bastiaan van Loenen
-#   company: "Geonovum"
+
+- surname: Kyritsis
+  name: Dimitris
+  title:  "The evaluation of road modality and occupancy patterns by WiFi monitoring sensors at the city centre of Dordrecht"
+  start: 2016/02
+  mentor1: Edward Verbree
+  mentor2: Sisi Zlatanova
+  company: "Municipality of Dordrecht and Libelium Company"
+
+- surname: Vreede
+  name: Irene de
+  title:  DBMS storage of AIS log-files
+  start: 2016/02
+  mentor1: Wilko Quak
+  mentor2: Peter van Oosterom
+  company: "--"
+
+- surname: Rovers
+  name: Adrie
+  title: Using varioscale data in a web services setting
+  start: 2016/02
+  mentor1: Martijn Meijers
+  mentor2: Peter van Oosterom
+  company: "--"
 
 - surname: Braaksma
   name: Hiske
@@ -13,7 +30,16 @@
   mentor1: Wilko Quak
   mentor2: Sander van Nederveen (CiTG)
   company: "VolkerInfra Design"
-#   objective: 
+
+###
+
+- surname: Kastelijns
+  name: Matthijs
+  title: "Implementation of new sensor standards in the sensor web"
+  start: 2016/02
+  mentor1: Wilko Quak
+  mentor2: Bastiaan van Loenen
+  company: "Geonovum"
 
 - surname: Koopman
   name: Martijn
