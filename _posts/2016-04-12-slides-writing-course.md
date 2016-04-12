@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "P1 schedule 2016-04-15"
+title:  "The slides of the writing course are available"
 author: Hugo Ledoux
 date:   2016-04-12 08:13
 ---
