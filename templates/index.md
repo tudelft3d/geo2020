@@ -25,8 +25,8 @@ You are free to write your project plan with the word processor of your choice (
 You can use that [simple LaTeX template](https://gist.github.com/hugoledoux/9620758fd54acea78624) as starting point.
 
 
-We expect a project plan to be around 10-15 pages.
-It should show that you clearly know the problem you will aim at solving, and that you master the related work.
+We expect a project plan to be around 10-15 pages (maximum).
+It should show that you clearly know the problem you plan to solve, and that you master the related work.
 We expect you to present the methodology you will use to solve your scientific problem(s), and to present preliminary results.
 Also, this is a scientific proposal, so references are mandatory (even if there is no specific section in the template).
 
