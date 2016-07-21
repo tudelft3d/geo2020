@@ -4,6 +4,18 @@ title: Templates
 permalink: /templates/
 ---
 
+## P1 template for the slides
+
+At P1, you need to introduce your topics to everyone in 5min, and *only 4 slides are possible*:
+
+1. title, name + mentors
+1. what problem will be solve? or motivation
+1. main research question
+1. how you will solve it, your methodology
+
+If you want, use this [PPT template]({{ "p1.pptx" }}), but you're allowed to use any software you want.
+
+
 ## P2 template
 
 The document for P2 is a research proposal that must contain all the elements listed in the template available in the [graduation manual]({{ "/rules/" | prepend: site.baseurl }}) (Appendix 2).
