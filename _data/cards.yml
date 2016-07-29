@@ -20,7 +20,7 @@
   colour: light-green 
 
 - url:    /templates/
-  text:   Templates for P2 and P4/P5
+  text:   Templates for the Ps
   icon:   fa-file-text
   colour: teal 
 
@@ -43,12 +43,6 @@
   text:   Example theses
   icon:   fa-graduation-cap
   colour: green 
-
-- url:    /inprogress/
-  text:   theses in progress
-  icon:   fa-hourglass-o
-  colour: purple
-
 
 - url:    /coordinator/
   text:   Contact the coordinator

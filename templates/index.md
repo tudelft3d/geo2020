@@ -4,6 +4,18 @@ title: Templates
 permalink: /templates/
 ---
 
+## P1 template for the slides
+
+At P1, you need to introduce your topics to everyone in 5min, and *only 4 slides are possible*:
+
+1. title, name + mentors
+1. what problem will be solve? or motivation
+1. main research question
+1. how you will solve it, your methodology
+
+If you want, use this [PPT template]({{ "p1.pptx" }}), but you're allowed to use any software you want.
+
+
 ## P2 template
 
 The document for P2 is a research proposal that must contain all the elements listed in the template available in the [graduation manual]({{ "/rules/" | prepend: site.baseurl }}) (Appendix 2).
@@ -13,8 +25,8 @@ You are free to write your project plan with the word processor of your choice (
 You can use that [simple LaTeX template](https://gist.github.com/hugoledoux/9620758fd54acea78624) as starting point.
 
 
-We expect a project plan to be around 10-15 pages.
-It should show that you clearly know the problem you will aim at solving, and that you master the related work.
+We expect a project plan to be around 10-15 pages (maximum).
+It should show that you clearly know the problem you plan to solve, and that you master the related work.
 We expect you to present the methodology you will use to solve your scientific problem(s), and to present preliminary results.
 Also, this is a scientific proposal, so references are mandatory (even if there is no specific section in the template).
 
