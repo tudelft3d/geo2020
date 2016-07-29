@@ -93,6 +93,8 @@ If you use Word, [Endnote](http://endnote.com) is the obvious choice.
 Avoid raster figures, they are huge, do not scale well and do not look nice.
 Besides the obvious Adobe Illustrator, we recommend [IPE](http://ipe.otfried.org) and [Inkscape](https://inkscape.org/) (both free and cross-platform).
 
+To make diagrams (eg UML, or workflows), [draw.io](https://www.draw.io) is perfect.
+
 - - - 
 
 #### What you learned in a past writing course might not be best for a scientific thesis

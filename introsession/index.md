@@ -6,15 +6,22 @@ permalink: /introsession/
 
 The next introduction session is 
 
-_When_: Wednesday 10 February 2016, 9:00--10:30
+_When_: Friday 9 September 2016, 9:00--11:30
 
-_Where_: BK.00.West.350
+_Where_: BK room U
 
 I'll give an overview of the graduation process, explain how to find a
 topic and a supervisor, what the milestones are, and how to get a high
 final mark (!).
 
+And different staff of the Geomatics program will come and present their topics.
+We maintain a [list of potential topics]({{ "/potentialtopics/" | prepend: site.baseurl }}).
+
+
+- - -
+
+Slides from the last session (2016-02-10):
+
 <script async class="speakerdeck-embed" data-id="d2cf8d85a18d492fafde5522a2edfeeb" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 
-<script async class="speakerdeck-embed" data-id="f5d19e3db5664170927e6230e0d0e575" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 
