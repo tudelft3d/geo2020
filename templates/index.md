@@ -30,7 +30,7 @@ It should show that you clearly know the problem you plan to solve, and that you
 We expect you to present the methodology you will use to solve your scientific problem(s), and to present preliminary results.
 Also, this is a scientific proposal, so references are mandatory (even if there is no specific section in the template).
 
-As an example, here's a [good project plan from last year]({{ "/pdfs/example_gradplan_mulder.pdf" | prepend: site.baseurl }}).
+As an example, here's a [good project plan from a previous year]({{ "/pdfs/example_gradplan_mulder.pdf" | prepend: site.baseurl }}).
 It contains:
 
   - an introduction in which the relevance of the project and its place in the context of geomatics is described, along with a clearly-defined problem statement;
@@ -49,10 +49,15 @@ It contains:
 
 Officially, there is no template.
 However, we have made a [LaTeX template](https://github.com/tudelftgeomatics/thesis_template) containing all the parts that are required (eg title page, copyright, abstract, acknowledgements, table of contents, list of figures, appendices, etc.) and is structured in such a way that most/all supervisors expect.
-It looks like [this](https://github.com/tudelftgeomatics/thesis_template/raw/master/thesis.pdf).
+It looks like this:
+
+[![](thesislatex.png)](https://github.com/tudelftgeomatics/thesis_template/raw/master/thesis.pdf)
+
+Download the [full LaTeX source in one ZIP](https://github.com/tudelftgeomatics/thesis_template/archive/master.zip).
+
 *It is not an official template and it is not mandatory to use it.*
 
-Notice that the TU Delft has a [generic template for report](https://intranet.tudelft.nl/fileadmin/Files/medewerkersportal/mc/huisstijl/Downloads/latex_newreport.zip), but it's rather buggy and must be modified for an MSc thesis.
+Notice that the TU Delft has a [generic LaTeX template for report](https://intranet.tudelft.nl/fileadmin/Files/medewerkersportal/mc/huisstijl/Downloads/latex_newreport.zip), but it's rather buggy and must be modified for an MSc thesis.
 
 You are of course allowed to use Word (or others), if you want.
 
