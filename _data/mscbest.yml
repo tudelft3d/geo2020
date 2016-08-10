@@ -2,28 +2,28 @@
 - surname: Fichtner
   name: Florian
   title: Semantic enrichment of a point cloud based on an octree for multi-storey pathfinding
-  link: http://repository.tudelft.nl/islandora/object/uuid:b4c13508-dbcc-4a32-a7b7-9cb22230e0a7/
+  link: http://resolver.tudelft.nl/uuid:b4c13508-dbcc-4a32-a7b7-9cb22230e0a7/
   image: florian.jpg
   year: 2016
 
 - surname: Onrust
   name: Benny
   title: Automatic generation of plant distributions for existing and future natural environments using spatial data
-  link: http://repository.tudelft.nl/islandora/object/uuid:3A35f4cc9b-0cb8-4030-b1ae-ad2be146636f/
+  link: http://resolver.tudelft.nl/uuid:3A35f4cc9b-0cb8-4030-b1ae-ad2be146636f/
   image: benny.png
   year: 2015
 
 - surname: de Liefde
   name: Ivo
   title: Exploring the use of the semantic web for discovering, retrieving and processing data from sensor observation services
-  link: http://repository.tudelft.nl/islandora/object/uuid:44d66025-3e51-4d32-81aa-e093f0aca833
+  link: http://resolver.tudelft.nl/uuid:44d66025-3e51-4d32-81aa-e093f0aca833
   image: ivo.png
   year: 2016
 
 - surname: Boeters
   name: Roeland 
   title: Automatic enhancement of CityGML LoD2 models with interiors and its usability for net internal area determination
-  link: http://repository.tudelft.nl/islandora/object/uuid:b22a2b93-4a0a-4aa7-8e3b-6e08e0027634
+  link: http://resolver.tudelft.nl/uuid:b22a2b93-4a0a-4aa7-8e3b-6e08e0027634
   image: roeland.jpg
   github: https://github.com/tudelft3d/lod2plus
   year: 2013
@@ -31,13 +31,13 @@
 - surname: Peters
   name: Ravi 
   title: A Voronoi- and surface-based approach for the automatic generation of depth-contours for hydrographic charts
-  link: http://repository.tudelft.nl/islandora/object/uuid:3A5977a99b-0875-44b4-abe1-09288bf2aed1/
+  link: http://resolver.tudelft.nl/uuid:3A5977a99b-0875-44b4-abe1-09288bf2aed1/
   image: ravi.png
   year: 2012
 
 - surname: Biljecki
   name: Filip 
   title: Automatic segmentation and classification of movement trajectories for transportation modes
-  link: http://repository.tudelft.nl/islandora/object/uuid:3A654587d2-6e93-4619-ab9a-29d95f843f35/
+  link: http://resolver.tudelft.nl/uuid:3A654587d2-6e93-4619-ab9a-29d95f843f35/
   image: filip.png
   year: 2010
