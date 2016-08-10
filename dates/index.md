@@ -17,6 +17,6 @@ permalink: /dates/
 
 - - -
 
-(these are taken from the [BK academic graduation calendar 2016-2017](http://studenten.tudelft.nl/fileadmin/Files/studentenportal/os/BKspecifiek/Jaarkalender_2016-2017_def_afstuderen.pdf))
+These are taken from the [BK academic graduation calendar 2016-2017](http://studenten.tudelft.nl/fileadmin/Files/studentenportal/os/BKspecifiek/Jaarkalender_2016-2017_def_afstuderen.pdf).
 
-[BK academic graduation calendar 2015-2016](http://studenten.tudelft.nl/fileadmin/Files/studentenportal/os/BKspecifiek/Afstudeerkalender_2015-2016.pdf) is needed
+(the [BK academic graduation calendar 2015-2016](http://studenten.tudelft.nl/fileadmin/Files/studentenportal/os/BKspecifiek/Afstudeerkalender_2015-2016.pdf) is still perhaps useful)
