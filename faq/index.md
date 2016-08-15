@@ -23,7 +23,7 @@ There is no grade attached to it, it's either a pass or a fail (a retake is poss
 #### Which Graduation Manual apply to me?
 
 The [Graduation Manual]({{ "/rules/" | prepend: site.baseurl }}) , and thus the rules, change almost every year.
-The differences are small but can be significant (eg submitting a reflection at P4 instead of only P5).
+The differences are usually small some are significant (eg submitting a reflection at P4 instead of only P5).
 
 You have to follow the rules of the year you started your graducation work.
 Even if it takes you 2 years to complete, the rules that applied when you started are the rules that apply during your whole graduation process.
@@ -85,25 +85,34 @@ To ensure that all theses from the MSc Geomatics can be easily found and that th
 
 Yes. As long as you make it crystal clear that this is *not* your own figure and that you put a clear reference in the caption.
 Notice that if all your figures are taken from other sources, that gives the impression that you didn't develop your own solution.
+Even if you redraw one figure from another paper, it is polite and good practice to cite the original source.
 
 ![](img/citefig.png)
 
 
 - - -
 
+#### Can I site websites?
+
+Yes. If you want to reference to a piece of software or an article in a newspaper then citing the source with the URL is perfectly fine (add the date that it was last visited).
+Notice that it is however better to cite scientific articles and books since these have generally been peer-reviewed, and thus *should* be of higher quality and not contain errors. 
+This is of course not always the case, but as general rule it's better to cite articles first, and if there is no other sources than a website is okay.
+
+- - -
+
 #### Am I allowed to "reuse" the work of others? When does it become plagiarism?
 
 Complex question to answer here.
-First, read the [TU Delft position about fraud and plagiarism](http://studenten.tudelft.nl/en/students/legal-position/fraud-plagiarism/what-is-fraud/), and if in doubt speak to your daily supervisor and graduation professor.
+First, read the [TU Delft position about fraud and plagiarism](http://studenten.tudelft.nl/en/students/legal-position/fraud-plagiarism/what-is-fraud/), and if in doubt speak to your daily supervisor.
 
-There are [serious consequences](http://studenten.tudelft.nl/en/students/legal-position/fraud-plagiarism/consequences/) if you are caught. 
+There are [serious consequences](http://studenten.tudelft.nl/en/students/legal-position/fraud-plagiarism/consequences/) if you are caught using the work of others.
 
 
 - - -
 
 #### Who is the audience of my thesis?
 
-In other words, who do I have to write for?
+In other words, who do I have to write my thesis for?
 
 You should write so that your fellow students can understand your thesis: they have the same background as you have, but haven't specialised in exactly the same area.
 So you don't need to explain at length what a GIS is, but all the more advanced methods techniques you used and developed during your graduation project should be described.
@@ -150,4 +159,3 @@ No, it must be in English. And your presentations (P1, P2, P3, P4 and P5) must a
 
 <!-- ### how about the scope of related work? -->
 
-<!-- ### aim to cite papers, not websites -->
