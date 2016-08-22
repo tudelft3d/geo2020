@@ -12,6 +12,25 @@ permalink: /potentialtopics/urbanism/
 
 - - -
 
+#### Waste as a Resource - Urban Metabolism
+
+The department of Urbanism was recently granted the Horizon 2020 research Project REPAiR – Resource Management in Peri-urban Areas: Going Beyond Urban Metabolism- We attempt to connect our research closer to our teaching activities, therefore students who follow a thesis project in relation to REPAiR will have the chance to work together with a team of researchers from several European countries and may take part in international workshops. The research is also related to the AMS.
+
+A shift towards a more circular economy is crucial in order to achieve more sustainable and inclusive growth. The core objective of REPAiR is to provide local and regional authorities with an innovative transdisciplinary open source geodesign decision support environment (GDSE) developed and implemented in living labs in six metropolitan areas. The GDSE allows creating integrated, place-based eco-innovative spatial development strategies aiming at a quantitative reduction of waste flows in the strategic interface of peri-urban areas. These strategies will promote the use of waste as a resource, thus support the on-going initiatives of the European Commission towards establishing a strong circular economy. The identification of such eco-innovative strategies will be based as much as possible on the integration of life cycle thinking and geodesign in order to operationalise urban metabolism (UM). Our approach differs from previous UM as we introduce a reversed material flow accounting (MFA) in order to collect data accurate and detailed enough to allow for the design of a variety of solutions to place-based challenges. The developed impact and decision models allow quantification and validation of alternative solution paths and therefore promote sustainable urban development built upon near-field synergies between the built and natural environments. This will be achieved by quantifying and tracking essential resource flows, mapping and quantification of negative and positive effects of present and future resource flows, and the determination of a set of indicators to inform decision makers concerning the optimization of (re-)use of resources. The GDSE will be made available on an open source platform. With a budget of 5.0 million euro, REPAiR funds a consortium rich in experience in waste and resource management, spatial decision support, territorial governance, spatial planning and urban design, and has deep knowledge of the six case study areas.
+
+Thesis topics can deal with different aspects of REPAiR like:
+
+  -  Modelling environmental impact of resource flows;
+  -  (Revers-) material flow accounting
+  -  Aspects of Geodesign in relation to decision making
+  -  Flow tracking and visualisation
+  -  And many more
+
+For the detailed description of the complete research project see [here](https://drive.google.com/file/d/0B2CAnntPrD6AYm9rdjVBZmRGcHc/view?usp=sharing).
+
+
+*Contact:* [Alexander Wandl](mailto:a.wandl@tudelft.nl)
+
 #### 3D Indoor space analysis for wayfinding  
 
 In the absence of analytic tools, buildings are usually designed and only analysed in case there are spatial problems; however, with the ever-increasing computation power and the emergence of new computational methods, it is practical to bring analysis to the beginning of design processes and therefore contribute to achieving better spatial qualities. The importance of such analyses is more apparent in public buildings such as transportation hubs, hospitals but in fact can be researched in almost every building. Whether dealing with existing or designed buildings, 3D spatial analyses help in simulating usage of spaces and checking spatial qualities against standards, for instance regarding ease of way finding e.g. for visitors and also in case of emergency evacuations. 
@@ -22,17 +41,19 @@ The spatial configuration of indoor space directly affects many functional aspec
 
 - - - 
 
-#### Urban Heat Island Effect
 
-The Urban Heat Island (UHI) has grown into one of the most prominent issues of the climate change related challenges society faces. The term Urban Heat Island refers to the temperature difference between an urban area and it's natural or rural surroundings. This heating up of cities has effects on human health, wellbeeing but also on the energy use and biodiversity. How much acity heats up is heavily related how we construct our city, more impervious area and less green ares for example are often related to higher temperatures. Most of the recent research used either remot sensing or outdoor temperature measurements to assess the sizeand effects of the UHI. This summer 3.000 thermometers were distributed in houses and streets in Rotterdam. Which will allow to put the UHI research on a new level. Students will be working in close relation to the research team.
+The Urban Heat Island (UHI) has grown into one of the most prominent issues of the climate change related challenges society faces. The term Urban Heat Island refers to the temperature difference between an urban area and it’s natural or rural surroundings. This heating up of cities has effects on human health, well-being but also on the energy use and biodiversity. How much a city heats up is heavily related to how we construct our cities, more impervious areas and less green areas for example are often related to higher temperatures. Most of the recent research used remote sensing to investigate the UHI. The ubiquity of private sensors, allows though to understand the UHI in relation to the air –temperature better. 
+This summer we distribute in cooperation with the municipality of The Hague 100 netatmo weather stations ([link](https://www.netatmo.com/en-GB/weathermap)) in order to develop a citizen network to measure the UHI in a way that covers the whole city. For details on the project see [here](https://hitte.weblog.tudelft.nl/).
+The research project Haagse Hitte allows us to monitor temperatures across the whole city and over a period of several years and that every 10 minutes.
+The objective of this assignment is to investigate the relation between the built environment and the urban heat island effect in the city of The Hague. (Other cities are welcome too, if the sensor coverage is sufficient). The challenge lies in dealing with data from a variety of sources, remote sensing, municipality GIS as well as sensors and develop meaningful ways to inform decision makers in the field of urban planning and design but also health and climate adaptations. Thesis topics can deal with different aspects of this challenge like:
 
+  - data management, handling and modelling: How to model and visualise the temperature for the whole city based on big data.
 
-The objective of this assignment is to investigate the relation between the built environment and the urban heat island effect in the city of Rotterdam ([www.hotterdam.eu](www.hotterdam.eu)). The challenge lies in dealing with data from a variety of sources, remote sensing, municipality GIS as well as sensors and develop meaningful ways to inform decision makers in the field of urban planning and design but also health and climate adaptations.
-Thesis topics can deal with different aspects of this challenge like:
-
-  - data management, handling and modelling: How to model and visualise the temperature for the whole city based on data from 3.000 points.
   - spatial analyses and spatial statistics: Investigating the relation of urban form and the temperature in open spaces as well as houses?
+
   - Geodesign: Development of a 3D model that allows to assess different urban design proposals according to their influence on the urban heat island.
+
+  - Where to place additional sensor in order to improve future monitoring. 
 
 *Contact:* [Alexander Wandl](mailto:a.wandl@tudelft.nl) or [Franklin van der Hoeven](mailto:F.D.vanderHoeven@tudelft.nl)
 
