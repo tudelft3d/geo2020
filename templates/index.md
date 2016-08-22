@@ -37,7 +37,7 @@ It contains:
 
   - an introduction in which the relevance of the project and its place in the context of geomatics is described, along with a clearly-defined problem statement;
   - a related work section in which the relevant literature is presented and linked to the project;
-  - the research objectives and/or research questions are clearly defined, along with the scope (ie what you will *not* be doing);
+  - the research questions are clearly defined, along with the scope (ie what you will *not* be doing);
   - overview of the methodology to be used;
   - time planning---having a [Gantt chart](https://en.wikipedia.org/wiki/Gantt_chart) is probably a better idea then just a list;
   - since specific data and tools have to be used, it's good to present these concretely, so that the mentors know that you have a grasp of all aspects of the project;
