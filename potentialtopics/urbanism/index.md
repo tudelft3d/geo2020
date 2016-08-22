@@ -28,8 +28,9 @@ Thesis topics can deal with different aspects of REPAiR like:
 
 For the detailed description of the complete research project see [here](https://drive.google.com/file/d/0B2CAnntPrD6AYm9rdjVBZmRGcHc/view?usp=sharing).
 
-
 *Contact:* [Alexander Wandl](mailto:a.wandl@tudelft.nl)
+
+- - -
 
 #### 3D Indoor space analysis for wayfinding  
 
