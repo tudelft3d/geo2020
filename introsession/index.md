@@ -6,7 +6,7 @@ permalink: /introsession/
 
 The next introduction session is 
 
-_When_: Friday 9 September 2016, 9:00--11:30
+_When_: Friday 9 September 2016, 9:00--12:00
 
 _Where_: BK room U
 
