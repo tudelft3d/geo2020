@@ -42,6 +42,8 @@ The spatial configuration of indoor space directly affects many functional aspec
 - - - 
 
 
+#### The Urban Heat Island (UHI)
+
 The Urban Heat Island (UHI) has grown into one of the most prominent issues of the climate change related challenges society faces. The term Urban Heat Island refers to the temperature difference between an urban area and it’s natural or rural surroundings. This heating up of cities has effects on human health, well-being but also on the energy use and biodiversity. How much a city heats up is heavily related to how we construct our cities, more impervious areas and less green areas for example are often related to higher temperatures. Most of the recent research used remote sensing to investigate the UHI. The ubiquity of private sensors, allows though to understand the UHI in relation to the air –temperature better. 
 This summer we distribute in cooperation with the municipality of The Hague 100 netatmo weather stations ([link](https://www.netatmo.com/en-GB/weathermap)) in order to develop a citizen network to measure the UHI in a way that covers the whole city. For details on the project see [here](https://hitte.weblog.tudelft.nl/).
 The research project Haagse Hitte allows us to monitor temperatures across the whole city and over a period of several years and that every 10 minutes.
