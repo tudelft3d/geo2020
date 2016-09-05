@@ -1,8 +1,9 @@
-vi in---
+---
 layout: page
 title: Geonovum topics
 permalink: /potentialtopics/geonovum/
 ---
+
 [Geonovum](http://www.geonovum.nl/) is an organization that aims at improving the
 accessibility of spatial data at the Dutch government. If you are interested one
 of the topics on the Geonovum website (sorry, in Dutch) you can always contact
