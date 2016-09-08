@@ -23,7 +23,7 @@ There is no grade attached to it, it's either a pass or a fail (a retake is poss
 #### Which Graduation Manual apply to me?
 
 The [Graduation Manual]({{ "/rules/" | prepend: site.baseurl }}) , and thus the rules, change almost every year.
-The differences are usually small some are significant (eg submitting a reflection at P4 instead of only P5).
+The differences are usually small, but some are significant (eg submitting a reflection, role of co-reader, etc).
 
 You have to follow the rules of the year you started your graducation work.
 Even if it takes you 2 years to complete, the rules that applied when you started are the rules that apply during your whole graduation process.
@@ -140,7 +140,7 @@ Geomatics is not in the list, but the average is clearly under 100, and in many 
 
 #### Why do I need to write and submit a reflection?
 
-You can read in the graduation manual that:
+You can read in the graduation manual 2015-2016 that:
 
 > At P4 a draft reflection must be handed in. A final version of the reflection must be included as a distinct part of the thesis (a separate chapter) or as a separate document at the P4.
 
