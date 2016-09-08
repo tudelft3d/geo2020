@@ -16,8 +16,9 @@ Netherlands
 In the Netherlands there is a lot of open (spatial) data. These datasets are 
 are published separately but many use-cases need all these data integrated and
 interlinked:
- -  Find a toponym regardless whether it is a streetname, national park, or the name of a building
- -  Find all relevant and actual information of a building so that the fire brigade knows what to expect when arriving at a fire.
+ 
+  -  Find a toponym regardless whether it is a streetname, national park, or the name of a building
+  -  Find all relevant and actual information of a building so that the fire brigade knows what to expect when arriving at a fire.
 
 In this research you will find a way to interlink various datasets in a semantic
 way so that it can be enriched.
