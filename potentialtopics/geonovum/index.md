@@ -5,10 +5,27 @@ permalink: /potentialtopics/geonovum/
 ---
 
 [Geonovum](http://www.geonovum.nl/) is an organization that aims at improving the
-accessibility of spatial data at the Dutch government. If you are interested one
-of the topics on the Geonovum website (sorry, in Dutch) you can always contact
-them [directly](http://www.geonovum.nl/over-geonovum/wie-wij-zoeken) or contact
-[Wilko Quak](mailto:c.w.quak@tudelft.nl) (TUDelft and Geonovum)
+accessibility of spatial data at the Dutch government. If you are interested in
+any of the topics on the Geonovum website (sorry, in Dutch) you can always
+contact them [directly](http://www.geonovum.nl/over-geonovum/wie-wij-zoeken) or
+contact [Wilko Quak](mailto:c.w.quak@tudelft.nl) (TUDelft and Geonovum)
+
+#### A searchable semantic repository of all open spatial data in the
+Netherlands
+
+In the Netherlands there is a lot of open (spatial) data. These datasets are 
+are published separately but many use-cases need all these data integrated and
+interlinked:
+* Find a toponym regardless whether it is a streetname, national park, or the
+  name of a building
+* Find all relevant and actual information of a building so that the fire
+  brigade knows what to expect when arriving at a fire.
+
+In this research you will find a way to interlink various datasets in a semantic
+way so that it can be enriched.
+
+
+Contact Person: Jeroen Baltussen
 
 
 #### Linking Big data and the sensor web
@@ -20,6 +37,8 @@ within the [Platform Making Sense for Society](http://www.geonovum.nl/onderwerpe
 
 This research topic is inspired by the article of Chrisa Tsinaraki and Sven
 Schade: [Big Data - a step change for SDI?](http://ijsdir.jrc.ec.europa.eu/index.php/ijsdir/article/view/408)
+
+Contact Person: Michel Grothe
 
 
 #### Interactive development of specifications (in Dutch)
@@ -36,4 +55,6 @@ Arnoud de Boer, Arjan Loeffen en/of Edward Mac Gillavry kan ondersteunen. Deze
 omgeving gaan we dan per 1 april gebruiken voor het definiëren van de
 specificaties. We willen sowieso als Geonovum meer op deze manier gaan
 ontwikkelen. 
+
+Contact Person: Marcel Reuvers
 
