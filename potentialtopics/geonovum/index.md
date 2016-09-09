@@ -10,8 +10,7 @@ any of the topics on the Geonovum website (sorry, in Dutch) you can always
 contact them [directly](http://www.geonovum.nl/over-geonovum/wie-wij-zoeken) or
 contact [Wilko Quak](mailto:c.w.quak@tudelft.nl) (TUDelft and Geonovum)
 
-#### A searchable semantic repository of all open spatial data in the
-Netherlands
+#### A searchable semantic repository of all open spatial data in the Netherlands
 
 In the Netherlands there is a lot of open (spatial) data. These datasets are 
 are published separately but many use-cases need all these data integrated and
