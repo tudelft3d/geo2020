@@ -11,6 +11,8 @@ The chosen topic must be *related to Geomatics*, ie even if you find one area of
 
 #### Research topics from the groups at BK
 
+<i class="fa fa-exclamation-circle" aria-hidden="true"></i><a href="kolbe/MScTopics_2016_Proposals_from_Kolbe.pdf"> Topics supervised by Thomas Kolbe and one staff from Geomatics</a>
+
 <a href="https://3d.bk.tudelft.nl/education/msctopics/"><i class="fa fa-external-link"></i> 3D geoinformation group topics</a>
 
 <a href="http://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics"><i class="fa fa-external-link"></i> OTB GISt group topics</a>
@@ -19,7 +21,7 @@ The chosen topic must be *related to Geomatics*, ie even if you find one area of
 
 <a href="{{ "urbanism/" }}"><i class="fa fa-external-link"></i> Urbanism</a>
 
-
+ 
 #### Topics from companies/organisations
 
 It is possible to carry out your graduation thesis work in cooperation with a company/organisation.
