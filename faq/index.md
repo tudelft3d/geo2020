@@ -92,7 +92,7 @@ Even if you redraw one figure from another paper, it is polite and good practice
 
 - - -
 
-#### Can I site websites?
+#### Can I cite websites?
 
 Yes. If you want to reference to a piece of software or an article in a newspaper then citing the source with the URL is perfectly fine (add the date that it was last visited).
 Notice that it is however better to cite scientific articles and books since these have generally been peer-reviewed, and thus *should* be of higher quality and not contain errors. 
