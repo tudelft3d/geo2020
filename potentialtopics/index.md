@@ -34,6 +34,8 @@ Be warned that some of these topics are not 100% suitable for an MSc thesis in G
 
 <a href="{{ "deltares/" }}"><i class="fa fa-external-link"></i> Deltares</a>
 
+<a href="{{ "rws/" }}"><i class="fa fa-external-link"></i> Rijkswaterstaat (CIV)</a>
+
 <a href="{{ "gemeentedordrecht" }}"><i class="fa fa-external-link"></i> Gemeente Dordrecht</a> 
 
 <a href="{{ "gemeenterotterdam/Stageopdrachten_Basisinformatie.pdf" }}"><i class="fa fa-external-link"></i> Gemeente Rotterdam</a> (only in Dutch, but in the past they were open to having non-Dutch speakers)
