@@ -28,7 +28,9 @@ Slides from the last session (2016-09-23):
 
 The slides with topics (more will be added as I receive them):
 
-  - [slides Ledoux](ledoux.pdf)
-  - [slides Diakité](diakite.pdf)
-  - [slides Vancauwenberghe](vancauwenberghe.pdf)
-  - [slides Verbree & Quak](verbree-quak.pdf)
+  - [Ledoux](ledoux.pdf)
+  - [Diakité](diakite.pdf)
+  - [Vancauwenberghe](vancauwenberghe.pdf)
+  - [Verbree & Quak](verbree-quak.pdf)
+  - [Thomas Kolbe](/potentialtopics/kolbe/MScTopics_2016_Proposals_from_Kolbe.pdf)
+
