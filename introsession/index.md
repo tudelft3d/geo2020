@@ -29,5 +29,5 @@ Slides from the last session (2016-09-23):
 The slides with topics (more will be added as I receive them):
 
   - [slides Ledoux](ledoux.pdf)
-  - [slides diakite](diakite.pdf)
-  - [slides vancauwenberghe](vancauwenberghe.pdf)
+  - [slides Diakité](diakite.pdf)
+  - [slides Vancauwenberghe](vancauwenberghe.pdf)
