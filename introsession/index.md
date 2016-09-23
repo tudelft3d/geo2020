@@ -31,3 +31,4 @@ The slides with topics (more will be added as I receive them):
   - [slides Ledoux](ledoux.pdf)
   - [slides Diakité](diakite.pdf)
   - [slides Vancauwenberghe](vancauwenberghe.pdf)
+  - [slides Verbree & Quak](verbree-quak.pdf)
