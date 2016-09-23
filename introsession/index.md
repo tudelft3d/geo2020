@@ -20,8 +20,14 @@ We maintain a [list of potential topics]({{ "/potentialtopics/" | prepend: site.
 
 - - -
 
-Slides from the last session (2016-02-10):
+Slides from the last session (2016-09-23):
 
-<script async class="speakerdeck-embed" data-id="d2cf8d85a18d492fafde5522a2edfeeb" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+<script async class="speakerdeck-embed" data-id="7531eb84678742e39629cd27173790c2" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 
+- - -
 
+The slides with topics (more will be added as I receive them):
+
+  - [slides Ledoux](ledoux.pdf)
+  - [slides diakite](diakite.pdf)
+  - [slides vancauwenberghe](vancauwenberghe.pdf)
