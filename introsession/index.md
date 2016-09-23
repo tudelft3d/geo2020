@@ -29,6 +29,7 @@ Slides from the last session (2016-09-23):
 The slides with topics (more will be added as I receive them):
 
   - [Ledoux](ledoux.pdf)
+  - [Šileryté](sileryte.pdf)
   - [Diakité](diakite.pdf)
   - [Vancauwenberghe](vancauwenberghe.pdf)
   - [Verbree & Quak](verbree-quak.pdf)
