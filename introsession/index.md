@@ -32,5 +32,5 @@ The slides with topics (more will be added as I receive them):
   - [Diakité](diakite.pdf)
   - [Vancauwenberghe](vancauwenberghe.pdf)
   - [Verbree & Quak](verbree-quak.pdf)
-  - [Thomas Kolbe](/potentialtopics/kolbe/MScTopics_2016_Proposals_from_Kolbe.pdf)
+  - [Thomas Kolbe]({{ "/potentialtopics/kolbe/MScTopics_2016_Proposals_from_Kolbe.pdf" | prepend: site.baseurl }})
 
