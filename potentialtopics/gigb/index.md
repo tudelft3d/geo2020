@@ -57,3 +57,35 @@ The users in first and second generation SDIs are well known and their involveme
 The third generation SDI builds on both public, private and volunteered data. The inclusion of the latter in the NSDI is increasing. For example, the Dutch National Mapping Agency cooperates with OSM and incorporates OSM maps in the key register topography. Ultimately, we may move to a situation where government solely relies on the activities and data of volunteers. This may raise questions about the ownership of the data and the control over the content of the data. Through a comparative analysis with other co-creation initiatives, this research aims at answering the research question should and if so how may government maintain control over SDI framework data.
 
 *Contact:* [Bastiaan van Loenen](http://www.bastiaanvanloenen.nl) 
+
+- - -
+
+#### Alignment of geo-information policies
+
+Geo-information is relevant to many policies of governments, and these policies and related policy instruments determine how public administrations are dealing with the collection, use, management and exchange of spatial data and information. Due to a lack of policy coherence, there often are contradictions, inconsistencies and gaps between different policies dealing with geographic information, which hinders the effective use of this information. The aim of this research is to develop a policy alignment approach that could support public administrations in realizing alignment between different policies dealing with  geo-information.
+
+*Contact:* [Bastiaan van Loenen](http://www.bastiaanvanloenen.nl) 
+
+- - -
+
+#### Assessment of conditions for access and use of spatial data in Europe
+
+One of the key criteria of a good data policy is that clear, complete and user-friendly information is provided to data users and potential users on how they can obtain access to data and services and under which conditions and charges they can do so. In many cases this information is included - or should be included - in the metadata of spatial data sets and services. Analyzing the metadata records of spatial data sets and services in the European geoportal, this research aims to explore to what extent the conditions for access and use of spatial data in Europe as defined by different data providers are complete, understandable and harmonized.
+
+*Contact:* [Bastiaan van Loenen](http://www.bastiaanvanloenen.nl) 
+ 
+- - - 
+
+#### Global SDI Assessment Framework
+
+While quite a lot of research is done and empirical information is available on the development of SDIs in European countries, studies in which the development of these European national spatial data infrastructures is compared with SDI developments in other parts of the world are relatively scarce. The aim of this research is to develop a framework that allows to analyse SDI developments in several parts of the world, and to apply this framework on several countries in different regions of the world. The research should contribute to a better understanding on how countries and public administrations in different regions are working on the development of spatial data infrastructures, the particular problems they have to deal with, and the way they are developing and implementing different SDI components. 
+
+*Contact:* [Bastiaan van Loenen](http://www.bastiaanvanloenen.nl) 
+
+ - - - 
+
+#### Governance of open spatial data 
+
+Public administrations in Europe and worldwide are aware of the need to promote, facilitate and coordinate the sharing of spatial data and have been working on the development of open spatial data infrastructures for many years. Most countries and public administrations however approach and implement their - open - SDI in their own unique way. This especially applies to the governance instruments being utilized for managing the relationships and dependencies between all involved actors, units and organizations. Due to the lack of research on the governance of open spatial data infrastructures, it still remains difficult to understand the impact of implemented governance instruments and governance models on the performance of the infrastructure. As a result, practitioners and policy makers remain uninformed and uncertain about the success and appropriateness of their governance model, and of their open spatial data infrastructure in general. The central research questions this research aims to answer are: 1) which governance instruments are adopted for governing open spatial data infrastructures in Europe and 2) what is the impact of different governance instruments and models on the performance of open spatial data policies?
+
+*Contact:* [Bastiaan van Loenen](http://www.bastiaanvanloenen.nl) 
