@@ -5,6 +5,10 @@ permalink: /potentialtopics/deltares/
 ---
 
 
+#### Near-real time satellite data for water related applications
+
+[PDF](DELTARES_EUMETCAST_MScProject_vacancy.pdf)
+
 #### CIPRNet geo DSS
 
 In the framework of the European project [CIPRnet](https://publicwiki.deltares.nl/display/OET/Data), a platform for a DSS (Decision Supporting System) has to be tested and further developed to manage geospatial information. The geo DSS tool will have to perform analyses in order to predict the impact of extreme events on a [network of Critical Infrastructures](https://www.ciprnet.eu) (CI) disseminated in the EU area, for instance the effect of flooding on electricity cables. The DSS relies on different data sources which contain maps and geo-referenced features, observations and model results. The DSS will be based on [geoSDI](http://www.geosdi.org), a webGIS platform for emergency situations (e.g. landslides, earth quakes) developed for the Italian Ministry of Civil Protection. In case of internet interruption, the geoDSS system will have to guarantee a sufficient level of operability of critical information. For that reason, a smart mechanism has to be devised to ensure up-to-date caches of data within each institute. 
