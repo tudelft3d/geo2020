@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "P2 registration: you have nothing to do"
+title:  "P2 registration: you don't need to do anything"
 author: Hugo Ledoux
 date:   2016-11-16 17:43
 ---
