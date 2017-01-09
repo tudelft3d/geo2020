@@ -6,6 +6,7 @@ permalink: /rules/
 
 ## The official material
 
+  - [Official Graduation Manual 2016-2017](http://studenten.tudelft.nl/fileadmin/Files/studentenportal/os/BKspecifiek/Graduation_Manual_Geomatics_2016-2017.pdf)
   - [Official Graduation Manual 2015-2016](http://studenten.tudelft.nl/fileadmin/Files/studentenportal/os/BKspecifiek/Graduation_Manual_Geomatics_2015-2016.pdf)
   - [Official Graduation Manual 2014-2015]({{ "/pdfs/Graduation Manual Geomatics 2014-2015.pdf" | prepend: site.baseurl }}) 
   - [Forms to register for P2/P4](http://studenten.tudelft.nl/en/students/faculty-specific/architecture/forms/) (there is no forms for P5, your mentor does that for you after a successful P4).
