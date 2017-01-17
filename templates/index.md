@@ -24,7 +24,7 @@ The document for P2 is a research proposal that must contain all the elements li
 *Ignore* any template you get from the central BK system if different, they send these emails without realising that Geomatics doesn't have the same criteria.
 
 You are free to write your project plan with the word processor of your choice (including LaTeX), as long as all the asked parts are present.
-You can use that [simple LaTeX template](https://gist.github.com/hugoledoux/9620758fd54acea78624) as starting point.
+You can use that [simple LaTeX template](https://gist.github.com/hugoledoux/d16d5a4d397858ac745e38f9e8561657) as starting point.
 
 
 We expect a project plan to be around 10-15 pages (maximum).
