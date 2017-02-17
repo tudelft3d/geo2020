@@ -70,6 +70,14 @@ You can also propose yours if you have a contact.
 
 - - -
 
+#### Is the graduation project an internship?
+
+No. 
+And you shouldn't use the graduation project to gain experience in a company, this is just not the goal. 
+If you want to gain experience in a company then find a summer job in one, this is the best.
+
+- - -
+
 #### I've just passed my P5, am I done?
 
 No, you need to do one last thing to get your diploma: upload your final thesis (in PDF) and your final presentation slides (in PDF) to the [TU Delft repository](http://repository.tudelft.nl/submit/thesis/).
