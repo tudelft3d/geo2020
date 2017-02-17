@@ -109,6 +109,8 @@ Piece of advise from [Peter McMahon](http://web.stanford.edu/~pmcmahon/ThesisWri
 
 [Hengl, T, Gould, M (2006). *The unofficial guide for authors (or how to produce research articles worth citing)*. EUR 22191 EN, 54 pp. Office for Official Publications of the European Communities, Luxemburg. ISBN: 92-79-01703-9]({{ "/pdfs/HenglGould06.pdf" | prepend: site.baseurl }})
 
+![](toread.png)
+
 (skip Sections 1.1.3, 1.1.4 and 1.2.x)
 
 This is a nice overview full of tips about writing a research paper.
