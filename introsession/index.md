@@ -4,7 +4,7 @@ title: Introduction session
 permalink: /introsession/
 ---
 
-The next introduction session is 
+<!-- The next introduction session is 
 
 _When_: Friday 9 September 2016, 9:00--12:00
 
@@ -16,7 +16,11 @@ final mark (!).
 
 And different staff of the Geomatics program will come and present their topics.
 We maintain a [list of potential topics]({{ "/potentialtopics/" | prepend: site.baseurl }}).
+ -->
 
+Slides from the last session (2017-02-17):
+
+<script async class="speakerdeck-embed" data-id="596331a066f34c619905b2af229d21d9" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 
 - - -
 
