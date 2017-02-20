@@ -12,7 +12,7 @@ At P1, you need to introduce your topics to everyone in 5min, and *only 5 slides
 1. Title, name + mentors
 1. What problem will be solved? Or motivation
 1. Related work: what has been done by others?
-1. Main research questions
+1. Main research questions ([help PDF](http://twp.duke.edu/uploads/media_items/research-questions.original.pdf))
 1. Your methodology: how do you plan on solving this problem?
 
 If you want, use this [PPT template]({{ "p1.pptx" }}), but you're allowed to use any software you want.
@@ -37,7 +37,7 @@ It contains:
 
   - an introduction in which the relevance of the project and its place in the context of geomatics is described, along with a clearly-defined problem statement;
   - a related work section in which the relevant literature is presented and linked to the project;
-  - the research questions are clearly defined, along with the scope (ie what you will *not* be doing);
+  - the research questions are clearly defined, along with the scope (ie what you will *not* be doing); to help you define a "good" research question, read [this document](http://twp.duke.edu/uploads/media_items/research-questions.original.pdf)
   - overview of the methodology to be used;
   - time planning---having a [Gantt chart](https://en.wikipedia.org/wiki/Gantt_chart) is probably a better idea then just a list;
   - since specific data and tools have to be used, it's good to present these concretely, so that the mentors know that you have a grasp of all aspects of the project;
