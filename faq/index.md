@@ -56,28 +56,6 @@ But we provide a [LaTeX one]({{ "/templates/" | prepend: site.baseurl }}) to hel
 
 - - -
 
-#### Can I do my thesis work at a company?
-
-Yes and no. That is, you are allowed to pick a topic that is/was proposed by a company.
-However, the main mentor of the project has to be a staff of the university and the project has to be a scientific one.
-
-Working in collaboration with a company has many advantages (you get to know them, they get to know you) but it can also be problematic has more people need to agree on the topic (and finding one that is both scientific and useful for the company can be tricky).
-That being said, in the past several students have done their graduation work in collaboration with a company and it went fine.
-Just keep in mind that the topic you choose to tackle has to have a clear scientific objective, just like other topics done at the university.
-
-In the [potential topics]({{ "/potentialtopics/" | prepend: site.baseurl }}) we propose, there are a few where a company (or a public administration department) is involved.
-You can also propose yours if you have a contact.
-
-- - -
-
-#### Is the graduation project an internship?
-
-No. 
-And you shouldn't use the graduation project to gain experience in a company, this is just not the goal. 
-If you want to gain experience in a company then find a summer job in one, this is the best.
-
-- - -
-
 #### I've just passed my P5, am I done?
 
 No, you need to do one last thing to get your diploma: upload your final thesis (in PDF) and your final presentation slides (in PDF) to the [TU Delft repository](http://repository.tudelft.nl/submit/thesis/).

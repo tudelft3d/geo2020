@@ -44,6 +44,12 @@
   icon:   fa-graduation-cap
   colour: green 
 
+- url:    /company/
+  text:   graduating with a company
+  icon:   fa-cogs
+  colour: purple 
+
+
 - url:    /coordinator/
   text:   Contact the coordinator
   icon:   fa-send
