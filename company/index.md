@@ -7,6 +7,8 @@ permalink: /company/
 
 ## Graduation projects in collaboration with a company
 
+- - -
+
 #### Can I do my thesis work at a company?
 
 Yes and no. That is, you are allowed to pick a topic that is/was proposed by a company.
