@@ -29,8 +29,7 @@ Thus speak to a staff and ask if they have a good project with a company.
 
 #### Project in a company == signing some paperwork from the TU Delft
 
-If you have a project with a company, you need to sign some paperwork. 
-Contact the Geomatics programme director for this.
+If you have a project with a company, the company, you, and the administration of the faculty need [to fill out and sign a form](http://studenten.tudelft.nl/fileadmin/Files/studentenportal/os/BKspecifiek/Internship_Agreement.pdf).
 
 - - -
 
