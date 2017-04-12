@@ -26,3 +26,12 @@ Even if it takes you 2 years to complete, the rules that applied when you starte
   | P4        | complete draft thesis + 30min presentation |  |
   | P5        | final thesis + 30min presentation |  |
   {: class="striped"}
+
+
+## The rubic for marking the final thesis
+
+The evaluation criteria that will be used by the committee to mark the final thesis, also called a rubric, are available in the Appendix 1 of the Graduation Manual.
+
+However, for P5, we now have a new and (much) improved version that makes it better and clearer. 
+From now one, this is what will be used to mark all graduation theses in Geomatics.
+You can [download it here](Rubric_Geomatics_2017-04-12.xlsx).
