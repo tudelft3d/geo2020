@@ -25,6 +25,8 @@ However, please do not contact directly companies that are not listed here, unle
 The best way to graduate in collaboration with a company is to do it through a staff of Geomatics, she/he often has contacts with industry.
 Thus speak to a staff and ask if they have a good project with a company.
 
+[This document explains the rules and guidelines.](O&S_rules_guidelines_graduating_company.pdf)
+
 - - -
 
 #### Project in a company == signing some paperwork from the TU Delft
