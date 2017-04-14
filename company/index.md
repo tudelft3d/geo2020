@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Graduation projects in collaboration with a company
+title: Graduationg with a company
 permalink: /company/
 ---
 
