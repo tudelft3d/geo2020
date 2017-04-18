@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Graduationg with a company
+title: Graduating with a company
 permalink: /company/
 ---
 
@@ -39,7 +39,7 @@ If you have a project with a company, the company, you, and the administration o
 
 No. 
 And you shouldn't use the graduation project to gain experience in a company, this is just not the goal. 
-If you want to gain experience in a company then there is now a new course called "Intership (5ECTS)", contact the coordinator Theo Tijssen.
+If you want to gain experience in a company then there is now a new course called "Internship (5ECTS)", contact the coordinator Theo Tijssen.
 
 - - - 
 
