@@ -8,7 +8,7 @@ date:   2017-04-25 12:22
 To help you with writing your thesis, there is a small course organised.
 Dirk Dubbeling, a staff at BK who has a lot of experience with editing books/monographs/magazine/etc, is the one who will give the course. 
 
-When: Thuesday 27 June 2017, 10:00-11:30
+When: Thuesday 27 June 2017, 10:30-12:00
 
 Where: BK BG.West.270
 
