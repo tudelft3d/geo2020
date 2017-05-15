@@ -34,4 +34,8 @@ The evaluation criteria that will be used by the committee to mark the final the
 
 However, for P5, we now have a new and (much) improved version that makes it better and clearer. 
 From now one, this is what will be used to mark all graduation theses in Geomatics.
-You can [download it here](Rubric_Geomatics_2017-04-12.xlsx).
+You can download it:
+
+  - [XLSX](Rubric_Geomatics_2017-04-12.xlsx)
+  - [PDF (A4)](Rubric_Geomatics_A4.pdf)
+  - [PDF (A3)](Rubric_Geomatics_A3.pdf)
