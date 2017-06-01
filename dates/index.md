@@ -19,4 +19,6 @@ permalink: /dates/
 
 These are taken from the [BK academic graduation calendar 2016-2017](http://studenten.tudelft.nl/fileadmin/Files/studentenportal/os/BKspecifiek/Jaarkalender_2016-2017_def_afstuderen.pdf).
 
-(the [BK academic graduation calendar 2015-2016](http://studenten.tudelft.nl/fileadmin/Files/studentenportal/os/BKspecifiek/Afstudeerkalender_2015-2016.pdf) is still perhaps useful)
+### 2017-2018
+
+the [BK academic graduation calendar 2017-2018](Jaarkalender_afstuderen_2017-2018.pdf) is available)
