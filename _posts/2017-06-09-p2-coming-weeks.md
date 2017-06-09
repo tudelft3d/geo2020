@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "P2 coming 2 weeks"
+title:  "P2 coming next 2 weeks"
 author: Hugo Ledoux
 date:   2017-06-09 08:23
 ---
@@ -8,6 +8,7 @@ date:   2017-06-09 08:23
 For some of you the P2 is in the next 2 weeks. 
 The timetable should be automatically in your "mytimetable.tudelft.nl" thing, but it seems that--again!--it went wrong. 
 An alternative way is to do this:
+
 ![](https://dl.dropboxusercontent.com/s/okbyni9o11mylad/2017-06-09%20at%2008.21.png)
 
 Please read [graduation manual 2016-2017]({{ site.url }}{{ site.baseurl }}/rules/GraduationManualGeomatics2016-2017F161216.pdf) carefully to know what you need to do.
