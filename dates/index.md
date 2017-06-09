@@ -21,4 +21,4 @@ These are taken from the [BK academic graduation calendar 2016-2017](http://stud
 
 ### 2017-2018
 
-the [BK academic graduation calendar 2017-2018](Jaarkalender_afstuderen_2017-2018.pdf) is available)
+- [BK academic graduation calendar 2017-2018](Jaarkalender_afstuderen_2017-2018.pdf) 
