@@ -26,7 +26,6 @@ The document for P2 is a research proposal that must contain all the elements li
 You are free to write your project plan with the word processor of your choice (including LaTeX), as long as all the asked parts are present.
 You can use that [simple LaTeX template](https://gist.github.com/hugoledoux/d16d5a4d397858ac745e38f9e8561657) as starting point.
 
-
 We expect a project plan to be around 10-15 pages (maximum).
 It should show that you clearly know the problem you plan to solve, and that you master the related work.
 We expect you to present the methodology you will use to solve your scientific problem(s), and to present preliminary results.
@@ -37,7 +36,7 @@ It contains:
 
   - an introduction in which the relevance of the project and its place in the context of geomatics is described, along with a clearly-defined problem statement;
   - a related work section in which the relevant literature is presented and linked to the project;
-  - the research questions are clearly defined, along with the scope (ie what you will *not* be doing); to help you define a "good" research question, read [this document](http://twp.duke.edu/uploads/media_items/research-questions.original.pdf)
+  - the research questions are clearly defined, along with the scope (ie what you will *not* be doing); to help you define a "good" research question, read [this document](https://sites.duke.edu/urgws/files/2014/02/Research-Questions_WS-handout.pdf)
   - overview of the methodology to be used;
   - time planning---having a [Gantt chart](https://en.wikipedia.org/wiki/Gantt_chart) is probably a better idea then just a list;
   - since specific data and tools have to be used, it's good to present these concretely, so that the mentors know that you have a grasp of all aspects of the project;
@@ -59,9 +58,10 @@ Download the [full LaTeX source in one ZIP](https://github.com/tudelftgeomatics/
 
 *It is not an official template and it is not mandatory to use it.*
 
-Notice that the TU Delft has a [generic LaTeX template for report](https://intranet.tudelft.nl/fileadmin/Files/medewerkersportal/mc/huisstijl/Downloads/latex_newreport.zip), but it's rather buggy and must be modified for an MSc thesis.
+Notice that the TU Delft has a [generic LaTeX template for report](https://www.tudelft.nl/en/tu-delft-corporate-design/downloads/), that can also be used, but don't forget to add the parts necessary (table of content, table of figures, appendices, etc.).
 
 You are of course allowed to use Word (or others), if you want.
+But we do not offer a template, altough the TU Delft (kinda) does: [download here](https://d1rkab7tlqy5f1.cloudfront.net/Websections/TU%20Delft%20Huisstijl/BSc-MSc_report_mei_2015.doc)
 
 
 ### What should the thesis contain?
