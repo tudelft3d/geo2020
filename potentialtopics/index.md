@@ -11,7 +11,6 @@ The chosen topic must be *related to Geomatics*, ie even if you find one area of
 
 #### Research topics from the groups at BK
 
-<i class="fa fa-exclamation-circle" aria-hidden="true"></i><a href="kolbe/MScTopics_2016_Proposals_from_Kolbe.pdf"> Topics supervised by Thomas Kolbe and one staff from Geomatics</a>
 
 <a href="https://3d.bk.tudelft.nl/education/msctopics/"><i class="fa fa-external-link"></i> 3D geoinformation group topics</a>
 
