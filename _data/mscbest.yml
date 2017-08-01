@@ -1,4 +1,11 @@
 
+- surname: Psomadaki
+  name: Stella
+  title: Using a Space Filling Curve for the Management of Dynamic Point Cloud Data in a Relational DBMS
+  link: http://resolver.tudelft.nl/uuid:c1e625b0-0a74-48b5-b748-6968e7f83e2b
+  image: stella.jpg
+  year: 2017
+
 - surname: Fichtner
   name: Florian
   title: Semantic enrichment of a point cloud based on an octree for multi-storey pathfinding
