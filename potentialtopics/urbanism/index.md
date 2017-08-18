@@ -12,6 +12,50 @@ permalink: /potentialtopics/urbanism/
 
 - - -
 
+![](Picture1.png)
+
+![](Picture2.png)
+
+#### The Van Leeuwenhoekpark Delft – Sensing, Monitoring, Modelling and Adapting the Urban Micro Climate
+
+On top of the roof of Delft’s new train tunnel a new city park will be realized: the Van Leeuwenhoekpark. The park – about 600 meters long and 40 meters wide, in the centre of the city – is to be innovative, smart and sustainable.
+One of the main requirements for the park is that it will be climate resistant; minimizing heat stress and preventing water problems – in the park itself, but also in its surroundings. To help meet this requirement, a team of researchers from our Faculty was commissioned to advise the selected landscape architect, model the microclimate and its components, and monitor the microclimate before, during and after realization of the park with a network of weather stations. Furthermore interactive information of visitors and citizens of delft is planned.
+
+The climate monitoring serves multiple purpose:
+
+  - measuring the performance of the park,
+  - providing data for the validation of climate simulations and
+  - providing feedback for possible alterations and maintenance when the park is realized, as well as
+  - informing the visitors of the park about the climate conditions;
+
+Possible thesis topics
+Within this project there are a variety of thesis projects are possible like:
+
+  - (a) development and installation of a network of low cost and low maintenance weather stations, including data transmitting, storing and validation;
+  - (b) Developing a framework to validate and improve existing micro climate simulations;
+  - (c) Developing a methodology of the analyses, interpretation and online representation of urban climate data to inform citizen and decision makers.
+
+There is material budget available for thesis under letter a; We are also checking the possibility for (paid) internships in relation with topic a.
+
+Background information
+
+In order to gauge the performance of the park, the current microclimate in the (direct) vicinity of the park needs to be measured.  This year’s thesis project should focus the locations 1 and 2a (Fig 2.).
+
+The weather stations should measure:
+
+  - air temperature
+  - solar radiation
+  - wind speed
+  - wind direction
+  - relative humidity
+ 
+We are encouraging collaborative graduation projects where  different students work together, by separating the tasks, for example along the different sensors.
+
+For further questions please contact: [Alexander Wandl](mailto:a.wandl@tudelft.nl)
+ or [Marjolein Pijpers-van Esch](mailto:M.M.E.Pijpers-vanEsch@tudelft.nl)
+
+- - -
+
 #### Waste as a Resource - Urban Metabolism
 
 The department of Urbanism was recently granted the Horizon 2020 research Project REPAiR – Resource Management in Peri-urban Areas: Going Beyond Urban Metabolism- We attempt to connect our research closer to our teaching activities, therefore students who follow a thesis project in relation to REPAiR will have the chance to work together with a team of researchers from several European countries and may take part in international workshops. The research is also related to the AMS.
