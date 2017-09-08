@@ -10,49 +10,24 @@ any of the topics on the Geonovum website (sorry, in Dutch) you can always
 contact them [directly](http://www.geonovum.nl/over-geonovum/wie-wij-zoeken) or
 contact [Wilko Quak](mailto:c.w.quak@tudelft.nl) (TUDelft and Geonovum)
 
-#### A searchable semantic repository of all open spatial data in the Netherlands
+#### Contribute to the Platform Making Sense for Society
 
-In the Netherlands there is a lot of open (spatial) data. These datasets are 
-are published separately but many use-cases need all these data integrated and
-interlinked:
- 
-  -  Find a toponym regardless whether it is a streetname, national park, or the name of a building
-  -  Find all relevant and actual information of a building so that the fire brigade knows what to expect when arriving at a fire.
+The Platform Making Sens for Society is a Living Lab for gaining knowledge
+about the use of sensors in the public space. It is a  platform where
+companies, knowledge institutes and the government work together to get better
+knowledge of the possibilities that sensors give for our society. 
 
-In this research you will find a way to interlink various datasets in a semantic
-way so that it can be enriched.
+Within the platform experiments are done.  This topic gives you the opportunity
+to bring your knowledge from the synthesis project to society and expand your
+own knowledge.
 
-
-Contact Person: Jeroen Baltussen
+Contact Persons: [Hans Nouwens](mailto:h.nouwens@geonovum.nl) and [Dirk Jan Veneman](mailto:D.Venema@geonovum.nl)
 
 
-#### Linking Big data and the sensor web
+#### Gettint the 3rd dimension of gas pipes from AHN 
 
-Geonovum is experimenting with big-datasets of sensor data. For this it uses
-the FIWARE platform with big data tooling, also geo-big data tooling is
-available. There are many opportunities for doing MsC research with these tools
-within the [Platform Making Sense for Society](http://www.geonovum.nl/onderwerpen/sensor-data-en-smart-cities/algemeen-living-lab-internet-everything)
+Note: This is not really a Geonovum topic but an [Alliander](https://www.alliander.com/en) topic.
 
-This research topic is inspired by the article of Chrisa Tsinaraki and Sven
-Schade: [Big Data - a step change for SDI?](http://ijsdir.jrc.ec.europa.eu/index.php/ijsdir/article/view/408)
+Alliander is maintaining a big part of the gas network in the Netherlands. The 2D location of the network is well known but elevation is not known and this elevation is needed for gas-flow calculations. By combining the 2D map with the 3D point cloud map of the Netherlands a fully 3D map of the gas network could be created.
 
-Contact Person: Michel Grothe
-
-
-#### Interactive development of specifications (in Dutch)
-
-Voor de BRO (Basisregistratie Ondergrond) gaan we de specificaties interactief
-ontwikkelen. Ik wil hiervoor gebruik maken van Mapbox, Cartodb of andere
-applicaties waarmee een UML klassediagram eenvoudig te visualiseren is. Wat ik
-bedoel is door data op te bouwen conform het UML model en dit presenteerbaar te
-maken in een stuk software krijgen de gebruikers een goed beeld van hoe het
-eruit gaat zien. Dit betekent dat ik iemand zoek die verstand heeft van Geo,
-informatie, data en tooling. Dus ook data kan opbouwen en add-ons op software
-kan ontwikkelen. Ik kan een omgeving bieden waar nog geen druk op staat en waar
-Arnoud de Boer, Arjan Loeffen en/of Edward Mac Gillavry kan ondersteunen. Deze
-omgeving gaan we dan per 1 april gebruiken voor het definiëren van de
-specificaties. We willen sowieso als Geonovum meer op deze manier gaan
-ontwikkelen. 
-
-Contact Person: Marcel Reuvers
-
+Contact Person [Jan van Gelder](mailto:J.vanGelder@geonovum.nl) Geonovum and Alliander
