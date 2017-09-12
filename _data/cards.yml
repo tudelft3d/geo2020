@@ -49,7 +49,6 @@
   icon:   fa-cogs
   colour: purple 
 
-
 - url:    /coordinator/
   text:   Contact the coordinator
   icon:   fa-send

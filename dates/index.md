@@ -4,9 +4,11 @@ title: Important dates
 permalink: /dates/
 ---
 
+<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=2&amp;bgcolor=%2333ccff&amp;src=hledouxtud%40gmail.com&amp;color=%232952A3&amp;ctz=Europe%2FAmsterdam" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
 
 | `2017-09-08  (8:45--10:45)`    | [Introduction session]({{ "/introsession/" | prepend: site.baseurl }}) |
-| `2017-11-13  (tentative date)` | P1   |
+| `2017-11-13 + `2017-11-14`     | P1   |
 | `2017-11-17`                   | Final registration dates for P2 |
 | `2018-01-10` --> `2018-01-23`  | P2s |
 | `2018-04-20`                   | Final application dates for P4 (thus your P3 needs to be held before that date) |
