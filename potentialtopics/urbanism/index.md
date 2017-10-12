@@ -10,6 +10,13 @@ permalink: /potentialtopics/urbanism/
 * Table of Content
 {:toc}
 
+
+#### 3D Pedestrian Flow Modelling
+
+The structure of indoor space affects the movement of pedestrians by obstructing direct movement, making certain moves possible and certain moves more difficult or longer. The aggregate result of such effects shapes the movement patterns of pedestrians in indoor spaces. These patterns eventually affect functional efficiency, safety, and security of buildings; the importance of which is obvious in public complex buildings such as hospitals, transportation hubs and educational buildings. To model pedestrian movement flows, path-finding algorithms need to be developed to include cognitive factors in the path-finding methods. Based on such paths, pedestrian flows and probabilistic models of movement can be devised to be used in assessing functional efficiency, safety and security. Spatial data models used for such models are often challenging for automatic processing for both technical and methodical reasons. The core activity of this research would be to bring together two families of pedestrian movement simulation models by means of matching their underlying spatial data models (network and continuum space representations. The work will be specifically about developing spatial data models and algorithms.
+
+*Contact:* [Pirouz Nourian](mailto:P.Nourian@tudelft.nl)
+
 - - -
 
 ![](Picture1.png)
