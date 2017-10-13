@@ -6,7 +6,6 @@ permalink: /rules/
 
 ## The official material
 
-  
   - [Official Graduation Manual 2017-2018](GraduationManualGeomatics2017-2018.pdf)
   - [Official Graduation Manual 2016-2017](GraduationManualGeomatics2016-2017F161216.pdf)
   - [Official Graduation Manual 2015-2016](http://studenten.tudelft.nl/fileadmin/Files/studentenportal/os/BKspecifiek/Graduation_Manual_Geomatics_2015-2016.pdf)
