@@ -38,7 +38,7 @@ It contains:
   - a related work section in which the relevant literature is presented and linked to the project;
   - the research questions are clearly defined, along with the scope (ie what you will *not* be doing); to help you define a "good" research question, read [this document](https://sites.duke.edu/urgws/files/2014/02/Research-Questions_WS-handout.pdf)
   - overview of the methodology to be used;
-  - time planning---having a [Gantt chart](https://en.wikipedia.org/wiki/Gantt_chart) is probably a better idea then just a list;
+  - time planning---having a [Gantt chart](https://en.wikipedia.org/wiki/Gantt_chart) is probably a better idea than just a list;
   - since specific data and tools have to be used, it's good to present these concretely, so that the mentors know that you have a grasp of all aspects of the project;
   - the references.
 
@@ -71,7 +71,7 @@ While you're allowed to structure your thesis you way you like it, good theses u
 
 ##### 1. Introduction (~5 pages)
 
-What is the scientific problem you are aiming to solve? Why is it important? And why is it relevant to Geomatics? (make sure what you intend to do is inline with the overall learning objectives of the Geomatics programme at TU Delft) 
+What is the scientific problem you are aiming to solve? Why is it important? And why is it relevant to Geomatics? (make sure what you intend to do is in line with the overall learning objectives of the Geomatics programme at TU Delft) 
 
 What is the main research question that you plan to answer?
 
@@ -89,7 +89,7 @@ It's also the place to explain to the reader the concepts that are necessary to 
 Describe what you did. Present the design of your experiments and/or present the algorithm/methodology you used to answer your research question.
 
 Observe that it's better to separate the theory from the practice.
-That is, if you developed a new algorithm/method to process 3D city models, first describe this algorithm from a conceptual point-of-view (with pseudo-code) without discussing implementation details. 
+That is, if you developed a new algorithm/method to process 3D city models, first describe this algorithm from a conceptual point of view (with pseudo-code) without discussing implementation details. 
 These details (eg language details, classes, bits and bytes, running time), should be presented and discussed in a separate part of the thesis (a chapter about the implementation of the methodology is possible for instance).
 
 ##### 4. Implementation and Experiments  (~10 pages)
@@ -108,9 +108,9 @@ Give an overview of new research questions that arose during your research, or p
 
 #####  7.  Appendices
  
-Put here any material that would break the flow of the thesis: details about datasets, UML diagrams, list of tools and configurations used, etc.
+Put here any material that would break the flow of the thesis: details about datasets, extensive UML diagrams, list of tools and configurations used, etc.
 It's possible that you have no appendix at all for your thesis.
 
-Code you wrote should not be put in your thesis as an appendix.
+Except for maybe small excerpts that show specific issues, code you wrote should not be put in your thesis as an appendix.
 No one wants to read hundreds of lines of code on paper.
 Instead, put the code on a publicly accessible repository (eg GitHub) and give a link to the readers.
