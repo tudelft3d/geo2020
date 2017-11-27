@@ -54,14 +54,15 @@ It looks like this:
 
 [![](thesislatex.png)](https://github.com/tudelftgeomatics/thesis_template/raw/master/thesis.pdf)
 
-Download the [full LaTeX source in one ZIP](https://github.com/tudelftgeomatics/thesis_template/archive/master.zip).
+  - Download the [full LaTeX source in one ZIP](https://github.com/tudelftgeomatics/thesis_template/archive/master.zip).
+  - Use the [Overleaf template](https://www.overleaf.com/latex/templates/msc-geomatics-thesis-template-tu-delft/yvjpkwvtkrwz#.WhwiarQ-dYg)
 
 *It is not an official template and it is not mandatory to use it.*
 
 Notice that the TU Delft has a [generic LaTeX template for report](https://www.tudelft.nl/en/tu-delft-corporate-design/downloads/), that can also be used, but don't forget to add the parts necessary (table of content, table of figures, appendices, etc.).
 
 You are of course allowed to use Word (or others), if you want.
-But we do not offer a template, altough the TU Delft (kinda) does: [download here](https://d1rkab7tlqy5f1.cloudfront.net/Websections/TU%20Delft%20Huisstijl/BSc-MSc_report_mei_2015.doc)
+But we do not offer a template, although the TU Delft (kinda) does: [download here](https://d1rkab7tlqy5f1.cloudfront.net/Websections/TU%20Delft%20Huisstijl/BSc-MSc_report_mei_2015.doc)
 
 
 ### What should the thesis contain?
