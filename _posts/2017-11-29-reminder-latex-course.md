@@ -14,3 +14,7 @@ We will use [Overleaf](https://www.overleaf.com/), but if you want to install La
   - [MacTeX](https://tug.org/mactex) (macOS). 
   - [MiKTeX](http://miktex.org/about) (Windows) 
   - [TeXLive](https://www.tug.org/texlive) (cross-platform) 
+
+- - -
+
+*UPDATE*: the slides of the LaTeX course are [there](https://www.dropbox.com/s/km82ojviapn26in/fi-pdflatex.pdf?dl=0)
