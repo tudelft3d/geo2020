@@ -21,9 +21,11 @@ If you want, use this [PPT template]({{ "p1.pptx" }}), but you're allowed to use
 ## P2 template
 
 The document for P2 is a research proposal that must contain all the elements listed in the template available in the [graduation manual]({{ "/rules/" | prepend: site.baseurl }}) (Appendix 2).
-*Ignore* any template you get from the central BK system if different, they send these emails without realising that Geomatics doesn't have the same criteria.
+Use the exact format in the Appendix 2 as the cover page of your P2 proposal, and for the 'Research' part just write "see full proposal attached".
 
-You are free to write your project plan with the word processor of your choice (including LaTeX), as long as all the asked parts are present.
+*Ignore* any other template you might get from the central BK system if different, they send these emails without realising that Geomatics doesn't have the same criteria.
+
+You are free to write your project plan with the word processor of your choice (including LaTeX), as long as all the asked parts are present, in the same order.
 You can use that [simple LaTeX template](https://gist.github.com/hugoledoux/d16d5a4d397858ac745e38f9e8561657) as starting point.
 
 We expect a project plan to be around 10-15 pages (maximum).
