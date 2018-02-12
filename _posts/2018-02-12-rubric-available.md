@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "MSc Geomatics updated"
+title:  "MSc Geomatics rubric updated"
 author: Hugo Ledoux
 date:   2018-02-12 16:45
 ---
