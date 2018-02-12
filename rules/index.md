@@ -29,9 +29,7 @@ However, for P5, we now have a new and (much) improved version that makes it bet
 From now one, this is what will be used to mark all graduation theses in Geomatics.
 You can download it:
 
-  - [XLSX](Rubric_Geomatics_2017-04-12.xlsx)
-  - [PDF (A4)](Rubric_Geomatics_A4.pdf)
-  - [PDF (A3)](Rubric_Geomatics_A3.pdf)
+  - [Rubric_Geomatics.pdf](Rubric_Geomatics.pdf)
 
 - - -
 
