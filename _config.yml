@@ -16,7 +16,7 @@ future:           true
 
 #-- Setup
 title:            TU Delft MSc Geomatics graduation thesis
-url:              "http://tudelftgeomatics.github.io"
-baseurl:          "/thesis"
+url:              "https://3d.bk.tudelft.nl"
+baseurl:          "/courses/geo2020"
 
 
