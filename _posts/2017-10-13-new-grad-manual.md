@@ -7,7 +7,7 @@ date:   2017-10-13 16:11
 
 I was just informed by the faculty that the previous graduation manual contained two errors, these have been fixed and I've updated the document on the website:
 
-[Official Graduation Manual 2017-2018](https://tudelftgeomatics.github.io/thesis/rules/GraduationManualGeomatics2017-2018.pdf)
+[Official Graduation Manual 2017-2018](https://3d.bk.tudelft.nl/courses/geo2020/rules/GraduationManualGeomatics2017-2018.pdf)
 
 The differences are the entry requirements for P2 and the Reflection (Appendix 3).
 
