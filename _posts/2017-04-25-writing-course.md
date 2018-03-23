@@ -14,8 +14,8 @@ Where: BK BG.West.270
 
 Besides the course, I'd like to point out that on the website there are many things that can help you with writing:
 
-  1. [structure of a MSc thesis](http://tudelftgeomatics.github.io/thesis/templates/)
-  1. [this document taylored from GIS/geomatics authors](http://tudelftgeomatics.github.io/thesis/tips/#read-this-document-about-producing-research-articles)
-  1. [examples of good MSc geomatics theses](http://tudelftgeomatics.github.io/thesis/exampletheses/), which you should use as inspiration for the structure of your own thesis.
-  1. [tips from the staff of Geomatics](http://tudelftgeomatics.github.io/thesis/tips/)
+  1. [structure of a MSc thesis](https://3d.bk.tudelft.nl/courses/geo2020/templates/)
+  1. [this document taylored from GIS/geomatics authors](https://3d.bk.tudelft.nl/courses/geo2020/tips/#read-this-document-about-producing-research-articles)
+  1. [examples of good MSc geomatics theses](https://3d.bk.tudelft.nl/courses/geo2020/exampletheses/), which you should use as inspiration for the structure of your own thesis.
+  1. [tips from the staff of Geomatics](https://3d.bk.tudelft.nl/courses/geo2020/tips/)
 
