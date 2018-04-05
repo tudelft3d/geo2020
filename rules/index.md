@@ -12,7 +12,7 @@ permalink: /rules/
   - [Official Graduation Manual 2016-2017](GraduationManualGeomatics2016-2017F161216.pdf)
   - [Official Graduation Manual 2015-2016](http://studenten.tudelft.nl/fileadmin/Files/studentenportal/os/BKspecifiek/Graduation_Manual_Geomatics_2015-2016.pdf)
   
-  - [Forms to register for P2/P4](http://studenten.tudelft.nl/en/students/faculty-specific/architecture/forms/) (there is no forms for P5, your mentor does that for you after a successful P4).
+  - [Forms to register for P2/P4](https://www.tudelft.nl/en/student/faculties/a-be-student-portal/education/forms/) (there is no forms for P5, your mentor does that for you after a successful P4).
 
 Notice that you have to follow the rules of the year you started your graducation work.
 Even if it takes you 2 years to complete, the rules that applied when you started are the rules that apply during your whole graduation process.
