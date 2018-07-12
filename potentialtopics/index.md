@@ -16,13 +16,10 @@ The chosen topic must be *related to Geomatics*, ie even if you find one area of
 
 <a href="http://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics"><i class="fa fa-external-link"></i> OTB GISt group topics</a>
 
-<a href="{{ "gigb/" }}"><i class="fa fa-external-link"></i> Geo-information Organisation and Legislation</a>
+<a href="http://kcopendata.eu/education/thesis-topics/"><i class="fa fa-external-link"></i> Geo-information Organisation and Legislation</a>
 
 <a href="{{ "urbanism/" }}"><i class="fa fa-external-link"></i> Urbanism</a>
 
-All the slides of topics presented on 2017-09-08:
-
-<script async class="speakerdeck-embed" data-id="ec48f6ff00be4cf1aa8c147f2349e46a" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
  
 #### Topics from companies/organisations
 
