@@ -126,14 +126,9 @@ Geomatics is not in the list, but the average is clearly under 100, and in many 
 
 #### Why do I need to write and submit a reflection?
 
-You can read in the graduation manual 2015-2016 that:
+__No__. This does not apply to the MSc Geomatics thesis.
 
-> At P4 a draft reflection must be handed in. A final version of the reflection must be included as a distinct part of the thesis (a separate chapter) or as a separate document at the P4.
-
-This reflection is asked because several architecture students do not need to hand in a written thesis to graduate (but drawings, models, etc.) and that reflecting on your topic should be done.
-
-For geomatics, your main deliverable is a written thesis, and we expect this reflection to be in the argumentation of your introduction and your conclusions. 
-Therefore, to comply to the rules of the faculty, the suggestion is to copy the necessary parts from your introduction/conclusions to a separate document (or one appendix of the thesis); this part should be maximum two pages.
+If you get threatening emails from the administration at BK asking for me: reply that it's not required for your study and CC the coordinator of the thesis (Hugo Ledoux) and the program director of Geomatics (Mathias Lemmens).
 
 
 - - -
