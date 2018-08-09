@@ -7,7 +7,7 @@ date:   2018-08-09 14:49
 
 The next introduction session is 
 
-_When_: Thursday 8 September 2018, 8:45--10:45
+_When_: Thursday 6 September 2018, 8:45--10:45
 
 _Where_: BK room P
 
