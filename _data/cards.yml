@@ -11,7 +11,7 @@
 
 - url:    /dates/
   text:   Important dates
-  icon:   fa-calendar
+  icon:   fa-calendar-alt
   colour: blue-grey 
 
 - url:    /introsession/
@@ -20,8 +20,8 @@
   colour: light-green 
 
 - url:    /templates/
-  text:   Templates for the Ps
-  icon:   fa-file-text
+  text:   Templates for deliverables
+  icon:   fa-file
   colour: teal 
 
 - url:    /faq/
@@ -31,7 +31,7 @@
 
 - url:    /tips/
   text:   Research & writing tips
-  icon:   fa-lightbulb-o
+  icon:   fa-lightbulb
   colour: cyan 
 
 - url:    /potentialtopics/
@@ -49,7 +49,12 @@
   icon:   fa-cogs
   colour: purple 
 
+- url:    /teachers/
+  text:   Stuff for teachers
+  icon:   fa-chalkboard-teacher
+  colour: blue  
+
 - url:    /coordinator/
   text:   Contact the coordinator
-  icon:   fa-send
+  icon:   fa-at
   colour: orange
