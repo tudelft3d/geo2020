@@ -6,7 +6,7 @@ permalink: /coordinator/
 
 <div class="row">
   <div class="col m3 offset-m2 s6 offset-s3 valign-wrapper">
-      <img class="responsive-img" src="me.png">
+      <img class="responsive-img" src="https://3d.bk.tudelft.nl/hledoux/img/me.jpg">
   </div>
     <div class="col m5 s12">
     <div class="card-panel orange darken-1">
