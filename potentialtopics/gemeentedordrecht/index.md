@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Gemeente Dordrecht topics
-permalink: /potentialtopics/gemeentedordrecht
+permalink: /potentialtopics/gemeentedordrecht/
 ---
 
 The [Gemeente Dordrecht](https://cms.dordrecht.nl) proposes the following ten topics.
