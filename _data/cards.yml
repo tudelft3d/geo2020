@@ -5,8 +5,8 @@
   colour:  pink 
 
 - url:    /rules/
-  text:   Graduation manual & rules
-  icon:   fa-university
+  text:   Rules & registration for the Ps
+  icon:   fa-parking
   colour: amber 
 
 - url:    /dates/
