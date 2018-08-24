@@ -14,7 +14,7 @@ permalink: /teachers/
 
 ##### P1 
 
-  - 1st supervisor must be there for her own student(s). 2nd can be there but not mandatory
+  - 1st supervisor must be there for her student(s). 2nd can be there but not mandatory
   - nothing else to do
 
 ##### P2

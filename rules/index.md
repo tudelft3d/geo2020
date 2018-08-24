@@ -44,11 +44,12 @@ Even if it takes you 2 years to complete, the rules that applied when you starte
 
 - [Form to register for P4](https://www.tudelft.nl/en/student/faculties/a-be-student-portal/education/forms/) 
 - [template P4](../templates/#p4p5)
+- one must submit your thesis one week before P4
 
 ## P5
 
 - there is no forms to register for P5, this is done at the end of a (successfull) P4 session with everyone involved
 - [template P5](../templates/#p4p5)
 - [rubric for marking the final thesis](Rubric_Geomatics.pdf)
-
+- one must submit your thesis one week before P4
 
