@@ -4,7 +4,13 @@ title: Templates
 permalink: /templates/
 ---
 
+* Table of Content
+{:toc}
 
+- - -
+
+<section id="p1">
+</section>
 ## P1 template for the slides
 
 At P1, you need to introduce your topics to everyone in 5min, and *only 5 slides are possible*:
@@ -17,7 +23,8 @@ At P1, you need to introduce your topics to everyone in 5min, and *only 5 slides
 
 If you want, use this [PPT template]({{ "p1.pptx" }}), but you're allowed to use any software you want.
 
-
+<section id="p2">
+</section>
 ## P2 template
 
 The document for P2 is a research proposal that must contain all the elements listed in the template available in the [graduation manual]({{ "/rules/" | prepend: site.baseurl }}) (Appendix 2).
@@ -47,7 +54,8 @@ It contains:
 <!-- For the system, you need to write a *short version* (1-2 sentences per point) so that these details can be uploaded and be accessible by the chair person of your P2/P4/P5. -->
 <!-- Do not upload the full project plan, this one is only for your mentors. -->
 
-
+<section id="p4p5">
+</section>
 ## Template for the final thesis (P4 & P5)
 
 Officially, there is no template.
@@ -57,7 +65,7 @@ It looks like this:
 [![](thesislatex.png)](https://github.com/tudelftgeomatics/thesis_template/raw/master/thesis.pdf)
 
   - Download the [full LaTeX source in one ZIP](https://github.com/tudelftgeomatics/thesis_template/archive/master.zip).
-  - Use the [Overleaf template](https://www.overleaf.com/latex/templates/msc-geomatics-thesis-template-tu-delft/yvjpkwvtkrwz#.WhwiarQ-dYg)
+  - Use the [Overleaf template](https://www.overleaf.com/latex/templates/msc-geomatics-thesis-template-tu-delft/yvjpkwvtkrwz#.WhwiarQ-dYg); *warning*: as soon as your project has 100+ files (and it will quickly!) Overleaf will ask you to pay €5/month. Working locally will always be free (and the compilation is 73X faster).
 
 *It is not an official template and it is not mandatory to use it.*
 
@@ -67,53 +75,4 @@ You are of course allowed to use Word (or others), if you want.
 But we do not offer a template, although the TU Delft (kinda) does: [download here](https://d1rkab7tlqy5f1.cloudfront.net/Websections/TU%20Delft%20Huisstijl/BSc-MSc_report_mei_2015.doc)
 
 
-### What should the thesis contain?
 
-<!-- http://web.stanford.edu/~pmcmahon/ThesisWritingTips.pdf -->
-While you're allowed to structure your thesis you way you like it, good theses usually roughly follow this structure:
-
-##### 1. Introduction (~5 pages)
-
-What is the scientific problem you are aiming to solve? Why is it important? And why is it relevant to Geomatics? (make sure what you intend to do is in line with the overall learning objectives of the Geomatics programme at TU Delft) 
-
-What is the main research question that you plan to answer?
-
-Also, an overview of the obtained results and an overview of the thesis should be given.
-
-##### 2. Theoretical background & related work (~15 pages)
-
-Overview of all the topics related to your main research question. 
-Here you provide some context for the reader---when describing what others did, explain clearly how their work relates to yours.
-
-It's also the place to explain to the reader the concepts that are necessary to understand the rest of the thesis.
-
-##### 3. Methodology/Experimental design and development (~20 pages)
-
-Describe what you did. Present the design of your experiments and/or present the algorithm/methodology you used to answer your research question.
-
-Observe that it's better to separate the theory from the practice.
-That is, if you developed a new algorithm/method to process 3D city models, first describe this algorithm from a conceptual point of view (with pseudo-code) without discussing implementation details. 
-These details (eg language details, classes, bits and bytes, running time), should be presented and discussed in a separate part of the thesis (a chapter about the implementation of the methodology is possible for instance).
-
-##### 4. Implementation and Experiments  (~10 pages)
-
-Details of the experiments (including datasets used) and of the implementation of the methodology developed. 
-
-##### 5. Results and Analysis  (~10 pages)
-
-Present your results, and provide an analysis of them.
-
-##### 6. Conclusion, discussion and future work (∼5 pages)
-
-Summarise your main result and give a clear answer to the research question you defined in the Introduction.
-Discuss what did not work too.
-Give an overview of new research questions that arose during your research, or promising ideas you had but didn't have time to investigate.
-
-#####  7.  Appendices
- 
-Put here any material that would break the flow of the thesis: details about datasets, extensive UML diagrams, list of tools and configurations used, etc.
-It's possible that you have no appendix at all for your thesis.
-
-Except for maybe small excerpts that show specific issues, code you wrote should not be put in your thesis as an appendix.
-No one wants to read hundreds of lines of code on paper.
-Instead, put the code on a publicly accessible repository (eg GitHub) and give a link to the readers.

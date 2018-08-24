@@ -137,6 +137,17 @@ If you get threatening emails from the administration at BK asking for me: reply
 
 No, it must be in English. And your presentations (P1, P2, P3, P4 and P5) must also all be made in English.
 
+- - -
+
+#### How is the final thesis evaluated by the committee?
+
+
+The evaluation criteria that will be used by the committee to mark the final thesis, also called a rubric, are available in the Appendix 1 of the Graduation Manual.
+
+You can download it:
+
+  - [Rubric_Geomatics.pdf](../rules/Rubric_Geomatics.pdf)
+
 
 - - -
 
@@ -156,5 +167,48 @@ Some guidelines:
    - a tip: figures/tables/workflows can be drawn by hand on paper, and simply scanned. Between P4 and P5 you'll have time to make nice figures.
    - acknowledgements, abstract, title page, future work, tables of figures, etc. can be left for after P4
 
-<!-- ### how about the scope of related work? -->
+- - -
 
+### What is the structure of a good thesis?
+
+<!-- http://web.stanford.edu/~pmcmahon/ThesisWritingTips.pdf -->
+While you're allowed to structure your thesis you way you like it, good theses usually roughly follow this structure:
+
+_1. Introduction (~5 pages)_
+
+  - What is the scientific problem you are aiming to solve? Why is it important? And why is it relevant to Geomatics? (make sure what you intend to do is in line with the overall learning objectives of the Geomatics programme at TU Delft) 
+  - What is the main research question that you plan to answer?
+  - Also, an overview of the obtained results and an overview of the thesis should be given.
+
+_2. Theoretical background & related work (~15 pages)_
+
+  - Overview of all the topics related to your main research question. 
+Here you provide some context for the reader---when describing what others did, explain clearly how their work relates to yours.
+  - It's also the place to explain to the reader the concepts that are necessary to understand the rest of the thesis.
+
+_3. Methodology/Experimental design and development (~20 pages)_
+
+  - Describe what you did. Present the design of your experiments and/or present the algorithm/methodology you used to answer your research question.
+  - Observe that it's better to separate the theory from the practice. That is, if you developed a new algorithm/method to process 3D city models, first describe this algorithm from a conceptual point of view (with pseudo-code) without discussing implementation details. These details (eg language details, classes, bits and bytes, running time), should be presented and discussed in a separate part of the thesis (a chapter about the implementation of the methodology is possible for instance).
+
+_4. Implementation and Experiments  (~10 pages)_
+
+  - Details of the experiments (including datasets used) and of the implementation of the methodology developed. 
+
+_5. Results and Analysis  (~10 pages)_
+
+  - Present your results, and provide an analysis of them.
+
+_6. Conclusion, discussion and future work (∼5 pages)_
+
+  - Summarise your main result and give a clear answer to the research question you defined in the Introduction.
+  - Discuss what did not work too.
+  - Give an overview of new research questions that arose during your research, or promising ideas you had but didn't have time to investigate.
+
+_7. Appendices_
+ 
+  - Put here any material that would break the flow of the thesis: details about datasets, extensive UML diagrams, list of tools and configurations used, etc.
+  - It's possible that you have no appendix at all for your thesis.
+  - Except for maybe small excerpts that show specific issues, code you wrote should not be put in your thesis as an appendix.
+  - No one wants to read hundreds of lines of code on paper.
+  - Instead, put the code on a publicly accessible repository (eg GitHub) and give a link to the readers.
