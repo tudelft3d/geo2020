@@ -144,9 +144,7 @@ No, it must be in English. And your presentations (P1, P2, P3, P4 and P5) must a
 
 The evaluation criteria that will be used by the committee to mark the final thesis, also called a rubric, are available in the Appendix 1 of the Graduation Manual.
 
-You can download it:
-
-  - [Rubric_Geomatics.pdf](../rules/Rubric_Geomatics.pdf)
+[Download the rubric](../rubric/)
 
 
 - - -

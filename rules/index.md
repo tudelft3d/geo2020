@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Rules & registration for the Ps"
+title: "Info about the P"
 permalink: /rules/
 ---
 
@@ -36,20 +36,20 @@ Even if it takes you 2 years to complete, the rules that applied when you starte
 ## P3
 
 - you do not need to register for P3
-- you do it when you and your supervisor want, at anytime between P2 and P4
-- you book yourself a room for the presentation, and your supervisors must be present
-- your first supervisor has to enter in the system that you did P3
+- you are free to do our P3 when you and your supervisor want, at anytime between P2 and P4
+- you must book yourself a room for the presentation, and your supervisors must attend your presentation
+- your first supervisor has to enter in the system that you did your P3
 
 ## P4
 
 - [Form to register for P4](https://www.tudelft.nl/en/student/faculties/a-be-student-portal/education/forms/) 
 - [template P4](../templates/#p4p5)
-- one must submit your thesis one week before P4
+- watch out: must submit your draft thesis to the committee one week before your P4
 
 ## P5
 
-- there is no forms to register for P5, this is done at the end of a (successfull) P4 session with everyone involved
+- there is no forms to register for P5, your 1st supervisor does that for you
 - [template P5](../templates/#p4p5)
-- [rubric for marking the final thesis](Rubric_Geomatics.pdf)
-- one must submit your thesis one week before P4
+- [rubric for marking the final thesis](../rubric/)
+- watch out: must submit your draft thesis to the committee one week before your P5
 
