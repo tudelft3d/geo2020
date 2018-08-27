@@ -9,6 +9,7 @@ permalink: /teachers/
 - [SharePoint system of BK for the progress and grades, aka The System](https://teams.connect.tudelft.nl/sites/BK/OS/graduationregistration/Lists/Polls/AllItems.aspx)
 - [Rubric for marking](../rubric/)
 
+- - -
 
 #### What you have to do for each P
 

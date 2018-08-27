@@ -43,6 +43,15 @@ Even if it takes you 2 years to complete, the rules that applied when you starte
 ## P4
 
 - [Form to register for P4](https://www.tudelft.nl/en/student/faculties/a-be-student-portal/education/forms/) 
+  
+  1. watch out: you need several signatures, don't start 1h before the deadline
+  1. pro-tip: don't print it, instead ask people to digitally sign it with the PDF reader (Adobe and Preview.app have that built-in)
+  1. the '3rd mentor' is the co-reader, you and your supervisor have to pick one. The rules are explained in the Graduation Manual
+  1. you don't choose the exact date, although you can propose it. The central administration does.
+  1. the *full draft* of your thesis needs to be handed in one week before your P4. Full draft means [this](https://3d.bk.tudelft.nl/courses/geo2020/faq/#what-is-a-complete-draft-at-p4)
+  1. P4 is a go/nogo, thus what you submit is assessed.
+  1. if unsure if you can make, better to register and then cancel. [This is how you cancel a planned P4](../faq/#withdrawing-from-p4)
+
 - [template P4](../templates/#p4p5)
 - watch out: must submit your draft thesis to the committee one week before your P4
 

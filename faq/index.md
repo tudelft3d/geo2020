@@ -210,3 +210,11 @@ _7. Appendices_
   - Except for maybe small excerpts that show specific issues, code you wrote should not be put in your thesis as an appendix.
   - No one wants to read hundreds of lines of code on paper.
   - Instead, put the code on a publicly accessible repository (eg GitHub) and give a link to the readers.
+
+- - -
+
+### Withdrawing from P4
+
+- inform your supervisors, the coreader and the delegate examiner
+- send an email to the Board of Examiners (examencommissie-bk@tudelft.nl) stating your name and student number, and declare that you withdraw from P4.
+- you need to refill the P4 form before the next P4 period, thus to register again.
