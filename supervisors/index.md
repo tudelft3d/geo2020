@@ -1,7 +1,9 @@
 ---
 layout: page
 title: Stuff for supervisors
-permalink: /teachers/
+permalink: /supervisors/
+redirect_from:
+  - /teachers/
 ---
 
 #### Some useful links

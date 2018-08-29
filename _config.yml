@@ -9,6 +9,10 @@ kramdown:
 highlighter:      rouge
 excerpt_separator: "<!--more-->"
 
+
+plugins:
+  - jekyll-redirect-from
+  
 #-- Permalinks
 permalink:        pretty
 

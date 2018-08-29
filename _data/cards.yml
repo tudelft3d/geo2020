@@ -49,7 +49,7 @@
   icon:   fa-cogs
   colour: purple 
 
-- url:    /teachers/
+- url:    /supervisors/
   text:   Stuff for supervisors
   icon:   fa-chalkboard-teacher
   colour: blue  
