@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Stuff for teachers 
+title: Stuff for supervisors
 permalink: /teachers/
 ---
 
