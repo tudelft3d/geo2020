@@ -20,6 +20,11 @@ The chosen topic must be *related to Geomatics*, ie even if you find one area of
 
 <a href="{{ "urbanism/" }}"><i class="fa fa-external-link"></i> Urbanism</a>
 
+
+#### Slides of topics presented on 2018-09-06
+
+[Dropbox link](https://www.dropbox.com/sh/8w1ue8v5wkcipyo/AABFyXfcngnBlVMKzik2OtxGa?dl=0)
+
  
 #### Topics from companies/organisations
 
