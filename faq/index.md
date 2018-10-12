@@ -167,7 +167,7 @@ Some guidelines:
 
 - - -
 
-### What is the structure of a good thesis?
+#### What is the structure of a good thesis?
 
 <!-- http://web.stanford.edu/~pmcmahon/ThesisWritingTips.pdf -->
 While you're allowed to structure your thesis you way you like it, good theses usually roughly follow this structure:
@@ -213,7 +213,7 @@ _7. Appendices_
 
 - - -
 
-### Withdrawing from P4
+#### Withdrawing from P4
 
 - inform your supervisors, the coreader and the delegate examiner
 - send an email to the Board of Examiners (examencommissie-bk@tudelft.nl) stating your name and student number, and declare that you withdraw from P4.
