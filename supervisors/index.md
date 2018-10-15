@@ -34,6 +34,7 @@ redirect_from:
 ##### P4
 
   - both supervisors must read carefully the draft and ensure that the student has a chance to pass. You're wasting everyone's time if you know you'll give a nogo and still have the P4.
+  - you have to assess if the work is original, and thus you need to go to the [Brightspace Plagiarism Scan thingy](https://brightspace.tudelft.nl/d2l/home/47493) and check the report. ([Full details here](../rules/Nieuw_Teacher_mail_V4.docx)).
   - both supervisors must attend P4
   - 1st supervisor must put in The System the result of P4    
 
