@@ -13,6 +13,13 @@ redirect_from:
 
 - - -
 
+#### FAQ
+
+##### What is I can't be there at one P?
+Read p.18 of the [Official Graduation Manual 2018-2019](../rules/GraduationManualGeomatics2018-2019.pdf).
+
+- - -
+
 #### What you have to do for each P
 
 ##### P1 

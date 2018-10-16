@@ -13,6 +13,7 @@ permalink: /rules/
 </section>
 ## The official graduation material
 
+- [Official Graduation Manual 2018-2019](GraduationManualGeomatics2018-2019.pdf)
 - [Official Graduation Manual 2017-2018](GraduationManualGeomatics2017-2018.pdf)
 - [Official Graduation Manual 2016-2017](GraduationManualGeomatics2016-2017F161216.pdf)
    
