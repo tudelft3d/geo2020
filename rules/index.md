@@ -50,7 +50,7 @@ Even if it takes you 2 years to complete, the rules that applied when you starte
   1. the '3rd mentor' is the co-reader, you and your supervisor have to pick one. The rules are explained in the Graduation Manual
   1. you don't choose the exact date, although you can propose it. The central administration does.
   1. the *full draft* of your thesis needs to be handed in one week before your P4. Full draft means [this](https://3d.bk.tudelft.nl/courses/geo2020/faq/#what-is-a-complete-draft-at-p4)
-  1. you need to upload the draft to the [Brightspace Plagiarism Scan thingy](https://brightspace.tudelft.nl/d2l/home/47493) one week before so that your supervisors can assess that it's your original work. [Full details here](Nieuw_Teacher_mail_V4.docx). If you're not authorised, you need to [enrol for the course](https://brightspace-cc.tudelft.nl/) like you did for other courses.
+  1. you need to upload the draft to the [Brightspace Plagiarism Scan thingy](https://brightspace.tudelft.nl/d2l/home/47493) one week before so that your supervisors can assess that it's your original work. [Full details here](Nieuw_Teacher_mail_V4.docx). If you're not authorised, you need to [enrol for the course](https://brightspace-cc.tudelft.nl/), its name is 'Plagiarism scan MSc thesis - BK'.
   1. P4 is a go/nogo, thus what you submit is assessed.
   1. if unsure if you can make, better to register and then cancel. [This is how you cancel a planned P4](../faq/#withdrawing-from-p4)
 
