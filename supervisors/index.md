@@ -15,7 +15,7 @@ redirect_from:
 
 #### FAQ
 
-##### What is I can't be there at one P?
+##### What if I can't be there at one P?
 Read p.18 of the [Official Graduation Manual 2018-2019](../rules/GraduationManualGeomatics2018-2019.pdf).
 
 - - -
@@ -24,7 +24,7 @@ Read p.18 of the [Official Graduation Manual 2018-2019](../rules/GraduationManua
 
 ##### P1 
 
-  - 1st supervisor must be there for her student(s); 2nd can be there but not mandatory
+  - 1st supervisor must be present; 2nd can be there but not mandatory
   - nothing else to do
 
 ##### P2
@@ -34,8 +34,8 @@ Read p.18 of the [Official Graduation Manual 2018-2019](../rules/GraduationManua
 
 ##### P3
 
-  - attend the presentation
-  - the student has to organise it, not you
+  - both supervisors must attend the presentation
+  - the student has to organise the presentation, not the supervisor
   - 1st supervisor must put in The System that P3 has been done
 
 ##### P4

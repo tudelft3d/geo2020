@@ -63,4 +63,5 @@ Even if it takes you 2 years to complete, the rules that applied when you starte
 - [template P5](../templates/#p4p5)
 - [rubric for marking the final thesis](../rubric/)
 - watch out: must submit your draft thesis to the committee one week before your P5
+- you have to upload your final thesis to the TU Delft repository (you'll get emails about this)
 
