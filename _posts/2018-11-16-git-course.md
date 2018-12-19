@@ -2,10 +2,12 @@
 layout: post
 title:  "Git(Hub) course: Monday 26 Nov 15:00-17:00"
 author: Hugo Ledoux
-date:   2018-11-07 17:07  
+date:   2018-11-16 14:34
 ---
 
-Monday 26 Nov 15:00-17:00
+**[UPDATE 2018-11-20: the starting time will be 15:30 (and not 15:00)]**
+
+Monday 26 Nov 15:30-17:00
 
 room BG.West.290
 
