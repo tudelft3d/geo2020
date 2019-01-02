@@ -16,11 +16,13 @@ permalink: /exampletheses/
   
   <div class="column is-one-third">
     <div class="card">
+      <a href="{{ i.link }}">
       <div class="card-image">
         <figure class="image">
           <img src="img/{{ i.image }}">
         </figure>
       </div>
+      </a>
       <div class="card-content">
           <div class="media-content">
             <p class="title is-4">{{ i.name }} {{ i.surname }}</p>
