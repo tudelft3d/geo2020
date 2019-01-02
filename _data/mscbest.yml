@@ -9,14 +9,14 @@
 - surname: Fichtner
   name: Florian
   title: Semantic enrichment of a point cloud based on an octree for multi-storey pathfinding
-  link: http://resolver.tudelft.nl/uuid:b4c13508-dbcc-4a32-a7b7-9cb22230e0a7/
+  link: http://resolver.tudelft.nl/uuid:b4c13508-dbcc-4a32-a7b7-9cb22230e0a7
   image: florian.jpg
   year: 2016
 
 - surname: Onrust
   name: Benny
   title: Automatic generation of plant distributions for existing and future natural environments using spatial data
-  link: http://resolver.tudelft.nl/uuid:35f4cc9b-0cb8-4030-b1ae-ad2be146636f/
+  link: http://resolver.tudelft.nl/uuid:35f4cc9b-0cb8-4030-b1ae-ad2be146636f
   image: benny.png
   year: 2015
 
@@ -38,13 +38,13 @@
 - surname: Peters
   name: Ravi 
   title: A Voronoi- and surface-based approach for the automatic generation of depth-contours for hydrographic charts
-  link: http://resolver.tudelft.nl/uuid:5977a99b-0875-44b4-abe1-09288bf2aed1/
+  link: http://resolver.tudelft.nl/uuid:5977a99b-0875-44b4-abe1-09288bf2aed1
   image: ravi.png
   year: 2012
 
 - surname: Biljecki
   name: Filip 
   title: Automatic segmentation and classification of movement trajectories for transportation modes
-  link: http://resolver.tudelft.nl/uuid:654587d2-6e93-4619-ab9a-29d95f843f35/
+  link: http://resolver.tudelft.nl/uuid:654587d2-6e93-4619-ab9a-29d95f843f35
   image: filip.png
   year: 2010
