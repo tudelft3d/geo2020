@@ -5,6 +5,7 @@ layout: default
 <section class="hero is-link">
   <div class="hero-body">
     <div class="container">
+      <a href="{{ '/news' | prepend: site.baseurl}}"><i class="fas fa-arrow-circle-left"></i></a>
       <h2 class="title">{{page.title}}</h2>
       <h3 class="subtitle">{{ page.date | date: "%b %-d, %Y" }} {% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</h3>
     </div>
