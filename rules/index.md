@@ -4,8 +4,12 @@ title: "Info about the P"
 permalink: /rules/
 ---
 
+<div class="box" markdown="1"> 
+
 * Table of Content
 {:toc}
+
+</div>
 
 - - -
 

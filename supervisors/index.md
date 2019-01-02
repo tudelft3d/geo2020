@@ -6,46 +6,54 @@ redirect_from:
   - /teachers/
 ---
 
-#### Some useful links
+
+<div class="box" markdown="1"> 
+
+* Table of Content
+{:toc}
+
+</div>
+
+
+
+## Some useful links
 
 - [SharePoint system of BK for the progress and grades, aka The System](https://teams.connect.tudelft.nl/sites/BK/OS/graduationregistration/Lists/Polls/AllItems.aspx)
 - [Rubric for marking](../rubric/)
 
-- - -
 
-#### FAQ
 
-##### What if I can't be there at one P?
+## What if I can't be there at one P?
 Read p.18 of the [Official Graduation Manual 2018-2019](../rules/GraduationManualGeomatics2018-2019.pdf).
 
 - - -
 
-#### What you have to do for each P
+## What you have to do for each P
 
-##### P1 
+### P1 
 
   - 1st supervisor must be present; 2nd can be there but not mandatory
   - nothing else to do
 
-##### P2
+### P2
 
   - both supervisors must attend P2
   - 1st supervisor must put in The System the final result of P2 (go/nogo/retake)
 
-##### P3
+### P3
 
   - both supervisors must attend the presentation
   - the student has to organise the presentation, not the supervisor
   - 1st supervisor must put in The System that P3 has been done
 
-##### P4
+### P4
 
   - both supervisors must read carefully the draft and ensure that the student has a chance to pass. You're wasting everyone's time if you know you'll give a nogo and still have the P4.
   - you have to assess if the work is original, and thus you need to go to the [Brightspace Plagiarism Scan thingy](https://brightspace.tudelft.nl/d2l/home/47493) and check the report. ([Full details here](../rules/Nieuw_Teacher_mail_V4.docx)).
   - both supervisors must attend P4
   - 1st supervisor must put in The System the result of P4    
 
-##### P5
+### P5
   
   - both supervisors must attend P5
   - grade the student with [the rubric](../rubric/)

@@ -1,34 +1,157 @@
 ---
 layout: default
+title: GEO2020--MSc Geomatics
 ---
 
+<section class="section">
 
-<!-- <div class="row">
-  <div class="col s12 m4 offset-m4">
-    <div class="card-panel red darken-1">
-      <h5 class="center-align white-text">
-      <i class="fa fa-exclamation-triangle fa-2x"></i><br><br>DRAFT WEBSITE<br>information not accurate (yet)
-      </h5>
+
+<div class="tile is-ancestor">
+  <div class="tile">
+    <div class="tile is-parent is-4">
+      <article class="tile is-child">
+        <figure class="image">
+        <img src="assets/img/logo.svg">
+        </figure>
+      </article>
+    </div>
+    <div class="tile is-parent is-4 has-text-centered">
+      <article class="tile is-child notification box is-primary">
+      <a href="{{ '/rules' | prepend: site.baseurl}}"> 
+          <span style="font-size: 60px;">
+            <i class="fas fa-parking"></i>
+          </span>
+        </a>
+        <p class="subtitle">Info about the Ps</p>
+      </article>
+    </div>
+    <div class="tile is-parent is-4 has-text-centered">
+      <article class="tile is-child notification box is-info">
+        <a href="{{ '/faq' | prepend: site.baseurl}}"> 
+          <span style="font-size: 60px;">
+            <i class="fas fa-question"></i>
+          </span>
+        </a>
+        <p class="subtitle">FAQ</p>
+      </article>
     </div>
   </div>
-</div> -->
+</div>  
+  
 
-
-<div class="container">
-  <div class="section">
-    <div class="row">
-    {% for i in site.data.cards %}
-      <div class="col s12 m4">
-        <a href="{{ i.url | prepend: site.baseurl}}"> 
-        <div class="card {{ i.colour }} darken-1">
-          <div class="card-content white-text">
-            <h2 class="center"><i class="fa {{ i.icon }}"></i></h2>
-            <h6 class="center">{{ i.text}}</h6>
-          </div>
-        </div>
+<div class="tile is-ancestor">
+  <div class="tile">
+    <div class="tile is-parent has-text-centered">
+      <article class="tile is-child notification box is-success">
+        <a href="{{ '/exampletheses' | prepend: site.baseurl}}"> 
+          <span style="font-size: 60px;">
+            <i class="fas fa-graduation-cap"></i>
+          </span>
         </a>
-      </div>
-    {% endfor %}
+        <p class="subtitle">Example theses</p>
+      </article>
+    </div>
+    <div class="tile is-parent has-text-centered">
+      <article class="tile is-child notification box is-warning">
+        <a href="{{ '/templates' | prepend: site.baseurl}}"> 
+          <span style="font-size: 60px;">
+            <i class="fas fa-file"></i>
+          </span>
+        </a>
+        <p class="subtitle">Templates for deliverables</p>
+      </article>
+    </div>
+    <div class="tile is-parent has-text-centered">
+      <article class="tile is-child notification box is-danger">
+        <a href="{{ '/tips' | prepend: site.baseurl}}"> 
+          <span style="font-size: 60px;">
+            <i class="fas fa-lightbulb"></i>
+          </span>
+        </a>  
+        <p class="subtitle">Research & writing tips</p>
+      </article>
     </div>
   </div>
 </div>
+
+<div class="tile is-ancestor">
+  <div class="tile">
+    <div class="tile is-parent is-8">
+      <article class="tile is-child notification is-light box">
+        <div class="content">
+          <p class="title"><i class="fas fa-rss"></i> Latest news</p>
+          {% for post in site.posts limit:5 %}
+            <p><b>{{ post.date | date_to_string }}:</b> <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></p>
+          {% endfor %}
+          <br>
+          <p><a href="{{ '/news' | prepend: site.baseurl}}"><i class="fas fa-chevron-circle-right"></i> longer list of news</a></p>
+        </div>
+      </article>
+    </div>
+    <div class="tile is-parent">
+      <article class="tile is-child notification box is-white">
+        <div class="content">
+          <p class="title"><i class="fas fa-calendar-alt"></i> Important dates</p>
+          {% for i in site.data.dates limit:5 %}
+          <p>
+            <b>{{ i.what }}:</b> {{ i.start }} 
+            {% if i.end %}
+              &ndash; 
+              {{ i.end }}
+            {% endif %}  
+          </p>
+          {% endfor %}
+          <br>
+          <p><a href="{{ '/dates' | prepend: site.baseurl}}"><i class="fas fa-chevron-circle-right"></i> all the dates</a></p>
+        </div>
+      </article>
+    </div>
+  </div>
+</div>
+
+<div class="tile is-ancestor">
+
+    <div class="tile">
+      <div class="tile is-parent is-4 has-text-centered">
+        <article class="tile is-child notification box is-link">
+          <a href="{{ '/potentialtopics' | prepend: site.baseurl}}"> 
+            <span style="font-size: 60px;">
+              <i class="fas fa-list-ol"></i>
+            </span>
+          </a>
+          <p class="subtitle">Potential topics</p>
+          </article>
+      </div>
+      <div class="tile is-parent is-4 has-text-centered">
+        <article class="tile is-child notification box is-info">
+          <a href="{{ '/company' | prepend: site.baseurl}}"> 
+            <span style="font-size: 60px;">
+              <i class="fas fa-cog"></i>
+            </span>
+          </a>
+          <p class="subtitle">Graduating with a company</p>
+        </article>
+      </div>
+      <div class="tile is-parent is-4 has-text-centered">
+        <article class="tile is-child notification box is-dark">
+          <a href="{{ '/supervisors' | prepend: site.baseurl}}"> 
+            <span style="font-size: 60px;">
+              <i class="fas fa-chalkboard-teacher"></i>
+            </span>
+          </a>
+          <p class="subtitle">Stuff for supervisors</p>
+        </article>
+      </div>
+    </div>
+</div>
+
+<div class="tile is-ancestor">
+  <div class="tile is-parent is-12 has-text-centered">
+    <article class="tile is-child notification box has-text-centered is-primary" style="flex: 1 1 auto;">
+      <a href="{{ '/coordinator' | prepend: site.baseurl}}"> <i class="fas fa-at"></i> contact the coordinator</a>
+    </article>
+  </div>
+  </div>
+  
+</section>
+

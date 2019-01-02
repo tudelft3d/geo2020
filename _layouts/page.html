@@ -2,8 +2,19 @@
 layout: default
 ---
 
-<div class="container">
-<div class="section">
-  {{ content }}
-</div>
-</div>
+<section class="hero is-primary">
+  <div class="hero-body">
+    <div class="container">
+      <a href="{{ '/' | prepend: site.baseurl}}"><i class="fas fa-arrow-circle-left"></i></a>
+      <p class="title"> {{page.title}}</p>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    <div class="content">  
+      {{ content }}
+    </div>
+  </div>
+</section>

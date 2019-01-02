@@ -1,15 +1,21 @@
 ---
 layout: page
-title: Graduating with a company
+title: Graduation projects in collaboration with a company
 permalink: /company/
 ---
 
 
-## Graduation projects in collaboration with a company
+<div class="box" markdown="1"> 
+
+* Table of Content
+{:toc}
+
+</div>
 
 - - -
 
-#### Can I do my thesis work at a company?
+
+## Can I do my thesis work at a company?
 
 Yes and no. That is, you are allowed to pick a topic that is/was proposed by a company.
 However, the main mentor of the project has to be a staff of the university and the project has to be a scientific one.
@@ -29,14 +35,14 @@ Thus speak to a staff and ask if they have a good project with a company.
 
 - - -
 
-#### Project in a company == signing some paperwork from the TU Delft
+## Project in a company == signing some paperwork from the TU Delft
 
 If you have a project with a company, the company, you, and the administration of the faculty need [to fill out and sign a form](20180529_Internship_Agreement.pdf).
 This form should be signed by [Theo van Drunen](mailto:T.P.J.vanDrunen@tudelft.nl), the manager education and student services at the faculty.
 
 - - -
 
-#### Is the graduation project an internship?
+## Is the graduation project an internship?
 
 No. 
 And you shouldn't use the graduation project to gain experience in a company, this is just not the goal. 
@@ -44,7 +50,7 @@ If you want to gain experience in a company then there is now a new course calle
 
 - - - 
 
-#### Can I be paid?
+## Can I be paid?
 
 Yes, if you're from the EU then it's possible.
 If you're not from the EU, then there are rules (maximum hours).

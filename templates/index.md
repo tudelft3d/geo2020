@@ -1,11 +1,15 @@
 ---
 layout: page
-title: Templates 
+title: Templates for deliverables
 permalink: /templates/
 ---
 
+<div class="box" markdown="1"> 
+
 * Table of Content
 {:toc}
+
+</div>
 
 - - -
 

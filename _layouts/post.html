@@ -2,18 +2,21 @@
 layout: default
 ---
 
+<section class="hero is-link">
+  <div class="hero-body">
+    <div class="container">
+      <h2 class="title">{{page.title}}</h2>
+      <h3 class="subtitle">{{ page.date | date: "%b %-d, %Y" }} {% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</h3>
+    </div>
+  </div>
+</section>
 
-<div class="container">
-<div class="section">
-  
-  <header class="post-header">
-    <h4>{{ page.title }}</h4>
-    <pre>[{{ page.date | date: "%b %-d, %Y" }}]{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</pre>
-  </header>
-  <hr>
-  <article class="post-content">
-    {{ content }}
-  </article>
 
-</div>
-</div>
+<section class="section">
+  <div class="container is-fluid">
+    <div class="content">  
+      {{ content }}
+    </div>
+  </div>
+</section>
+

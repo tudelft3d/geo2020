@@ -1,12 +1,15 @@
 ---
 layout: page
-title: Tips
+title: Research & writing tips
 permalink: /tips/
 ---
 
+<div class="box" markdown="1"> 
 
 * Table of Content
 {:toc}
+
+</div>
 
 - - -
 

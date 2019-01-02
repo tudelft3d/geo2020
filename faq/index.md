@@ -1,12 +1,16 @@
 ---
 layout: page
-title: FAQ
+title: Frequently asked questions
 permalink: /faq/
 ---
 
 
+<div class="box" markdown="1"> 
+
 * Table of Content
 {:toc}
+
+</div>
 
 - - -
 
