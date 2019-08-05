@@ -9,6 +9,8 @@ permalink: /dates/
 [Suscribe to this calendar (ICAL)](https://calendar.google.com/calendar/ical/25hfp79r7m8ics07mar5mfgfvo%40group.calendar.google.com/public/basic.ics)
 - - -
 
+[BK academic graduation calendar 2019-2020](Jaarkalender_afstuderen_2019-2020.pdf) 
+
 [BK academic graduation calendar 2018-2019](Jaarkalender_afstuderen_2018-2019.pdf) 
 
 [BK academic graduation calendar 2017-2018](Jaarkalender_afstuderen_2017-2018.pdf) 
