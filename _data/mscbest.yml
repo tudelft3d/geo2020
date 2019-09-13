@@ -1,4 +1,11 @@
 
+- surname: Bouzas   
+  name: Vasileios
+  title: Structure-aware building mesh simplification
+  image: bouzas.jpg
+  year: 2019
+  link: http://resolver.tudelft.nl/uuid:a0faf1a6-9815-4828-9186-a4a16119c71c
+
 - surname: Psomadaki
   name: Stella
   title: Using a Space Filling Curve for the Management of Dynamic Point Cloud Data in a Relational DBMS
@@ -13,12 +20,12 @@
   image: florian.jpg
   year: 2016
 
-- surname: Onrust
-  name: Benny
-  title: Automatic generation of plant distributions for existing and future natural environments using spatial data
-  link: http://resolver.tudelft.nl/uuid:35f4cc9b-0cb8-4030-b1ae-ad2be146636f
-  image: benny.png
-  year: 2015
+# - surname: Onrust
+#   name: Benny
+#   title: Automatic generation of plant distributions for existing and future natural environments using spatial data
+#   link: http://resolver.tudelft.nl/uuid:35f4cc9b-0cb8-4030-b1ae-ad2be146636f
+#   image: benny.png
+#   year: 2015
 
 - surname: de Liefde
   name: Ivo
