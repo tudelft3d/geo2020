@@ -36,6 +36,8 @@ The contact at the company is *not* one of the two mentors.
 
 Be warned that some of these topics are not 100% suitable for an MSc thesis in Geomatics, but they are a good way to start and in cooperation with the mentors they can be modified.
 
+<a href="{{ "arup/" }}"><i class="fa fa-external-link"></i> Arup </a>
+
 <a href="{{ "cyclomedia/" }}"><i class="fa fa-external-link"></i> CycloMedia Technology </a>
 
 <a href="{{ "geonovum/" }}"><i class="fa fa-external-link"></i> Geonovum</a>
