@@ -35,16 +35,19 @@ Read p.18 of the [Official Graduation Manual 2018-2019](../rules/GraduationManua
 ### P1 
 
   - 1st supervisor must be present; 2nd can be there but not mandatory
+  - you need to listen to the presentation of your own student, and ask questions
   - nothing else to do
 
 ### P2
 
-  - both supervisors must attend P2
+  - both supervisors should read P2 proposal
+  - both supervisors must attend P2, and ask questions
+  - both supervisors decide if it's a go or nogo
   - 1st supervisor must put in The System the final result of P2 (go/nogo/retake)
 
 ### P3
 
-  - both supervisors must attend the presentation
+  - both supervisors must attend the presentation, and ask questions
   - the student has to organise the presentation, not the supervisor
   - 1st supervisor must put in The System that P3 has been done
 
@@ -57,7 +60,7 @@ Read p.18 of the [Official Graduation Manual 2018-2019](../rules/GraduationManua
 
 ### P5
   
-  - both supervisors must attend P5
+  - both supervisors must attend P5, and ask questions
   - grade the student with [the rubric](../rubric/)
   - make a speech in front of family and friends
   - smile a lot while doing this
