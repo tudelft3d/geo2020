@@ -20,7 +20,7 @@ permalink: /coordinator/
 <b>Hugo Ledoux</b><br><br>
 h.ledoux@tudelft.nl<br>
 <a href="https://3d.bk.tudelft.nl/hledoux">3d.bk.tudelft.nl/hledoux</a><br>
-room BG.West.010 at BK-City<br>
+room BG.West.550 at BK-City<br>
 +15 27 86114
     
   </div>
