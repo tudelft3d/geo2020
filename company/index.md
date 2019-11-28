@@ -46,7 +46,7 @@ This form should be signed by [Theo van Drunen](mailto:T.P.J.vanDrunen@tudelft.n
 
 No. 
 And you shouldn't use the graduation project to gain experience in a company, this is just not the goal. 
-If you want to gain experience in a company then there is now a new course called "Internship (5ECTS)", contact the coordinator Theo Tijssen.
+If you want to gain experience in a company then there is the course [Geomatics in Practice](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=49112).
 
 - - - 
 
