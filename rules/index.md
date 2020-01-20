@@ -38,6 +38,8 @@ Even if it takes you 2 years to complete, the rules that applied when you starte
 
 - you do not need to register for P2 yourself, the coordinator does this for all students
 - [template P2](../templates/#p2)
+- one week before your P2, you need to email your final P2 proposal to: (1) your first supervisor; (2) your second supervisor; (3) the delegate of the board of examiners assigned to you (you can see that in the calendar entry for your P2); (4)  'BoardofExaminers-BK@tudelft.nl'.
+The email must state as subject: "P2 graduation plan + [your student number]". 
 
 ## P3
 

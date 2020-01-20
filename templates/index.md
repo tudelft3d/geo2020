@@ -32,7 +32,6 @@ If you want, use this [PPT template]({{ "p1.pptx" }}), but you're allowed to use
 ## P2 template
 
 The document for P2 is a research proposal that must contain all the elements listed in the template available in the [graduation manual]({{ "/rules/" | prepend: site.baseurl }}) (Appendix 2).
-Use the exact format in the Appendix 2 as the cover page of your P2 proposal, and for the 'Research' part just write "see full proposal attached".
 
 *Ignore* any other template you might get from the central BK system if different, they send these emails without realising that Geomatics doesn't have the same criteria.
 
