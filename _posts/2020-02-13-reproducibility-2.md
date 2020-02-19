@@ -9,7 +9,7 @@ Dear Geomatics students,
 
 We have noticed that many of you have not filled the first questionnaire on the reproducible research yet. Those of you who have not done it yet should do so as soon as possible. 
 
-A quick reminder of all the steps that had to be taken before your P2:
+A quick reminder of all the steps that should ideally be done:
 
 Step 1. First questionnaire (<5 minutes): [https://forms.gle/BTmPc5ExhEJNkUtFA](https://forms.gle/BTmPc5ExhEJNkUtFA)
 
