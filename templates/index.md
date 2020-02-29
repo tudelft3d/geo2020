@@ -67,8 +67,7 @@ It looks like this:
 
 [![](thesislatex.png)](https://github.com/tudelftgeomatics/thesis_template/raw/master/thesis.pdf)
 
-  - Download the [full LaTeX source in one ZIP](https://github.com/tudelftgeomatics/thesis_template/archive/master.zip).
-  - Use the [Overleaf template](https://www.overleaf.com/latex/templates/msc-geomatics-thesis-template-tu-delft/yvjpkwvtkrwz#.WhwiarQ-dYg); *warning*: as soon as your project has 100+ files (and it will quickly!) Overleaf will ask you to pay €5/month. Working locally will always be free (and the compilation is 73X faster).
+Download the [full LaTeX source in one ZIP](https://github.com/tudelftgeomatics/thesis_template/archive/master.zip).
 
 *It is not an official template and it is not mandatory to use it.*
 
