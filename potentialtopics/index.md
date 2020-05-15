@@ -4,17 +4,30 @@ title: Potential topics
 permalink: /potentialtopics/
 ---
 
+
+<article class="message is-warning">
+  <div class="message-header">
+    <p>Procedure to select a topic</p>
+  </div>
+  <div class="message-body">
+    <ul>
+      <li>You submit before 2020-07-01 your top3 in the form below</li>
+      <li>Only the 1st supervisor is relevant at this point, the 2nd can be added later</li>
+      <li>You can pick any topics below, or you can speak to a geomatics staff and if you agree on a topic, then submit it (with a temporary title)</li>
+      <li>If your topic is in collaboration with an external party, keep in mind that several staff follow the <a href="https://3d.bk.tudelft.nl/courses/geo2020/openscience/">requirements for open science</a></li>
+      <li>Questions? discord channel #geo2020 is the best place to ask</li>
+    </ul>  
+  </div>
+</article>
+
+
 <div class="columns is-mobile">
   <div class="column is-three-fifths is-offset-one-fifth">
     <div class="typeform-widget" data-url="https://francescanoardo.typeform.com/to/zSNKB3" style="width: 100%; height: 300px;"></div> <script> (function() { var qs,js,q,s,d=document, gi=d.getElementById, ce=d.createElement, gt=d.getElementsByTagName, id="typef_orm", b="https://embed.typeform.com/"; if(!gi.call(d,id)) { js=ce.call(d,"script"); js.id=id; js.src=b+"embed.js"; q=gt.call(d,"script")[0]; q.parentNode.insertBefore(js,q) } })() </script> <div style="font-family: Sans-Serif;font-size: 12px;color: #999;opacity: 0.5; padding-top: 5px;"> powered by <a href="https://admin.typeform.com/signup?utm_campaign=zSNKB3&utm_source=typeform.com-01D8JX62W8ZKQH5MX624AX7W7R-pro&utm_medium=typeform&utm_content=typeform-embedded-poweredbytypeform&utm_term=EN" style="color: #999" target="_blank">Typeform</a> </div>
   </div>
 </div>
 
-
-<div class="notification is-warning">
-  <b>Heads up!</b> Many staff follow the <a href="https://3d.bk.tudelft.nl/courses/geo2020/openscience/">requirements for open science</a> so ask them if you plan to work in collaboration with a company.
-</div>
-
+---
 
 ## Hugo Ledoux
 1. [Automatic reconstruction of historical 3D city models](https://3d.bk.tudelft.nl/education/msctopics/#automatic-reconstruction-of-historical-3d-city-models)
