@@ -53,6 +53,7 @@ permalink: /potentialtopics/
 2. [Exploring efficient ways to visualise and handle large data sets](https://3d.bk.tudelft.nl/education/msctopics/#exploring-efficient-ways-to-visualize-and-handle-large-data-sets)
 3. [Improving automatic meshing for buildings](https://3d.bk.tudelft.nl/education/msctopics/#improving-automatic-meshing-for-buildings)
 4. [Modelling tree topology effects on wind](https://3d.bk.tudelft.nl/education/msctopics/#modelling-tree-topology-effects-on-wind)
+5. [Modelling wind flows around beach housing to promote dune formation for flood protection](https://3d.bk.tudelft.nl/education/msctopics/#modelling-wind-flows-around-beach-housing-to-promote-dune-formation-for-flood-protection)
 
 
 ## Eftychia Kalogianni
