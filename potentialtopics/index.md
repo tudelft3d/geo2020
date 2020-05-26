@@ -91,7 +91,7 @@ permalink: /potentialtopics/
 5. [Straight skeletons for vario-scale maps](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics)
 
 
-## [Liangliang Nan](https://3d.bk.tudelft.nl/lian)
+## [Liangliang Nan](https://3d.bk.tudelft.nl/liangliang)
 1. [Instance segmentation of trees from point clouds.](https://3d.bk.tudelft.nl/education/msctopics/#instance-segmentation-of-trees-from-point-clouds)
 2. Piecewise planar object reconstruction using deep learning
 
@@ -114,7 +114,7 @@ permalink: /potentialtopics/
 2. [Reducing distortion of map features when using compatible triangulations](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics)
 
 
-## [Ravi Peters](https://3d.bk.tudelft.nl/ry)
+## [Ravi Peters](https://3d.bk.tudelft.nl/rypeters)
 1. [Improving the automatic LoD2 building reconstruction from AHN3](https://3d.bk.tudelft.nl/education/msctopics/#improving-the-automatic-lod2-building-reconstruction-from-ahn3)
 2. [Point cloud normal estimation based on the 3D medial axis transform](https://3d.bk.tudelft.nl/education/msctopics/#point-cloud-normal-estimation-based-on-the-3d-medial-axis-transform)
 
