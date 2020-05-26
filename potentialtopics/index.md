@@ -30,9 +30,6 @@ permalink: /potentialtopics/
 
 ---
 
-
-
-
 ## [Ken Arroyo Ohori](https://3d.bk.tudelft.nl/ken/)
 1. [Extracting useful geometries (eg rooms, storeys, building envelopes) from BIM models](https://3d.bk.tudelft.nl/education/msctopics/#extracting-buildingstoreydwellingroom-shapes-from-a-bim-models)
 2. [Building perfect planar partitions with quality guarantees (snap rounding)](https://3d.bk.tudelft.nl/education/msctopics/#snap-rounding-in-a-triangulation) 
@@ -45,11 +42,25 @@ permalink: /potentialtopics/
 4. [Integrated modelling of utility networks in the urban environment](https://3d.bk.tudelft.nl/education/msctopics/#integrated-modelling-of-utility-networks-in-the-urban-environment)
 
 
+## Jesús Balado Frías
+1. [Design and improvement of self-adaptive 3D structuring elements for mathematical morphology in point clouds](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics)
+2. [Intelligent routes with social distancing](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics)
+3. [Knowledge-based approach for occlusion regeneration produced by cars in urban point cloud](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics)
+
+
 ## [Clara García-Sánchez](https://3d.bk.tudelft.nl/gsclara/)
 1. [Web application for Urban Computational Fluid Dynamics Simulations Set-Up validation](https://3d.bk.tudelft.nl/education/msctopics/#web-application-for-urban-computational-fluid-dynamics-simulations-set-up-validation)
 2. [Exploring efficient ways to visualise and handle large data sets](https://3d.bk.tudelft.nl/education/msctopics/#exploring-efficient-ways-to-visualize-and-handle-large-data-sets)
 3. [Improving automatic meshing for buildings](https://3d.bk.tudelft.nl/education/msctopics/#improving-automatic-meshing-for-buildings)
 4. [Modelling tree topology effects on wind](https://3d.bk.tudelft.nl/education/msctopics/#modelling-tree-topology-effects-on-wind)
+
+
+## Eftychia Kalogianni
+1. [BIM as input for 3D Cadastre](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics)
+2. [Digital twins and land administration: linking the legal with virtual reality](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics)
+3. [Explore and visualise 2030 SDGs related to land administration](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics)
+4. [Modelling and visualisation of air rights (in the context of LADM)](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics)
+5. [Visualisation of different types of 3D spatial units](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics)
 
 
 ## [Anna Labetski](https://3d.bk.tudelft.nl/alabetski/)
@@ -64,25 +75,64 @@ permalink: /potentialtopics/
 4. [How to construct](https://3d.bk.tudelft.nl/education/msctopics/#how-to-construct-one-seamless-tin-from-all-the-ahn3-points-in-nl) [*one seamless*](https://3d.bk.tudelft.nl/education/msctopics/#how-to-construct-one-seamless-tin-from-all-the-ahn3-points-in-nl) [TIN from all the AHN3 points in NL?](https://3d.bk.tudelft.nl/education/msctopics/#how-to-construct-one-seamless-tin-from-all-the-ahn3-points-in-nl) [potentially with RIVM]
 5. [Automatic repair of 3D city models](https://3d.bk.tudelft.nl/education/msctopics/#automatic-repair-of-3d-city-models)
 
+
+## Haicheng Liu
+1. [Showing Point Clouds in VR](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics)
+
+
 ## Bastiaan van Loenen, Hendrik Ploeger, and Frederika Welle Donker
 1. [download this Microsoft Word file](https://surfdrive.surf.nl/files/index.php/s/eFctT0v6MRsDQ0T)
+
+
+## Martijn Meijers
+1. [Improving the content of vario-scale maps](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics)
+2. [Labeling vario-scale maps](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics)
+3. [Making a vario-scale 4D point cloud](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics)
+4. [Predictive fetching of geo-web resources](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics)
+5. [Straight skeletons for vario-scale maps](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics)
+
 
 ## [Liangliang Nan](https://3d.bk.tudelft.nl/lian)
 1. [Instance segmentation of trees from point clouds.](https://3d.bk.tudelft.nl/education/msctopics/#instance-segmentation-of-trees-from-point-clouds)
 2. Piecewise planar object reconstruction using deep learning.
 
+
 ## [Francesca Noardo](https://3d.bk.tudelft.nl/f)
 1. [3D digital urban regulations to use GeoBIM for building permission checks](https://3d.bk.tudelft.nl/education/msctopics/#3d-digital-urban-regulations-to-use-geobim-for-building-permission-checks)
 2. [Inferring the needed building permissions from a 3D building model](https://3d.bk.tudelft.nl/education/msctopics/#inferring-the-needed-building-permission-from-a-3d-building-model)
+
+
+## Peter van Oosterom
+1. [Adjustment of 20 million boundaries](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics)
+2. [BIM as input for 3D Cadastre](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics)
+3. [Historic development of the Dutch municipalities](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics)
+4. [Patterns of room occupancy in houses and their relation with energy use](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics)
+5. [The LADM as Linked Open Data](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics)
+
+
+## Dongliang Peng
+1. [Detecting narrow parts](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics)
+2. [Reducing distortion of map features when using compatible triangulations](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics)
+
 
 ## [Ravi Peters](https://3d.bk.tudelft.nl/ry)
 1. [Improving the automatic LoD2 building reconstruction from AHN3](https://3d.bk.tudelft.nl/education/msctopics/#improving-the-automatic-lod2-building-reconstruction-from-ahn3)
 2. [Point cloud normal estimation based on the 3D medial axis transform](https://3d.bk.tudelft.nl/education/msctopics/#point-cloud-normal-estimation-based-on-the-3d-medial-axis-transform)
 
 
+## Anna Shnaidman 
+1. [Improved cadastral map updates](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics)
+
+
 ## [Jantien Stoter](https://3d.bk.tudelft.nl/jstoter/)
 1. [Developing Level of Detail framework for 3D cadastre implementation in practice](https://www.fig.net/resources/proceedings/fig_proceedings/fig2020/papers/ts04e/TS04E_stoter_ho_et_al_10503_abs.pdf) [with Kadaster]
 2. [Reconstructing a 3D road network for the whole Netherlands (for the National Road Data set (NWB))](https://nationaalwegenbestand.nl/nieuws/hoogte-informatie-toegevoegd-aan-nwb-voor-omgevingswet) [with NWB]
+
+
+## Edward Verbree
+1. [Investigating the reliability of indoor objects to act as landmarks](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics)
+2. [Vision application for unpacking boxes (in cooperation with Copal)](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics)
+3. [Cadastral map quality](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics)
 
 
 ## [Stelios Vitalis](https://youtu.be/T2Y7oo3iB40)
