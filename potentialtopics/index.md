@@ -65,7 +65,6 @@ permalink: /potentialtopics/
 
 ## [Anna Labetski](https://3d.bk.tudelft.nl/alabetski/)
 1. [Calculating Street Widths](https://3d.bk.tudelft.nl/education/msctopics/#calculating-street-widths)
-[](https://3d.bk.tudelft.nl/education/msctopics/#modelling-tree-topology-effects-on-wind)
 
 
 ## [Hugo Ledoux](https://3d.bk.tudelft.nl/hledoux/)
@@ -94,10 +93,10 @@ permalink: /potentialtopics/
 
 ## [Liangliang Nan](https://3d.bk.tudelft.nl/lian)
 1. [Instance segmentation of trees from point clouds.](https://3d.bk.tudelft.nl/education/msctopics/#instance-segmentation-of-trees-from-point-clouds)
-2. Piecewise planar object reconstruction using deep learning.
+2. Piecewise planar object reconstruction using deep learning
 
 
-## [Francesca Noardo](https://3d.bk.tudelft.nl/f)
+## [Francesca Noardo](http://www.noardo.eu/)
 1. [3D digital urban regulations to use GeoBIM for building permission checks](https://3d.bk.tudelft.nl/education/msctopics/#3d-digital-urban-regulations-to-use-geobim-for-building-permission-checks)
 2. [Inferring the needed building permissions from a 3D building model](https://3d.bk.tudelft.nl/education/msctopics/#inferring-the-needed-building-permission-from-a-3d-building-model)
 
@@ -135,8 +134,8 @@ permalink: /potentialtopics/
 3. [Cadastral map quality](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics)
 
 
-## [Stelios Vitalis](https://youtu.be/T2Y7oo3iB40)
-1. [Investigate mode](https://3d.bk.tudelft.nl/education/msctopics/#where-do-i-turn-investigate-modeling-of-road-networks-in-cityjson-with-implicit-geometries)[l](https://3d.bk.tudelft.nl/education/msctopics/#where-do-i-turn-investigate-modeling-of-road-networks-in-cityjson-with-implicit-geometries)[ling of road networks in CityJSON, with implicit geometries](https://3d.bk.tudelft.nl/education/msctopics/#where-do-i-turn-investigate-modeling-of-road-networks-in-cityjson-with-implicit-geometries)
+## [Stelios Vitalis](https://3d.bk.tudelft.nl/svitalis/)
+1. [Investigate modeling of road networks in CityJSON, with implicit geometries](https://3d.bk.tudelft.nl/education/msctopics/#where-do-i-turn-investigate-modelling-of-road-networks-in-cityjson-with-implicit-geometries)
 
 
 
