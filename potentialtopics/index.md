@@ -80,8 +80,9 @@ permalink: /potentialtopics/
 1. [Showing Point Clouds in VR](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics)
 
 
-## Bastiaan van Loenen, Hendrik Ploeger, and Frederika Welle Donker
-1. [download this Microsoft Word file](https://surfdrive.surf.nl/files/index.php/s/eFctT0v6MRsDQ0T)
+## [Bastiaan van Loenen](https://www.tudelft.nl/en/staff/b.vanloenen/)
+1. [Governance of the open data ecosystem](https://kcopendata.eu/education/thesis-topics/#IP)
+2. [User interface design of geoportals](https://kcopendata.eu/education/thesis-topics/#geoportals)
 
 
 ## Martijn Meijers
@@ -120,6 +121,11 @@ permalink: /potentialtopics/
 2. [Point cloud normal estimation based on the 3D medial axis transform](https://3d.bk.tudelft.nl/education/msctopics/#point-cloud-normal-estimation-based-on-the-3d-medial-axis-transform)
 
 
+## [Hendrik Ploeger](https://www.tudelft.nl/staff/h.d.ploeger/)
+1. [Intellectual property & data ownership in the open data ecosystem](https://kcopendata.eu/education/thesis-topics/#IP) 
+2. [Privacy in the open data ecosystem](https://kcopendata.eu/education/thesis-topics/#privacy-and-open-data)
+3. [Liability in the open data ecosystem](https://kcopendata.eu/education/thesis-topics/#liability)
+
 ## Anna Shnaidman 
 1. [Improved cadastral map updates](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics)
 
@@ -139,4 +145,10 @@ permalink: /potentialtopics/
 1. [Investigate modeling of road networks in CityJSON, with implicit geometries](https://3d.bk.tudelft.nl/education/msctopics/#where-do-i-turn-investigate-modelling-of-road-networks-in-cityjson-with-implicit-geometries)
 
 
+## [Frederika Welle Donker](https://www.tudelft.nl/en/staff/f.m.welledonker/)
+1. [Financial and economic aspects of the open data ecosystem](https://kcopendata.eu/education/thesis-topics/#financial)
+2. [Design of a user driven open data ecosystem](https://kcopendata.eu/education/thesis-topics/#userdriven) [](https://kcopendata.eu/education/thesis-topics/#userdriven)
+3. [Assessment of the open data ecosystem](https://kcopendata.eu/education/thesis-topics/#ODECO)
+ 
+ 
 
