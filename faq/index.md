@@ -60,13 +60,17 @@ But we provide a [LaTeX one]({{ "/templates/" | prepend: site.baseurl }}) to hel
 
 - - -
 
-#### I've just passed my P5, am I done?
+#### How to upload your final thesis to the TUD repository
 
-No, you need to do one last thing to get your diploma: upload your final thesis (in PDF) and your final presentation slides (in PDF) to the [TU Delft repository](http://repository.tudelft.nl/submit/thesis/).
+You must upload your final thesis + presentation slides maximum 1 day after your P5.
+This is important, if you forget you might not get your diploma!
+
+[=> Instructions to upload your thesis](https://repository.tudelft.nl/content/education-upload-tips)
 
 To ensure that all theses from the MSc Geomatics can be easily found and that there is consistency between them, please follow these guidelines:
 
-![](img/uploadrepo.png)
+
+![](img/uploadrepo.png){:width="400px"}
 
 
 - - -

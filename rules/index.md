@@ -66,6 +66,7 @@ The email must state as subject: "P2 graduation plan + [your student number]".
 - there is no forms to register for P5, your 1st supervisor does that for you
 - [template P5](../templates/#p4p5)
 - [rubric for marking the final thesis](../rubric/)
-- watch out: must submit your draft thesis to the committee one week before your P5
-- you have to upload your final thesis to the TU Delft repository (you'll get emails about this)
+- [submit a rebuttal/corrections document with your thesis](https://3d.bk.tudelft.nl/courses/geo2020/tips/#with-the-p5-thesis-submit-a-rebuttalcorrections-document)
+- you must submit your final thesis to all members of the committee one week before your P5 (and CC `afstuderen-bk@tudelft.nl`); you should include the co-reader, even though that person is not required to attend the P5.
+- you have to upload your final thesis and P5 slides to the TU Delft repository, and please [follow these rules](https://3d.bk.tudelft.nl/courses/geo2020/faq/#how-to-upload-your-final-thesis-to-the-tud-repository)
 
