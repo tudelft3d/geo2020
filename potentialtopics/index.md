@@ -143,6 +143,7 @@ permalink: /potentialtopics/
 
 ## [Stelios Vitalis](https://3d.bk.tudelft.nl/svitalis/)
 1. [Investigate modeling of road networks in CityJSON, with implicit geometries](https://3d.bk.tudelft.nl/education/msctopics/#where-do-i-turn-investigate-modelling-of-road-networks-in-cityjson-with-implicit-geometries)
+1. [Investigate the use of CityJSON in (serious) games](https://3d.bk.tudelft.nl/education/msctopics/#investigate-the-use-of-cityjson-in-serious-games)
 
 
 ## [Frederika Welle Donker](https://www.tudelft.nl/en/staff/f.m.welledonker/)
