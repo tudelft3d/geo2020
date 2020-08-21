@@ -9,7 +9,7 @@ env.hosts = ['3d.bk.tudelft.nl']
 
 
 def deploy():
-    local("bundle exec jekyll build")
+    local("jekyll build")
     remotedir = '/var/www/courses/geo2020/'
     rsync_project(local_dir='./_site/', 
                   remote_dir=remotedir,
