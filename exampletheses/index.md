@@ -4,38 +4,31 @@ title: Example theses
 permalink: /exampletheses/
 ---
 
-
-
 ## Some good theses that can be used as examples
 
 {% assign theses = site.data.mscbest | sort: 'year' | reverse %}
 
-<div class="columns is-multiline is-mobile">
-  
 {% for i in theses %}
-  
-  <div class="column is-one-third">
-    <div class="card">
-      <a href="{{ i.link }}">
-      <div class="card-image">
-        <figure class="image">
-          <img src="img/{{ i.image }}">
-        </figure>
-      </div>
-      </a>
-      <div class="card-content">
-          <div class="media-content">
-            <p class="title is-4">{{ i.name }} {{ i.surname }}</p>
-            <p class="subtitle is-6">({{ i.year }})</p>
-          </div>
-          <div class="content">
-            {{ i.title }}
-          </div>
-      </div>
+
+<article class="media">
+  <figure class="media-left">
+    <a href="{{ i.link }}"><p class="image is-128x128">
+      <img src="img/{{ i.image }}">
+    </p>
+  </a>
+  </figure>
+  <div class="media-content">
+    <div class="content">
+      <p>
+        <strong>{{ i.title }}</strong> 
+        <br>
+        {{ i.name }} {{ i.surname }} <small>({{ i.year }})</small> 
+      </p>
     </div>
   </div>
+</article>
+
 {% endfor %}
-</div>
 
 
 ## Recently completed theses
