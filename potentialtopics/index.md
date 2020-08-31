@@ -5,7 +5,7 @@ permalink: /potentialtopics/
 ---
 
 
-<article class="message is-warning">
+<!-- <article class="message is-warning">
   <div class="message-header">
     <p>Procedure to select an MSc topic</p>
   </div>
@@ -19,15 +19,15 @@ permalink: /potentialtopics/
       <li>We will get back to you as soon as possible in July.</li>
     </ul>  
   </div>
-</article>
+</article> -->
 
 
-<div class="columns is-mobile">
+<!-- <div class="columns is-mobile">
   <div class="column is-three-fifths is-offset-one-fifth">
     <div class="typeform-widget" data-url="https://francescanoardo.typeform.com/to/zSNKB3" style="width: 100%; height: 300px;"></div> <script> (function() { var qs,js,q,s,d=document, gi=d.getElementById, ce=d.createElement, gt=d.getElementsByTagName, id="typef_orm", b="https://embed.typeform.com/"; if(!gi.call(d,id)) { js=ce.call(d,"script"); js.id=id; js.src=b+"embed.js"; q=gt.call(d,"script")[0]; q.parentNode.insertBefore(js,q) } })() </script> <div style="font-family: Sans-Serif;font-size: 12px;color: #999;opacity: 0.5; padding-top: 5px;"> powered by <a href="https://admin.typeform.com/signup?utm_campaign=zSNKB3&utm_source=typeform.com-01D8JX62W8ZKQH5MX624AX7W7R-pro&utm_medium=typeform&utm_content=typeform-embedded-poweredbytypeform&utm_term=EN" style="color: #999" target="_blank">Typeform</a> </div>
   </div>
 </div>
-
+ -->
 ---
 
 ## [Ken Arroyo Ohori](https://3d.bk.tudelft.nl/ken/)

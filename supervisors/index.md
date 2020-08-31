@@ -34,9 +34,7 @@ Read p.18 of the [Official Graduation Manual 2018-2019](../rules/GraduationManua
 
 ### P1 
 
-  - 1st supervisor must be present; 2nd can be there but not mandatory
-  - you need to listen to the presentation of your own student, and ask questions
-  - nothing else to do
+  - nothing to do
 
 ### P2
 
@@ -47,9 +45,9 @@ Read p.18 of the [Official Graduation Manual 2018-2019](../rules/GraduationManua
 
 ### P3
 
-  - both supervisors must attend the presentation, and ask questions
-  - the student has to organise the presentation, not the supervisor
-  - 1st supervisor must put in The System that P3 has been done
+  - between P2 and P4, one meeting should be discussing the progress of the student
+  - and feedback given, with tips for them to improve
+  - P3 should be clicked as done in The System
 
 ### P4
 

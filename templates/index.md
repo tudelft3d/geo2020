@@ -13,19 +13,6 @@ permalink: /templates/
 
 - - -
 
-<section id="p1">
-</section>
-## P1 template for the slides
-
-At P1, you need to introduce your topics to everyone in 5min, and *only 5 slides are possible*:
-
-1. Title, name + mentors
-1. What problem will be solved? Or motivation
-1. Related work: what has been done by others?
-1. Main research questions ([help PDF](https://sites.duke.edu/urgws/files/2014/02/Research-Questions_WS-handout.pdf))
-1. Your methodology: how do you plan on solving this problem?
-
-If you want, use this [PPT template]({{ "p1.pptx" }}), but you're allowed to use any software you want.
 
 <section id="p2">
 </section>

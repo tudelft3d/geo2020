@@ -17,6 +17,7 @@ permalink: /rules/
 </section>
 ## The official graduation material
 
+- Official Graduation Manual 2020-2021 coming soon
 - [Official Graduation Manual 2019-2020](GraduationManualGeomatics2019-2020.pdf)
 - [Official Graduation Manual 2018-2019](GraduationManualGeomatics2018-2019.pdf)
 - [Official Graduation Manual 2017-2018](GraduationManualGeomatics2017-2018.pdf)
@@ -27,25 +28,28 @@ Even if it takes you 2 years to complete, the rules that applied when you starte
 
 ## P1
 
-- [template PPT for P1](../templates/#p1)
-- registration: details coming soon
+<div class="typeform-widget" data-url="https://form.typeform.com/to/Mwrd6e5M" style="width: 100%; height: 500px;"></div> <script> (function() { var qs,js,q,s,d=document, gi=d.getElementById, ce=d.createElement, gt=d.getElementsByTagName, id="typef_orm", b="https://embed.typeform.com/"; if(!gi.call(d,id)) { js=ce.call(d,"script"); js.id=id; js.src=b+"embed.js"; q=gt.call(d,"script")[0]; q.parentNode.insertBefore(js,q) } })() </script> <div style="font-family: Sans-Serif;font-size: 12px;color: #999;opacity: 0.5; padding-top: 5px;"> powered by <a href="https://admin.typeform.com/signup?utm_campaign=Mwrd6e5M&utm_source=typeform.com-01D8JX62W8ZKQH5MX624AX7W7R-pro&utm_medium=typeform&utm_content=typeform-embedded-poweredbytypeform&utm_term=EN" style="color: #999" target="_blank">Typeform</a> </div>
 
 
 ## P2
 
-- you do not need to register for P2 yourself, the coordinator does this for all students
+- you do not need to register for P2 yourself, the coordinator does this for all students who submitted topics
 - [template P2](../templates/#p2)
 - one week before your P2, you need to email your final P2 proposal to: (1) your first supervisor; (2) your second supervisor; (3) the delegate of the board of examiners assigned to you (you can see that in the calendar entry for your P2); (4)  'BoardofExaminers-BK@tudelft.nl'.
 The email must state as subject: "P2 graduation plan + [your student number]". 
 
+
 ## P3
 
-- you do not need to register for P3
-- you are free to do our P3 when you and your supervisor want, at anytime between P2 and P4
-- you must book yourself a room for the presentation, and your supervisors must attend your presentation
-- your first supervisor has to enter in the system that you did your P3
+- you do not need to register for P3 or do anything special
+- at one meeting with your first supervisor, you should reflect on the progress done
+- supervisors are aware of this
+
 
 ## P4
+
+
+__(to be updated with exact details ASAP, those are the 2019-2020 instructions)__
 
 - [Form to register for P4](https://www.tudelft.nl/en/student/faculties/a-be-student-portal/education/forms/) 
   
