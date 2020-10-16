@@ -17,7 +17,7 @@ permalink: /rules/
 </section>
 ## The official graduation material
 
-- Official Graduation Manual 2020-2021 coming soon
+- [Official Graduation Manual 2020-2021](GraduationManualGeomatics2020-2021.pdf)
 - [Official Graduation Manual 2019-2020](GraduationManualGeomatics2019-2020.pdf)
 - [Official Graduation Manual 2018-2019](GraduationManualGeomatics2018-2019.pdf)
 - [Official Graduation Manual 2017-2018](GraduationManualGeomatics2017-2018.pdf)
@@ -49,7 +49,6 @@ The email must state as subject: "P2 graduation plan + [your student number]".
 ## P4
 
 
-__(to be updated with exact details ASAP, those are the 2019-2020 instructions)__
 
 - [Form to register for P4](https://www.tudelft.nl/en/student/faculties/a-be-student-portal/education/forms/) 
   
@@ -57,13 +56,13 @@ __(to be updated with exact details ASAP, those are the 2019-2020 instructions)_
   1. pro-tip: don't print it, instead ask people to digitally sign it with the PDF reader (Adobe and Preview.app have that built-in)
   1. the '3rd mentor' is the co-reader, you and your supervisor have to pick one. The rules are explained in the Graduation Manual
   1. you don't choose the exact date, although you can propose it. The central administration does.
-  1. the *full draft* of your thesis needs to be handed in one week before your P4. Full draft means [this](https://3d.bk.tudelft.nl/courses/geo2020/faq/#what-is-a-complete-draft-at-p4)
+  1. the *draft* of your thesis needs to be handed in one week before your P4. A draft means what your supervisors say it should be, there are no strict rules (but [this](https://3d.bk.tudelft.nl/courses/geo2020/faq/#what-is-a-complete-draft-at-p4) can help)
   1. you need to upload the draft to the Brightspace Plagiarism Scan page. It's complex, so follow the [steps on this page](../plagiarism)
   1. P4 is a go/nogo, thus what you submit is assessed.
   1. if unsure if you can make, better to register and then cancel. [This is how you cancel a planned P4](../faq/#withdrawing-from-p4)
 
 - [template P4](../templates/#p4p5)
-- watch out: must submit your draft thesis to the committee one week before your P4
+
 
 ## P5
 
@@ -71,6 +70,6 @@ __(to be updated with exact details ASAP, those are the 2019-2020 instructions)_
 - [template P5](../templates/#p4p5)
 - [rubric for marking the final thesis](../rubric/)
 - [submit a rebuttal/corrections document with your thesis](https://3d.bk.tudelft.nl/courses/geo2020/tips/#with-the-p5-thesis-submit-a-rebuttalcorrections-document)
-- you must submit your final thesis to all members of the committee one week before your P5 (and CC `afstuderen-bk@tudelft.nl`); you should include the co-reader, even though that person is not required to attend the P5.
-- you have to upload your final thesis and P5 slides to the TU Delft repository, and please [follow these rules](https://3d.bk.tudelft.nl/courses/geo2020/faq/#how-to-upload-your-final-thesis-to-the-tud-repository)
+- you must submit your final thesis to all members of the committee (chairperson + both supervisors + co-reader) one week before your P5 (and CC `afstuderen-bk@tudelft.nl`); you should include the co-reader, even though that person is not required to attend the P5.
+- maximum 2 days before the P5, you have to upload your final thesis to the TU Delft repository, and please [follow these rules](https://3d.bk.tudelft.nl/courses/geo2020/faq/#how-to-upload-your-final-thesis-to-the-tud-repository)
 
