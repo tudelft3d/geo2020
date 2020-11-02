@@ -60,6 +60,7 @@ Read p.18 of the [Official Graduation Manual 2018-2019](../rules/GraduationManua
 
 ### P5
   
+  - you have to assess if the work is original, and thus you need to go to the [Brightspace Plagiarism Scan thingy](https://brightspace.tudelft.nl/d2l/home/47493) and check the report. ([Full details here](../rules/Nieuw_Teacher_mail_V4.docx)).
   - both supervisors must attend P5, and the co-reader, and ask questions
   - grade the student with [the rubric](../rubric/)
   - make a speech in front of family and friends
