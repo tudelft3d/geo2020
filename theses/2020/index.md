@@ -20,11 +20,12 @@ permalink: /theses/2020/
       <p>
         <strong>{{ i[1][0] }} {{ i[0] }}</strong> 
         <br>
-        <small>Supervisors: {{ i[1][1] }} + {{ i[1][2] }}</small>
-        <br>
-        <small>{{ i[1][5] }}</small>
+        <em>{{ i[1][5] }}</em>
         <br>
         {{ i[1][3] | markdownify }}
+        <small>Supervisors: {{ i[1][1] }} + {{ i[1][2] }}</small>
+        <br>
+        <small>{{ i[1][6] }}</small>
       </p>
     </div>
   </div>

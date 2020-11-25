@@ -22,6 +22,7 @@ Chatzidiakos:
   \ Boersma 2019). The linkage of linear (MultiLineStrings) and areal (Multisurfaces)\
   \ data by one to one mapping will be tested."
 - 7012f198422c-road_intersection.png
+- How should roads be modelled in 3D City Models?
 Chen:
 - Zhaiyu
 - Liangliang Nan
@@ -41,6 +42,7 @@ Chen:
   We hope our work, as of future iterations, can bridge the ubiquitous 3D deep learning
   solutions with more geometric constraints that are hugely neglected nowadays.'
 - 64798c59903b-sog_teaser_Fig1.gif
+- Polygonal Mesh Reconstruction from Point Clouds with Deep Implicit Fields
 Dinklo:
 - Constantijn
 - "Clara Garc\xEDa-S\xE1nchez"
@@ -68,6 +70,7 @@ Dinklo:
   The outcome of this project should determine whether using games engines is a feasible
   option to display CFD simulation output datasets.'
 - 3ccebc69c5d0-P1_foto.JPG
+- Visualizing Massive Computational Fluid Dynamic Simulation Output Data Efficiently Using Game Engines
 Doan:
 - Truc Quynh
 - Giorgio Agugiaro
@@ -92,6 +95,7 @@ Doan:
   \ to the further integration of 3D city models into the planning process and explore\
   \ its possibilities in assisting urban practices."
 - 6d46b544141-QuynhDoan_5025923_thesis_in_one_image.jpg
+- Test and extension of a GIS-supported design tool for new urban development areas
 Hobeika:
 - Nadine
 - Clara García-Sánchez
@@ -114,6 +118,7 @@ Hobeika:
   \ fields such as pressure and velocity will be analysed to filter configurations\
   \ and conclude with the best choice for the Dutch coast."
 - 7d8153118aa6-draft_image_02.png
+- Interaction between wind flows and beach housing to promote dune formation
 de Jong:
 - Maarten
 - Hugo Ledoux
@@ -137,7 +142,7 @@ de Jong:
   is capable of handling a large number (> 50) of AHN3 tiles and Delaunay triangulating
   them, while performing some simplification.'
 - 0ae54f8d219-anim.gif
-- with Deltares (Maarten Pronk)
+- One TIN for all AHN3 points with Streaming Delaunay Triangulation
 Kenesei:
 - Kristof
 - Ravi Peters
@@ -161,6 +166,7 @@ Kenesei:
   \ out, we intend to create prototype implementations using tools that are common\
   \ in the Geomatics discipline."
 - 3bdb605851f0-thumbnail.png
+- Converting the national road network (NWB) from 2D into 3D
 Li:
 - Xiaoai
 - Stelios Vitalis
@@ -183,6 +189,7 @@ Li:
   \ API is developed for access and data filtering (bbox, attributes etc.). Then benchmarking\
   \ is used for testing the performance of the RESTful API."
 - 9c424a9b1de-draco400.gif
+- "CityREST: CityJSON in a database + RESTful access"
 Lumban Gaol:
 - Yustisi Ardhitasari
 - Ken Arroyo Ohori
@@ -206,6 +213,7 @@ Lumban Gaol:
   will be assessed based on evaluation metrics, i.e. root mean square error and total
   vertical uncertainty.
 - 38ba5f429ccd-201015_usvi.png
+- Machine Learning Approach for Satellite-Derived Bathymetry with Minimal In-situ Data
 Milyana:
 - Nur An Nisa
 - Hendrik Ploeger
@@ -229,6 +237,7 @@ Milyana:
   \ design and find the possibility to be applied as web-based GIS prototype. The\
   \ focus of the study will be based on spatial planning in Indonesia."
 - 70433204ddfd-nmilyana_method.jpg
+- Designing user experience (UX) to trigger participation in spatial planning
 Morlighem:
 - Camille
 - Hugo Ledoux
@@ -252,6 +261,7 @@ Morlighem:
   With this method, several historical 3D city models will be generated for different
   epochs, which will allow representing the evolution of a city.
 - 9398977ec02f-rotterdam.JPG
+- Automatic reconstruction of historical 3D city models
 Papageorgiou:
 - Manos
 - Ravi Peters
@@ -275,6 +285,7 @@ Papageorgiou:
   \ and open source code from Github while software like QGIS, FME, Blender and Meshlab\
   \ will be used for data preparation and visualization."
 - 9e375dbdb8-400x400.png
+- Point cloud classification with supervised deep learning algorithms for automatic reconstruction of LoD2 3D city models
 Roy:
 - Ellie
 - Hugo Ledoux
@@ -298,6 +309,8 @@ Roy:
   \ of the number of floors. The method will most likely use machine learning techniques,\
   \ based on training data collected from multiple municipalities."
 - 15c4ff03b7e4-p1_image.jpg
+- Inferring the number of floors of all buildings in the Netherlands
+- with Deltares (Maarten Pronk)
 Smit:
 - Mels
 - Edward Verbree
@@ -322,6 +335,7 @@ Smit:
   \ such as glass or mirrors. By fusing\nthese results with the Point Cloud glass\
   \ can then be placed inside as well enhancing the end result."
 - 75cbff965ed0-Research_in_one_image.jpg
+- Detecting glass through LiDAR Point Clouds
 - with CGI (Robert Voûte)
 Stevers:
 - Anna Vera
@@ -347,6 +361,7 @@ Stevers:
   \ research conducted by TU Delft and UTwente. The results from our work can be used\
   \ in real life models on beaches in 2021."
 - 82f852014991-visualization.0008.png
+- Modelling wind around beach housing for dune formation
 - with ShoreScape (Janneke van Bergen)
 Wu:
 - Jialun
@@ -373,4 +388,5 @@ Wu:
   laws and regulations to conduct the research, and then extend it to the realization
   of more laws and regulations.'
 - 0f55910db963-research_image1.png
+- A CityJSON extension to store city information towards the automation of building permit
 
