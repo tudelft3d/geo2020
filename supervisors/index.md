@@ -18,7 +18,7 @@ redirect_from:
 
 ## Some useful links
 
-- [SharePoint system of BK for the progress and grades, aka "The System"](https://teams.connect.tudelft.nl/sites/BK/OS/graduationregistration/Lists/Polls/AllItems.aspx)
+- [SharePoint system of BK for the progress and grades, aka "The System"](https://sharepoint.tudelft.nl/sites/BK/OS/graduationregistration/Lists/Polls/April%2020172018.aspx)
 - [Rubric for marking](../rubric/)
 - [Change of supervisor form](https://d1rkab7tlqy5f1.cloudfront.net/Studentenportal/Faculteitspecifiek/Bouwkunde/Onderwijs/Formulieren/Change%20mentor%20team.pdf)
 - [Many useful forms related to the MSc (URLs change all the time...)](https://www.tudelft.nl/en/student/faculties/a-be-student-portal/education/forms/)
