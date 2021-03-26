@@ -11,7 +11,7 @@ This is not mandatory, but I think this is nice.
 
 I don't want to enforce specific dates, but somewhere around mid-March should be good.
 
-After agreeing on a timeslot, fill out [this google sheet](https://docs.google.com/spreadsheets/d/1eHFHEhphWIU3XeQYkEiHoR__U-eS9h1NwMqs9W1mZSA/edit?usp=sharing), and hopefully many attend and ask questions.
+After agreeing on a timeslot, fill out [this google sheet](https://docs.google.com/spreadsheets/d/1eHFHEhphWIU3XeQYkEiHoR__U-eS9h1NwMqs9W1mZSA/edit?usp=sharing) (ask your supervisor to setup a zoom meeting if you cannot), and hopefully many attend and ask questions.
 
 Sessions should be 30min total: 15-20min presentation + questions.
 
