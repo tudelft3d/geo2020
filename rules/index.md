@@ -54,9 +54,9 @@ The email must state as subject: "P2 graduation plan + [your student number]".
   
   1. watch out: you need several signatures, don't start 1h before the deadline
   1. pro-tip: don't print it, instead ask people to digitally sign it with the PDF reader (Adobe and Preview.app have that built-in)
-  1. the '3rd mentor' is the co-reader, you and your supervisor have to pick one. The rules are explained in the Graduation Manual
+  1. you need to pick a co-reader, your supervisors do this with you (speak to them)
   1. you don't choose the exact date, although you can propose it. The central administration does.
-  1. the *draft* of your thesis needs to be handed in one week before your P4. A draft means what your supervisors say it should be, there are no strict rules (but [this](https://3d.bk.tudelft.nl/courses/geo2020/faq/#what-is-a-complete-draft-at-p4) can help)
+  1. what needs to be submitted is between your supervisor and you, speak to them. Usually, a *draft* of your thesis needs to be handed in. A draft means what your supervisors say it should be, there are no strict rules (but [this](https://3d.bk.tudelft.nl/courses/geo2020/faq/#what-is-a-complete-draft-at-p4) can help)
   1. you need to upload the draft to the Brightspace Plagiarism Scan page. It's complex, so follow the [steps on this page](../plagiarism)
   1. P4 is a go/nogo, thus what you submit is assessed.
   1. if unsure if you can make, better to register and then cancel. [This is how you cancel a planned P4](../faq/#withdrawing-from-p4)
