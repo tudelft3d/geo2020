@@ -23,7 +23,9 @@ Alhoz:
   a common data environment and applying these standards for projects based on WebGIS
   platforms and Webservices as an exchange data format.'
 - 77e6faec75de-ThesisInOnePicture.jpg
-Erbasu:
+- ISO 19650 Information Management standards for projects based in WebGIS
+- with esri Nederland (Niels van der Vaart)
+Erbașu:
 - Mihai-Alexandru
 - Martijn Meijers
 - Peter van Oosterom
@@ -40,10 +42,11 @@ Erbasu:
   A thorough research on these elements shall be conducted, and presented alongside\
   \ a demo web application, showcasing the analysis."
 - d0fc928acb6-thesis_image.png
+- Improving the content of vario-scale maps
 Giannelli:
 - Denis
-- "Giorgio Agugiaro (BK Faculty \u2013 TU Delft)"
-- "Camilo Alexander Le\xF3n S\xE1nchez (BK Faculty \u2013 TU Delft)"
+- "Giorgio Agugiaro"
+- "Camilo Alexander Le\xF3n S\xE1nchez"
 - "In the Global South, large urban spaces resulted in the duality \u2018formal\u2019\
   \ and \u2018informal\u2019 cities. It\u2019s the case of Sao Paulo, a 22M ppl. metropolis\
   \ and a financial hub in Latin America. Albeit a vast literature addresses the social-spatial\
@@ -64,10 +67,11 @@ Giannelli:
   \ are the requirements, level of applicability and type of results (e.g. accuracy)\
   \ delivered by different existing irradiation models?"
 - 66b1010529f8-P1_image_V3.png
+- Performing solar analysis in buildings of favelas in Sao Paulo to estimate PV potential 
 Hurkmans:
 - Robin
-- Stelios Vitalis
 - Hugo Ledoux
+- Stelios Vitalis
 - "Solar energy is an important type of renewable energy. Building roofs are very\
   \ suitable to install solar panels used for generating solar energy. However, not\
   \ every roof is as suitable as another roof. Therefore, to optimize where solar\
@@ -88,6 +92,7 @@ Hurkmans:
   \ that the newly developed method, making use of existing methods and software packages,\
   \ has a relatively high performance for large datasets."
 - 64c2df364-Solar_radiation_rooftops.jpg
+- Modelling solar irradiation for buildings in the 3D BAG vector dataset
 Ramlakhan:
 - Rohit Jyotish Kailashkumar
 - Eftychia Kalogianni
@@ -112,6 +117,7 @@ Ramlakhan:
   \ underground objects be modelled in a 3D Land Administration System and connected\
   \ to above-ground objects?"
 - 031511495e50-Underground.jpg
+- Modelling 3D underground objects in 3D Land Administration Systems
 van Rijssel:
 - Laurens Nico
 - "Bal\xE1zs Dukai"
@@ -128,3 +134,5 @@ van Rijssel:
   on noise propagation and develop a product to automatically construct a TIN holding
   semantic information and buildings information for noise modelling purposes.'
 - 5375a0f1b26c-Mid_term_synthesis_04.jpg
+- Modelling solar irradiation for buildings in the 3D BAG vector dataset
+- with RIVM 
