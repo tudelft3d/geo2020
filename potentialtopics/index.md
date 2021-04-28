@@ -65,6 +65,7 @@ permalink: /potentialtopics/
 
 ## [Hugo Ledoux](https://3d.bk.tudelft.nl/hledoux/)
 1. [Automatic repair of 3D city models](https://3d.bk.tudelft.nl/education/msctopics/#automatic-repair-of-3d-city-models)
+2. [Space lidar to estimate the height of all buildings in the world?](https://3d.bk.tudelft.nl/education/msctopics/#space-lidar-to-estimate-the-height-of-all-buildings-in-the-world)
 
 
 ## Haicheng Liu
