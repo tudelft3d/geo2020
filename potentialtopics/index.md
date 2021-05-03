@@ -119,9 +119,6 @@ permalink: /potentialtopics/
 3. [Liability in the open data ecosystem](https://kcopendata.eu/education/thesis-topics/#liability)
  -->
 
-## Anna Shnaidman 
-<!-- 1. [Improved cadastral map updates](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics) -->
-
 
 ## [Jantien Stoter](https://3d.bk.tudelft.nl/jstoter/)
 <!-- 1. [Developing Level of Detail framework for 3D cadastre implementation in practice](https://www.fig.net/resources/proceedings/fig_proceedings/fig2020/papers/ts04e/TS04E_stoter_ho_et_al_10503_abs.pdf) [with Kadaster] -->
@@ -135,14 +132,14 @@ permalink: /potentialtopics/
 
 
 ## [Stelios Vitalis](https://3d.bk.tudelft.nl/svitalis/)
-1. [Investigate modeling of road networks in CityJSON, with implicit geometries](https://3d.bk.tudelft.nl/education/msctopics/#where-do-i-turn-investigate-modelling-of-road-networks-in-cityjson-with-implicit-geometries)
+<!-- 1. [Investigate modeling of road networks in CityJSON, with implicit geometries](https://3d.bk.tudelft.nl/education/msctopics/#where-do-i-turn-investigate-modelling-of-road-networks-in-cityjson-with-implicit-geometries) -->
 1. [Investigate the use of CityJSON in (serious) games](https://3d.bk.tudelft.nl/education/msctopics/#investigate-the-use-of-cityjson-in-serious-games)
 
 
 ## [Frederika Welle Donker](https://www.tudelft.nl/en/staff/f.m.welledonker/)
-1. [Financial and economic aspects of the open data ecosystem](https://kcopendata.eu/education/thesis-topics/#financial)
+<!-- 1. [Financial and economic aspects of the open data ecosystem](https://kcopendata.eu/education/thesis-topics/#financial)
 2. [Design of a user driven open data ecosystem](https://kcopendata.eu/education/thesis-topics/#userdriven) [](https://kcopendata.eu/education/thesis-topics/#userdriven)
 3. [Assessment of the open data ecosystem](https://kcopendata.eu/education/thesis-topics/#ODECO)
- 
+ --> 
  
 
