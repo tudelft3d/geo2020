@@ -58,11 +58,11 @@ permalink: /potentialtopics/
 
 
 ## Eftychia Kalogianni
-1. [BIM as input for 3D Cadastre](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics)
-2. [Digital twins and land administration: linking the legal with virtual reality](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics)
-3. [Explore and visualise 2030 SDGs related to land administration](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics)
-4. [Modelling and visualisation of air rights (in the context of LADM)](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics)
-5. [Visualisation of different types of 3D spatial units](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics)
+1. [BIM as input for 3D Cadastre](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#BIM_as_input_for_3D_Cadastre)
+2. [Digital twins and land administration: linking the legal with virtual reality](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Digital_twins_and_land_administration:_linking_the_legal_with_virtual_reality)
+3. [Explore and visualise 2030 SDGs related to land administration](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Explore_and_visualise_2030_SDGs_related_to_land_administration)
+4. [Modelling and visualisation of air rights (in the context of LADM)](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Modelling_and_visualisation_of_air_rights_40in_the_context_of_LADM_41)
+5. [Visualisation of different types of 3D spatial units](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Visualisation_of_different_types_of_3D_spatial_units)
 
 
 ## [Hugo Ledoux](https://3d.bk.tudelft.nl/hledoux/)
