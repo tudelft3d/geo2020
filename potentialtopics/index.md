@@ -46,6 +46,8 @@ permalink: /potentialtopics/
 2. [Intelligent routes with social distancing](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics)
 3. [Knowledge-based approach for occlusion regeneration produced by cars in urban point cloud](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics) -->
 
+## [Lucía Díaz-Vilariño](https://www.tudelft.nl/en/staff/l.diaz-vilarino/)
+1. [Converting segmented point clouds into enriched navigable maps for pedestrians in urban scenarios](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Converting_segmented_point_clouds_into_enriched_navigable_maps_for_pedestrians_in_urban_scenarios)
 
 ## [Clara García-Sánchez](https://3d.bk.tudelft.nl/gsclara/)
 <!-- 1. [Web application for Urban Computational Fluid Dynamics Simulations Set-Up validation](https://3d.bk.tudelft.nl/education/msctopics/#web-application-for-urban-computational-fluid-dynamics-simulations-set-up-validation)
@@ -56,11 +58,11 @@ permalink: /potentialtopics/
 
 
 ## Eftychia Kalogianni
-<!-- 1. [BIM as input for 3D Cadastre](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics)
+1. [BIM as input for 3D Cadastre](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics)
 2. [Digital twins and land administration: linking the legal with virtual reality](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics)
 3. [Explore and visualise 2030 SDGs related to land administration](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics)
 4. [Modelling and visualisation of air rights (in the context of LADM)](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics)
-5. [Visualisation of different types of 3D spatial units](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics) -->
+5. [Visualisation of different types of 3D spatial units](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics)
 
 
 ## [Hugo Ledoux](https://3d.bk.tudelft.nl/hledoux/)
@@ -79,11 +81,10 @@ permalink: /potentialtopics/
 
 
 ## Martijn Meijers
-<!-- 1. [Improving the content of vario-scale maps](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics)
-2. [Labeling vario-scale maps](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics)
-3. [Making a vario-scale 4D point cloud](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics)
-4. [Predictive fetching of geo-web resources](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics)
-5. [Straight skeletons for vario-scale maps](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics)
+1. [Usability of the vario-scale approach in interactive and dynamic mapping](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Usability_of_the_vario_45scale_approach_in_interactive_and_dynamic_mapping)
+2. [Straight skeletons for vario-scale maps](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Straight_skeletons_for_vario_45scale_maps)
+3. [Predictive fetching of geo-web resources](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Predictive_fetching_of_geo_45web_resources)
+4. [Making a vario-scale 4D point cloud](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Making_a_vario_45scale_4D_point_cloud)
 
  -->
 ## [Liangliang Nan](https://3d.bk.tudelft.nl/liangliang)
@@ -136,6 +137,9 @@ permalink: /potentialtopics/
 <!-- 1. [Investigate modeling of road networks in CityJSON, with implicit geometries](https://3d.bk.tudelft.nl/education/msctopics/#where-do-i-turn-investigate-modelling-of-road-networks-in-cityjson-with-implicit-geometries) -->
 1. [Investigate the use of CityJSON in (serious) games](https://3d.bk.tudelft.nl/education/msctopics/#investigate-the-use-of-cityjson-in-serious-games)
 
+## [Robert Voûte](http://www.gdmc.nl/staff/)
+1. [Point clouds and voxelized spaces, distinguish the differences, the pros and cons of both in a validated comparison](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Point_clouds_and_voxelized_spaces_44_distinguish_the_differences_44_the_pros_and_cons_of_both_in_a_validated_comparison)
+2. [Modelling a military scene in under-, on- and above ground in one integrated way improving collaboration](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Modelling_a_military_scene_in_under_45_44_on_45_and_above_ground_in_one_integrated_way_improving_collaboration_between_armed_forces_and_at_the_same_time_improving_using_shared_data)
 
 ## [Frederika Welle Donker](https://www.tudelft.nl/en/staff/f.m.welledonker/)
 <!-- 1. [Financial and economic aspects of the open data ecosystem](https://kcopendata.eu/education/thesis-topics/#financial)
