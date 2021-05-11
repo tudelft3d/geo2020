@@ -80,13 +80,12 @@ permalink: /potentialtopics/
 <!-- 2. [User interface design of geoportals](https://kcopendata.eu/education/thesis-topics/#geoportals) -->
 
 
-## Martijn Meijers
+## [Martijn Meijers](https://www.tudelft.nl/en/staff/b.m.meijers/)
 1. [Usability of the vario-scale approach in interactive and dynamic mapping](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Usability_of_the_vario_45scale_approach_in_interactive_and_dynamic_mapping)
 2. [Straight skeletons for vario-scale maps](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Straight_skeletons_for_vario_45scale_maps)
 3. [Predictive fetching of geo-web resources](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Predictive_fetching_of_geo_45web_resources)
 4. [Making a vario-scale 4D point cloud](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Making_a_vario_45scale_4D_point_cloud)
 
- -->
 ## [Liangliang Nan](https://3d.bk.tudelft.nl/liangliang)
 <!-- 1. [Instance segmentation of trees from point clouds.](https://3d.bk.tudelft.nl/education/msctopics/#instance-segmentation-of-trees-from-point-clouds)
 2. Piecewise planar object reconstruction using deep learning -->
