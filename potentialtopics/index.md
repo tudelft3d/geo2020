@@ -90,6 +90,7 @@ permalink: /potentialtopics/
 1. [Instance segmentation of trees from point clouds](https://3d.bk.tudelft.nl/education/msctopics/#instance-segmentation-of-trees-from-point-clouds)
 2. [Synthesizing semantically meaningful building details](https://3d.bk.tudelft.nl/education/msctopics/#synthesizing-semantically-meaningful-building-details)
 3. [Curve network extraction for MVS building meshes](https://3d.bk.tudelft.nl/education/msctopics/#curve-network-extraction-for-mvs-building-meshes)
+4. [Image-guided automatic artistic route finding](https://3d.bk.tudelft.nl/education/msctopics/#image-guided-automatic-artistic-route-finding)
 
 
 ## [Francesca Noardo](http://www.noardo.eu/)
