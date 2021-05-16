@@ -89,7 +89,7 @@ permalink: /potentialtopics/
 ## [Liangliang Nan](https://3d.bk.tudelft.nl/liangliang)
 1. [Synthesizing semantically meaningful building details](https://3d.bk.tudelft.nl/education/msctopics/#synthesizing-semantically-meaningful-building-details)
 2. [Curve network extraction for MVS building meshes](https://3d.bk.tudelft.nl/education/msctopics/#curve-network-extraction-for-mvs-building-meshes)
-3. [Image-guided automatic artistic route finding](https://3d.bk.tudelft.nl/education/msctopics/#image-guided-automatic-artistic-route-finding)
+3. [Image-guided artistic route finding](https://3d.bk.tudelft.nl/education/msctopics/#image-guided-artistic-route-finding)
 
 
 ## [Francesca Noardo](http://www.noardo.eu/)
