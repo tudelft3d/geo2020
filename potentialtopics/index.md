@@ -35,10 +35,12 @@ permalink: /potentialtopics/
 
 
 ## [Giorgio Agugiaro](https://3d.bk.tudelft.nl/gagugiaro/)
-<!-- 1. [Coupling 3D city models with Ladybug tools for environmental analyses](https://3d.bk.tudelft.nl/education/msctopics/#coupling-3d-city-models-with-ladybug-tools-for-environmental-analyses)
-2. [Test and extension of a GIS-supported design tool for new urban development areas](https://3d.bk.tudelft.nl/education/msctopics/#testing-and-extension-of-a-gis-supported-design-tool-for-new-urban-development-areas)
-3. [GIS-based integrated modelling of building stock and supply networks for assessment of near-zero energy districts](https://3d.bk.tudelft.nl/education/msctopics/#gis-based-integrated-modelling-of-building-stock-and-supply-networks-for-assessment-of-near-zero-energy-districts)
-4. [Integrated modelling of utility networks in the urban environment](https://3d.bk.tudelft.nl/education/msctopics/#integrated-modelling-of-utility-networks-in-the-urban-environment) -->
+ 1. [Heating energy demand of the Dutch building stock with the help of the 3D BAG 2.0](https://3d.bk.tudelft.nl/education/msctopics/)
+ 2. [Dynamic energy simulations based on the 3D BAG 2.0](https://3d.bk.tudelft.nl/education/msctopics/)
+ 3. [Development of a QGIS plugin for the CityGML 3D City Database](https://3d.bk.tudelft.nl/education/msctopics/)
+ 4. [Extension of a GIS-supported design tool for new urban development areas](https://3d.bk.tudelft.nl/education/msctopics/#extension-of-a-gis-supported-design-tool-for-new-urban-development-areas)
+ 5. [Coupling 3D city models with Ladybug tools for environmental analyses](https://3d.bk.tudelft.nl/education/msctopics/#coupling-3d-city-models-with-ladybug-tools-for-environmental-analyses)
+ 6. [Integrated modelling of utility networks in the urban environment](https://3d.bk.tudelft.nl/education/msctopics/#integrated-modelling-of-utility-networks-in-the-urban-environment)
 
 
 ## Jesús Balado Frías
