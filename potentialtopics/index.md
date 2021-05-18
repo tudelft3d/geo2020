@@ -35,9 +35,9 @@ permalink: /potentialtopics/
 
 
 ## [Giorgio Agugiaro](https://3d.bk.tudelft.nl/gagugiaro/)
- 1. [Heating energy demand of the Dutch building stock with the help of the 3D BAG 2.0](https://3d.bk.tudelft.nl/education/msctopics/)
- 2. [Dynamic energy simulations based on the 3D BAG 2.0](https://3d.bk.tudelft.nl/education/msctopics/)
- 3. [Development of a QGIS plugin for the CityGML 3D City Database](https://3d.bk.tudelft.nl/education/msctopics/)
+ 1. [Heating energy demand of the Dutch building stock with the help of the 3D BAG 2.0](https://3d.bk.tudelft.nl/education/msctopics/#heating-energy-demand-of-the-dutch-building-stock-with-the-help-of-the-3d-bag-20)
+ 2. [Dynamic energy simulations based on the 3D BAG 2.0](https://3d.bk.tudelft.nl/education/msctopics/#dynamic-energy-simulations-based-on-the-3d-bag-20)
+ 3. [Development of a QGIS plugin for the CityGML 3D City Database](https://3d.bk.tudelft.nl/education/msctopics/#development-of-a-qgis-plugin-for-the-citygml-3d-city-database)
  4. [Extension of a GIS-supported design tool for new urban development areas](https://3d.bk.tudelft.nl/education/msctopics/#extension-of-a-gis-supported-design-tool-for-new-urban-development-areas)
  5. [Coupling 3D city models with Ladybug tools for environmental analyses](https://3d.bk.tudelft.nl/education/msctopics/#coupling-3d-city-models-with-ladybug-tools-for-environmental-analyses)
  6. [Integrated modelling of utility networks in the urban environment](https://3d.bk.tudelft.nl/education/msctopics/#integrated-modelling-of-utility-networks-in-the-urban-environment)
