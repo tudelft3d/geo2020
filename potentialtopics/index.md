@@ -74,7 +74,7 @@ permalink: /potentialtopics/
 1. [Something with streaming TINs for massive datasets](https://3d.bk.tudelft.nl/education/msctopics/#something-with-streaming-tins-for-massive-datasets)
 
 
-## [Camilo León-Sánchez](https://www.tudelft.nl/en/staff/c.a.leonsanchez/?cHash=71b45d7f95785818f4d5f0223d963d0b)
+## [Camilo León-Sánchez](https://3d.bk.tudelft.nl/cleon/)
 1. [Development and Testing of the Energy Extension for CityJSON (v1.x)](https://github.com/tudelft3d/website/blob/main/education/msctopics/index.md#development-and-testing-of-the-energy-extension-for-cityjson-v1x)
 
 ## Haicheng Liu
