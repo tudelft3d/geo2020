@@ -1,0 +1,25 @@
+name: jekyll build
+
+on: 
+  push:
+    branches: 
+    - main
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Set up Ruby 2.6
+      uses: actions/setup-ruby@v1
+      with:
+        ruby-version: 2.6.x
+    - name: Install dependencies
+      run: |
+        gem install jekyll parslet htmlentities
+    - uses: actions/checkout@v1
+    - name: jekyll build
+      run: jekyll build --trace
+    - name: trigger update
+      run: curl -L ${{ secrets.UPDATE_URL }}
