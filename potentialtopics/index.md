@@ -53,11 +53,11 @@ permalink: /potentialtopics/
 1. [Converting segmented point clouds into enriched navigable maps for pedestrians in urban scenarios](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Converting_segmented_point_clouds_into_enriched_navigable_maps_for_pedestrians_in_urban_scenarios)
 
 ## [Clara García-Sánchez](https://3d.bk.tudelft.nl/gsclara/)
-<!-- 1. [Web application for Urban Computational Fluid Dynamics Simulations Set-Up validation](https://3d.bk.tudelft.nl/education/msctopics/#web-application-for-urban-computational-fluid-dynamics-simulations-set-up-validation)
-2. [Exploring efficient ways to visualise and handle large data sets](https://3d.bk.tudelft.nl/education/msctopics/#exploring-efficient-ways-to-visualize-and-handle-large-data-sets)
-3. [Improving automatic meshing for buildings](https://3d.bk.tudelft.nl/education/msctopics/#improving-automatic-meshing-for-buildings)
-4. [Modelling tree topology effects on wind](https://3d.bk.tudelft.nl/education/msctopics/#modelling-tree-topology-effects-on-wind)
-5. [Modelling wind flows around beach housing to promote dune formation for flood protection](https://3d.bk.tudelft.nl/education/msctopics/#modelling-wind-flows-around-beach-housing-to-promote-dune-formation-for-flood-protection) -->
+1. [Web application for Urban Computational Fluid Dynamics Simulations Set-Up validation](https://3d.bk.tudelft.nl/education/msctopics/#web-application-for-urban-computational-fluid-dynamics-simulations-set-up-validation)
+2. [Optimizing building mesh designs for computational fluid dynamics using machine learning.](https://3d.bk.tudelft.nl/education/msctopics/#optimizing-building-mesh-designs-for-computational-fluid-dynamics-using-machine-learning)
+3. [To mesh or not to mesh: immersed boundary methods and porosity in OpenFOAM](https://3d.bk.tudelft.nl/education/msctopics/#to-mesh-or-not-to-mesh-immersed-boundary-methods-and-porosity-in-openfoam) 
+4. [Improving automatic meshing for buildings](https://3d.bk.tudelft.nl/education/msctopics/#improving-automatic-meshing-for-buildings)
+5. [Modelling tree topology effects on wind](https://3d.bk.tudelft.nl/education/msctopics/#modelling-tree-topology-effects-on-wind)
 
 
 ## Eftychia Kalogianni
