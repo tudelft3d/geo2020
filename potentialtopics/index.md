@@ -44,7 +44,7 @@ permalink: /potentialtopics/
  6. [Integrated modelling of utility networks in the urban environment](https://3d.bk.tudelft.nl/education/msctopics/#integrated-modelling-of-utility-networks-in-the-urban-environment)
 
 
-## Jesús Balado Frías
+<!-- ## Jesús Balado Frías -->
 <!-- 1. [Design and improvement of self-adaptive 3D structuring elements for mathematical morphology in point clouds](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics)
 2. [Intelligent routes with social distancing](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics)
 3. [Knowledge-based approach for occlusion regeneration produced by cars in urban point cloud](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics) -->
@@ -77,11 +77,11 @@ permalink: /potentialtopics/
 ## [Camilo León-Sánchez](https://3d.bk.tudelft.nl/cleon/)
 1. [Development and Testing of the Energy Extension for CityJSON (v1.x)](https://github.com/tudelft3d/website/blob/main/education/msctopics/index.md#development-and-testing-of-the-energy-extension-for-cityjson-v1x)
 
-## Haicheng Liu
+<!-- ## Haicheng Liu -->
 <!-- 1. [Showing Point Clouds in VR](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics) -->
 
 
-## [Bastiaan van Loenen](https://www.tudelft.nl/en/staff/b.vanloenen/)
+<!-- ## [Bastiaan van Loenen](https://www.tudelft.nl/en/staff/b.vanloenen/) -->
 <!-- 1. [Governance of the open data ecosystem](https://kcopendata.eu/education/thesis-topics/#IP) -->
 <!-- 2. [User interface design of geoportals](https://kcopendata.eu/education/thesis-topics/#geoportals) -->
 
@@ -98,12 +98,12 @@ permalink: /potentialtopics/
 3. [Image-guided artistic route finding](https://3d.bk.tudelft.nl/education/msctopics/#image-guided-artistic-route-finding)
 
 
-## [Francesca Noardo](http://www.noardo.eu/)
+<!-- ## [Francesca Noardo](http://www.noardo.eu/) -->
 <!-- 1. [3D digital urban regulations to use GeoBIM for building permission checks](https://3d.bk.tudelft.nl/education/msctopics/#3d-digital-urban-regulations-to-use-geobim-for-building-permission-checks)
 2. [Inferring the needed building permissions from a 3D building model](https://3d.bk.tudelft.nl/education/msctopics/#inferring-the-needed-building-permission-from-a-3d-building-model)
  -->
 
-## Peter van Oosterom
+<!-- ## Peter van Oosterom -->
 <!-- 1. [Adjustment of 20 million boundaries](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics) -->
 <!-- 2. [BIM as input for 3D Cadastre](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics) -->
 <!-- 3. [Historic development of the Dutch municipalities](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics) -->
@@ -111,7 +111,7 @@ permalink: /potentialtopics/
 <!-- 5. [The LADM as Linked Open Data](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics) -->
 
 
-## Dongliang Peng
+<!-- ## Dongliang Peng -->
 <!-- 1. [Detecting narrow parts](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics)
 2. [Reducing distortion of map features when using compatible triangulations](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics) -->
 
@@ -121,19 +121,19 @@ permalink: /potentialtopics/
 2. [Point cloud normal estimation based on the 3D medial axis transform](https://3d.bk.tudelft.nl/education/msctopics/#point-cloud-normal-estimation-based-on-the-3d-medial-axis-transform) -->
 
 
-## [Hendrik Ploeger](https://www.tudelft.nl/staff/h.d.ploeger/)
+<!-- ## [Hendrik Ploeger](https://www.tudelft.nl/staff/h.d.ploeger/) -->
 <!-- 1. [Intellectual property & data ownership in the open data ecosystem](https://kcopendata.eu/education/thesis-topics/#IP) 
 2. [Privacy in the open data ecosystem](https://kcopendata.eu/education/thesis-topics/#privacy-and-open-data)
 3. [Liability in the open data ecosystem](https://kcopendata.eu/education/thesis-topics/#liability)
  -->
 
 
-## [Jantien Stoter](https://3d.bk.tudelft.nl/jstoter/)
+<!-- ## [Jantien Stoter](https://3d.bk.tudelft.nl/jstoter/) -->
 <!-- 1. [Developing Level of Detail framework for 3D cadastre implementation in practice](https://www.fig.net/resources/proceedings/fig_proceedings/fig2020/papers/ts04e/TS04E_stoter_ho_et_al_10503_abs.pdf) [with Kadaster] -->
 <!-- 2. [Reconstructing a 3D road network for the whole Netherlands (for the National Road Data set (NWB))](https://nationaalwegenbestand.nl/nieuws/hoogte-informatie-toegevoegd-aan-nwb-voor-omgevingswet) [with NWB] -->
 
 
-## Edward Verbree
+<!-- ## Edward Verbree -->
 <!-- 1. [Investigating the reliability of indoor objects to act as landmarks](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics) -->
 <!-- 2. [Vision application for unpacking boxes (in cooperation with Copal)](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics) -->
 <!-- 3. [Cadastral map quality](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics) -->
@@ -147,7 +147,7 @@ permalink: /potentialtopics/
 1. [Point clouds and voxelized spaces, distinguish the differences, the pros and cons of both in a validated comparison](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Point_clouds_and_voxelized_spaces_44_distinguish_the_differences_44_the_pros_and_cons_of_both_in_a_validated_comparison)
 2. [Modelling a military scene in under-, on- and above ground in one integrated way improving collaboration](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Modelling_a_military_scene_in_under_45_44_on_45_and_above_ground_in_one_integrated_way_improving_collaboration_between_armed_forces_and_at_the_same_time_improving_using_shared_data)
 
-## [Frederika Welle Donker](https://www.tudelft.nl/en/staff/f.m.welledonker/)
+<!-- ## [Frederika Welle Donker](https://www.tudelft.nl/en/staff/f.m.welledonker/) -->
 <!-- 1. [Financial and economic aspects of the open data ecosystem](https://kcopendata.eu/education/thesis-topics/#financial)
 2. [Design of a user driven open data ecosystem](https://kcopendata.eu/education/thesis-topics/#userdriven) [](https://kcopendata.eu/education/thesis-topics/#userdriven)
 3. [Assessment of the open data ecosystem](https://kcopendata.eu/education/thesis-topics/#ODECO)
