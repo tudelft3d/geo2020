@@ -72,8 +72,10 @@ permalink: /potentialtopics/
 ## [Camilo León-Sánchez](https://3d.bk.tudelft.nl/cleon/)
 1. [Development and Testing of the Energy Extension for CityJSON (v1.x)](https://github.com/tudelft3d/website/blob/main/education/msctopics/index.md#development-and-testing-of-the-energy-extension-for-cityjson-v1x)
 
-<!-- ## Haicheng Liu -->
-<!-- 1. [Showing Point Clouds in VR](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics) -->
+
+## [Haicheng Liu](http://www.gdmc.nl/staff/)
+1. [Extending AR point clouds to streets](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Extending_AR_point_clouds_to_streets)
+2. [Change detection using LoD](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Change_detection_using_LoD)
 
 
 <!-- ## [Bastiaan van Loenen](https://www.tudelft.nl/en/staff/b.vanloenen/) -->
