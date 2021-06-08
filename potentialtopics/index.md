@@ -106,11 +106,6 @@ permalink: /potentialtopics/
 <!-- 5. [The LADM as Linked Open Data](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics) -->
 
 
-<!-- ## Dongliang Peng -->
-<!-- 1. [Detecting narrow parts](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics)
-2. [Reducing distortion of map features when using compatible triangulations](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics) -->
-
-
 <!-- ## [Ravi Peters](https://3d.bk.tudelft.nl/rypeters)
 1. [Improving the automatic LoD2 building reconstruction from AHN3](https://3d.bk.tudelft.nl/education/msctopics/#improving-the-automatic-lod2-building-reconstruction-from-ahn3)
 2. [Point cloud normal estimation based on the 3D medial axis transform](https://3d.bk.tudelft.nl/education/msctopics/#point-cloud-normal-estimation-based-on-the-3d-medial-axis-transform) -->
