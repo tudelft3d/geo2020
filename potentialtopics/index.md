@@ -80,7 +80,7 @@ permalink: /potentialtopics/
 
 ## [Bastiaan van Loenen](https://www.tudelft.nl/en/staff/b.vanloenen/)
 1. [Governance of the open data ecosystem](https://kcopendata.eu/education/thesis-topics/#IP)
-2. Bridging the information gap between public and private sector (https://kcopendata.eu/education/thesis-topics/#bridging)
+2. [Bridging the information gap between public and private sector](https://kcopendata.eu/education/thesis-topics/#bridging)
 
 
 ## [Martijn Meijers](https://www.tudelft.nl/en/staff/b.m.meijers/)
@@ -142,7 +142,7 @@ permalink: /potentialtopics/
 ## [Frederika Welle Donker](https://www.tudelft.nl/en/staff/f.m.welledonker/)
 1. [Financial and economic aspects of the open data ecosystem](https://kcopendata.eu/education/thesis-topics/#financial)
 2. [Design of a user driven open data ecosystem](https://kcopendata.eu/education/thesis-topics/#userdriven)
-3. Open SDI: user motivations (https://kcopendata.eu/education/thesis-topics/#the-open-data-user)
+3. [Open SDI: user motivations](https://kcopendata.eu/education/thesis-topics/#the-open-data-user)
 4. [Assessment of the open data ecosystem](https://kcopendata.eu/education/thesis-topics/#ODECO)
  
 
