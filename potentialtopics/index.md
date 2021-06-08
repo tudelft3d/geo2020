@@ -55,7 +55,7 @@ permalink: /potentialtopics/
 5. [Modelling tree topology effects on wind](https://3d.bk.tudelft.nl/education/msctopics/#modelling-tree-topology-effects-on-wind)
 
 
-## Eftychia Kalogianni
+## [Eftychia Kalogianni](http://www.gdmc.nl/staff/)
 1. [BIM as input for 3D Cadastre](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#BIM_as_input_for_3D_Cadastre)
 2. [Digital twins and land administration: linking the legal with virtual reality](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Digital_twins_and_land_administration:_linking_the_legal_with_virtual_reality)
 3. [Explore and visualise 2030 SDGs related to land administration](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Explore_and_visualise_2030_SDGs_related_to_land_administration)
