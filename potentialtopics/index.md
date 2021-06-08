@@ -44,11 +44,6 @@ permalink: /potentialtopics/
  6. [Integrated modelling of utility networks in the urban environment](https://3d.bk.tudelft.nl/education/msctopics/#integrated-modelling-of-utility-networks-in-the-urban-environment)
 
 
-<!-- ## Jesús Balado Frías -->
-<!-- 1. [Design and improvement of self-adaptive 3D structuring elements for mathematical morphology in point clouds](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics)
-2. [Intelligent routes with social distancing](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics)
-3. [Knowledge-based approach for occlusion regeneration produced by cars in urban point cloud](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics) -->
-
 ## [Lucía Díaz-Vilariño](https://www.tudelft.nl/en/staff/l.diaz-vilarino/)
 1. [Converting segmented point clouds into enriched navigable maps for pedestrians in urban scenarios](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Converting_segmented_point_clouds_into_enriched_navigable_maps_for_pedestrians_in_urban_scenarios)
 
