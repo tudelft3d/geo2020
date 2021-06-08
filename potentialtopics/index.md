@@ -81,9 +81,10 @@ permalink: /potentialtopics/
 <!-- 1. [Showing Point Clouds in VR](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics) -->
 
 
-<!-- ## [Bastiaan van Loenen](https://www.tudelft.nl/en/staff/b.vanloenen/) -->
-<!-- 1. [Governance of the open data ecosystem](https://kcopendata.eu/education/thesis-topics/#IP) -->
-<!-- 2. [User interface design of geoportals](https://kcopendata.eu/education/thesis-topics/#geoportals) -->
+## [Bastiaan van Loenen](https://www.tudelft.nl/en/staff/b.vanloenen/)
+1. [Governance of the open data ecosystem](https://kcopendata.eu/education/thesis-topics/#IP)
+2. Bridging the information gap between public and private sector (https://kcopendata.eu/education/thesis-topics/#bridging)
+3. [User interface design of geoportals](https://kcopendata.eu/education/thesis-topics/#geoportals)
 
 
 ## [Martijn Meijers](https://www.tudelft.nl/en/staff/b.m.meijers/)
@@ -121,11 +122,11 @@ permalink: /potentialtopics/
 2. [Point cloud normal estimation based on the 3D medial axis transform](https://3d.bk.tudelft.nl/education/msctopics/#point-cloud-normal-estimation-based-on-the-3d-medial-axis-transform) -->
 
 
-<!-- ## [Hendrik Ploeger](https://www.tudelft.nl/staff/h.d.ploeger/) -->
-<!-- 1. [Intellectual property & data ownership in the open data ecosystem](https://kcopendata.eu/education/thesis-topics/#IP) 
+## [Hendrik Ploeger](https://www.tudelft.nl/staff/h.d.ploeger/)
+1. [Intellectual property & data ownership in the open data ecosystem](https://kcopendata.eu/education/thesis-topics/#IP) 
 2. [Privacy in the open data ecosystem](https://kcopendata.eu/education/thesis-topics/#privacy-and-open-data)
 3. [Liability in the open data ecosystem](https://kcopendata.eu/education/thesis-topics/#liability)
- -->
+
 
 
 <!-- ## [Jantien Stoter](https://3d.bk.tudelft.nl/jstoter/) -->
@@ -147,10 +148,10 @@ permalink: /potentialtopics/
 1. [Point clouds and voxelized spaces, distinguish the differences, the pros and cons of both in a validated comparison](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Point_clouds_and_voxelized_spaces_44_distinguish_the_differences_44_the_pros_and_cons_of_both_in_a_validated_comparison)
 2. [Modelling a military scene in under-, on- and above ground in one integrated way improving collaboration](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Modelling_a_military_scene_in_under_45_44_on_45_and_above_ground_in_one_integrated_way_improving_collaboration_between_armed_forces_and_at_the_same_time_improving_using_shared_data)
 
-<!-- ## [Frederika Welle Donker](https://www.tudelft.nl/en/staff/f.m.welledonker/) -->
-<!-- 1. [Financial and economic aspects of the open data ecosystem](https://kcopendata.eu/education/thesis-topics/#financial)
-2. [Design of a user driven open data ecosystem](https://kcopendata.eu/education/thesis-topics/#userdriven) [](https://kcopendata.eu/education/thesis-topics/#userdriven)
-3. [Assessment of the open data ecosystem](https://kcopendata.eu/education/thesis-topics/#ODECO)
- --> 
+## [Frederika Welle Donker](https://www.tudelft.nl/en/staff/f.m.welledonker/)
+1. [Financial and economic aspects of the open data ecosystem](https://kcopendata.eu/education/thesis-topics/#financial)
+2. [Design of a user driven open data ecosystem](https://kcopendata.eu/education/thesis-topics/#userdriven)
+3. Open SDI: user motivations (https://kcopendata.eu/education/thesis-topics/#the-open-data-user)
+4. [Assessment of the open data ecosystem](https://kcopendata.eu/education/thesis-topics/#ODECO)
  
 
