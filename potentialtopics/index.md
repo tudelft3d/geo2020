@@ -44,11 +44,6 @@ permalink: /potentialtopics/
  6. [Integrated modelling of utility networks in the urban environment](https://3d.bk.tudelft.nl/education/msctopics/#integrated-modelling-of-utility-networks-in-the-urban-environment)
 
 
-<!-- ## Jesús Balado Frías -->
-<!-- 1. [Design and improvement of self-adaptive 3D structuring elements for mathematical morphology in point clouds](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics)
-2. [Intelligent routes with social distancing](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics)
-3. [Knowledge-based approach for occlusion regeneration produced by cars in urban point cloud](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics) -->
-
 ## [Lucía Díaz-Vilariño](https://www.tudelft.nl/en/staff/l.diaz-vilarino/)
 1. [Converting segmented point clouds into enriched navigable maps for pedestrians in urban scenarios](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Converting_segmented_point_clouds_into_enriched_navigable_maps_for_pedestrians_in_urban_scenarios)
 
@@ -60,7 +55,7 @@ permalink: /potentialtopics/
 5. [Modelling tree topology effects on wind](https://3d.bk.tudelft.nl/education/msctopics/#modelling-tree-topology-effects-on-wind)
 
 
-## Eftychia Kalogianni
+## [Eftychia Kalogianni](http://www.gdmc.nl/staff/)
 1. [BIM as input for 3D Cadastre](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#BIM_as_input_for_3D_Cadastre)
 2. [Digital twins and land administration: linking the legal with virtual reality](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Digital_twins_and_land_administration:_linking_the_legal_with_virtual_reality)
 3. [Explore and visualise 2030 SDGs related to land administration](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Explore_and_visualise_2030_SDGs_related_to_land_administration)
@@ -77,8 +72,10 @@ permalink: /potentialtopics/
 ## [Camilo León-Sánchez](https://3d.bk.tudelft.nl/cleon/)
 1. [Development and Testing of the Energy Extension for CityJSON (v1.x)](https://github.com/tudelft3d/website/blob/main/education/msctopics/index.md#development-and-testing-of-the-energy-extension-for-cityjson-v1x)
 
-<!-- ## Haicheng Liu -->
-<!-- 1. [Showing Point Clouds in VR](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics) -->
+
+## [Haicheng Liu](http://www.gdmc.nl/staff/)
+1. [Extending AR point clouds to streets](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Extending_AR_point_clouds_to_streets)
+2. [Change detection using LoD](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Change_detection_using_LoD)
 
 
 <!-- ## [Bastiaan van Loenen](https://www.tudelft.nl/en/staff/b.vanloenen/) -->
@@ -109,11 +106,6 @@ permalink: /potentialtopics/
 <!-- 3. [Historic development of the Dutch municipalities](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics) -->
 <!-- 4. [Patterns of room occupancy in houses and their relation with energy use](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics) -->
 <!-- 5. [The LADM as Linked Open Data](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics) -->
-
-
-<!-- ## Dongliang Peng -->
-<!-- 1. [Detecting narrow parts](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics)
-2. [Reducing distortion of map features when using compatible triangulations](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics) -->
 
 
 <!-- ## [Ravi Peters](https://3d.bk.tudelft.nl/rypeters)
