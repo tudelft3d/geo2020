@@ -67,6 +67,7 @@ permalink: /potentialtopics/
 1. [Automatic repair of 3D city models](https://3d.bk.tudelft.nl/education/msctopics/#automatic-repair-of-3d-city-models)
 1. [Space lidar to estimate the height of all buildings in the world?](https://3d.bk.tudelft.nl/education/msctopics/#space-lidar-to-estimate-the-height-of-all-buildings-in-the-world)
 1. [Something with streaming TINs for massive datasets](https://3d.bk.tudelft.nl/education/msctopics/#something-with-streaming-tins-for-massive-datasets)
+1. [Filling the gaps in aerial point clouds with deep learning](https://3d.bk.tudelft.nl/education/msctopics/#filling-the-gaps-in-aerial-point-clouds-with-deep-learning)
 
 
 ## [Camilo León-Sánchez](https://3d.bk.tudelft.nl/cleon/)
