@@ -63,6 +63,9 @@ permalink: /potentialtopics/
 4. [Modelling and visualisation of air rights (in the context of LADM)](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Modelling_and_visualisation_of_air_rights_40in_the_context_of_LADM_41)
 5. [Visualisation of different types of 3D spatial units](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Visualisation_of_different_types_of_3D_spatial_units)
 
+## [Abdullah Kara](https://www.tudelft.nl/en/staff/a.kara/)
+1. [Visualizing and disseminating property valuation information](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Visualizing_and_disseminating_property_valuation_information)
+
 
 ## [Hugo Ledoux](https://3d.bk.tudelft.nl/hledoux/)
 1. [Automatic repair of 3D city models](https://3d.bk.tudelft.nl/education/msctopics/#automatic-repair-of-3d-city-models)
