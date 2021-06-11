@@ -107,12 +107,11 @@ permalink: /potentialtopics/
 2. [Inferring the needed building permissions from a 3D building model](https://3d.bk.tudelft.nl/education/msctopics/#inferring-the-needed-building-permission-from-a-3d-building-model)
  -->
 
-<!-- ## Peter van Oosterom -->
-<!-- 1. [Adjustment of 20 million boundaries](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics) -->
-<!-- 2. [BIM as input for 3D Cadastre](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics) -->
-<!-- 3. [Historic development of the Dutch municipalities](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics) -->
-<!-- 4. [Patterns of room occupancy in houses and their relation with energy use](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics) -->
-<!-- 5. [The LADM as Linked Open Data](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics) -->
+## [Peter van Oosterom](https://www.tudelft.nl/staff/p.j.m.vanoosterom/)
+1. [Cadastral Map Quality](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Cadastral_map_quality)
+2. [The LADM as Linked Open Data](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#The_LADM_as_Linked_Open_Data.)
+3. [Change Detection using LoD](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Change_detection_using_LoD)
+4. [Making a vario-scale 4D point cloud](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Making_a_vario_45scale_4D_point_cloud)
 
 
 <!-- ## [Ravi Peters](https://3d.bk.tudelft.nl/rypeters)
