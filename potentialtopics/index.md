@@ -34,6 +34,7 @@ permalink: /potentialtopics/
 1. [Building perfect planar partitions with quality guarantees (snap rounding)](https://3d.bk.tudelft.nl/education/msctopics/#snap-rounding-in-a-triangulation)  
 1. [Developing an energy extension for CityJSON](https://3d.bk.tudelft.nl/education/msctopics/#development-and-testing-of-the-energy-extension-for-cityjson-v1x)
 1. [Building floor count determination by a Convolutional Neural Network](https://3d.bk.tudelft.nl/education/msctopics/#building-floor-count-determination-by-convolutional-neural-network)
+1. [Developing methods for edge-matching with customisable heuristics](https://3d.bk.tudelft.nl/education/msctopics/#developing-methods-for-edge-matching-with-customisable-heuristics-geometric-topological-and-semantic)
 
 ## [Giorgio Agugiaro](https://3d.bk.tudelft.nl/gagugiaro/)
  1. [Heating energy demand of the Dutch building stock with the help of the 3D BAG 2.0](https://3d.bk.tudelft.nl/education/msctopics/#heating-energy-demand-of-the-dutch-building-stock-with-the-help-of-the-3d-bag-20)
@@ -123,6 +124,7 @@ permalink: /potentialtopics/
 
 ## [Jantien Stoter](https://3d.bk.tudelft.nl/jstoter/)
 1. [Developing Level of Detail framework for 3D cadastre implementation in practice](https://3d.bk.tudelft.nl/education/msctopics/#3d-cadastre)
+2. [Developing methods for edge-matching with customisable heuristics](https://3d.bk.tudelft.nl/education/msctopics/#developing-methods-for-edge-matching-with-customisable-heuristics-geometric-topological-and-semantic)
 
 <!-- 2. [Reconstructing a 3D road network for the whole Netherlands (for the National Road Data set (NWB))](https://nationaalwegenbestand.nl/nieuws/hoogte-informatie-toegevoegd-aan-nwb-voor-omgevingswet) [with NWB] -->
 
