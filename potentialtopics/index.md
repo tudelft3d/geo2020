@@ -136,10 +136,10 @@ permalink: /potentialtopics/
 <!-- 2. [Reconstructing a 3D road network for the whole Netherlands (for the National Road Data set (NWB))](https://nationaalwegenbestand.nl/nieuws/hoogte-informatie-toegevoegd-aan-nwb-voor-omgevingswet) [with NWB] -->
 
 
-<!-- ## Edward Verbree -->
-<!-- 1. [Investigating the reliability of indoor objects to act as landmarks](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics) -->
-<!-- 2. [Vision application for unpacking boxes (in cooperation with Copal)](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics) -->
-<!-- 3. [Cadastral map quality](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics) -->
+## [Edward Verbree](https://www.tudelft.nl/en/staff/e.verbree/)
+1. [Investigating the reliability of indoor objects to act as landmarks](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Topic:_Investigating_the_reliability_of_indoor_objects_to_act_as_landmarks)
+2. [Campus project](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Topic:_Campus_project)
+3. [Positioning and Location Awareness, Point Cloud Cartography or Point Cloud Analysis](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Positioning_and_Location_Awareness_44_Point_Cloud_Cartography_or_Point_Cloud_Analysis)
 
 
 ## [Stelios Vitalis](https://3d.bk.tudelft.nl/svitalis/)
