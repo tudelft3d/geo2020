@@ -66,6 +66,8 @@ permalink: /potentialtopics/
 ## [Abdullah Kara](https://www.tudelft.nl/en/staff/a.kara/)
 1. [Visualizing and disseminating property valuation information](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Visualizing_and_disseminating_property_valuation_information)
 
+## [Martin Kodde](http://www.gdmc.nl/staff/)
+1. [Quality Control of Aerial Image Derivatives ](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Quality_Control_of_Aerial_Image_Derivatives)
 
 ## [Hugo Ledoux](https://3d.bk.tudelft.nl/hledoux/)
 1. [Automatic repair of 3D city models](https://3d.bk.tudelft.nl/education/msctopics/#automatic-repair-of-3d-city-models)
