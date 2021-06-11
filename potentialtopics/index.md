@@ -125,6 +125,9 @@ permalink: /potentialtopics/
 3. [Liability in the open data ecosystem](https://kcopendata.eu/education/thesis-topics/#liability)
 
 
+## [Wilko Quak](http://www.gdmc.nl/staff/)
+1. [Mobility of People](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Topic:_Mobility_of_People)
+
 
 ## [Jantien Stoter](https://3d.bk.tudelft.nl/jstoter/)
 1. [Developing Level of Detail framework for 3D cadastre implementation in practice](https://3d.bk.tudelft.nl/education/msctopics/#3d-cadastre)
