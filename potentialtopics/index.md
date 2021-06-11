@@ -63,6 +63,11 @@ permalink: /potentialtopics/
 4. [Modelling and visualisation of air rights (in the context of LADM)](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Modelling_and_visualisation_of_air_rights_40in_the_context_of_LADM_41)
 5. [Visualisation of different types of 3D spatial units](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Visualisation_of_different_types_of_3D_spatial_units)
 
+## [Abdullah Kara](https://www.tudelft.nl/en/staff/a.kara/)
+1. [Visualizing and disseminating property valuation information](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Visualizing_and_disseminating_property_valuation_information)
+
+## [Martin Kodde](http://www.gdmc.nl/staff/)
+1. [Quality Control of Aerial Image Derivatives ](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Quality_Control_of_Aerial_Image_Derivatives)
 
 ## [Hugo Ledoux](https://3d.bk.tudelft.nl/hledoux/)
 1. [Automatic repair of 3D city models](https://3d.bk.tudelft.nl/education/msctopics/#automatic-repair-of-3d-city-models)
@@ -102,12 +107,11 @@ permalink: /potentialtopics/
 2. [Inferring the needed building permissions from a 3D building model](https://3d.bk.tudelft.nl/education/msctopics/#inferring-the-needed-building-permission-from-a-3d-building-model)
  -->
 
-<!-- ## Peter van Oosterom -->
-<!-- 1. [Adjustment of 20 million boundaries](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics) -->
-<!-- 2. [BIM as input for 3D Cadastre](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics) -->
-<!-- 3. [Historic development of the Dutch municipalities](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics) -->
-<!-- 4. [Patterns of room occupancy in houses and their relation with energy use](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics) -->
-<!-- 5. [The LADM as Linked Open Data](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics) -->
+## [Peter van Oosterom](https://www.tudelft.nl/staff/p.j.m.vanoosterom/)
+1. [Cadastral Map Quality](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Cadastral_map_quality)
+2. [The LADM as Linked Open Data](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#The_LADM_as_Linked_Open_Data.)
+3. [Change Detection using LoD](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Change_detection_using_LoD)
+4. [Making a vario-scale 4D point cloud](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Making_a_vario_45scale_4D_point_cloud)
 
 
 <!-- ## [Ravi Peters](https://3d.bk.tudelft.nl/rypeters)
@@ -121,6 +125,9 @@ permalink: /potentialtopics/
 3. [Liability in the open data ecosystem](https://kcopendata.eu/education/thesis-topics/#liability)
 
 
+## [Wilko Quak](http://www.gdmc.nl/staff/)
+1. [Mobility of People](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Topic:_Mobility_of_People)
+
 
 ## [Jantien Stoter](https://3d.bk.tudelft.nl/jstoter/)
 1. [Developing Level of Detail framework for 3D cadastre implementation in practice](https://3d.bk.tudelft.nl/education/msctopics/#3d-cadastre)
@@ -129,10 +136,10 @@ permalink: /potentialtopics/
 <!-- 2. [Reconstructing a 3D road network for the whole Netherlands (for the National Road Data set (NWB))](https://nationaalwegenbestand.nl/nieuws/hoogte-informatie-toegevoegd-aan-nwb-voor-omgevingswet) [with NWB] -->
 
 
-<!-- ## Edward Verbree -->
-<!-- 1. [Investigating the reliability of indoor objects to act as landmarks](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics) -->
-<!-- 2. [Vision application for unpacking boxes (in cooperation with Copal)](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics) -->
-<!-- 3. [Cadastral map quality](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics) -->
+## [Edward Verbree](https://www.tudelft.nl/en/staff/e.verbree/)
+1. [Investigating the reliability of indoor objects to act as landmarks](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Topic:_Investigating_the_reliability_of_indoor_objects_to_act_as_landmarks)
+2. [Campus project](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Topic:_Campus_project)
+3. [Positioning and Location Awareness, Point Cloud Cartography or Point Cloud Analysis](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Positioning_and_Location_Awareness_44_Point_Cloud_Cartography_or_Point_Cloud_Analysis)
 
 
 ## [Stelios Vitalis](https://3d.bk.tudelft.nl/svitalis/)
