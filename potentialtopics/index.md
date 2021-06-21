@@ -129,6 +129,11 @@ permalink: /potentialtopics/
 1. [Mobility of People](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Topic:_Mobility_of_People)
 
 
+## [Azarakhsh Rafiee](http://www.gdmc.nl/staff/)
+1. [Crosswalk detection for the outdoor navigation of people with visual impairment](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Crosswalk_detection_for_the_outdoor_navigation_of_people_with_visual_impairment)
+2. [Developing a 3D web-based Digital Twin visualization platform based on OGC 3D Tile technique](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Developing_a_3D_web_45based_Digital_Twin_visualization_platform_based_on_OGC_3D_Tile_technique)
+
+
 ## [Jantien Stoter](https://3d.bk.tudelft.nl/jstoter/)
 1. [Developing Level of Detail framework for 3D cadastre implementation in practice](https://3d.bk.tudelft.nl/education/msctopics/#3d-cadastre)
 2. [Developing methods for edge-matching with customisable heuristics](https://3d.bk.tudelft.nl/education/msctopics/#developing-methods-for-edge-matching-with-customisable-heuristics-geometric-topological-and-semantic)
