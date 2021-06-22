@@ -74,6 +74,7 @@ permalink: /potentialtopics/
 1. [Space lidar to estimate the height of all buildings in the world?](https://3d.bk.tudelft.nl/education/msctopics/#space-lidar-to-estimate-the-height-of-all-buildings-in-the-world)
 1. [Something with streaming TINs for massive datasets](https://3d.bk.tudelft.nl/education/msctopics/#something-with-streaming-tins-for-massive-datasets)
 1. [Filling the gaps in aerial point clouds with deep learning](https://3d.bk.tudelft.nl/education/msctopics/#filling-the-gaps-in-aerial-point-clouds-with-deep-learning)
+1. [Enrich the 3DBAG with the "material type" for each surface](https://3d.bk.tudelft.nl/education/msctopics/#enrich-the-3dbag-with-the-material-type-for-each-surface)
 
 
 ## [Camilo León-Sánchez](https://3d.bk.tudelft.nl/cleon/)
