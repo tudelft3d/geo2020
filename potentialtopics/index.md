@@ -56,12 +56,13 @@ permalink: /potentialtopics/
 5. [Modelling tree topology effects on wind](https://3d.bk.tudelft.nl/education/msctopics/#modelling-tree-topology-effects-on-wind)
 
 
-## [Eftychia Kalogianni](http://www.gdmc.nl/staff/)
-1. [BIM as input for 3D Cadastre](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#BIM_as_input_for_3D_Cadastre)
-2. [Digital twins and land administration: linking the legal with virtual reality](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Digital_twins_and_land_administration:_linking_the_legal_with_virtual_reality)
-3. [Explore and visualise 2030 SDGs related to land administration](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Explore_and_visualise_2030_SDGs_related_to_land_administration)
-4. [Modelling and visualisation of air rights (in the context of LADM)](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Modelling_and_visualisation_of_air_rights_40in_the_context_of_LADM_41)
-5. [Visualisation of different types of 3D spatial units](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Visualisation_of_different_types_of_3D_spatial_units)
+## [Eftychia Kalogianni](https://www.tudelft.nl/en/staff/e.kalogianni/)
+1. [An xJSON format for ISO 19152 LADM implementation](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#An_xJSON_format_for_ISO_19152_LADM_implementation)
+2. [Air Rights Restrictions and Responsibilities: investigate, model and visualise them in the context of ISO 19152 LADM](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Air_Rights_Restrictions_and_Responsibilities:_investigate_44_model_44_and_visualise_them_in_the_context_of_ISO_19152_LADM)
+3. [A digital twin based on Land Administration](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#A_digital_twin_based_on_Land_Administration)
+4. [Land Administration indicators for ISO 19152 LADM in line with UN Agenda 2030 SDGs] (https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Land_Administration_indicators_for_ISO_19152_LADM_in_line_with_UN_Agenda_2030_SDGs_and_the_Global_Land_Indicator_Initiative_40GLII_41)
+5. [Visualisation of different types of 3D spatial units] (https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Visualisation_of_different_types_of_3D_spatial_units)
+
 
 ## [Abdullah Kara](https://www.tudelft.nl/en/staff/a.kara/)
 1. [Visualizing and disseminating property valuation information](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Visualizing_and_disseminating_property_valuation_information)
