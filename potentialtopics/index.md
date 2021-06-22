@@ -60,8 +60,8 @@ permalink: /potentialtopics/
 1. [An xJSON format for ISO 19152 LADM implementation](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#An_xJSON_format_for_ISO_19152_LADM_implementation)
 2. [Air Rights Restrictions and Responsibilities: investigate, model and visualise them in the context of ISO 19152 LADM](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Air_Rights_Restrictions_and_Responsibilities:_investigate_44_model_44_and_visualise_them_in_the_context_of_ISO_19152_LADM)
 3. [A digital twin based on Land Administration](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#A_digital_twin_based_on_Land_Administration)
-4. [Land Administration indicators for ISO 19152 LADM in line with UN Agenda 2030 SDGs] (https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Land_Administration_indicators_for_ISO_19152_LADM_in_line_with_UN_Agenda_2030_SDGs_and_the_Global_Land_Indicator_Initiative_40GLII_41)
-5. [Visualisation of different types of 3D spatial units] (https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Visualisation_of_different_types_of_3D_spatial_units)
+4. [Land Administration indicators for ISO 19152 LADM in line with UN Agenda 2030 SDGs](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Land_Administration_indicators_for_ISO_19152_LADM_in_line_with_UN_Agenda_2030_SDGs_and_the_Global_Land_Indicator_Initiative_40GLII_41)
+5. [Visualisation of different types of 3D spatial units](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Visualisation_of_different_types_of_3D_spatial_units)
 
 
 ## [Abdullah Kara](https://www.tudelft.nl/en/staff/a.kara/)
