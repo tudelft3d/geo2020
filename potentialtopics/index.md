@@ -11,7 +11,7 @@ permalink: /potentialtopics/
   </div>
   <div class="message-body">
     <ul>
-      <li>You must submit before 2021-07-01 at 16:00 your top3 in the form below</li>
+      <li>You must submit before 2021-07-06 at 16:00 your top3 in the form below</li>
       <li>Only the 1st supervisor is relevant at this point, the 2nd can be added later</li>
       <li>You can pick any topics below, or you can speak to a geomatics staff and if you agree on a topic, then submit it (with a temporary title)</li>
       <li>If your topic is in collaboration with an external party, keep in mind that several staff follow the <a href="https://3d.bk.tudelft.nl/courses/geo2020/openscience/">requirements for open science</a></li>
