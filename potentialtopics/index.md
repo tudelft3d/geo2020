@@ -108,6 +108,7 @@ permalink: /potentialtopics/
 <!-- 1. [3D digital urban regulations to use GeoBIM for building permission checks](https://3d.bk.tudelft.nl/education/msctopics/#3d-digital-urban-regulations-to-use-geobim-for-building-permission-checks)
 2. [Inferring the needed building permissions from a 3D building model](https://3d.bk.tudelft.nl/education/msctopics/#inferring-the-needed-building-permission-from-a-3d-building-model)
  -->
+ 
 
 ## [Peter van Oosterom](https://www.tudelft.nl/staff/p.j.m.vanoosterom/)
 1. [Cadastral Map Quality](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Cadastral_map_quality)
@@ -116,8 +117,10 @@ permalink: /potentialtopics/
 4. [Making a vario-scale 4D point cloud](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Making_a_vario_45scale_4D_point_cloud)
 
 
-<!-- ## [Ravi Peters](https://3d.bk.tudelft.nl/rypeters)
-1. [Improving the automatic LoD2 building reconstruction from AHN3](https://3d.bk.tudelft.nl/education/msctopics/#improving-the-automatic-lod2-building-reconstruction-from-ahn3)
+## [Ravi Peters](https://3d.bk.tudelft.nl/rypeters)
+1. [Update 3D BAG from different point clouds](https://3d.bk.tudelft.nl/education/msctopics/#Update-3D-BAG-from-different-point-clouds)
+
+<!-- 1. [Improving the automatic LoD2 building reconstruction from AHN3](https://3d.bk.tudelft.nl/education/msctopics/#improving-the-automatic-lod2-building-reconstruction-from-ahn3)
 2. [Point cloud normal estimation based on the 3D medial axis transform](https://3d.bk.tudelft.nl/education/msctopics/#point-cloud-normal-estimation-based-on-the-3d-medial-axis-transform) -->
 
 
