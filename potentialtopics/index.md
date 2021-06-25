@@ -139,7 +139,7 @@ permalink: /potentialtopics/
 ## [Jantien Stoter](https://3d.bk.tudelft.nl/jstoter/)
 1. [Developing Level of Detail framework for 3D cadastre implementation in practice](https://3d.bk.tudelft.nl/education/msctopics/#3d-cadastre)
 2. [Developing methods for edge-matching with customisable heuristics](https://3d.bk.tudelft.nl/education/msctopics/#developing-methods-for-edge-matching-with-customisable-heuristics-geometric-topological-and-semantic)
-3. [Update 3D BAG from different point clouds]{https://3d.bk.tudelft.nl/education/msctopics/#Update-3D-BAG-from-different-point-clouds}
+3. [Update 3D BAG from different point clouds](https://3d.bk.tudelft.nl/education/msctopics/#Update-3D-BAG-from-different-point-clouds)
 
 <!-- 2. [Reconstructing a 3D road network for the whole Netherlands (for the National Road Data set (NWB))](https://nationaalwegenbestand.nl/nieuws/hoogte-informatie-toegevoegd-aan-nwb-voor-omgevingswet) [with NWB] -->
 
