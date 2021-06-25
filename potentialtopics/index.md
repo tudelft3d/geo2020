@@ -118,7 +118,7 @@ permalink: /potentialtopics/
 
 
 ## [Ravi Peters](https://3d.bk.tudelft.nl/rypeters)
-1. [Update 3D BAG from different point clouds](https://3d.bk.tudelft.nl/education/msctopics/#Update-3D-BAG-from-different-point-clouds)
+1. [Update 3D BAG from different point clouds](https://3d.bk.tudelft.nl/education/msctopics/#update-3d-bag-from-different-point-clouds)
 
 <!-- 1. [Improving the automatic LoD2 building reconstruction from AHN3](https://3d.bk.tudelft.nl/education/msctopics/#improving-the-automatic-lod2-building-reconstruction-from-ahn3)
 2. [Point cloud normal estimation based on the 3D medial axis transform](https://3d.bk.tudelft.nl/education/msctopics/#point-cloud-normal-estimation-based-on-the-3d-medial-axis-transform) -->
@@ -142,7 +142,7 @@ permalink: /potentialtopics/
 ## [Jantien Stoter](https://3d.bk.tudelft.nl/jstoter/)
 1. [Developing Level of Detail framework for 3D cadastre implementation in practice](https://3d.bk.tudelft.nl/education/msctopics/#3d-cadastre)
 2. [Developing methods for edge-matching with customisable heuristics](https://3d.bk.tudelft.nl/education/msctopics/#developing-methods-for-edge-matching-with-customisable-heuristics-geometric-topological-and-semantic)
-3. [Update 3D BAG from different point clouds](https://3d.bk.tudelft.nl/education/msctopics/#Update-3D-BAG-from-different-point-clouds)
+3. [Update 3D BAG from different point clouds](https://3d.bk.tudelft.nl/education/msctopics/#update-3d-bag-from-different-point-clouds)
 
 <!-- 2. [Reconstructing a 3D road network for the whole Netherlands (for the National Road Data set (NWB))](https://nationaalwegenbestand.nl/nieuws/hoogte-informatie-toegevoegd-aan-nwb-voor-omgevingswet) [with NWB] -->
 
