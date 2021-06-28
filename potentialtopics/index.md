@@ -11,12 +11,15 @@ permalink: /potentialtopics/
   </div>
   <div class="message-body">
     <ul>
-      <li>You must submit before 2021-07-06 at 16:00 your top3 in the form below</li>
-      <li>Only the 1st supervisor is relevant at this point, the 2nd can be added later</li>
+      <li>There are two rounds to pick a topic: 2021-07-06 and 2021-09-15 </li>
+      <li>Be warned that if you wait for September, then it is possible that your topic is already gone and your favourite supervisor is full</li>
+      <li>A topic can be changed a bit until the P1 (mid-November)</li>
       <li>You can pick any topics below, or you can speak to a geomatics staff and if you agree on a topic, then submit it (with a temporary title)</li>
       <li>If your topic is in collaboration with an external party, keep in mind that several staff follow the <a href="https://3d.bk.tudelft.nl/courses/geo2020/openscience/">requirements for open science</a></li>
+      <li>If you have agreed on a topic with a supervisor and they agree, no need to submit #2 and #3 topic</li>
+      <li>Only the 1st supervisor is relevant at this point, the 2nd can be added later</li>
       <li>Questions? discord channel #geo2020 is the best place to ask</li>
-      <li>We will get back to you as soon as possible in July.</li>
+      <li>We will get back to you as soon as possible in July</li>
     </ul>  
   </div>
 </article>
