@@ -33,11 +33,7 @@ permalink: /potentialtopics/
 ---
 
 ## [Ken Arroyo Ohori](https://3d.bk.tudelft.nl/ken/)
-1. [Extracting useful geometries (eg rooms, storeys, building envelopes) from BIM models](https://3d.bk.tudelft.nl/education/msctopics/#extracting-buildingstoreydwellingroom-shapes-from-a-bim-models)
-1. [Building perfect planar partitions with quality guarantees (snap rounding)](https://3d.bk.tudelft.nl/education/msctopics/#snap-rounding-in-a-triangulation)  
-1. [Developing an energy extension for CityJSON](https://3d.bk.tudelft.nl/education/msctopics/#development-and-testing-of-the-energy-extension-for-cityjson-v1x)
-1. [Building floor count determination by a Convolutional Neural Network](https://3d.bk.tudelft.nl/education/msctopics/#building-floor-count-determination-by-convolutional-neural-network)
-1. [Developing methods for edge-matching with customisable heuristics](https://3d.bk.tudelft.nl/education/msctopics/#developing-methods-for-edge-matching-with-customisable-heuristics-geometric-topological-and-semantic)
+no more topics for this year
 
 ## [Giorgio Agugiaro](https://3d.bk.tudelft.nl/gagugiaro/)
  1. [Heating energy demand of the Dutch building stock with the help of the 3D BAG 2.0](https://3d.bk.tudelft.nl/education/msctopics/#heating-energy-demand-of-the-dutch-building-stock-with-the-help-of-the-3d-bag-20)
