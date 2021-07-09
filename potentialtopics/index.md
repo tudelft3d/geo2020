@@ -81,7 +81,7 @@ no more topics for this year
 
 
 ## [Camilo León-Sánchez](https://3d.bk.tudelft.nl/cleon/)
-1. [Development and Testing of the Energy Extension for CityJSON (v1.x)](https://github.com/tudelft3d/website/blob/main/education/msctopics/index.md#development-and-testing-of-the-energy-extension-for-cityjson-v1x)
+no more topics for the moment
 
 
 ## [Haicheng Liu](http://www.gdmc.nl/staff/)
