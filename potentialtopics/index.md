@@ -73,10 +73,7 @@ no more topics for this year
 1. [Quality Control of Aerial Image Derivatives ](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Quality_Control_of_Aerial_Image_Derivatives)
 
 ## [Hugo Ledoux](https://3d.bk.tudelft.nl/hledoux/)
-1. [Something with streaming TINs for massive datasets](https://3d.bk.tudelft.nl/education/msctopics/#something-with-streaming-tins-for-massive-datasets)
-1. [Filling the gaps in aerial point clouds with deep learning](https://3d.bk.tudelft.nl/education/msctopics/#filling-the-gaps-in-aerial-point-clouds-with-deep-learning)
-1. [Enrich the 3DBAG with the "material type" for each surface](https://3d.bk.tudelft.nl/education/msctopics/#enrich-the-3dbag-with-the-material-type-for-each-surface)
-
+no more topics for this year
 
 ## [Camilo León-Sánchez](https://3d.bk.tudelft.nl/cleon/)
 no more topics for the moment
