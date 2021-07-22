@@ -36,13 +36,14 @@ permalink: /potentialtopics/
 no more topics for this year
 
 ## [Giorgio Agugiaro](https://3d.bk.tudelft.nl/gagugiaro/)
- 1. [Heating energy demand of the Dutch building stock with the help of the 3D BAG 2.0](https://3d.bk.tudelft.nl/education/msctopics/#heating-energy-demand-of-the-dutch-building-stock-with-the-help-of-the-3d-bag-20)
+no more topics for this year
+<!--  1. [Heating energy demand of the Dutch building stock with the help of the 3D BAG 2.0](https://3d.bk.tudelft.nl/education/msctopics/#heating-energy-demand-of-the-dutch-building-stock-with-the-help-of-the-3d-bag-20)
  2. [Dynamic energy simulations based on the 3D BAG 2.0](https://3d.bk.tudelft.nl/education/msctopics/#dynamic-energy-simulations-based-on-the-3d-bag-20)
  3. [Development of a QGIS plugin for the CityGML 3D City Database](https://3d.bk.tudelft.nl/education/msctopics/#development-of-a-qgis-plugin-for-the-citygml-3d-city-database)
  4. [Extension of a GIS-supported design tool for new urban development areas](https://3d.bk.tudelft.nl/education/msctopics/#extension-of-a-gis-supported-design-tool-for-new-urban-development-areas)
  5. [Coupling 3D city models with Ladybug tools for environmental analyses](https://3d.bk.tudelft.nl/education/msctopics/#coupling-3d-city-models-with-ladybug-tools-for-environmental-analyses)
  6. [Integrated modelling of utility networks in the urban environment](https://3d.bk.tudelft.nl/education/msctopics/#integrated-modelling-of-utility-networks-in-the-urban-environment)
-
+ -->
 
 ## [Lucía Díaz-Vilariño](https://www.tudelft.nl/en/staff/l.diaz-vilarino/)
 1. [Converting segmented point clouds into enriched navigable maps for pedestrians in urban scenarios](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Converting_segmented_point_clouds_into_enriched_navigable_maps_for_pedestrians_in_urban_scenarios)
@@ -124,8 +125,8 @@ all topics gone for this year
 3. [Liability in the open data ecosystem](https://kcopendata.eu/education/thesis-topics/#liability)
 
 
-## [Wilko Quak](http://www.gdmc.nl/staff/)
-1. [Mobility of People](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Topic:_Mobility_of_People)
+<!-- ## [Wilko Quak](http://www.gdmc.nl/staff/)
+1. [Mobility of People](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Topic:_Mobility_of_People) -->
 
 
 ## [Azarakhsh Rafiee](http://www.gdmc.nl/staff/)
@@ -153,12 +154,12 @@ all topics gone for this year
 
 ## [Robert Voûte](http://www.gdmc.nl/staff/)
 1. [Point clouds and voxelized spaces, distinguish the differences, the pros and cons of both in a validated comparison](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Point_clouds_and_voxelized_spaces_44_distinguish_the_differences_44_the_pros_and_cons_of_both_in_a_validated_comparison)
-2. [Modelling a military scene in under-, on- and above ground in one integrated way improving collaboration](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Modelling_a_military_scene_in_under_45_44_on_45_and_above_ground_in_one_integrated_way_improving_collaboration_between_armed_forces_and_at_the_same_time_improving_using_shared_data)
+<!-- 2. [Modelling a military scene in under-, on- and above ground in one integrated way improving collaboration](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Modelling_a_military_scene_in_under_45_44_on_45_and_above_ground_in_one_integrated_way_improving_collaboration_between_armed_forces_and_at_the_same_time_improving_using_shared_data) -->
 
 ## [Frederika Welle Donker](https://www.tudelft.nl/en/staff/f.m.welledonker/)
 1. [Financial and economic aspects of the open data ecosystem](https://kcopendata.eu/education/thesis-topics/#financial)
-2. [Design of a user driven open data ecosystem](https://kcopendata.eu/education/thesis-topics/#userdriven)
-3. [Open SDI: user motivations](https://kcopendata.eu/education/thesis-topics/#the-open-data-user)
-4. [Assessment of the open data ecosystem](https://kcopendata.eu/education/thesis-topics/#ODECO)
+1. [Design of a user driven open data ecosystem](https://kcopendata.eu/education/thesis-topics/#userdriven)
+1. [Assessment of the open data ecosystem](https://kcopendata.eu/education/thesis-topics/#ODECO)
+<!-- 3. [Open SDI: user motivations](https://kcopendata.eu/education/thesis-topics/#the-open-data-user) -->
  
 
