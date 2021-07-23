@@ -37,6 +37,7 @@ no more topics for this year
 
 ## [Giorgio Agugiaro](https://3d.bk.tudelft.nl/gagugiaro/)
 no more topics for this year
+
 <!--  1. [Heating energy demand of the Dutch building stock with the help of the 3D BAG 2.0](https://3d.bk.tudelft.nl/education/msctopics/#heating-energy-demand-of-the-dutch-building-stock-with-the-help-of-the-3d-bag-20)
  2. [Dynamic energy simulations based on the 3D BAG 2.0](https://3d.bk.tudelft.nl/education/msctopics/#dynamic-energy-simulations-based-on-the-3d-bag-20)
  3. [Development of a QGIS plugin for the CityGML 3D City Database](https://3d.bk.tudelft.nl/education/msctopics/#development-of-a-qgis-plugin-for-the-citygml-3d-city-database)
