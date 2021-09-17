@@ -17,6 +17,7 @@ permalink: /rules/
 </section>
 ## The official graduation material
 
+- [Official Graduation Manual 2021-2022](GraduationManualGeomatics2021-2022.pdf)
 - [Official Graduation Manual 2020-2021](GraduationManualGeomatics2020-2021.pdf)
 - [Official Graduation Manual 2019-2020](GraduationManualGeomatics2019-2020.pdf)
 - [Official Graduation Manual 2018-2019](GraduationManualGeomatics2018-2019.pdf)
