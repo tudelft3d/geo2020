@@ -14,10 +14,10 @@ permalink: /faq/
 
 - - -
 
-#### Why are there 2 separates courses? GEO2010 & GEO2020
+#### Why are there 2 separates courses? GEO2011 & GEO2020
 
-[GEO2011](http://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=35530) is for the preparation work and up to the P2 (including it).
-If you pass P2, you pass GEO2010 (and get the 10 ECTS).
+[GEO2011](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=59783) is for the preparation work and up to the P2 (including it).
+If you pass P2, you pass GEO2011 (and get the 10 ECTS).
 There is no grade attached to it, it's either a pass or a fail (a retake is possible though).
 
 [GEO2020](http://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=35531) is for the rest of the graduation trajectory; you get a grade at the end of P5 (and the remaining 30 ECTS).
