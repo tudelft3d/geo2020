@@ -300,7 +300,7 @@ Pantelios:
     \ it will be based on  CityGML v. 2.0, the 3DCityDB for PostgreSQL/PostGIS and\
     \ QGIS LTR 3.22.\nThe intended functionalities are to allow the user to connect,\
     \ load, edit features attributes, and update the database using the QGIS plugin."
-- f3b21a8220d8-3DCityDB400x200
+- pantelios.png
 Papakostas: 
 - Theodoros
 - "Robert L. Vo\xFBte"
@@ -391,8 +391,8 @@ Prusti:
     With this project, a GeoBIM translation will be performed in order to extract
     the most important features that must be included in the object registration.'
 - 4626c7f7abfe-bim3.png
-TRIANTAFYLLOU: 
-- GEORGIOS
+Triantafyllou:
+- Georgios
 - Ir. Edward Verbree
 - Dr. Akkelies van Nes
 - "While most concepts\
