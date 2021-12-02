@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Theses starting September 2021"
+title: "Thesis starting September 2021"
 permalink: /theses/2021sep/
 ---
 
