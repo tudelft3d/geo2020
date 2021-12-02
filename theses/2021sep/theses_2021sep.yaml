@@ -47,7 +47,7 @@ Apra:
     \ features of 3D building to enhance the model further. In the end, the performance\
     \ of the model will be evaluated using metrics such as accuracy and mIoU (mean\
     \ Intersection over Union)."
-- 2c6c663b83-CamiloCaceresImageThesis.jpg
+- cc2c6c663b83-CamiloCaceresImageThesis.jpg
 Dardavesis:
 - Ioannis
 - Edward Verbree
@@ -300,7 +300,7 @@ Pantelios:
     \ it will be based on  CityGML v. 2.0, the 3DCityDB for PostgreSQL/PostGIS and\
     \ QGIS LTR 3.22.\nThe intended functionalities are to allow the user to connect,\
     \ load, edit features attributes, and update the database using the QGIS plugin."
-- 3b21a8220d8-3DCityDB400x200.png
+- f3b21a8220d8-3DCityDB400x200
 Papakostas: 
 - Theodoros
 - "Robert L. Vo\xFBte"
