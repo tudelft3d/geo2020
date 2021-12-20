@@ -23,6 +23,7 @@ Apra:
     \ will be explored, as well as their integration to the existing architecture\
     \ and the evolution of the results accuracy."
 - 2d176f79dca6-Thesis_Concept___P1.jpg
+- 3D data integration into a Convolutional Neural Network (CNN) on RGB aerial images to improve the semantic segmentation of roof superstructures on buildings
 "C\xE1ceres": 
 - Camilo
 - Shenglan Du
@@ -48,6 +49,7 @@ Apra:
     \ of the model will be evaluated using metrics such as accuracy and mIoU (mean\
     \ Intersection over Union)."
 - cc2c6c663b83-CamiloCaceresImageThesis.jpg
+- Automated Semantic Segmentation of Aerial Imagery using Synthetic Data
 Dardavesis:
 - Ioannis
 - Edward Verbree
@@ -72,6 +74,7 @@ Dardavesis:
     \ optimal image-matching algorithm for this scenario, as well as the most used\
     \ paths, based on the locations that users were traced, at a certain time period."
 - 653c0bfac73e-p1.png
+- Indoor localisation in public buildings based on captured images of the ceilings
 Feenstra:
 - Jos 
 - Stelios Vitalis 
@@ -97,6 +100,7 @@ Feenstra:
     \ consider a framework in the form of a web-based Visual Programming Language,\
     \ or VPL to facilitate this."
 - 27b200889c2d-thumbnail_1.png
+- Client-side geo-processing using WebAssembly and Visual Programming
 Fu:
 - Runnan
 - "Clara Garc\xEDa-S\xE1nchez" 
@@ -115,6 +119,7 @@ Fu:
     and potential improvements in implicit tree modelling will beexplored considering
     as a reference the explicit tree models.'
 - 2dbc95dec2b2-onepicture_research.png
+- Modeling tree topology effects on wind
 Haoyang: 
 - Dong 
 - Hugo Ledoux
@@ -135,6 +140,7 @@ Haoyang:
     we aim to build a triangulation-based snapping round method so that both the validity
     and robustness of polygons can be guaranteed.'
 - d40eb035c14b-unknown.png
+- Snap rounding in a triangulation
 Jin: 
 - Yuzhen
 - Giorgio Agugiaro 
@@ -153,6 +159,7 @@ Jin:
     developing a Python-based bidirectional interface to feed/retrieve data between
     the 3DCityDB and CitySim.'
 - 29903cd5a24a-3dcdb_citysim_mini.jpg
+- Dynamic energy simulations based on the 3D BAG 2.0
 Keurentjes: 
 - Lisa
 - Hugo Ledoux
@@ -178,6 +185,7 @@ Keurentjes:
     \ the Software will be designed in such a way that it could be extended with more\
     \ repair options."
 - 9ba90df526de-repair.gif
+- Automatic repair of 3D city models
 Kumar: 
 - Pratyush
 - Dr. Azarakhsh Rafiee
@@ -203,6 +211,7 @@ Kumar:
     \ in the platform for neighbourhood development\n4.\tTo enable the visualisations\
     \ to occur in Virtual Reality or Augmented Reality"
 - 488937c960fe-thumbnail.png
+- Developing an OGC 3D tiling technique based scenario analysis platform for digital twins
 Langhorst: 
 - Lars Marinus
 - Ken Arroyo Ohori
@@ -228,6 +237,7 @@ Langhorst:
     \ in the Alhajuela Reservoir as a result of sedimentation, using a machine learning\
     \ algorithm."
 - d01a3552c5ab-Alhajuela.png
+- Predicting sedimentation levels in the Alhajuela reservoir using machine learning techniques with geo-morphometric parameters
 Liu: 
 - Zhenyu
 - Peter van Oosterom
@@ -252,6 +262,7 @@ Liu:
     \ avoid removing parts of the static environment. \nThe research will be conducted\
     \ in collaboration with CycloMedia Technology."
 - 2931e385bdce-dynamic_objs.gif
+- Dynamic Objects Detection and Removal in Mobile Laser Scanning Data
 Mainelli:
 - Xenia Una
 - "Robert Vo\xFBte"
@@ -277,6 +288,7 @@ Mainelli:
     spaces can be intuitively visualised for clear communication to the user, with
     prototype visualisations undergoing user testing and evaluation.'
 - 47515d120420-Screenshot_2021_11_12_at_13.01.07.png
+- Exploring optimal visualisation of indoor-outdoor space boundaries for non-vehicular users in wayfinding applications
 Pantelios: 
 - Konstantinos
 - "Camilo Le\xF3n-S\xE1nchez"
@@ -301,6 +313,7 @@ Pantelios:
     \ QGIS LTR 3.22.\nThe intended functionalities are to allow the user to connect,\
     \ load, edit features attributes, and update the database using the QGIS plugin."
 - pantelios.png
+- Development of a QGIS plugin for the CityGML 3D City Database
 Papakostas: 
 - Theodoros
 - "Robert L. Vo\xFBte"
@@ -326,6 +339,7 @@ Papakostas:
     collaboration between military and civil parties in terms of interoperability
     and efficiency.'
 - bd695b09089c-img.jpg
+- Modelling a military scene in under-, on- and above ground in one integrated way improving collaboration
 Pavlidou: 
 - Androniki
 - Giorgio Agugiaro
@@ -350,6 +364,7 @@ Pavlidou:
     \ (e.g. sewage) in an area of the TU campus, observing their current condition,\
     \ and proposing a strategy to harmonize and integrate the existing information."
 - 31790115f0d6-Thesis_image.jpg
+- Integrated modeling of utility networks in the urban environment
 Prihanggo: 
 - Maundri
 - Frederika Welle Donker
@@ -375,6 +390,7 @@ Prihanggo:
     the most suitable funding model in producing large-scale maps data towards open
     SDI in Indonesia.'
 - 6878bbb80c2f-P1Submission_MaundriP.png
+- Assessing Various Funding Schema in Large-Scale Maps Production Towards Open SDI in Indonesia
 Prusti: 
 - Maarit
 - Jantien Stoter
@@ -391,10 +407,11 @@ Prusti:
     With this project, a GeoBIM translation will be performed in order to extract
     the most important features that must be included in the object registration.'
 - 4626c7f7abfe-bim3.png
+- Which features from the building permit process can be included in the 3D object registration?
 Triantafyllou:
 - Georgios
 - Ir. Edward Verbree
-- Dr. Akkelies van Nes
+- Dr. Azarakhsh Rafiee
 - "While most concepts\
     \ related to localisation and navigation of outdoors environments are already\
     \ pretty well derived from various researches, mechanisms and softwares / Applications,\
@@ -416,6 +433,7 @@ Triantafyllou:
     \ of TU Delft). Finally, the goal is to eventually reach a strong research conclusion\
     \ or even better a demo/initial app for the user\u2019s localisation."
 - 0d09a7891bf6-Isovists_as_new_way_of_localisation.png
+- Isovists as new way of indoor localisation
 Tufan: 
 - "\xD6zge"
 - "Camilo Le\xF3n-S\xE1nchez"
@@ -440,6 +458,7 @@ Tufan:
     include geometrical calculations to retrieve semantic information of buildings
     which will then be stored in the CityJSON + Energy Extension file.'
 - 60a823786580-P1_image_final.jpg
+- Development and Testing of the Energy Extension for CityJSON
 Van der Vaart: 
 - Jasper Adriaan Joop
 - Ken Arroyo Ohori
@@ -463,6 +482,7 @@ Van der Vaart:
     \ objects. Instead, it will parse the IFC model and try to generate and determine\
     \ the needed data for each of the found geometric objects itself."
 - 699885fe446c-logo_small_2_copy.jpg
+- Automatic floor, room and apartment detection in IFC models
 "Vesel\xFD":
 - Ondrej
 - Giorgio Agugiaro
@@ -481,6 +501,7 @@ Van der Vaart:
     \ new design options based on similar buildings and sites already stored within\
     \ existing 3D city models."
 - dc6bc987a555-search_building_400px.png
+- Building massing generation using neural network trained on Dutch 3D city models
 Wang: 
 - Linjun
 - Liangliang Nan
@@ -503,6 +524,7 @@ Wang:
     \ shift between source and target domain distributions and propose a new method\
     \ for transferring labels for 3D building models with different representations."
 - b29dbdfc6477-P1_image.gif
+- Domain adaptation for part-level building segmentation
 Wu: 
 - Ziyan
 - Hugo Ledoux
@@ -528,6 +550,7 @@ Wu:
     \ method to the entire Netherlands, the building heights data gained from ICESat-2\
     \ is insufficient compared with the prior research."
 - 3ff27b27c567-482f2771dd90c94d2c2a4793035e83b.png
+- Retrieving building height of the whole Netherlands from ICESat-2 photon data
 de Jong: 
 - Michiel
 - "Robert Vo\xFBte"
@@ -560,6 +583,7 @@ de Jong:
     of the building. Multiple things are possible, such as dynamic signage, using
     audio, custom evacuation plans.'
 - d98fc572a699-plaatje.png
+- Using voxelised spaces for the generation and visualisation of dynamic evacuation routes
 van Schendel: 
 - Maximiliaan Felix
 - Edward Verbree 
@@ -573,6 +597,7 @@ van Schendel:
     maps can be used to enable non-rigid map merging that can resolve inconsistencies
     between local maps.'
 - 00e7a57ad0a5-one_image_illustration_lo.png
+- Non-Rigid Map Merging for Hierarchical Topometric Maps of Structured Indoor Environments
 van der Horst: 
 - Noortje
 - Liangliang Nan
@@ -596,3 +621,4 @@ van der Horst:
     then be used to predict future plant growth in urban scenarios as well as interpolate
     past growth stages for which no ground-truth data exists.'
 - b8e0d876688d-GEO2020_P1_image_400x400.png
+- Inverse procedural modeling of tree growth using synthetic multi-temporal point clouds
