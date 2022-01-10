@@ -45,7 +45,7 @@ Two options:
 
 #### Can I pick as First Mentor someone from another faculty?
 
-No. Your first mentor, who also acts as your daily supervisor, must be a staff of the Faculty of Architecture involved in the Geomatics programme.
+No. Your first mentor, who also acts as your daily supervisor, must be a staff involved in the Geomatics programme.
 
 Your second mentor can however be any staff of the TU Delft.
 
