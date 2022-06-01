@@ -75,7 +75,9 @@ no more topics for this year
 no more topics for this year
 
 ## [Camilo León-Sánchez](https://3d.bk.tudelft.nl/cleon/)
-no more topics for the moment
+1. [Urban energy simulations linking CitySim with the 3DCityDB](https://github.com/tudelft3d/website/blob/main/education/msctopics/index.md#urban-energy-simulations-linking-citysim-with-the-3dcitydb)
+2. [Infer the building type from the 3DBAG](https://github.com/tudelft3d/website/blob/main/education/msctopics/index.md#infer-the-building-type-from-the-3dbag)
+3. [(Further) Development and Testing of the Energy Extension for CityJSON (v1.x)](https://github.com/tudelft3d/website/blob/main/education/msctopics/index.md#further-development-and-testing-of-the-energy-extension-for-cityjson-v1x)
 
 
 ## [Haicheng Liu](http://www.gdmc.nl/staff/)
