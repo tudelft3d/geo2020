@@ -57,7 +57,6 @@ no more topics for this year
 2. [Optimizing building mesh designs for computational fluid dynamics using machine learning.](https://3d.bk.tudelft.nl/education/msctopics/#optimizing-building-mesh-designs-for-computational-fluid-dynamics-using-machine-learning)
 3. [To mesh or not to mesh: immersed boundary methods and porosity in OpenFOAM](https://3d.bk.tudelft.nl/education/msctopics/#to-mesh-or-not-to-mesh-immersed-boundary-methods-and-porosity-in-openfoam) 
 4. [Improving automatic meshing for buildings](https://3d.bk.tudelft.nl/education/msctopics/#improving-automatic-meshing-for-buildings)
-5. [Modelling tree topology effects on wind](https://3d.bk.tudelft.nl/education/msctopics/#modelling-tree-topology-effects-on-wind)
 
 
 ## [Eftychia Kalogianni](https://www.tudelft.nl/en/staff/e.kalogianni/)
