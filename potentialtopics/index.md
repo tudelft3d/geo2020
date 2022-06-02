@@ -69,7 +69,13 @@ no more topics for this year
 1. [Quality Control of Aerial Image Derivatives ](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Quality_Control_of_Aerial_Image_Derivatives)
 
 ## [Hugo Ledoux](https://3d.bk.tudelft.nl/hledoux/)
-no more topics for this year
+1. [Estimating noise pollution with machine learning?](https://3d.bk.tudelft.nl/education/msctopics/#estimating-noise-pollution-with-machine-learning)
+2. [How can 3D alpha wrapping be best used to repair buildings?](https://3d.bk.tudelft.nl/education/msctopics/#how-can-3d-alpha-wrapping-be-best-used-to-repair-buildings)
+3. [Something with streaming TINs for massive datasets](https://3d.bk.tudelft.nl/education/msctopics/#something-with-streaming-tins-for-massive-datasets)
+4. [Filling the gaps in aerial point clouds with deep learning](https://3d.bk.tudelft.nl/education/msctopics/#filling-the-gaps-in-aerial-point-clouds-with-deep-learning)
+5. [Modern metadata for CityJSON](https://3d.bk.tudelft.nl/education/msctopics/#modern-metadata-for-cityjson)
+
+
 
 ## [Camilo León-Sánchez](https://3d.bk.tudelft.nl/cleon/)
 1. [Urban energy simulations linking CitySim with the 3DCityDB](https://github.com/tudelft3d/website/blob/main/education/msctopics/index.md#urban-energy-simulations-linking-citysim-with-the-3dcitydb)
