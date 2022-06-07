@@ -52,13 +52,10 @@ no more topics for this year
 ## [Lucía Díaz-Vilariño](https://www.tudelft.nl/en/staff/l.diaz-vilarino/)
 1. [Converting segmented point clouds into enriched navigable maps for pedestrians in urban scenarios](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Converting_segmented_point_clouds_into_enriched_navigable_maps_for_pedestrians_in_urban_scenarios)
 
-<<<<<<< HEAD
 <!--## [Balázs Dukai](https://www.balazsdukai.me/)
 1. [Towards true 3D noise calculations](https://3d.bk.tudelft.nl/education/msctopics/#towards-true-3d-noise-calculations)
 -->
 
-=======
->>>>>>> 22caa33a50f45d4c4d6d03935e6fb886fbda6c78
 ## [Clara García-Sánchez](https://3d.bk.tudelft.nl/gsclara/)
 1. [Web application for Urban Computational Fluid Dynamics Simulations Set-Up validation](https://3d.bk.tudelft.nl/education/msctopics/#web-application-for-urban-computational-fluid-dynamics-simulations-set-up-validation)
 2. [Optimizing building mesh designs for computational fluid dynamics using machine learning.](https://3d.bk.tudelft.nl/education/msctopics/#optimizing-building-mesh-designs-for-computational-fluid-dynamics-using-machine-learning)
