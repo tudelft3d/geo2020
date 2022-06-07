@@ -46,18 +46,23 @@ no more topics for this year
  6. [Integrated modelling of utility networks in the urban environment](https://3d.bk.tudelft.nl/education/msctopics/#integrated-modelling-of-utility-networks-in-the-urban-environment)
  -->
 
+## [Stefano Calzati](https://kcopendata.eu/about-the-kcod/team/)
+1. [Geodata governance design](https://kcopendata.eu/education/thesis-topics/#geodata)
+2. [Ethical/political issues behind smart urban eenvironments (and digital twinning)](https://kcopendata.eu/education/thesis-topics/#ethical)
+3. [The beauty of coding and programmers as activists](https://kcopendata.eu/education/thesis-topics/#beauty)
+
 ## [Lucía Díaz-Vilariño](https://www.tudelft.nl/en/staff/l.diaz-vilarino/)
 1. [Converting segmented point clouds into enriched navigable maps for pedestrians in urban scenarios](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Converting_segmented_point_clouds_into_enriched_navigable_maps_for_pedestrians_in_urban_scenarios)
 
-## [Balázs Dukai](https://www.balazsdukai.me/)
+<!--## [Balázs Dukai](https://www.balazsdukai.me/)
 1. [Towards true 3D noise calculations](https://3d.bk.tudelft.nl/education/msctopics/#towards-true-3d-noise-calculations)
+-->
 
 ## [Clara García-Sánchez](https://3d.bk.tudelft.nl/gsclara/)
 1. [Web application for Urban Computational Fluid Dynamics Simulations Set-Up validation](https://3d.bk.tudelft.nl/education/msctopics/#web-application-for-urban-computational-fluid-dynamics-simulations-set-up-validation)
 2. [Optimizing building mesh designs for computational fluid dynamics using machine learning.](https://3d.bk.tudelft.nl/education/msctopics/#optimizing-building-mesh-designs-for-computational-fluid-dynamics-using-machine-learning)
 3. [To mesh or not to mesh: immersed boundary methods and porosity in OpenFOAM](https://3d.bk.tudelft.nl/education/msctopics/#to-mesh-or-not-to-mesh-immersed-boundary-methods-and-porosity-in-openfoam) 
 4. [Improving automatic meshing for buildings](https://3d.bk.tudelft.nl/education/msctopics/#improving-automatic-meshing-for-buildings)
-5. [Modelling tree topology effects on wind](https://3d.bk.tudelft.nl/education/msctopics/#modelling-tree-topology-effects-on-wind)
 
 
 ## [Eftychia Kalogianni](https://www.tudelft.nl/en/staff/e.kalogianni/)
@@ -105,7 +110,6 @@ all topics gone for this year
 2. [Inferring the needed building permissions from a 3D building model](https://3d.bk.tudelft.nl/education/msctopics/#inferring-the-needed-building-permission-from-a-3d-building-model)
  -->
  
-
 ## [Peter van Oosterom](https://www.tudelft.nl/staff/p.j.m.vanoosterom/)
 1. [Cadastral Map Quality](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Cadastral_map_quality)
 2. [The LADM as Linked Open Data](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#The_LADM_as_Linked_Open_Data.)
