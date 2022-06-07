@@ -36,15 +36,13 @@ permalink: /potentialtopics/
 no more topics for this year
 
 ## [Giorgio Agugiaro](https://3d.bk.tudelft.nl/gagugiaro/)
-no more topics for this year
 
-<!--  1. [Heating energy demand of the Dutch building stock with the help of the 3D BAG 2.0](https://3d.bk.tudelft.nl/education/msctopics/#heating-energy-demand-of-the-dutch-building-stock-with-the-help-of-the-3d-bag-20)
- 2. [Dynamic energy simulations based on the 3D BAG 2.0](https://3d.bk.tudelft.nl/education/msctopics/#dynamic-energy-simulations-based-on-the-3d-bag-20)
- 3. [Development of a QGIS plugin for the CityGML 3D City Database](https://3d.bk.tudelft.nl/education/msctopics/#development-of-a-qgis-plugin-for-the-citygml-3d-city-database)
- 4. [Extension of a GIS-supported design tool for new urban development areas](https://3d.bk.tudelft.nl/education/msctopics/#extension-of-a-gis-supported-design-tool-for-new-urban-development-areas)
- 5. [Coupling 3D city models with Ladybug tools for environmental analyses](https://3d.bk.tudelft.nl/education/msctopics/#coupling-3d-city-models-with-ladybug-tools-for-environmental-analyses)
- 6. [Integrated modelling of utility networks in the urban environment](https://3d.bk.tudelft.nl/education/msctopics/#integrated-modelling-of-utility-networks-in-the-urban-environment)
- -->
+ 1. [(Further) development of a QGIS plugin for the CityGML 3D City Database](https://3d.bk.tudelft.nl/education/msctopics/#further-development-of-a-qgis-plugin-for-the-citygml-3d-city-database)
+ 2. [Urban energy simulations linking CitySim with the 3DCityDB](https://3d.bk.tudelft.nl/education/msctopics/#urban-energy-simulations-linking-citysim-with-the-3dcitydb)
+ 3. [Heating energy demand of the Dutch building stock with the help of the 3D BAG 2.0](https://3d.bk.tudelft.nl/education/msctopics/#heating-energy-demand-of-the-dutch-building-stock-with-the-help-of-the-3d-bag-20)
+ 4. [Coupling 3D city models with Ladybug tools for environmental analyses](https://3d.bk.tudelft.nl/education/msctopics/#coupling-3d-city-models-with-ladybug-tools-for-environmental-analyses)
+ 5. [Integrated modelling of utility networks in the urban environment](https://3d.bk.tudelft.nl/education/msctopics/#integrated-modelling-of-utility-networks-in-the-urban-environment)
+
 
 ## [Stefano Calzati](https://kcopendata.eu/about-the-kcod/team/)
 1. [Geodata governance design](https://kcopendata.eu/education/thesis-topics/#geodata)
@@ -54,10 +52,13 @@ no more topics for this year
 ## [Lucía Díaz-Vilariño](https://www.tudelft.nl/en/staff/l.diaz-vilarino/)
 1. [Converting segmented point clouds into enriched navigable maps for pedestrians in urban scenarios](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Converting_segmented_point_clouds_into_enriched_navigable_maps_for_pedestrians_in_urban_scenarios)
 
+<<<<<<< HEAD
 <!--## [Balázs Dukai](https://www.balazsdukai.me/)
 1. [Towards true 3D noise calculations](https://3d.bk.tudelft.nl/education/msctopics/#towards-true-3d-noise-calculations)
 -->
 
+=======
+>>>>>>> 22caa33a50f45d4c4d6d03935e6fb886fbda6c78
 ## [Clara García-Sánchez](https://3d.bk.tudelft.nl/gsclara/)
 1. [Web application for Urban Computational Fluid Dynamics Simulations Set-Up validation](https://3d.bk.tudelft.nl/education/msctopics/#web-application-for-urban-computational-fluid-dynamics-simulations-set-up-validation)
 2. [Optimizing building mesh designs for computational fluid dynamics using machine learning.](https://3d.bk.tudelft.nl/education/msctopics/#optimizing-building-mesh-designs-for-computational-fluid-dynamics-using-machine-learning)
@@ -80,10 +81,18 @@ no more topics for this year
 1. [Quality Control of Aerial Image Derivatives ](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Quality_Control_of_Aerial_Image_Derivatives)
 
 ## [Hugo Ledoux](https://3d.bk.tudelft.nl/hledoux/)
-no more topics for this year
+1. [Estimating noise pollution with machine learning?](https://3d.bk.tudelft.nl/education/msctopics/#estimating-noise-pollution-with-machine-learning)
+2. [How can 3D alpha wrapping be best used to repair buildings?](https://3d.bk.tudelft.nl/education/msctopics/#how-can-3d-alpha-wrapping-be-best-used-to-repair-buildings)
+3. [Something with streaming TINs for massive datasets](https://3d.bk.tudelft.nl/education/msctopics/#something-with-streaming-tins-for-massive-datasets)
+4. [Filling the gaps in aerial point clouds with deep learning](https://3d.bk.tudelft.nl/education/msctopics/#filling-the-gaps-in-aerial-point-clouds-with-deep-learning)
+5. [Modern metadata for CityJSON](https://3d.bk.tudelft.nl/education/msctopics/#modern-metadata-for-cityjson)
+
+
 
 ## [Camilo León-Sánchez](https://3d.bk.tudelft.nl/cleon/)
-no more topics for the moment
+1. [Urban energy simulations linking CitySim with the 3DCityDB](https://github.com/tudelft3d/website/blob/main/education/msctopics/index.md#urban-energy-simulations-linking-citysim-with-the-3dcitydb)
+2. [Infer the building type from the 3DBAG](https://github.com/tudelft3d/website/blob/main/education/msctopics/index.md#infer-the-building-type-from-the-3dbag)
+3. [(Further) Development and Testing of the Energy Extension for CityJSON (v1.x)](https://github.com/tudelft3d/website/blob/main/education/msctopics/index.md#further-development-and-testing-of-the-energy-extension-for-cityjson-v1x)
 
 
 ## [Haicheng Liu](http://www.gdmc.nl/staff/)
@@ -117,13 +126,6 @@ all topics gone for this year
 4. [Making a vario-scale 4D point cloud](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Making_a_vario_45scale_4D_point_cloud)
 
 
-## [Ravi Peters](https://3d.bk.tudelft.nl/rypeters)
-1. [Update 3D BAG from different point clouds](https://3d.bk.tudelft.nl/education/msctopics/#update-3d-bag-from-different-point-clouds)
-
-<!-- 1. [Improving the automatic LoD2 building reconstruction from AHN3](https://3d.bk.tudelft.nl/education/msctopics/#improving-the-automatic-lod2-building-reconstruction-from-ahn3)
-2. [Point cloud normal estimation based on the 3D medial axis transform](https://3d.bk.tudelft.nl/education/msctopics/#point-cloud-normal-estimation-based-on-the-3d-medial-axis-transform) -->
-
-
 ## [Hendrik Ploeger](https://www.tudelft.nl/staff/h.d.ploeger/)
 1. [Intellectual property & data ownership in the open data ecosystem](https://kcopendata.eu/education/thesis-topics/#IP) 
 2. [Privacy in the open data ecosystem](https://kcopendata.eu/education/thesis-topics/#privacy-and-open-data)
@@ -152,10 +154,6 @@ all topics gone for this year
 2. [Campus project](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Topic:_Campus_project)
 3. [Positioning and Location Awareness, Point Cloud Cartography or Point Cloud Analysis](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Positioning_and_Location_Awareness_44_Point_Cloud_Cartography_or_Point_Cloud_Analysis)
 
-
-## [Stelios Vitalis](https://3d.bk.tudelft.nl/svitalis/)
-<!-- 1. [Investigate modeling of road networks in CityJSON, with implicit geometries](https://3d.bk.tudelft.nl/education/msctopics/#where-do-i-turn-investigate-modelling-of-road-networks-in-cityjson-with-implicit-geometries) -->
-1. [Investigate the use of CityJSON in (serious) games](https://3d.bk.tudelft.nl/education/msctopics/#investigate-the-use-of-cityjson-in-serious-games)
 
 ## [Robert Voûte](http://www.gdmc.nl/staff/)
 1. [Point clouds and voxelized spaces, distinguish the differences, the pros and cons of both in a validated comparison](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Point_clouds_and_voxelized_spaces_44_distinguish_the_differences_44_the_pros_and_cons_of_both_in_a_validated_comparison)
