@@ -67,9 +67,9 @@ Be honest in reporting, ie highlight where your results are good, but do not for
 
 - - -
 
-#### Use LaTeX (and not Word)
+#### Use LaTeX and/or Overleaf (and not Word)
 
-We offer a [LaTeX template](https://github.com/tudelftgeomatics/thesis_template) to help you start.
+We offer a [LaTeX template](https://github.com/tudelftgeomatics/thesis_template) and an [Overleaf template](https://www.overleaf.com/latex/templates/tudelft-msc-geomatics-template-for-final-thesis/bmwmzbyjpfvg) to help you start.
 Since you've learned to program in Python, LaTeX should take you no more than 2 days to master.
 These two days are worth it, your thesis most likely will be better structured, will look better, and will contain less errors.
 
