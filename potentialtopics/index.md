@@ -111,7 +111,9 @@ no more topics for this year
 4. [Making a vario-scale 4D point cloud](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Making_a_vario_45scale_4D_point_cloud)
 
 ## [Liangliang Nan](https://3d.bk.tudelft.nl/liangliang)
-all topics gone for this year
+1. [Image-guided automatic artistic route finding](https://3d.bk.tudelft.nl/education/msctopics/#image-guided-automatic-artistic-route-finding)
+2. [Reconstructing permanent structures of textureless indoor scenes from multi-view images](https://3d.bk.tudelft.nl/education/msctopics/#reconstructing-permanent-structures-of-textureless-indoor-scenes-from-multi-view-images)
+<!-- all topics gone for this year -->
 
 <!-- ## [Francesca Noardo](http://www.noardo.eu/) -->
 <!-- 1. [3D digital urban regulations to use GeoBIM for building permission checks](https://3d.bk.tudelft.nl/education/msctopics/#3d-digital-urban-regulations-to-use-geobim-for-building-permission-checks)
@@ -143,7 +145,10 @@ all topics gone for this year
 ## [Jantien Stoter](https://3d.bk.tudelft.nl/jstoter/)
 1. [Developing Level of Detail framework for 3D cadastre implementation in practice](https://3d.bk.tudelft.nl/education/msctopics/#3d-cadastre)
 2. [Developing methods for edge-matching with customisable heuristics](https://3d.bk.tudelft.nl/education/msctopics/#developing-methods-for-edge-matching-with-customisable-heuristics-geometric-topological-and-semantic)
-3. [Update 3D BAG from different point clouds](https://3d.bk.tudelft.nl/education/msctopics/#update-3d-bag-from-different-point-clouds)
+3. [Supporting earthquake risk assessment by 3D city models](https://3d.bk.tudelft.nl/education/msctopics/#supporting-earthquake-risk-assessment-by-3d-city-models)
+4. [Reconstructing 3D apartment units from legal apartment drawings](https://3d.bk.tudelft.nl/education/msctopics/#reconstructing-3d-apartment-units-from-legal-apartment-drawings)
+5. [3D delineation of urban river spaces](https://3d.bk.tudelft.nl/education/msctopics/#3d-delineation-of-urban-river-spaces)
+6. [Update 3D BAG from different point clouds](https://3d.bk.tudelft.nl/education/msctopics/#update-3d-bag-from-different-point-clouds)
 
 <!-- 2. [Reconstructing a 3D road network for the whole Netherlands (for the National Road Data set (NWB))](https://nationaalwegenbestand.nl/nieuws/hoogte-informatie-toegevoegd-aan-nwb-voor-omgevingswet) [with NWB] -->
 
@@ -165,3 +170,5 @@ all topics gone for this year
 <!-- 3. [Open SDI: user motivations](https://kcopendata.eu/education/thesis-topics/#the-open-data-user) -->
  
 
+## [Nima Forouzandeh]([https://www.tudelft.nl/en/staff/f.m.welledonker/](https://www.tudelft.nl/staff/n.forouzandeh/?cHash=0eff827e919ebe7ba656d3542c3dcc42))
+1. [Automatic reconstruction of window boundaries for efficient daylight simulation](https://3d.bk.tudelft.nl/education/msctopics/#automatic-reconstruction-of-window-boundaries-for-efficient-daylight-simulation)
