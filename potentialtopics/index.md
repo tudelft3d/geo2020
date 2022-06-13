@@ -109,7 +109,9 @@ no more topics for this year
 4. [Making a vario-scale 4D point cloud](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Making_a_vario_45scale_4D_point_cloud)
 
 ## [Liangliang Nan](https://3d.bk.tudelft.nl/liangliang)
-all topics gone for this year
+1. [Image-guided automatic artistic route finding](https://3d.bk.tudelft.nl/education/msctopics/#image-guided-automatic-artistic-route-finding)
+2. [Reconstructing permanent structures of textureless indoor scenes from multi-view images](https://3d.bk.tudelft.nl/education/msctopics/#reconstructing-permanent-structures-of-textureless-indoor-scenes-from-multi-view-images)
+<!-- all topics gone for this year -->
 
 <!-- ## [Francesca Noardo](http://www.noardo.eu/) -->
 <!-- 1. [3D digital urban regulations to use GeoBIM for building permission checks](https://3d.bk.tudelft.nl/education/msctopics/#3d-digital-urban-regulations-to-use-geobim-for-building-permission-checks)
