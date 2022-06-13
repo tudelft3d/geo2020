@@ -166,3 +166,5 @@ all topics gone for this year
 <!-- 3. [Open SDI: user motivations](https://kcopendata.eu/education/thesis-topics/#the-open-data-user) -->
  
 
+## [Nima Forouzandeh]([https://www.tudelft.nl/en/staff/f.m.welledonker/](https://www.tudelft.nl/staff/n.forouzandeh/?cHash=0eff827e919ebe7ba656d3542c3dcc42))
+1. [Automatic reconstruction of window boundaries for efficient daylight simulation](https://3d.bk.tudelft.nl/education/msctopics/#automatic-reconstruction-of-window-boundaries-for-efficient-daylight-simulation)
