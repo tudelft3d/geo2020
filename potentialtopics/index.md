@@ -63,7 +63,7 @@ no more topics for this year
 4. [Improving automatic meshing for buildings](https://3d.bk.tudelft.nl/education/msctopics/#improving-automatic-meshing-for-buildings)
 5. [Coupled and decoupled simulations of urban wind flow for indoor natural ventilation modelling](https://3d.bk.tudelft.nl/education/msctopics/#coupled-and-decoupled-simulations-of-urban-wind-flow-for-indoor-natural-ventilation-modelling)
 6. [What is the effect of footprint uncertainty in CFD simulations?](https://3d.bk.tudelft.nl/education/msctopics/#what-is-the-effect-of-footprint-uncertainty-in-cfd-simulations)
-
+7. [Linking Urban Heat Island effects with 3D urban morphology](https://3d.bk.tudelft.nl/education/msctopics/#linking-urban-heat-island-effects-with-3d-urban-morphology)
 
 ## [Eftychia Kalogianni](https://www.tudelft.nl/en/staff/e.kalogianni/)
 1. [An xJSON format for ISO 19152 LADM implementation](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#An_xJSON_format_for_ISO_19152_LADM_implementation)
