@@ -172,3 +172,12 @@ no more topics for this year
 
 ## [Nima Forouzandeh]([https://www.tudelft.nl/en/staff/f.m.welledonker/](https://www.tudelft.nl/staff/n.forouzandeh/?cHash=0eff827e919ebe7ba656d3542c3dcc42))
 1. [Automatic reconstruction of window boundaries for efficient daylight simulation](https://3d.bk.tudelft.nl/education/msctopics/#automatic-reconstruction-of-window-boundaries-for-efficient-daylight-simulation)
+
+
+## [Shenglan Du](https://3d.bk.tudelft.nl/shenglandu/)
+1. [Semi-Supervised Semantic Segmentation of 3D Point Clouds](https://3d.bk.tudelft.nl/education/msctopics/#semi-supervised-semantic-segmentation-of-3d-point-clouds)
+
+
+## [Nail Ibrahimli](https://mirmix.github.io)
+1. [Multi-view Semantic Stereo](https://3d.bk.tudelft.nl/education/msctopics/#multi-view-semantic-stereo)
+2. [Multi-view Styled Stereo](https://3d.bk.tudelft.nl/education/msctopics/#multi-view-styled-stereo)
