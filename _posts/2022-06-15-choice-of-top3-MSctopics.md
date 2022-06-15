@@ -11,7 +11,7 @@ The selection process will close on the *8th of July at 24:00*. After that momen
 
 Here you can find some links with available topics:
 
-[=> topics](https://github.com/tudelft3d/geo2020/blob/main/potentialtopics/index.md)
+[=> topics](https://3d.bk.tudelft.nl/courses/geo2020/potentialtopics/)
 
 
 Here you can find the link to submit your preferences: 
