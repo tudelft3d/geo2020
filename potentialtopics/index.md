@@ -11,7 +11,7 @@ permalink: /potentialtopics/
   </div>
   <div class="message-body">
     <ul>
-      <li>There are two rounds to pick a topic: 2021-07-06 and 2021-09-15 </li>
+      <li>There are two rounds to pick a topic: 2022-07-08 and 2022-09-15 </li>
       <li>Be warned that if you wait for September, then it is possible that your topic is already gone and your favourite supervisor is full</li>
       <li>A topic can be changed a bit until the P1 (mid-November)</li>
       <li>You can pick any topics below, or you can speak to a geomatics staff and if you agree on a topic, then submit it (with a temporary title)</li>
@@ -25,7 +25,7 @@ permalink: /potentialtopics/
 </article>
 
 <div class="columns is-mobile">
-<div class="typeform-widget" data-url="https://form.typeform.com/to/Wtc0Pl3v?typeform-medium=embed-snippet" style="width: 100%; height: 500px;"></div> <script> (function() { var qs,js,q,s,d=document, gi=d.getElementById, ce=d.createElement, gt=d.getElementsByTagName, id="typef_orm", b="https://embed.typeform.com/"; if(!gi.call(d,id)) { js=ce.call(d,"script"); js.id=id; js.src=b+"embed.js"; q=gt.call(d,"script")[0]; q.parentNode.insertBefore(js,q) } })() </script>
+<div class="typeform-widget" data-url="https://tudelft3d.typeform.com/to/xDsybGHY?typeform-medium=embed-snippet" style="width: 100%; height: 500px;"></div> <script> (function() { var qs,js,q,s,d=document, gi=d.getElementById, ce=d.createElement, gt=d.getElementsByTagName, id="typef_orm", b="https://embed.typeform.com/"; if(!gi.call(d,id)) { js=ce.call(d,"script"); js.id=id; js.src=b+"embed.js"; q=gt.call(d,"script")[0]; q.parentNode.insertBefore(js,q) } })() </script>
 </div>
 
 
