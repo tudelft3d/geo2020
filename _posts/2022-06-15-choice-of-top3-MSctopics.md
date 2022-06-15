@@ -9,14 +9,8 @@ As mentioned in the last introduction to the MSc thesis in Geomatics, we now ope
 
 The selection process will close on the *8th of July at 24:00*. After that moment, if you would like to select your topic you will be restricted by your peer choices, since some topics would be forever gone! 
 
-Here you can find some links with available topics:
+Here you can find some links with available topics and the selection link:
 
-[=> topics](https://3d.bk.tudelft.nl/courses/geo2020/potentialtopics/)
-
-
-Here you can find the link to submit your preferences: 
-
-[=> link to make the selection](https://tudelft3d.typeform.com/to/xDsybGHY)
-
+[=> topics and selection](https://3d.bk.tudelft.nl/courses/geo2020/potentialtopics/)
 
 Clara
