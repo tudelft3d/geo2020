@@ -33,5 +33,5 @@ permalink: /exampletheses/
 
 ## Recently completed theses
 
-We maintain a [list of all the MSc Geomatics theses](https://www.tudelft.nl/onderwijs/opleidingen/masters/gm/msc-geomatics/programme/graduation-project/student-graduation-work/), and alternatively you can [search in the TU Delft repository for programme:'Geomatics'](http://repository.tudelft.nl/islandora/search/mods_note_programme_s%3A%22Geomatics%22?collection=education&sort=mods_originInfo_dateSort_dt%20desc).
+We maintain a [list of all the MSc Geomatics theses](https://www.tudelft.nl/onderwijs/opleidingen/masters/gm/msc-geomatics/programme/student-graduation-work), and alternatively you can [search in the TU Delft repository for programme:'Geomatics'](http://repository.tudelft.nl/islandora/search/mods_note_programme_s%3A%22Geomatics%22?collection=education&sort=mods_originInfo_dateSort_dt%20desc).
   
