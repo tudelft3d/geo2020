@@ -11,7 +11,7 @@ permalink: /potentialtopics/
   </div>
   <div class="message-body">
     <ul>
-      <li>There are two rounds to pick a topic: 2022-07-08 and 2022-09-15 </li>
+      <li>There are two rounds to pick a topic: 2021-07-06 and 2021-09-15 </li>
       <li>Be warned that if you wait for September, then it is possible that your topic is already gone and your favourite supervisor is full</li>
       <li>A topic can be changed a bit until the P1 (mid-November)</li>
       <li>You can pick any topics below, or you can speak to a geomatics staff and if you agree on a topic, then submit it (with a temporary title)</li>
@@ -25,7 +25,7 @@ permalink: /potentialtopics/
 </article>
 
 <div class="columns is-mobile">
-<div class="typeform-widget" data-url="https://tudelft3d.typeform.com/to/xDsybGHY?typeform-medium=embed-snippet" style="width: 100%; height: 500px;"></div> <script> (function() { var qs,js,q,s,d=document, gi=d.getElementById, ce=d.createElement, gt=d.getElementsByTagName, id="typef_orm", b="https://embed.typeform.com/"; if(!gi.call(d,id)) { js=ce.call(d,"script"); js.id=id; js.src=b+"embed.js"; q=gt.call(d,"script")[0]; q.parentNode.insertBefore(js,q) } })() </script>
+<div class="typeform-widget" data-url="https://form.typeform.com/to/Wtc0Pl3v?typeform-medium=embed-snippet" style="width: 100%; height: 500px;"></div> <script> (function() { var qs,js,q,s,d=document, gi=d.getElementById, ce=d.createElement, gt=d.getElementsByTagName, id="typef_orm", b="https://embed.typeform.com/"; if(!gi.call(d,id)) { js=ce.call(d,"script"); js.id=id; js.src=b+"embed.js"; q=gt.call(d,"script")[0]; q.parentNode.insertBefore(js,q) } })() </script>
 </div>
 
 
@@ -35,8 +35,8 @@ permalink: /potentialtopics/
 ## [Ken Arroyo Ohori](https://3d.bk.tudelft.nl/ken/)
 no more topics for this year
 
-## [Giorgio Agugiaro](https://3d.bk.tudelft.nl/gagugiaro/)
 
+## [Giorgio Agugiaro](https://3d.bk.tudelft.nl/gagugiaro/)
  1. [(Further) development of a QGIS plugin for the CityGML 3D City Database](https://3d.bk.tudelft.nl/education/msctopics/#further-development-of-a-qgis-plugin-for-the-citygml-3d-city-database)
  2. [Urban energy simulations linking CitySim with the 3DCityDB](https://3d.bk.tudelft.nl/education/msctopics/#urban-energy-simulations-linking-citysim-with-the-3dcitydb)
  3. [Heating energy demand of the Dutch building stock with the help of the 3D BAG 2.0](https://3d.bk.tudelft.nl/education/msctopics/#heating-energy-demand-of-the-dutch-building-stock-with-the-help-of-the-3d-bag-20)
@@ -44,13 +44,23 @@ no more topics for this year
  5. [Integrated modelling of utility networks in the urban environment](https://3d.bk.tudelft.nl/education/msctopics/#integrated-modelling-of-utility-networks-in-the-urban-environment)
 
 
+## [Jesus Balado Frias](http://www.gdmc.nl/staff/)
+1. [Design and improvement of self-adaptive 3D structuring elements for mathematical morphology in point clouds](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Design_and_improvement_of_self_45adaptive_3D_structuring_elements_for_mathematical_morphology_in_point_clouds)
+2. [Automatic CityGML urban furniture modelling from point clouds](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Automatic_CityGML_urban_furniture_modelling_from_point_clouds)
+3. [Integration of point clouds in CityGML standard for obtaining a continuous Level of Detail](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Integration_of_point_clouds_in_CityGML_standard_for_obtaining_a_continuous_Level_of_Detail)
+
+
 ## [Stefano Calzati](https://kcopendata.eu/about-the-kcod/team/)
 1. [Geodata governance design](https://kcopendata.eu/education/thesis-topics/#geodata)
 2. [Ethical/political issues behind smart urban eenvironments (and digital twinning)](https://kcopendata.eu/education/thesis-topics/#ethical)
 3. [The beauty of coding and programmers as activists](https://kcopendata.eu/education/thesis-topics/#beauty)
 
+
 ## [Lucía Díaz-Vilariño](https://www.tudelft.nl/en/staff/l.diaz-vilarino/)
-1. [Converting segmented point clouds into enriched navigable maps for pedestrians in urban scenarios](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Converting_segmented_point_clouds_into_enriched_navigable_maps_for_pedestrians_in_urban_scenarios)
+1. [Indoor/Outdoor seamless modelling intended for navigation ](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Indoor_47Outdoor_seamless_modelling_intended_for_navigation)
+2. [Exploring BIM models for synthetic data generation towards indoor point cloud classification](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Exploring_BIM_models_for_synthetic_data_generation_towards_indoor_point_cloud_classification)
+3. [A model-based approach for layout reconfiguration from indoor point clouds](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#A_model_45based_approach_for_layout_reconfiguration_from_indoor_point_clouds)
+
 
 <!--## [Balázs Dukai](https://www.balazsdukai.me/)
 1. [Towards true 3D noise calculations](https://3d.bk.tudelft.nl/education/msctopics/#towards-true-3d-noise-calculations)
@@ -65,6 +75,7 @@ no more topics for this year
 6. [What is the effect of footprint uncertainty in CFD simulations?](https://3d.bk.tudelft.nl/education/msctopics/#what-is-the-effect-of-footprint-uncertainty-in-cfd-simulations)
 7. [Linking Urban Heat Island effects with 3D urban morphology](https://3d.bk.tudelft.nl/education/msctopics/#linking-urban-heat-island-effects-with-3d-urban-morphology)
 
+
 ## [Eftychia Kalogianni](https://www.tudelft.nl/en/staff/e.kalogianni/)
 1. [An xJSON format for ISO 19152 LADM implementation](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#An_xJSON_format_for_ISO_19152_LADM_implementation)
 2. [Air Rights Restrictions and Responsibilities: investigate, model and visualise them in the context of ISO 19152 LADM](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Air_Rights_Restrictions_and_Responsibilities:_investigate_44_model_44_and_visualise_them_in_the_context_of_ISO_19152_LADM)
@@ -76,8 +87,10 @@ no more topics for this year
 ## [Abdullah Kara](https://www.tudelft.nl/en/staff/a.kara/)
 1. [Visualizing and disseminating property valuation information](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Visualizing_and_disseminating_property_valuation_information)
 
+
 ## [Martin Kodde](http://www.gdmc.nl/staff/)
 1. [Quality Control of Aerial Image Derivatives ](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Quality_Control_of_Aerial_Image_Derivatives)
+
 
 ## [Hugo Ledoux](https://3d.bk.tudelft.nl/hledoux/)
 1. [Estimating noise pollution with machine learning?](https://3d.bk.tudelft.nl/education/msctopics/#estimating-noise-pollution-with-machine-learning)
@@ -87,16 +100,10 @@ no more topics for this year
 5. [Modern metadata for CityJSON](https://3d.bk.tudelft.nl/education/msctopics/#modern-metadata-for-cityjson)
 
 
-
 ## [Camilo León-Sánchez](https://3d.bk.tudelft.nl/cleon/)
 1. [Urban energy simulations linking CitySim with the 3DCityDB](https://github.com/tudelft3d/website/blob/main/education/msctopics/index.md#urban-energy-simulations-linking-citysim-with-the-3dcitydb)
 2. [Infer the building type from the 3DBAG](https://github.com/tudelft3d/website/blob/main/education/msctopics/index.md#infer-the-building-type-from-the-3dbag)
 3. [(Further) Development and Testing of the Energy Extension for CityJSON (v1.x)](https://github.com/tudelft3d/website/blob/main/education/msctopics/index.md#further-development-and-testing-of-the-energy-extension-for-cityjson-v1x)
-
-
-## [Haicheng Liu](http://www.gdmc.nl/staff/)
-1. [Extending AR point clouds to streets](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Extending_AR_point_clouds_to_streets)
-2. [Change detection using LoD](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Change_detection_using_LoD)
 
 
 ## [Bastiaan van Loenen](https://www.tudelft.nl/en/staff/b.vanloenen/)
@@ -105,10 +112,12 @@ no more topics for this year
 
 
 ## [Martijn Meijers](https://www.tudelft.nl/en/staff/b.m.meijers/)
-1. [Usability of the vario-scale approach in interactive and dynamic mapping](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Usability_of_the_vario_45scale_approach_in_interactive_and_dynamic_mapping)
-2. [Straight skeletons for vario-scale maps](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Straight_skeletons_for_vario_45scale_maps)
-3. [Predictive fetching of geo-web resources](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Predictive_fetching_of_geo_45web_resources)
-4. [Making a vario-scale 4D point cloud](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Making_a_vario_45scale_4D_point_cloud)
+1. [Comparing compression techniques for 2.5 and 3D point clouds](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Comparing_compression_techniques_for_2.5_and_3D_point_clouds)
+2. [Orchestrating map generalization operations for vario-scale maps](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Improving_the_content_of_vario_45scale_maps)
+3. [Making a vario-scale 4D point cloud](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Making_a_vario_45scale_4D_point_cloud)
+4. [Integrating 3D into a 2D OpenLayers based online GIS - at B3Partners ](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Integrating_3D_into_a_2D_OpenLayers_based_online_GIS_45_at_B3Partners)
+5. [Compare solutions for bringing 3D subsurface data on the web - at Geological Survey of the Netherlands](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Compare_solutions_for_bringing_3D_subsurface_data_on_the_web_45_at_Geological_Survey_of_the_Netherlands)
+
 
 ## [Liangliang Nan](https://3d.bk.tudelft.nl/liangliang)
 1. [Image-guided automatic artistic route finding](https://3d.bk.tudelft.nl/education/msctopics/#image-guided-automatic-artistic-route-finding)
@@ -160,8 +169,9 @@ no more topics for this year
 
 
 ## [Robert Voûte](http://www.gdmc.nl/staff/)
-1. [Point clouds and voxelized spaces, distinguish the differences, the pros and cons of both in a validated comparison](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Point_clouds_and_voxelized_spaces_44_distinguish_the_differences_44_the_pros_and_cons_of_both_in_a_validated_comparison)
-<!-- 2. [Modelling a military scene in under-, on- and above ground in one integrated way improving collaboration](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Modelling_a_military_scene_in_under_45_44_on_45_and_above_ground_in_one_integrated_way_improving_collaboration_between_armed_forces_and_at_the_same_time_improving_using_shared_data) -->
+1. [5G Positioning - at CGI ](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#A_5G_Positioning_45_at_CGI)
+2. [Smart 3D Mapping](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Smart_3D_Mapping_45_at_CGI)
+
 
 ## [Frederika Welle Donker](https://www.tudelft.nl/en/staff/f.m.welledonker/)
 1. [Financial and economic aspects of the open data ecosystem](https://kcopendata.eu/education/thesis-topics/#financial)
