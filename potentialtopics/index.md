@@ -94,7 +94,7 @@ no more topics for this year
 ## [Hugo Ledoux](https://3d.bk.tudelft.nl/hledoux/)
 1. [Estimating noise pollution with machine learning?](https://3d.bk.tudelft.nl/education/msctopics/#estimating-noise-pollution-with-machine-learning)
 2. [How can 3D alpha wrapping be best used to repair buildings?](https://3d.bk.tudelft.nl/education/msctopics/#how-can-3d-alpha-wrapping-be-best-used-to-repair-buildings)
-3. [Something with streaming TINs for massive datasets](https://3d.bk.tudelft.nl/education/msctopics/#something-with-streaming-tins-for-massive-datasets)
+3. [How to best interpolate space lidar to create terrains?](https://3d.bk.tudelft.nl/education/msctopics/#how-to-best-interpolate-space-lidar-to-create-terrains)
 4. [Filling the gaps in aerial point clouds with deep learning](https://3d.bk.tudelft.nl/education/msctopics/#filling-the-gaps-in-aerial-point-clouds-with-deep-learning)
 5. [Modern metadata for CityJSON](https://3d.bk.tudelft.nl/education/msctopics/#modern-metadata-for-cityjson)
 
