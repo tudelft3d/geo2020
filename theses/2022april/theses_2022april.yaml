@@ -1,4 +1,8 @@
-Bachert: [Carolin, Giorgio Agugiaro, "Camilo Le\xF3n S\xE1nchez", "The new CityGML\
+Bachert: 
+- Carolin
+- Giorgio Agugiaro
+- "Camilo Le\xF3n S\xE1nchez"
+- "The new CityGML\
     \ 3.0 standard was officially released as a conceptual model in 2021. Among other\
     \ changes, it includes a revised space concept with the distinction in AbstractSpace,\
     \ AbstractSpaceBoundary, OccupiedSpace and UnoccupiedSpace. Furthermore, it offers\
@@ -13,8 +17,14 @@ Bachert: [Carolin, Giorgio Agugiaro, "Camilo Le\xF3n S\xE1nchez", "The new CityG
     \ ADE Hook mechanism will play an important role here; for me to find a way to\
     \ incorporate the additional information to the core model. The updated ADE will\
     \ finally be tested through generated sample data, with the aim to convert CityGML\
-    \ 2.0 + Energy ADE data to CityGML 3.0 + (updated) Energy ADE.", 33b0880fb0b1-P1.png]
-Dobson: ["Dani\xEBl James", Ken Arroyo Ohori, Nail Ibrahimli, 'Accurately knowing
+    \ 2.0 + Energy ADE data to CityGML 3.0 + (updated) Energy ADE."
+- 33b0880fb0b1-P1.png
+- Adaption of the EnergyADE to the new CityGML 3.0 standard
+Dobson: 
+- "Dani\xEBl James"
+- Ken Arroyo Ohori
+- Nail Ibrahimli
+- 'Accurately knowing
     the number of floors of a building is an important factor when assessing the built
     environment. Building floor count can help with a wide range of subjects such
     as building energy demand models, flood response plans, housing market studies
@@ -34,8 +44,14 @@ Dobson: ["Dani\xEBl James", Ken Arroyo Ohori, Nail Ibrahimli, 'Accurately knowin
     (eg windows) be processed further? What type of spatial clustering is most effective
     in building floor count? What (pre)processing techniques increase the performance
     of the proposed method? These are initial questions that arise in solving accurate
-    building floor count determination with deep learning.', b575ce82525b-thesis_p1.jpg]
-Dong: [Haoyang, Maarten Pronk, Hugo Ledoux, "Accurate elevation data are essential\
+    building floor count determination with deep learning.'
+-  b575ce82525b-thesis_p1.jpg
+- Building floor count determination with images:  A Deep Learning approach.
+Dong:
+- Haoyang
+- Maarten Pronk
+- Hugo Ledoux
+- "Accurate elevation data are essential\
     \ for many applications in geoscience. Unfortunately, most digital elevation models\
     \ (DEMs) are Digital Surface Models (DSMs) rather than Digital Terrain Models\
     \ (DTMs), in which the data of vegetation and buildings will cause systematical\
@@ -52,8 +68,14 @@ Dong: [Haoyang, Maarten Pronk, Hugo Ledoux, "Accurate elevation data are essenti
     \ will be made on global DEMs. Resampling and discussion on the effects of the\
     \ resolution are also parts of this project.\n\nApplications that need the correct\
     \ representation of the terrain like flood simulation and further research on\
-    \ correcting DEMs with machine learning will benefit from the project.", 2e414a2d84e7-p1_registration.png]
-Geers: [Lisa, Martijn Meijers, Azarakhsh Rafiee, "Natura 2000 is a European network\
+    \ correcting DEMs with machine learning will benefit from the project."
+- 2e414a2d84e7-p1_registration.png
+- Correcting global elevation models for canopy and infrastructure using Machine Learning
+Geers: 
+- Lisa
+- Martijn Meijers
+- Azarakhsh Rafiee
+- "Natura 2000 is a European network\
     \ of protected areas with the purpose to protect the habitat of numerous species.\
     \ For this reason fishing is constrained in marine protected areas. Monitoring\
     \ the  compliance of fisher boats to these rules is done by the Dutch NVWA and\
@@ -69,9 +91,14 @@ Geers: [Lisa, Martijn Meijers, Azarakhsh Rafiee, "Natura 2000 is a European netw
     \ collected drone footage from the Dutch NVWA and other open spatial data. The\
     \ following objectives will be researched:\n-How to detect fishing boats on drone\
     \ footage and determine if they are fishing.\n-How to derive the exact location\
-    \ of boats from drone footage.\n-How to carry out these objectives in real time.",
-  4d02f7585e53-p1.jpg]
-Keurentjes: [Lisa, Hugo ledoux, "Ivan Pa\u0111en", "[already handid it in] To tackle\
+    \ of boats from drone footage.\n-How to carry out these objectives in real time."
+-  4d02f7585e53-p1.jpg
+- Automatic real time detection of fisher boats in Natura 2000 areas with the use of drones
+Keurentjes:
+- Lisa
+- Hugo ledoux
+- "Ivan Pa\u0111en"
+- "To tackle\
     \ our complex world, we tend to make cities \u201Csmarter\u201D, by using simulations\
     \ from various disciplines, like for example wind field or flood simulations.\
     \ These simulations and analysis have become essential tools for decision making\
@@ -90,8 +117,14 @@ Keurentjes: [Lisa, Hugo ledoux, "Ivan Pa\u0111en", "[already handid it in] To ta
     \ for automatic repair of 3D city models. The software will repair errors that\
     \ users choose, so that the models fulfill basic requirements and requirements\
     \ for specific use cases. Also the Software will be designed in such a way that\
-    \ it could be extended with more repair options.", 1a8a2ff49f94-repair.gif]
-Kountouri: [Pinelopi Eirini, "Clara Garc\xEDa-S\xE1nchez", "Ivan Pa\u0111en", "With\
+    \ it could be extended with more repair options."
+- 1a8a2ff49f94-repair.gif
+- Automatic repair of 3D city models
+Kountouri:
+- Pinelopi Eirini
+- "Clara Garc\xEDa-S\xE1nchez"
+- "Ivan Pa\u0111en"
+- "With\
     \ the increase of urbanization process, more than 50% of the world population\
     \ live in urban \nenvironments, where traffic, industry and domestic pollution\
     \ pose a high health risk for people.\nThe level of pollution in urban canyons\
@@ -111,8 +144,14 @@ Kountouri: [Pinelopi Eirini, "Clara Garc\xEDa-S\xE1nchez", "Ivan Pa\u0111en", "W
     \ real-world measurements. Having this goal, the current thesis will answer the\
     \ following \nmain research question: \nWhat\u2019s the impact of different LoDs\
     \ of the buildings for the pollutant dispersion from different \nsources around\
-    \ an urban environment?", 088508ea1eb2-p1.png]
-Meschin: [Katrin, Maarten Pronk, Hugo Ledoux, "Forests play a crucial role in Earth\u2019\
+    \ an urban environment?"
+- 088508ea1eb2-p1.png
+- Analyzing the effects of level-of-details on the pollutant dispersion in real urban environments
+Meschin:
+- Katrin
+- Maarten Pronk
+- Hugo Ledoux
+- "Forests play a crucial role in Earth\u2019\
     s carbon cycle and the global climate. Therefore, understanding forest structure\
     \ on a global scale is important in environmental research. Ice, Cloud, and land\
     \ Elevation Satellite (ICESat-2) uses photon counting and is tuned for studying\
@@ -131,8 +170,14 @@ Meschin: [Katrin, Maarten Pronk, Hugo Ledoux, "Forests play a crucial role in Ea
     \ structural information, including the canopy cover, of Estonian boreal and mixed\
     \ forest be determined from the ICESat-2 radiometry?\nThe results will be validated\
     \ against an aerial full waveform lidar point cloud by Estonian Land Board which\
-    \ covers the entire Estonian territory", 2afd917b7780-lidar_400_400.png]
-Pena Pereira: [Simon, Azarakhsh Rafiee, Stef Lhermitte, "As one of the main drivers\
+    \ covers the entire Estonian territory"
+- 2afd917b7780-lidar_400_400.png
+- Forest structure estimation of boreal and mixed forest from ICESat-2 radiometric profile
+Pena Pereira: 
+- Simon
+- Azarakhsh Rafiee
+- Stef Lhermitte
+- "As one of the main drivers\
     \ of the greenhouse effect, the energy sector is increasingly shifting towards\
     \ more renewable and sustainable energy sources to face climate change by reaching\
     \ policy-made climate targets. A popular option to contribute to this energy transition\
@@ -144,8 +189,14 @@ Pena Pereira: [Simon, Azarakhsh Rafiee, Stef Lhermitte, "As one of the main driv
     \ automated detection of rooftop solar panels through Convolutional Neural Networks\
     \ (CNN). The objective is to train and run a CNN model for object detection on\
     \ aerial images to determine the location and distribution as well as the approximate\
-    \ size of rooftop solar panels for estimations of their electrical power.", 7e180e8882e2-p1img.jpg]
-Spinoza Andreo: [Guilherme, Frederika Welle Donker, Bastiaan van Loenen, 'An open
+    \ size of rooftop solar panels for estimations of their electrical power."
+- 7e180e8882e2-p1img.jpg
+- Automated rooftop solar panel detection through Convolutional Neural Networks
+Spinoza Andreo:
+- Guilherme
+- Frederika Welle Donker
+- Stefano Calzatti
+- 'An open
     data ecosystem can be defined as a circular, inclusive, sustainable network, in
     which data is accessible, re-useable, and oriented for the cooperation of its
     interdependent environment with its users. A well-performing user driven open
@@ -164,4 +215,6 @@ Spinoza Andreo: [Guilherme, Frederika Welle Donker, Bastiaan van Loenen, 'An ope
     perspective. This framework will include indicators developed through qualitative
     research by interviewing various user groups and will be used to perform a comparative
     analysis of local open geodata ecosystems considered to be a best practice for
-    user participation.', 778499397dc8-thesis.png]
+    user participation.'
+- 778499397dc8-thesis.png
+- Accessing a successful open geodata ecosystem from a user-centric perspective: A qualitative comparison
