@@ -1,11 +1,11 @@
 ---
 layout: page
-title: "Thesis starting September 2021"
-permalink: /theses/2021sep/
+title: "Thesis starting April 2022"
+permalink: /theses/2022april/
 ---
 
 
-{% assign thesis = site.data.theses_2021sep  %}
+{% assign thesis = site.data.theses_2022april  %}
 
 {% for i in thesis %}
 
