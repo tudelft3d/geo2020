@@ -38,10 +38,9 @@ no more topics for this year
 
 ## [Giorgio Agugiaro](https://3d.bk.tudelft.nl/gagugiaro/)
  1. [(Further) development of a QGIS plugin for the CityGML 3D City Database](https://3d.bk.tudelft.nl/education/msctopics/#further-development-of-a-qgis-plugin-for-the-citygml-3d-city-database)
- 2. [Urban energy simulations linking CitySim with the 3DCityDB](https://3d.bk.tudelft.nl/education/msctopics/#urban-energy-simulations-linking-citysim-with-the-3dcitydb)
- 3. [Heating energy demand of the Dutch building stock with the help of the 3D BAG 2.0](https://3d.bk.tudelft.nl/education/msctopics/#heating-energy-demand-of-the-dutch-building-stock-with-the-help-of-the-3d-bag-20)
- 4. [Coupling 3D city models with Ladybug tools for environmental analyses](https://3d.bk.tudelft.nl/education/msctopics/#coupling-3d-city-models-with-ladybug-tools-for-environmental-analyses)
- 5. [Integrated modelling of utility networks in the urban environment](https://3d.bk.tudelft.nl/education/msctopics/#integrated-modelling-of-utility-networks-in-the-urban-environment)
+ 2. [Heating energy demand of the Dutch building stock with the help of the 3D BAG 2.0](https://3d.bk.tudelft.nl/education/msctopics/#heating-energy-demand-of-the-dutch-building-stock-with-the-help-of-the-3d-bag-20)
+ 3. [Coupling 3D city models with Ladybug tools for environmental analyses](https://3d.bk.tudelft.nl/education/msctopics/#coupling-3d-city-models-with-ladybug-tools-for-environmental-analyses)
+ 4. [Integrated modelling of utility networks in the urban environment](https://3d.bk.tudelft.nl/education/msctopics/#integrated-modelling-of-utility-networks-in-the-urban-environment)
 
 
 ## [Jesus Balado Frias](http://www.gdmc.nl/staff/)
@@ -95,7 +94,7 @@ no more topics for this year
 ## [Hugo Ledoux](https://3d.bk.tudelft.nl/hledoux/)
 1. [Estimating noise pollution with machine learning?](https://3d.bk.tudelft.nl/education/msctopics/#estimating-noise-pollution-with-machine-learning)
 2. [How can 3D alpha wrapping be best used to repair buildings?](https://3d.bk.tudelft.nl/education/msctopics/#how-can-3d-alpha-wrapping-be-best-used-to-repair-buildings)
-3. [Something with streaming TINs for massive datasets](https://3d.bk.tudelft.nl/education/msctopics/#something-with-streaming-tins-for-massive-datasets)
+3. [How to best interpolate space lidar to create terrains?](https://3d.bk.tudelft.nl/education/msctopics/#how-to-best-interpolate-space-lidar-to-create-terrains)
 4. [Filling the gaps in aerial point clouds with deep learning](https://3d.bk.tudelft.nl/education/msctopics/#filling-the-gaps-in-aerial-point-clouds-with-deep-learning)
 5. [Modern metadata for CityJSON](https://3d.bk.tudelft.nl/education/msctopics/#modern-metadata-for-cityjson)
 
