@@ -192,6 +192,6 @@ no more topics for this year
 2. [Multi-view Styled Stereo](https://3d.bk.tudelft.nl/education/msctopics/#multi-view-styled-stereo)
 
 ## [Giorgia Giardina ](https://www.tudelft.nl/en/ceg/about-faculty/departments/geoscience-engineering/sections/geo-engineering/staff/academic-staff/giardina-g)
-1. [Using 3D BAG to create a national subsidence vulnerability map]()
-2. [Using 3D BAG to develop finite element models of buildings at regional scale]()
+1. [Using 3D BAG to create a national subsidence vulnerability map](https://3d.bk.tudelft.nl/education/msctopics/#using-3d-bag-to-create-a-national-subsidence-vulnerability-map)
+2. [Using 3D BAG to develop finite element models of buildings at regional scale](https://3d.bk.tudelft.nl/education/msctopics/#using-3d-bag-to-develop-finite-element-models-of-buildings-at-regional-scale)
 
