@@ -190,3 +190,8 @@ no more topics for this year
 ## [Nail Ibrahimli](https://mirmix.github.io)
 1. [Multi-view Semantic Stereo](https://3d.bk.tudelft.nl/education/msctopics/#multi-view-semantic-stereo)
 2. [Multi-view Styled Stereo](https://3d.bk.tudelft.nl/education/msctopics/#multi-view-styled-stereo)
+
+## [Giorgia Giardina ](https://www.tudelft.nl/en/ceg/about-faculty/departments/geoscience-engineering/sections/geo-engineering/staff/academic-staff/giardina-g)
+1. [Using 3D BAG to create a national subsidence vulnerability map]()
+2. [Using 3D BAG to develop finite element models of buildings at regional scale]()
+
