@@ -2,7 +2,7 @@
 layout: post
 title:  "MSc topics choices"
 author: Clara Garcia-Sanchez
-date:   2020-07-14 12:00
+date:   2022-07-15 16:17
 ---
 
 The outcome of the MSc thesis topics is below; all of you (nearly) got their first choices so all is good I reckon.
