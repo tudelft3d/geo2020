@@ -4,6 +4,8 @@ title: Important dates
 permalink: /dates/
 ---
 
+[BK academic graduation calendar 2021-2022](Jaarkalender_afstuderen_2022-2023.pdf) 
+
 [BK academic graduation calendar 2021-2022](Jaarkalender_afstuderen_2021-2022.pdf) 
 
 [BK academic graduation calendar 2020-2021](Jaarkalender_afstuderen_2020-2021.pdf) 
