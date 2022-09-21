@@ -30,7 +30,7 @@ Even if it takes you 2 years to complete, the rules that applied when you starte
 
 ## P1
 
-<div data-tf-widget="oUuj88XY" data-tf-iframe-props="title=GEO2020 p1 registration - 2021-2022" data-tf-medium="snippet" style="width:100%;height:400px;"></div><script src="//embed.typeform.com/next/embed.js"></script>
+<div data-tf-widget="oUuj88XY" data-tf-iframe-props="title=GEO2020 p1 registration - 2022-2023" data-tf-medium="snippet" style="width:100%;height:400px;"></div><script src="//embed.typeform.com/next/embed.js"></script>
 
 ## P2
 
