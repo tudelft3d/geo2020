@@ -18,14 +18,13 @@ Cai:
   a Python-based data importer and a scientific benchmark. The benchmark will use
   AHN2 dataset, and be performed on query, add, update and delete.'
 - 4b5df05abbc6-pointcloud_in_database.png
-- An efficient storage of point cloud with space filling curve in PostgreSQL
 Dechamps:
 - Louis
 - Giorgio Agugiaro
 - Jantien Stoter
 - "In the past decade, there has been growing interest in creating what is known as\
-  \ a \u9225\u6999igital twin\u9225?of urban environments. This \u9225\u6999igital\
-  \ twin\u9225?is an exact digital representation of the real world and all its physical\
+  \ a Digital twin of urban environments. This Digital\
+  \ twin is an exact digital representation of the real world and all its physical\
   \ attributes and relationships and dynamic phenomena. This includes services such\
   \ utility networks, charged with the transportation of goods such as electricity,\
   \ data, water, gas, sewage and other commodities that help a city function. In these\
@@ -36,14 +35,12 @@ Dechamps:
   \ accessing the networks can not only be harmful on site but it may also affect\
   \ the resources supplied to important buildings, such as electricity to a hospital,\
   \ causing therefore potentially harmful cascading effects. Therefore, it is important\
-  \ that the exact position of utility networks is replicated within the \u9225\u6999\
-  igital twin\u9225?\nTherefore, the objective of this thesis will be to research\
+  \ that the exact position of utility networks is replicated within the Digital twin?\nTherefore, the objective of this thesis will be to research\
   \ the possible ways to improve the utility networks, with particular focus on the\
   \ geographical information, and special focus on the 3rd dimension. One promising\
   \ method is to attempt to retrieve the positions of the underground utilities from\
   \ what are known as \u9225\u69A9it scans'. 1500 char. max"
 - 21dddc881e96-3D_utility_mappping.jpeg
-- Modelling of utility networks in the urban environment
 Fengyan:
 - Zhang
 - Ken Arroyo Ohori
@@ -67,7 +64,6 @@ Fengyan:
   modifying the CDT (e.g., collapsing a particularly thin triangle into a point or
   an edge), which may be theoretically more efficient.
 - 2435a4e5e876-p1.png
-- Snap rounding in a triangulation
 Hengelmolen:
 - Maren
 - Clara Garcia Sanchez
@@ -88,7 +84,6 @@ Hengelmolen:
   \ their compatibility with the most recent CFD guidelines developed by the wind\
   \ engineering community."
 - 5c40675684bb-Research_in_one_image.png
-- Web application for Urban Computational  Fluid Dynamics Simulations Set-Up validation
 Kan:
 - Leo
 - Hugo Ledoux
@@ -106,7 +101,6 @@ Kan:
   \ existing aerial lidar datasets. Consequently, this project can potentially be\
   \ helpful when flying an aeroplane is impractical in remote parts of the world."
 - 5e80ad6129a8-cover_image.png
-- Interpolation of Sparse Satellite Lidar Data using Global DEMs and Machine Learning
 Mbwanda:
 - Tendai
 - Giorgio Agugiaro
@@ -128,7 +122,6 @@ Mbwanda:
   concurrently for units and components. While the aim is to have a generic approach
   for ADE support, my focus will be on the Energy ADE.'
 - b0d392b5fd6-Picture2.png
-- Further Development of  a QGIS plugin for the CityGML 3D City Database
 Meines:
 - Siebren
 - Azarakhsh Rafiee
@@ -153,7 +146,6 @@ Meines:
   \ to make the tool interactive, to be able to quickly (re)calculate spatial analysis,\
   \ and to make it fit for VR."
 - 607e8142a83a-p1_submission_image.jpg
-- Game engine based spatial support system for urban development design.
 Panagiotidou:
 - Ioanna
 - Nail Ibrahimli
@@ -178,7 +170,6 @@ Panagiotidou:
   \ in stereo benchmarks. \nThis research aims to reconstruct a complete and accurate\
   \ representation of building facade ele"
 - 205c9f147-semantic3D.png
-- Learning-based multi-view stereo with semantic priors
 Papadimitriou:
 - Chrysanthi
 - Bastiaan van Loenen
@@ -201,11 +192,9 @@ Papadimitriou:
   surveys and interviews with private companies that would potentially be part of
   the data space.
 - 96998c3c8d52-data_space.jpg
-- Investigating requirements of the private sector to participate in an open geoData
-  Space
 Poon:
 - Chris
-- "Camilo Le\u8D38n-S\u8C29nchez"
+- "Camilo Leon-Sanchez"
 - Giorgio Agugiaro
 - 'The 3DBAG contains the geometries of buildings for the whole Netherlands. The scope
   of this thesis is to infer the building type using as main sources the 3DBAG and
@@ -224,8 +213,7 @@ Poon:
   since they can be used to overcome the lack of data of the 3DBAG regarding building
   physics such as construction materials.'
 - 5259f82bccd-thesis_research_image.png
-- Infer the building type from the 3DBAG
-"Powa\u8242ka":
+"Powałka":
 - Leon Piotr
 - Liangliang Nan
 - Jantien Stoter
@@ -234,8 +222,7 @@ Poon:
   \ the map by traversing the road/pedestrian network in a carefully planned way.\
   \ Such planning, however, is not yet automated, which makes the GPS artists have\
   \ to meticulously design the routes with the complex road network in mind.\nThe\
-  \ aim of my research is to come up with a full process that can express a person\u9225\
-  \u6A9A initial idea (for example a contour drawing) as a route, which the user can\
+  \ aim of my research is to come up with a full process that can express a person's initial idea (for example a contour drawing) as a route, which the user can\
   \ then follow to create their GPS art. This involves transforming the input image\
   \ to match the routing network in a selected area and generating a route which approximates\
   \ the shape in the best possible way. For the first part, an image matching algorithm\
@@ -243,7 +230,6 @@ Poon:
   \ a graph routing algorithm with a custom cost function to make the resulting route\
   \ as similar to the input shape as possible."
 - 0e4a0a99678-resided.png
-- Image-guided automatic artistic route finding
 Theodoridou:
 - Eleni
 - Dr. Azarakhsh Rafiee
@@ -267,13 +253,11 @@ Theodoridou:
   - time visualization of the sensor data, and (3) using the data for urban simulations
   and pattern analysis.'
 - 9cd1aac33cf-P1_V2_pic.png
-- Implementation of OGC SensorThingsAPI standard for the integration of dynamic sensor
-  data in an urban digital twin
 Therias:
 - Adele Marie
 - Dr. Azarakhsh Rafiee
 - Dr. Stef Lhermitte
-- "Ghana and Cote d\u9225\u6A67voire are major producers and exporters of cocoa beans.\
+- "Ghana and Cote d'Ivoire are major producers and exporters of cocoa beans.\
   \ In recent years, environmental and social factors have led smallholder farmers\
   \ to encroach onto forest land. As of 2024, the European Union will ban the import\
   \ of such products issued from deforested areas, a law whose enforcement will require\
@@ -288,13 +272,11 @@ Therias:
   \ a combination of both, to identify cocoa crops. While most of these implementations\
   \ use a pixel-wise classification that does not consider the spatial context, recent\
   \ work has applied a Convolutional Neural Network trained with multispectral data\
-  \ that shows promising results in Ghana and Cote d\u9225\u6A67voire. The objective\
+  \ that shows promising results in Ghana and Cote d'Ivoire. The objective\
   \ of this thesis is to build on this research by integrating radar data into the\
   \ network in order to test the impact of texture information on the accuracy of\
   \ the deep learning classification."
 - 270668af38f7-image_thesis.png
-- 'Integrating radar and multispectral data to detect cocoa crops: a deep learning
-  approach'
 Visser:
 - Fabian
 - Nail Ibrahimli
@@ -341,7 +323,6 @@ Visser:
 
   which only requires one forward pass for the content reconstruction.'
 - df02fd6f30cd-style_rgb_rendering.png
-- Stylising Multi-view 3D Reconstructed Geometry
 Xia:
 - Yitong
 - Jantien Stoter
@@ -349,19 +330,18 @@ Xia:
 - "The objective of this research is to extract openings (including doors and windows)\
   \ of buildings using image data sources (oblique aerial imagery or street view images)\
   \ and integrate them into the 3D BAG LoD 2.2 building model. To identify the building\
-  \ fa\u83BDades, doors, and windows information in the images, machine learning techniques\
+  \ façades, doors, and windows information in the images, machine learning techniques\
   \ will be used.  After correcting the extracted facade and calculating the relative\
   \ position of openings on the facade, the 3D coordinates of openings will be calculated\
   \ by combining the 3D coordinates of the corresponding facade and finally integrating\
   \ them into the 3D BAG. The openings can be placed almost exactly on the plane of\
-  \ the fa\u83BDade due to the approach used to derive 3D absolute position from 2D\
+  \ the façade due to the approach used to derive 3D absolute position from 2D\
   \ relative position.  The solution could be easily extended to very large area (e.g.\
   \ the whole Netherlands) due to the image data coverage is large and easily accessible.\
   \ The expected results of t his project are a program to automate the integration\
   \ of windows and doors with 3D BAG LoD 2.2 model, capable of handling a wide range\
-  \ of complex buildings and fa\u83BDades."
+  \ of complex buildings and façades."
 - dcf6d151ff-1668768938045.jpg
-- 'Upgrade in 3D BAG: add openings to LoD 2.2 building'
 Yan:
 - Lan
 - Ken Arroyo Ohori
@@ -385,7 +365,6 @@ Yan:
   \ semantic information (for instance which part belongs to the roof part and which\
   \ part belongs to the wall part)."
 - 325f0cc235ef-P1.png
-- Extracting Building Exterior Envelopes from BIM Models
 Yang:
 - Yue
 - Martijn Meijers
@@ -409,7 +388,6 @@ Yang:
   can be ambiguous due to the legal meaning of spatial plans. To validate the proposed
   system architecture, the improved prototype will be compared with the previous version.
 - 3bc9c931593-P1_submit.png
-- Improvement of an LADM 3D web application
 van Esch:
 - Marieke
 - Edward Verbree
@@ -422,17 +400,14 @@ van Esch:
   \ redistribution of urban space configuration, it will be possible to make our cities\
   \ more climate neutral, healthier and inclusive. Several cities developed their\
   \ own walkability tools based on quantitative measurements (based on the proximity\
-  \ of facilities for example) in order to evaluate their streets. For now, they don\u9225\
-  \u6A9B take into account the experience/perception of pedestrians with increasing\
+  \ of facilities for example) in order to evaluate their streets. For now, they don't take into account the experience/perception of pedestrians with increasing\
   \ temperatures and humidity whilst walking through cities. The question for the\
-  \ Geomatics part is: \u9225\u6DD7ow to model the pedestrian perception in streets\
-  \ with the increase of temperature and change in humidity within cities in 2050?\u9225\
-  ?This will be done by QGIS, SQL and 3DBag. The question for the Urbanism part is:\
-  \ \u9225\u6EFAow to arrange climate adaptive public spaces in favour of (denser)\
-  \ healthier population cities in 15mC? \u9225? The formulation of this IDD thesis\
+  \ Geomatics part is: how to model the pedestrian perception in streets\
+  \ with the increase of temperature and change in humidity within cities in 2050?
+  This will be done by QGIS, SQL and 3DBag. The question for the Urbanism part is:\
+  \ how to arrange climate adaptive public spaces in favour of (denser)\
+  \ healthier population cities in 15mC? The formulation of this IDD thesis\
   \ is still evolving. The test case is still to be determined: Right now Amsterdam,\
   \ The Hague or Utrecht are options. Gert-Jan Steeneveld of Wageningen University\
   \ for temperature increases in 2050 and Simon Schneider of Utrecht University."
 - b26f2f664fac-warmcity.png
-- Pedestrian experience of UHI method in favour of public spaces (re-)configuration
-  for healthier cities
