@@ -282,46 +282,20 @@ Visser:
 - Nail Ibrahimli
 - Liangliang Nan
 - 'Arguably, two of the most interesting fields in machine learning right now is the
-  develop-
-
-  ment of differentiable 3d reconstruction, and stylistic rendering. Implicit Differentiable
-  Ren-
-
-  dering (IDR) recreates 3d geometry, camera parameters, and color and reflectance
-  of the object,
-
-  requiring only masked images as input. The geometry is modeled using the zero level
-  set of
-
+  development of differentiable 3d reconstruction, and stylistic rendering. Implicit Differentiable
+  Rendering (IDR) recreates 3d geometry, camera parameters, and color and reflectance
+  of the object, requiring only masked images as input. The geometry is modeled using the zero level set of 
   a NN, and the material using a neural renderer. The renderer of two different models
-  can be
-
-  swapped to create geometry from one scene with appearance from the other.
-
+  can be swapped to create geometry from one scene with appearance from the other.
   Stylistic rendering is all about applying styling, artistic characteristics, to
-  a scene. Style
-
-  representation correlates features between different layers of a CNN, which can
-  be used to
-
-  reconstruct styling while keeping content representation from another input image.
-
+  a scene. Style representation correlates features between different layers of a CNN, which can
+  be used to reconstruct styling while keeping content representation from another input image.
   If it possible to swap renderers for IDR, is it then possible to instead introduce
-  a stylistic
-
-  renderer? That is the question that I will be exploring. Something similar has been
-  performed
-
-  for NeRF, applying styling to the view synthesis created. I will explore if a similar
-  method be
-
-  implemented to IDR, either as a renderer or to the ouput images. It could also be
-  possible to
-
-  look at texture mapping the styling. To simplify the process, fast style transfer
-  can be used,
-
-  which only requires one forward pass for the content reconstruction.'
+  a stylistic renderer? That is the question that I will be exploring. Something similar has been
+  performed for NeRF, applying styling to the view synthesis created. I will explore if a similar
+  method be implemented to IDR, either as a renderer or to the ouput images. It could also be
+  possible to look at texture mapping the styling. To simplify the process, fast style transfer
+  can be used, which only requires one forward pass for the content reconstruction.'
 - df02fd6f30cd-style_rgb_rendering.png
 Xia:
 - Yitong
