@@ -50,8 +50,8 @@ The email must state as subject: "P2 graduation plan + [your student number]".
 ## P4
 
 
-
-- [Form to register for P4](https://www.tudelft.nl/en/student/faculties/a-be-student-portal/education/forms/) 
+- Your supervisor can register you for the P4 (done at P2 or ask your supervisor). There are deadline.
+- [Old form to register for P4 (could be useful)](https://www.tudelft.nl/en/student/a-be-student-portal/practical-affairs/forms) 
   
   1. watch out: you need several signatures, don't start 1h before the deadline
   1. pro-tip: don't print it, instead ask people to digitally sign it with the PDF reader (Adobe and Preview.app have that built-in)
