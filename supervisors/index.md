@@ -52,7 +52,7 @@ Read p.19 of the [Official Graduation Manual 2020-2021](../rules/GraduationManua
 ### P4
 
   - before P4 a co-reader must be chosen
-  - the co-reader can, if they want, read the draft version and those comments be given to the student at the P4. *But it is not mandatory*, the co-reader task is at P5 officially.
+  - the co-reader must skim/read the draft version and submit comments and potential questions to the 1st supervisors. The co-reader doesn't need to attend P4.
   - both supervisors must read carefully the draft and ensure that the student has a chance to pass. You're wasting everyone's time if you know you'll give a nogo and still have the P4.
   - you have to assess if the work is original, and thus you need to go to the [Brightspace Plagiarism Scan thingy](https://brightspace.tudelft.nl/d2l/home/47493) and check the report. ([Full details here](../rules/Nieuw_Teacher_mail_V4.docx)).
   - both supervisors must attend P4
