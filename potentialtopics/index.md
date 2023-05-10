@@ -66,13 +66,10 @@ no more topics for this year
 -->
 
 ## [Clara García-Sánchez](https://3d.bk.tudelft.nl/gsclara/)
-1. [Web application for Urban Computational Fluid Dynamics Simulations Set-Up validation](https://3d.bk.tudelft.nl/education/msctopics/#web-application-for-urban-computational-fluid-dynamics-simulations-set-up-validation)
-2. [Optimizing building mesh designs for computational fluid dynamics using machine learning.](https://3d.bk.tudelft.nl/education/msctopics/#optimizing-building-mesh-designs-for-computational-fluid-dynamics-using-machine-learning)
-3. [To mesh or not to mesh: immersed boundary methods and porosity in OpenFOAM](https://3d.bk.tudelft.nl/education/msctopics/#to-mesh-or-not-to-mesh-immersed-boundary-methods-and-porosity-in-openfoam) 
-4. [Improving automatic meshing for buildings](https://3d.bk.tudelft.nl/education/msctopics/#improving-automatic-meshing-for-buildings)
-5. [Coupled and decoupled simulations of urban wind flow for indoor natural ventilation modelling](https://3d.bk.tudelft.nl/education/msctopics/#coupled-and-decoupled-simulations-of-urban-wind-flow-for-indoor-natural-ventilation-modelling)
-6. [What is the effect of footprint uncertainty in CFD simulations?](https://3d.bk.tudelft.nl/education/msctopics/#what-is-the-effect-of-footprint-uncertainty-in-cfd-simulations)
-7. [Linking Urban Heat Island effects with 3D urban morphology](https://3d.bk.tudelft.nl/education/msctopics/#linking-urban-heat-island-effects-with-3d-urban-morphology)
+1. [Optimizing building mesh designs for computational fluid dynamics using machine learning.](https://3d.bk.tudelft.nl/education/msctopics/#optimizing-building-mesh-designs-for-computational-fluid-dynamics-using-machine-learning)
+2. [To mesh or not to mesh: immersed boundary methods and porosity in OpenFOAM](https://3d.bk.tudelft.nl/education/msctopics/#to-mesh-or-not-to-mesh-immersed-boundary-methods-and-porosity-in-openfoam) 
+3. [Coupled and decoupled simulations of urban wind flow for indoor natural ventilation modelling](https://3d.bk.tudelft.nl/education/msctopics/#coupled-and-decoupled-simulations-of-urban-wind-flow-for-indoor-natural-ventilation-modelling)
+4. [Linking Urban Heat Island effects with 3D urban morphology](https://3d.bk.tudelft.nl/education/msctopics/#linking-urban-heat-island-effects-with-3d-urban-morphology)
 
 
 ## [Eftychia Kalogianni](https://www.tudelft.nl/en/staff/e.kalogianni/)
