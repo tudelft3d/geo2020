@@ -12,7 +12,7 @@ permalink: /theses/2023april/
 <article class="media">
   <figure class="media-left">
     <p class="image">
-      <img src="img/{{ i[1][4] }}">
+      <img src="img/{{i[1][4]}}">
     </p>
   </figure>
   <div class="media-content">
