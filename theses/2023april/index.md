@@ -5,7 +5,7 @@ permalink: /theses/2023april/
 ---
 
 
-{% assign thesis = site.data.theses_2023april  %}
+{% assign thesis = site.data.theses_2023april %}
 
 {% for i in thesis %}
 
