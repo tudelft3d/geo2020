@@ -2,26 +2,25 @@ Chontos:
 - Christos
 - Clara Garcia-Sanchez
 - "Ivan Pa\u0111en"
-- 'While reconstructing urban environments, the accuracy of our model is strongly
-  related with the quality of the input data. Their initial type for this process
-  is the footprints of the buildings, which are typically used to raise them, either
-  through manual or automated methods. However, these data could be biased and when
-  we perform a Computational Fluid Dynamic simulation (CFD), could have impact on
-  our results. In our case, real-world building footprints will be used to define
-  these biases with the uncertainty of raw data. Additionally, the probability approach
-  for representing and quantifying this uncertainty will be examined. The CEDVAL database
-  is an example of a canonical case for the simulations, in which the building footprints
-  could be perturbed based on mean from point cloud data, in a deterministic way (rotation
-  and displacement). A CFD simulation on such a canonical case would typically involve
-  the following steps: 1) Preparation of our
-
-  geometry, 2)Generation of the mesh, 3) Boundary conditions (fluid properties, inlet
-  velocity and other relevant parameters), 4) Numerical solution by solving a system
-  of algebraic equations and 5) Post-processing, like visualization of the flow patterns
-  and comparing the simulation results with the experimental data from the CEDVAL
-  database. The data that will be compared are flow velocity, pressure, turbulent
-  kinetic energy, dissipation rate and turbulent viscosity. The effects will be examined
-  across multiple wind directions.'
+- "While reconstructing urban environments, the accuracy of our model is strongly\
+  \ related with the quality of the input data. Their initial type for this process\
+  \ is the footprints of the buildings, which are typically used to raise them, either\
+  \ through manual or automated methods. However, these data could be biased and when\
+  \ we perform a Computational Fluid Dynamic simulation (CFD), could have impact on\
+  \ our results. In our case, real-world building footprints will be used to define\
+  \ these biases with the uncertainty of raw data. Additionally, the probability approach\
+  \ for representing and quantifying this uncertainty will be examined. The CEDVAL database\
+  \ is an example of a canonical case for the simulations, in which the building footprints\
+  \ could be perturbed based on mean from point cloud data, in a deterministic way (rotation\
+  \ and displacement). A CFD simulation on such a canonical case would typically involve\
+  \ the following steps: 1) Preparation of our\
+  \ geometry, 2)Generation of the mesh, 3) Boundary conditions (fluid properties, inlet\
+  \ velocity and other relevant parameters), 4) Numerical solution by solving a system\
+  \ of algebraic equations and 5) Post-processing, like visualization of the flow patterns\
+  \ and comparing the simulation results with the experimental data from the CEDVAL\
+  \ database. The data that will be compared are flow velocity, pressure, turbulent\
+  \ kinetic energy, dissipation rate and turbulent viscosity. The effects will be examined\
+  \ across multiple wind directions."
 - 595416e6de9-P1_image.png
 Gheorghiu:
 - Andra Irina
