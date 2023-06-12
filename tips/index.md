@@ -138,7 +138,7 @@ Include all the significant/important parts that you have modified or added.
 Also, if you didn't process some comments from a member of the committee, write it clearly and state why (you do not need to implement all the corrections from the members, but you need to have a good reason if you do not).
 
 You can also submit another document that indicates all the changes made.
-If you're using LaTeX, [latexdiff](https://mirrors.evoluso.com/CTAN/support/latexdiff/doc/latexdiff-man.pdf) (Perl program) can be used. 
+If you're using LaTeX, [latexdiff](https://www.overleaf.com/learn/latex/Articles/Using_Latexdiff_For_Marking_Changes_To_Tex_Documents) (Perl program) can be used. 
 [Adobe Acrobat Pro](https://helpx.adobe.com/acrobat/using/compare-documents.html) also has a feature for comparing two versions of a PDF document. 
 If you use Word, track changes is the obvious choice.
 
