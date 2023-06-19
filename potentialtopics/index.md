@@ -11,7 +11,7 @@ permalink: /potentialtopics/
   </div>
   <div class="message-body">
     <ul>
-      <li>There are two rounds to pick a topic: 2022-07-08 and 2022-09-15 </li>
+      <li>You can pick a topic from June until September 15th the latest, where you need to have a topic and at least one supervisor selected</li>
       <li>Be warned that if you wait for September, then it is possible that your topic is already gone and your favourite supervisor is full</li>
       <li>A topic can be changed a bit until the P1 (mid-November)</li>
       <li>You can pick any topics below, or you can speak to a geomatics staff and if you agree on a topic, then submit it (with a temporary title)</li>
@@ -19,7 +19,6 @@ permalink: /potentialtopics/
       <li>If you have agreed on a topic with a supervisor and they agree, no need to submit #2 and #3 topic, put blanks or just type *no further topics*</li>
       <li>Only the 1st supervisor is relevant at this point, the 2nd can be added later</li>
       <li>Questions? discord channel #geo2020 is the best place to ask</li>
-      <li>We will get back to you as soon as possible in July</li>
     </ul>  
   </div>
 </article>
