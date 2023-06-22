@@ -191,3 +191,6 @@ no more topics for this year
 1. [Using 3D BAG to create a national subsidence vulnerability map](https://3d.bk.tudelft.nl/education/msctopics/#using-3d-bag-to-create-a-national-subsidence-vulnerability-map)
 2. [Using 3D BAG to develop finite element models of buildings at regional scale](https://3d.bk.tudelft.nl/education/msctopics/#using-3d-bag-to-develop-finite-element-models-of-buildings-at-regional-scale)
 
+## [Akshay Patil](https://3d.bk.tudelft.nl/apatil/)  
+1. [Coral Reef Complexity: Coral reefs as urban landscapes?](https://3d.bk.tudelft.nl/education/msctopics/#coral-reef-complexity)
+2. [Random City Engine](https://3d.bk.tudelft.nl/education/msctopics/#random-city-engine): Primary advisor: Hugo Ledoux.
