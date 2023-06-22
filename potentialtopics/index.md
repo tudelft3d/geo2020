@@ -142,8 +142,8 @@ no more topics for this year
 
 
 ## [Azarakhsh Rafiee](http://www.gdmc.nl/staff/)
-1. [Crosswalk detection for the outdoor navigation of people with visual impairment](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Crosswalk_detection_for_the_outdoor_navigation_of_people_with_visual_impairment)
-2. [Developing a 3D web-based Digital Twin visualization platform based on OGC 3D Tile technique](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Developing_a_3D_web_45based_Digital_Twin_visualization_platform_based_on_OGC_3D_Tile_technique)
+1. [OGC API – Processes for the dissemination of simulation results](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#OGC_API_150_Processes_for_the_dissemination_of_simulation_results)
+2. [Netatmo Sensor Integration in IFC model of TU Delft Architecture and the Built Environment building](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Netatmo_Sensor_Integration_in_IFC_model_of_TU_Delft_Architecture_and_the_Built_Environment_building)
 
 
 ## [Jantien Stoter](https://3d.bk.tudelft.nl/jstoter/)
