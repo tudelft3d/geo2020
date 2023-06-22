@@ -116,8 +116,9 @@ no more topics for this year
 
 ## [Liangliang Nan](https://3d.bk.tudelft.nl/liangliang)
 1. [Image-guided automatic artistic route finding](https://3d.bk.tudelft.nl/education/msctopics/#image-guided-automatic-artistic-route-finding)
-2. [Reconstructing permanent structures of textureless indoor scenes from multi-view images](https://3d.bk.tudelft.nl/education/msctopics/#reconstructing-permanent-structures-of-textureless-indoor-scenes-from-multi-view-images)
-<!-- all topics gone for this year -->
+2. [Reconstructing permanent indoor structures from multi-view images](https://3d.bk.tudelft.nl/education/msctopics/#reconstructing-permanent-indoor-structures-from-multi-view-images)
+3. [BuildingNet: a multi-modality, feature-rich, large-scale, and detailed 3D building dataset](https://3d.bk.tudelft.nl/education/msctopics/#buildingnet-a-multi-modality-feature-rich-large-scale-and-detailed-3d-building-dataset)
+<!-- all topics have gone for this year -->
 
 <!-- ## [Francesca Noardo](http://www.noardo.eu/) -->
 <!-- 1. [3D digital urban regulations to use GeoBIM for building permission checks](https://3d.bk.tudelft.nl/education/msctopics/#3d-digital-urban-regulations-to-use-geobim-for-building-permission-checks)
