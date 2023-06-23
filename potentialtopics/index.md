@@ -24,9 +24,11 @@ permalink: /potentialtopics/
 </article>
 
 <div class="columns is-mobile">
+<!--
 <div class="typeform-widget" data-url="https://tudelft3d.typeform.com/to/xDsybGHY?typeform-medium=embed-snippet" style="width: 100%; height: 500px;"></div> <script> (function() { var qs,js,q,s,d=document, gi=d.getElementById, ce=d.createElement, gt=d.getElementsByTagName, id="typef_orm", b="https://embed.typeform.com/"; if(!gi.call(d,id)) { js=ce.call(d,"script"); js.id=id; js.src=b+"embed.js"; q=gt.call(d,"script")[0]; q.parentNode.insertBefore(js,q) } })() </script>
 </div>
-
+-->
+<div data-tf-widget="OBWlIPIO" data-tf-opacity="100" data-tf-iframe-props="title=GEO2020 topic pick 2023" data-tf-transitive-search-params data-tf-medium="snippet" style="width:100%;height:500px;"></div><script src="//embed.typeform.com/next/embed.js"></script>
 
 
 ---
@@ -59,7 +61,6 @@ no more topics for this year
 2. [Exploring BIM models for synthetic data generation towards indoor point cloud classification](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Exploring_BIM_models_for_synthetic_data_generation_towards_indoor_point_cloud_classification)
 3. [A model-based approach for layout reconfiguration from indoor point clouds](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#A_model_45based_approach_for_layout_reconfiguration_from_indoor_point_clouds)
 
-<!-->
 <!--## [Balázs Dukai](https://www.balazsdukai.me/)
 1. [Towards true 3D noise calculations](https://3d.bk.tudelft.nl/education/msctopics/#towards-true-3d-noise-calculations)
 -->
@@ -100,7 +101,6 @@ no more topics for this year
 2. [Infer the building type from the 3DBAG](https://github.com/tudelft3d/website/blob/main/education/msctopics/index.md#infer-the-building-type-from-the-3dbag)
 3. [(Further) Development and Testing of the Energy Extension for CityJSON (v1.x)](https://github.com/tudelft3d/website/blob/main/education/msctopics/index.md#further-development-and-testing-of-the-energy-extension-for-cityjson-v1x)
 
-<!-->
 ## [Bastiaan van Loenen](https://www.tudelft.nl/en/staff/b.vanloenen/)
 1. [Governance of the open data ecosystem](https://kcopendata.eu/education/thesis-topics/#IP)
 2. [Bridging the information gap between public and private sector](https://kcopendata.eu/education/thesis-topics/#bridging)
