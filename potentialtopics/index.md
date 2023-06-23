@@ -153,6 +153,7 @@ no more topics for this year
 4. [Reconstructing 3D apartment units from legal apartment drawings](https://3d.bk.tudelft.nl/education/msctopics/#reconstructing-3d-apartment-units-from-legal-apartment-drawings)
 5. [3D delineation of urban river spaces](https://3d.bk.tudelft.nl/education/msctopics/#3d-delineation-of-urban-river-spaces)
 6. [Update 3D BAG from different point clouds](https://3d.bk.tudelft.nl/education/msctopics/#update-3d-bag-from-different-point-clouds)
+7. [Development on quality assessment of point cloud datasets](https://3d.bk.tudelft.nl/education/msctopics/#development-on-quality-assessment-of-point-cloud-datasets)
 
 <!-- 2. [Reconstructing a 3D road network for the whole Netherlands (for the National Road Data set (NWB))](https://nationaalwegenbestand.nl/nieuws/hoogte-informatie-toegevoegd-aan-nwb-voor-omgevingswet) [with NWB] -->
 
