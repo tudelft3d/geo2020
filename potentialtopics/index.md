@@ -100,7 +100,7 @@ no more topics for this year
 2. [Infer the building type from the 3DBAG](https://github.com/tudelft3d/website/blob/main/education/msctopics/index.md#infer-the-building-type-from-the-3dbag)
 3. [(Further) Development and Testing of the Energy Extension for CityJSON (v1.x)](https://github.com/tudelft3d/website/blob/main/education/msctopics/index.md#further-development-and-testing-of-the-energy-extension-for-cityjson-v1x)
 
-
+<!-->
 ## [Bastiaan van Loenen](https://www.tudelft.nl/en/staff/b.vanloenen/)
 1. [Governance of the open data ecosystem](https://kcopendata.eu/education/thesis-topics/#IP)
 2. [Bridging the information gap between public and private sector](https://kcopendata.eu/education/thesis-topics/#bridging)
