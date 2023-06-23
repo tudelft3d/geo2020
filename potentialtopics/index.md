@@ -116,8 +116,9 @@ no more topics for this year
 
 ## [Liangliang Nan](https://3d.bk.tudelft.nl/liangliang)
 1. [Image-guided automatic artistic route finding](https://3d.bk.tudelft.nl/education/msctopics/#image-guided-automatic-artistic-route-finding)
-2. [Reconstructing permanent structures of textureless indoor scenes from multi-view images](https://3d.bk.tudelft.nl/education/msctopics/#reconstructing-permanent-structures-of-textureless-indoor-scenes-from-multi-view-images)
-<!-- all topics gone for this year -->
+2. [Reconstructing permanent indoor structures from multi-view images](https://3d.bk.tudelft.nl/education/msctopics/#reconstructing-permanent-indoor-structures-from-multi-view-images)
+3. [BuildingBlocks: Enhancing 3D urban understanding and reconstruction with a comprehensive multi-modal dataset](https://3d.bk.tudelft.nl/education/msctopics/#buildingblocks-enhancing-3d-urban-understanding-and-reconstruction-with-a-comprehensive-multi-modal-dataset)
+<!-- all topics have gone for this year -->
 
 <!-- ## [Francesca Noardo](http://www.noardo.eu/) -->
 <!-- 1. [3D digital urban regulations to use GeoBIM for building permission checks](https://3d.bk.tudelft.nl/education/msctopics/#3d-digital-urban-regulations-to-use-geobim-for-building-permission-checks)
@@ -185,12 +186,13 @@ no more topics for this year
 
 
 ## [Nail Ibrahimli](https://mirmix.github.io)
-1. [Multi-view Semantic Stereo](https://3d.bk.tudelft.nl/education/msctopics/#multi-view-semantic-stereo)
-2. [Multi-view Styled Stereo](https://3d.bk.tudelft.nl/education/msctopics/#multi-view-styled-stereo)
-3. [Mesh reconstruction and indoor ventilation from images](https://3d.bk.tudelft.nl/education/msctopics/#mesh-reconstruction-and-indoor-ventilation-from-images)
+1. [Enhancing 3D City Models with Neural Representations](https://3d.bk.tudelft.nl/education/msctopics/#enhancing-3d-city-models-with-neural-representations)
 
 
 ## [Giorgia Giardina ](https://www.tudelft.nl/en/ceg/about-faculty/departments/geoscience-engineering/sections/geo-engineering/staff/academic-staff/giardina-g)
 1. [Using 3D BAG to create a national subsidence vulnerability map](https://3d.bk.tudelft.nl/education/msctopics/#using-3d-bag-to-create-a-national-subsidence-vulnerability-map)
 2. [Using 3D BAG to develop finite element models of buildings at regional scale](https://3d.bk.tudelft.nl/education/msctopics/#using-3d-bag-to-develop-finite-element-models-of-buildings-at-regional-scale)
 
+## [Akshay Patil](https://3d.bk.tudelft.nl/apatil/)  
+1. [Coral Reef Complexity: Coral reefs as urban landscapes?](https://3d.bk.tudelft.nl/education/msctopics/#coral-reef-complexity)
+2. [Random City Engine](https://3d.bk.tudelft.nl/education/msctopics/#random-city-engine): Primary advisor: Hugo Ledoux.
