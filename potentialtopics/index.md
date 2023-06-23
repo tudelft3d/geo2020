@@ -59,7 +59,7 @@ no more topics for this year
 2. [Exploring BIM models for synthetic data generation towards indoor point cloud classification](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Exploring_BIM_models_for_synthetic_data_generation_towards_indoor_point_cloud_classification)
 3. [A model-based approach for layout reconfiguration from indoor point clouds](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#A_model_45based_approach_for_layout_reconfiguration_from_indoor_point_clouds)
 
-
+<!-->
 <!--## [Balázs Dukai](https://www.balazsdukai.me/)
 1. [Towards true 3D noise calculations](https://3d.bk.tudelft.nl/education/msctopics/#towards-true-3d-noise-calculations)
 -->
