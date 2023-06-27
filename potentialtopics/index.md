@@ -66,6 +66,7 @@ no more topics for this year
 2. [To mesh or not to mesh: immersed boundary methods and porosity in OpenFOAM](https://3d.bk.tudelft.nl/education/msctopics/#to-mesh-or-not-to-mesh-immersed-boundary-methods-and-porosity-in-openfoam) 
 3. [Coupled and decoupled simulations of urban wind flow for indoor natural ventilation modelling](https://3d.bk.tudelft.nl/education/msctopics/#coupled-and-decoupled-simulations-of-urban-wind-flow-for-indoor-natural-ventilation-modelling)
 4. [Linking Urban Heat Island effects with 3D urban morphology](https://3d.bk.tudelft.nl/education/msctopics/#linking-urban-heat-island-effects-with-3d-urban-morphology)
+5. [The effects of building model automatic reconstruction methods for CFD simulations](https://3d.bk.tudelft.nl/education/msctopics/#the-effects-of-building-model-automatic-reconstruction-methods-for-cfd-simulations)
 
 
 ## [Eftychia Kalogianni](https://www.tudelft.nl/en/staff/e.kalogianni/)
