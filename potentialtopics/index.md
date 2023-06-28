@@ -34,9 +34,9 @@ no more topics for this year
 
 
 ## [Giorgio Agugiaro](https://3d.bk.tudelft.nl/gagugiaro/)
- 1. [(Further) development of a QGIS plugin for the CityGML 3D City Database](https://3d.bk.tudelft.nl/education/msctopics/#further-development-of-a-qgis-plugin-for-the-citygml-3d-city-database)
- 2. [Heating energy demand of the Dutch building stock with the help of the 3D BAG 2.0](https://3d.bk.tudelft.nl/education/msctopics/#heating-energy-demand-of-the-dutch-building-stock-with-the-help-of-the-3d-bag-20)
- 3. [Coupling 3D city models with Ladybug tools for environmental analyses](https://3d.bk.tudelft.nl/education/msctopics/#coupling-3d-city-models-with-ladybug-tools-for-environmental-analyses)
+ 1. [Adding support for CityGML 3.0 to the 3DCityDB-Tools plugin for QGIS](https://3d.bk.tudelft.nl/education/msctopics/#adding-support-for-citygml-30-to-the-3dcitydb-tools-plugin-for-qgis)
+ 2. [Adding support for CitySim to the 3DCityDB-Tools plugin for QGIS](https://3d.bk.tudelft.nl/education/msctopics/#adding-support-for-citysim-to-the-3dcitydb-tools-plugin-for-qgis)
+ 3. [Heating energy demand of the Dutch building stock with the help of the 3D BAG 2.0](https://3d.bk.tudelft.nl/education/msctopics/#heating-energy-demand-of-the-dutch-building-stock-with-the-help-of-the-3d-bag-20)
  4. [Integrated modelling of utility networks in the urban environment](https://3d.bk.tudelft.nl/education/msctopics/#integrated-modelling-of-utility-networks-in-the-urban-environment)
 
 
