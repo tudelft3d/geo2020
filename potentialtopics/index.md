@@ -86,11 +86,11 @@ no more topics for this year
 
 
 ## [Hugo Ledoux](https://3d.bk.tudelft.nl/hledoux/)
-1. [Enrich the 3DBAG with the “material type” for each surface](https://3d.bk.tudelft.nl/education/msctopics/#enrich-the-3dbag-with-the-material-type-for-each-surface)
+<!-- 1. [Enrich the 3DBAG with the “material type” for each surface](https://3d.bk.tudelft.nl/education/msctopics/#enrich-the-3dbag-with-the-material-type-for-each-surface) -->
 1. [Estimating noise pollution with machine learning?](https://3d.bk.tudelft.nl/education/msctopics/#estimating-noise-pollution-with-machine-learning)
 1. [How can 3D alpha wrapping be best used to repair buildings?](https://3d.bk.tudelft.nl/education/msctopics/#how-can-3d-alpha-wrapping-be-best-used-to-repair-buildings)
 1. [Modern metadata for CityJSON](https://3d.bk.tudelft.nl/education/msctopics/#modern-metadata-for-cityjson)
-1. [Random City Engine](https://3d.bk.tudelft.nl/education/msctopics/#random-city-engine)
+<!-- 1. [Random City Engine](https://3d.bk.tudelft.nl/education/msctopics/#random-city-engine) -->
 
 
 ## [Camilo León-Sánchez](https://3d.bk.tudelft.nl/cleon/)
