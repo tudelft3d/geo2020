@@ -18,6 +18,7 @@ redirect_from:
 
 ## Some useful links
 
+- [Set the P date on supersass (change the P number at the address to choose different P moments)](https://www.supersaas.nl/schedule/OenS/Geomatics_P2)
 - [SharePoint system of BK for the progress and grades, aka "The System"](https://sharepoint.tudelft.nl/sites/BK/OS/graduationregistration/Lists/Polls/April%2020172018.aspx)
 - [Rubric for marking](../rubric/)
 - [Change of supervisor form](https://d1rkab7tlqy5f1.cloudfront.net/Studentenportal/Faculteitspecifiek/Bouwkunde/Onderwijs/Formulieren/Change%20mentor%20team.pdf)
