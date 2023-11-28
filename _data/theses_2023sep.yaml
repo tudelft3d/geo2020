@@ -43,7 +43,7 @@ Brouwer:
   \ of the spatial characteristics of coral reefs is essential, especially in the\
   \ context of simulated reef environments. \nThis research is crucial due to the\
   \ declining global health of coral reefs, largely attributed to ocean acidification!"
-- fb8c8e8b4267-research_in_1_image.png
+- b8c8e8b4267-research_in_1_image.png
 Chen:
 - Mengying
 - Eftychia Kalogianni
@@ -68,7 +68,7 @@ Chen:
   can be used to assess the added value of 3D Land Administration Systems based on
   LADM. The possibility of using Madaster or forest Rights, Restrictions, and Responsibilities
   (RRRs) as case studies will also be considered.'
-- f0607025afc0-SDGs_and_LADM.png
+- 0607025afc0-SDGs_and_LADM.png
 Epema:
 - Susanne
 - Hendrik Ploeger
@@ -87,7 +87,7 @@ Epema:
   \ with users of the app. \nThe results describe evidence in the two-way technology-user\
   \ interaction and would have findings on the representation of the user within the\
   \ app."
-- e43bbe8e3b29-summary_image_yel.jpg
+- 43bbe8e3b29-summary_image_yel.jpg
 Feng:
 - Yingxin
 - Nail Ibrahimli
@@ -168,7 +168,7 @@ Koster:
   a national scale. The aim of this research is to look at creating a framework for
   constructing a theoretical thermal energy model based on existing NTA 8800 principles,
   compatible with semantic 3D city models.
-- f0285c5c103f-GeomaticsP1.png
+- 0285c5c103f-GeomaticsP1.png
 "K\xF6bben":
 - Stein
 - Martijn Meijers
@@ -206,7 +206,7 @@ Li:
   practicality. Further exploration includes studying various Signed Distance Functions
   (SDFs) and Occupancy Networks, assessing their applicability in the project context,
   and initiating model development using the Convolutional Occupancy Network by Peng.'
-- ea6699a4ddd6-400.jpg
+- 6699a4ddd6-400.jpg
 Liu:
 - Na
 - Azarakhsh Rafiee
@@ -231,7 +231,7 @@ Liu:
   in urban planning. The study seeks a comprehensive understanding of wind dynamics
   in building areas, further exploring the fusion of deep learning and environmental
   modelling.'
-- c52c35211fdc-pic.png
+- 52c35211fdc-pic.png
 Madanu:
 - Sharath Chandra
 - Shenglan Du
@@ -259,7 +259,7 @@ Madanu:
   deep learning, where a model is trained on high-confidence samples to rectify errors
   and enhance predictions, with subsequent validation and testing for performance
   assessment. The emphasis is on simplicity for broad applicability to diverse projects.'
-- aefcfcbf95ae-P1_image.png
+- bf95ae-P1_image.png
 Mantas:
 - Dimitrios
 - Hugo Ledoux
@@ -346,7 +346,7 @@ Nestoras:
   significantly to understanding and applying 5G positioning technology, serving as
   a resource in navigating the evolving landscape of location-based services in the
   5G era.'
-- a68049764901-GEO2020_P1_Image.jpg
+- 68049764901-GEO2020_P1_Image.jpg
 Post:
 - Oliver
 - Hugo Ledoux
@@ -370,7 +370,7 @@ Post:
   \ aid in urban and architectural design, function as test data for digital formats,\
   \ algorithms, and applications, provide training material for AI systems, and be\
   \ used for virtual reality and video games."
-- e6b7e8b63fd2-thumbnail_400.png
+- 6b7e8b63fd2-thumbnail_400.png
 Rao:
 - Chengzhi
 - Ken Arrovo Ohori
@@ -387,7 +387,7 @@ Rao:
 
 
   This thesis is in collaboration with TomTom.'
-- e1f2589da37a-P1.png
+- 1f2589da37a-P1.png
 Riyadi:
 - Puti Nabila
 - Giorgia Giardina
@@ -496,7 +496,21 @@ Wei:
 - Qiuxian
 - Ken arroyo ohori
 - Stelios Vitalis
-- Simplification and improvement for 3D city models to promote better performance
+- '3D Tile is one of the approaches to disseminating 3D models on a large scale,  which
+  is an open community standard established by the Open Geospatial Consortium (OGC).
+  Given that large-scale 3D models typically demand significant storage space, the
+  effectiveness of these dissemination methods is a pivotal consideration. Utilizing
+  generalization and compression techniques can greatly improve its efficiency.
+
+
+  This study aims to explore a widely applicable method for generalization of 3D models,
+  with an emphasis on reusability. Furthermore, the collaborative integration of compression
+  techniques, such as Draco, Gzip, MeshOpt, etc., with simplification methods will
+  be explored to optimize the overall performance of disseminating 3D models.
+
+
+  To ensure the widespread applicability of this study, open data will serve as the
+  primary data source.'
 - 332eb516b8d4-MXTQE1204.JPG
 Xu:
 - Longxiang
