@@ -12,7 +12,7 @@ permalink: /theses/2023sep/
 <article class="media">
   <figure class="media-left">
     <p class="image">
-      <img src="img/{{ i[1][4] }}">
+      <img src="{{ i[1][6] }}">
     </p>
   </figure>
   <div class="media-content">
@@ -20,12 +20,14 @@ permalink: /theses/2023sep/
       <p>
         <strong>{{ i[1][0] }} {{ i[0] }}</strong> 
         <br>
-        <em>{{ i[1][5] }}</em>
+        <em>{{ i[1][1] }}</em>
         <br>
-        {{ i[1][3] | markdownify }}
-        <small>Supervisors: {{ i[1][1] }} + {{ i[1][2] }}</small>
+        {{ i[1][4] | markdownify }}
+        <small>Supervisors: {{ i[1][2] }} + {{ i[1][3] }}</small>
         <br>
-        <small>{{ i[1][6] }}</small>
+        {% if i[1][5].size > 0 %}
+          <small>(company involved: {{ i[1][5] }})</small>
+        {% endif %}
       </p>
     </div>
   </div>
