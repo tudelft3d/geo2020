@@ -27,7 +27,7 @@ redirect_from:
 
 
 ## What if I can't be there at one P?
-Read p.19 of the [Official Graduation Manual 2020-2021](../rules/GraduationManualGeomatics2020-2021.pdf).
+Read p.19 of the [Official Graduation Manual 2023-2024](../rules/GraduationManualGeomatics2023-2024.pdf).
 
 - - -
 
