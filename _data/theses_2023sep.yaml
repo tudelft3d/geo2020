@@ -1,5 +1,7 @@
 Aalders:
 - Rianne
+- "Exploring the design of a \u2018coordinating\u2019 data governance model for the\
+  \ green village at the TU Delft"
 - Stefano Calzati
 - Hendrik Ploeger
 - "The primary thought behind this research is: How can data be used for good in a\
@@ -18,9 +20,12 @@ Aalders:
   \ to unpack the coordinating smart city. Then, in a case study of TGV, including\
   \ interviews with the parties involved both the people managing TGV and its inhabitants,\
   \ the framework will be applied and tested."
-- 3558bb0ed3a7-website_image.png
+- .nan
+- ./img/Aalders.png
 Batum:
 - Simay
+- "Comparing CityGML and IFC encodings of LADM Part 5 Spatial Plan Information to\
+  \ support Permit checking \u2013 Case Study Estonia"
 - Peter van Oosterom
 - Eftychia Kalogianni
 - The thesis primarily investigates the integration of the Land Administration Domain
@@ -31,9 +36,12 @@ Batum:
   efficiency as another focus under the case study. With this research, broader implications
   for improving the accuracy and effectiveness of land administration systems and
   3D modeling for urban development are envisioned.
-- de15f497fe03-Project_Pixelized.png
+- Future Insight, Rick Klooster
+- ./img/Batum.png
 Brouwer:
 - "Gees Dani\xEBl"
+- 'Analyzing Coral Reef Complexity: Geoinformation Tools in Assessing Biodiversity
+  and Health'
 - Akshay Patil
 - Hugo Ledoux
 - "This MSc thesis focuses on spatially characterizing coral reef communities using\
@@ -43,9 +51,12 @@ Brouwer:
   \ of the spatial characteristics of coral reefs is essential, especially in the\
   \ context of simulated reef environments. \nThis research is crucial due to the\
   \ declining global health of coral reefs, largely attributed to ocean acidification!"
-- fb8c8e8b4267-research_in_1_image.png
+- .nan
+- ./img/Brouwer.png
 Chen:
 - Mengying
+- Assessing the Impact of 3D Land Administration Systems Based on ISO 19152 LADM in
+  Achieving Sustainable Development Goals
 - Eftychia Kalogianni
 - Peter van Oosterom
 - 'The 2030 Agenda for Sustainable Development is a global initiative endorsed by
@@ -68,9 +79,13 @@ Chen:
   can be used to assess the added value of 3D Land Administration Systems based on
   LADM. The possibility of using Madaster or forest Rights, Restrictions, and Responsibilities
   (RRRs) as case studies will also be considered.'
-- f0607025afc0-SDGs_and_LADM.png
+- .nan
+- ./img/Chen.png
 Epema:
 - Susanne
+- 'The technology-user interaction: Exploring the discrepancy between intended and
+  actual use of a geo-data collecting application, data practices and user control.
+  (Strava case study)'
 - Hendrik Ploeger
 - Stefano Calzati
 - "Strava is an exercise self-tracking app initially designed for running and biking\
@@ -87,9 +102,11 @@ Epema:
   \ with users of the app. \nThe results describe evidence in the two-way technology-user\
   \ interaction and would have findings on the representation of the user within the\
   \ app."
-- e43bbe8e3b29-summary_image_yel.jpg
+- .nan
+- ./img/Epema.jpg
 Feng:
 - Yingxin
+- User-guided geometrical editing of high-quality 3D models
 - Nail Ibrahimli
 - Ken Arroyo Ohori
 - "Editing 3D models\u2019 geometry is an important but time-consuming task for architectural\
@@ -108,9 +125,11 @@ Feng:
   \ calculation. For other steps, models will be obtained from open 3D datasets like\
   \ DTU. Additionally, tricks like latent space extraction, camera pose and positional\
   \ encoding, loss functions\u2019 combination, etc. will be tested."
-- 27adc7603b61-thesis_p1_v1.png
+- .nan
+- ./img/Feng.png
 Gong:
 - Sicong
+- Integrating the trajectories of moving objects into OLAP systems
 - Dr.Ir. Martijn Meijers
 - Drs. Wilko Quak
 - 'With the popularization of mobile Internet of Things (IoT) applications, massive
@@ -132,9 +151,12 @@ Gong:
 
   This project aims to abstract, organize, and integrate various dimensions of trajectory
   data into OLAP systems.'
-- d758dcbe2c82-2b6eec56_556d_4e2e_b6ca_dff221457100.png
+- .nan
+- ./img/Gong.png
 Kaal:
 - Tessel Elisabeth
+- Optimization of Buildings Energy Demand-Supply for Local Energy Source Design with
+  Minimum Burden on the Grid
 - Azarakhsh Rafiee
 - Martijn Meijers
 - "The overarching theme of this thesis, under the umbrella of DATALES, is the optimization\
@@ -155,9 +177,11 @@ Kaal:
   \ in collaboration with Geodan, inform the study and are visualized through a digital\
   \ twin. Accenture's involvement during this thesis allows access to more data, facilitating\
   \ testing of the optimization approach on real-life data."
-- 23ac4e475681-csm_DATALESS1_ed57a46136.webp
+- Accenture, Sanne Veringa
+- ./img/Kaalwebp
 Koster:
 - Gabriela
+- Designing a Dutch building energy simulation tool in a GIS environment
 - "C. Le\xF3n-S\xE1nchez"
 - Dr. G. Agugiaro
 - There is a current emphasis on reducing residential energy consumption in the Netherlands,
@@ -168,9 +192,11 @@ Koster:
   a national scale. The aim of this research is to look at creating a framework for
   constructing a theoretical thermal energy model based on existing NTA 8800 principles,
   compatible with semantic 3D city models.
-- f0285c5c103f-GeomaticsP1.png
+- .nan
+- ./img/Koster.png
 "K\xF6bben":
 - Stein
+- Integrating 3D into a 2D OpenLayers based online GIS
 - Martijn Meijers
 - Eftychia Kalogianni
 - "The thesis will be about integrating 3D functionalities into an existing Openlayers\
@@ -185,9 +211,11 @@ Koster:
   \ will the data workflow look like, and how can 3D be integrated into the existing\
   \ functionalities. There will also be an aspect of research into what the current\
   \ needs of GIS users are for publishing 3D data."
-- da954d5462aa-image_sum.png
+- Erik Meerburg
+- "./img/K\xF6bben.png"
 Li:
 - Sitong
+- Enhancing 3D City Models with Neural Representations
 - Nail Ibrahimli
 - Ken Arroyo Ohori
 - 'The traditional 3D space representation methods like mesh, voxel and point cloud
@@ -206,9 +234,11 @@ Li:
   practicality. Further exploration includes studying various Signed Distance Functions
   (SDFs) and Occupancy Networks, assessing their applicability in the project context,
   and initiating model development using the Convolutional Occupancy Network by Peng.'
-- ea6699a4ddd6-400.jpg
+- .nan
+- ./img/Li.jpg
 Liu:
 - Na
+- Using deep learning to simulate wind in building area
 - Azarakhsh Rafiee
 - Frits de Prenter
 - 'Wind simulation plays a crucial role across various fields and is applied under
@@ -231,9 +261,11 @@ Liu:
   in urban planning. The study seeks a comprehensive understanding of wind dynamics
   in building areas, further exploring the fusion of deep learning and environmental
   modelling.'
-- c52c35211fdc-pic.png
+- .nan
+- ./img/Liu.png
 Madanu:
 - Sharath Chandra
+- Identifying misclassifications in AHN using deep learning
 - Shenglan Du
 - Jantien Stoter
 - 'Semantic classification of point clouds in 3D urban scenes is crucial for applications
@@ -259,9 +291,11 @@ Madanu:
   deep learning, where a model is trained on high-confidence samples to rectify errors
   and enhance predictions, with subsequent validation and testing for performance
   assessment. The emphasis is on simplicity for broad applicability to diverse projects.'
-- aefcfcbf95ae-P1_image.png
+- .nan
+- ./img/Madanu.png
 Mantas:
 - Dimitrios
+- Enriching the 3DBAG with Roofing Material Types
 - Hugo Ledoux
 - Weixiao Gao
 - 'The 3DBAG is an open building model dataset covering the entirety of the Netherlands.
@@ -287,9 +321,11 @@ Mantas:
   its extensions. The novelty of this thesis lies in the choice of classification
   technique in combination with the fusion of true-colour or near infrared aerial
   orthophotos and the AHN4 point cloud for feature engineering.'
-- 6b7f407f47ea-p1_summary.png
+- .nan
+- ./img/Mantas.png
 Mao:
 - Ping
+- A digital twin based on Land Administration
 - Peter van Oosterom
 - Azarakhsh Rafiee
 - "We work like an update of the physical building, the digital twin. But also, there\
@@ -303,9 +339,12 @@ Mao:
   \ different functions; grey buildings are buildings that already exist. It is possible\
   \ to see which existing buildings are taller than the height set by the spatial\
   \ plan."
-- d97f1ff08cc2-P1.png
+- .nan
+- ./img/Mao.png
 "Mont\xE9":
 - "S\xE9r\xE9nic"
+- Centralized benchmark for MVS (Multi-View Stereo), neural mesh reconstruction, and
+  NeRF-based novel-view synthesis
 - Nail Ibrahimli
 - Hugo Ledoux
 - In my thesis I will focus on creating a benchmark that allows researches in the
@@ -321,9 +360,12 @@ Mao:
   a better overview of the performance of different methods and making it easier to
   find possibilities for improvements in the field of novel images rendering even
   faster.
-- 01d1a4ed7fdf-p1.jpg
+- .nan
+- "./img/Mont\xE9.jpg"
 Nestoras:
 - Georgios Konstantinos
+- '5G Positioning: Current State, Future Prospects, and Experimental Analysis of Accuracy
+  and Latency'
 - Edward Verbree
 - Martijn Meijers
 - '5G technology signifies a leap in connectivity with high-speed data, minimal latency,
@@ -346,9 +388,11 @@ Nestoras:
   significantly to understanding and applying 5G positioning technology, serving as
   a resource in navigating the evolving landscape of location-based services in the
   5G era.'
-- a68049764901-GEO2020_P1_Image.jpg
+- Robert Voute
+- ./img/Nestoras.jpg
 Post:
 - Oliver
+- Developing a Framework for Parametric City Generation
 - Hugo Ledoux
 - Akshay Patil
 - "The objective of this thesis is to design a framework for analysing real-world\
@@ -370,9 +414,11 @@ Post:
   \ aid in urban and architectural design, function as test data for digital formats,\
   \ algorithms, and applications, provide training material for AI systems, and be\
   \ used for virtual reality and video games."
-- e6b7e8b63fd2-thumbnail_400.png
+- .nan
+- ./img/Post.png
 Rao:
 - Chengzhi
+- Visualizing and rendering tiled 3D data on the Web
 - Ken Arrovo Ohori
 - Stelios Vitalis
 - 'Vector-based maps, like the open-source Maplibre, have ben established s the de-facto
@@ -387,9 +433,11 @@ Rao:
 
 
   This thesis is in collaboration with TomTom.'
-- e1f2589da37a-P1.png
+- TomTom, Stelios Vitalis
+- ./img/Rao.png
 Riyadi:
 - Puti Nabila
+- Using 3D BAG to develop finite element models of buildings at regional scale
 - Giorgia Giardina
 - Jantien Stoter
 - "Enhancing the resilience of the built environment to disasters involves evaluating\
@@ -409,9 +457,11 @@ Riyadi:
   \ of building Finite Element models in regional scale. This research will assess\
   \ to what extent the data provided in the 3D BAG data can assist in defining the\
   \ geometry and generating meshes for a diverse range of buildings in large quantities."
-- 1af099ac2c09-firstpicture_p1.png
+- .nan
+- ./img/Riyadi.png
 Shen:
 - Qiwei
+- Automatic segmentation of plant organs from point clouds
 - Liangliang Nan
 - Jantien Stoter
 - "A deep understanding of plant traits is essential to predict crop growth, yields,\
@@ -433,9 +483,12 @@ Shen:
   \ a more generalized and efficient approach to segmenting plant organs. It has the\
   \ potential to eventually impact diverse applications, such as plant phenotype extraction\
   \ and precision agriculture."
-- 3d5711e5a7d1-P1_image.png
+- .nan
+- ./img/Shen.png
 Spit:
 - Josephine Louise
+- Investigating the influence of user involvement in different stages of the geo-data
+  chain on accessibility for diverse demographic groups
 - Bastiaan van Loenen
 - Stefano Calzati
 - This thesis explores user involvement across the geo-data chain to understand disparities
@@ -448,9 +501,12 @@ Spit:
   increases map usage likelihood. Emphasis lies on inclusivity and accessibility,
   aiming to pinpoint areas within the data chain where user engagement could amplify
   map usability for diverse users.
-- 27a9f5b49c19-cadsccsdsdcs.JPG
+- nvt
+- ./img/Spit.JPG
 Tarozzo Kawasaki:
 - Maria Luisa
+- 'The Common Point: 3D Subsurface Data Models Bridging Geo-Informatics and Urban
+  Design'
 - Peter van Oosterom
 - Alexander Wandl (Urbanism)
 - Research suggests that integrating 3D GIS into urban design and planning enhances
@@ -467,9 +523,11 @@ Tarozzo Kawasaki:
   using the Utrecht BARCODE methodology, integrating 3D sustainable design interventions
   proposed by the BARCODE with a 3D subsurface data model to assess the benefits of
   this combination.
-- 541111385381-P1_04_04.jpg
+- Rob Van Der Krogt (TNO)
+- ./img/Tarozzo Kawasaki.jpg
 Tsai:
 - Bing-Shiuan
+- Extending the 3D City Database 5.0 to support CityGML application in QGIS
 - Giorgio Agugiaro
 - "Camilo Le\xF3n-S\xE1nchez"
 - "Semantic 3D city models data management can be achieved in CityGML with database\
@@ -491,9 +549,11 @@ Tsai:
   \ the mapping structure of the data in both CityGML v.2.0 and v.3.0 to the new schema,\
   \ performing experiments on the database modification on the server-side, and eventually\
   \ improving the user experience with the existing QGIS plugin."
-- 738ada47e2a7-Research_logo_new.png
+- Claus Nagel, Zhihang Yao
+- ./img/Tsai.png
 Wei:
 - Qiuxian
+- Simplification for 3D city models
 - Ken arroyo ohori
 - Stelios Vitalis
 - '3D Tile is one of the approaches to disseminating 3D models on a large scale,  which
@@ -511,9 +571,11 @@ Wei:
 
   To ensure the widespread applicability of this study, open data will serve as the
   primary data source.'
-- 332eb516b8d4-MXTQE1204.JPG
+- Tom Tom -- Stelios Vitalis
+- ./img/Wei.JPG
 Xu:
 - Longxiang
+- Multi-view consistent line segment detection
 - Liangliang Nan
 - To be determined
 - Wireframe parsing in images is focused on extracting the structured layout of a
@@ -526,9 +588,11 @@ Xu:
   multi-view consistency, to improve wireframe parsing outcomes. The potential applications
   of wireframe parsing, including piecewise segmentation of images and 3D wireframe
   reconstruction, will also be showcased in this work.
-- 764076637fb5-mv.png
+- .nan
+- ./img/Xu.png
 zhang:
 - chi
+- Applying Generative Model for Better 3D Reconstruction
 - Nail Ibrahimli
 - Liangliang Nan
 - 'Multi-view 2D images serve as crucial inputs or intermediate products for various
@@ -555,4 +619,5 @@ zhang:
   Our approach aims to demonstrate the effectiveness of employing a stable Diffusion
   model and 3D cross-attention layers in enhancing the quality of input images for
   3D reconstru'
-- 02910d534ff9-Screenshot_2023_11_17_at_10.35.31.png
+- .nan
+- ./img/zhang.png
