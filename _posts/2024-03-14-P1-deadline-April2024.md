@@ -2,7 +2,7 @@
 layout: post
 title:  "P1 deadline April 19th 2024"
 author: Clara Garcia-Sanchez
-date:   2023-10-25 00:00
+date:   2024-03-14 00:00
 ---
 
 Just a kind reminder that the deadline to register for the next P1 is 19th of April 2024 at 5pm.
