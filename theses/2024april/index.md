@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Thesis starting April 2023"
-permalink: /theses/2023april/
+title: "Thesis starting April 2024"
+permalink: /theses/2024april/
 ---
 
 
