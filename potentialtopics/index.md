@@ -181,10 +181,6 @@ no more topics for this year
 1. [Semi-Supervised Semantic Segmentation of 3D Point Clouds](https://3d.bk.tudelft.nl/education/msctopics/#semi-supervised-semantic-segmentation-of-3d-point-clouds)
 
 
-## [Nail Ibrahimli](https://mirmix.github.io)
-1. [Enhancing 3D City Models with Neural Representations](https://3d.bk.tudelft.nl/education/msctopics/#enhancing-3d-city-models-with-neural-representations)
-
-
 ## [Giorgia Giardina ](https://www.tudelft.nl/en/ceg/about-faculty/departments/geoscience-engineering/sections/geo-engineering/staff/academic-staff/giardina-g)
 1. [Using 3D BAG to create a national subsidence vulnerability map](https://3d.bk.tudelft.nl/education/msctopics/#using-3d-bag-to-create-a-national-subsidence-vulnerability-map)
 2. [Using 3D BAG to develop finite element models of buildings at regional scale](https://3d.bk.tudelft.nl/education/msctopics/#using-3d-bag-to-develop-finite-element-models-of-buildings-at-regional-scale)
