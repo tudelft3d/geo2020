@@ -112,9 +112,8 @@ no more topics for this year
 
 
 ## [Liangliang Nan](https://3d.bk.tudelft.nl/liangliang)
-1. [Image-guided automatic artistic route finding](https://3d.bk.tudelft.nl/education/msctopics/#image-guided-automatic-artistic-route-finding)
-2. [Reconstructing permanent indoor structures from multi-view images](https://3d.bk.tudelft.nl/education/msctopics/#reconstructing-permanent-indoor-structures-from-multi-view-images)
-3. [BuildingBlocks: Enhancing 3D urban understanding and reconstruction with a comprehensive multi-modal dataset](https://3d.bk.tudelft.nl/education/msctopics/#buildingblocks-enhancing-3d-urban-understanding-and-reconstruction-with-a-comprehensive-multi-modal-dataset)
+1. [Reconstructing permanent indoor structures from multi-view images](https://3d.bk.tudelft.nl/education/msctopics/#reconstructing-permanent-indoor-structures-from-multi-view-images)
+2. [BuildingBlocks: Enhancing 3D urban understanding and reconstruction with a comprehensive multi-modal dataset](https://3d.bk.tudelft.nl/education/msctopics/#buildingblocks-enhancing-3d-urban-understanding-and-reconstruction-with-a-comprehensive-multi-modal-dataset)
 <!-- all topics have gone for this year -->
 
 <!-- ## [Francesca Noardo](http://www.noardo.eu/) -->
