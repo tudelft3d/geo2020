@@ -57,9 +57,8 @@ More to be come in the coming weeks
 2. [Exploring BIM models for synthetic data generation towards indoor point cloud classification](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Exploring_BIM_models_for_synthetic_data_generation_towards_indoor_point_cloud_classification)
 3. [A model-based approach for layout reconfiguration from indoor point clouds](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#A_model_45based_approach_for_layout_reconfiguration_from_indoor_point_clouds)
 
-<!--## [Balázs Dukai](https://www.balazsdukai.me/)
-1. [Towards true 3D noise calculations](https://3d.bk.tudelft.nl/education/msctopics/#towards-true-3d-noise-calculations)
--->
+## [Nima Forouzandeh]([https://www.tudelft.nl/en/staff/f.m.welledonker/](https://www.tudelft.nl/staff/n.forouzandeh/?cHash=0eff827e919ebe7ba656d3542c3dcc42))
+1. [Automatic reconstruction of window boundaries for efficient daylight simulation](https://3d.bk.tudelft.nl/education/msctopics/#automatic-reconstruction-of-window-boundaries-for-efficient-daylight-simulation)
 
 ## [Clara García-Sánchez](https://3d.bk.tudelft.nl/gsclara/)
 1. [Optimizing building mesh designs for computational fluid dynamics using machine learning.](https://3d.bk.tudelft.nl/education/msctopics/#optimizing-building-mesh-designs-for-computational-fluid-dynamics-using-machine-learning)
@@ -68,6 +67,9 @@ More to be come in the coming weeks
 4. [Linking Urban Heat Island effects with 3D urban morphology](https://3d.bk.tudelft.nl/education/msctopics/#linking-urban-heat-island-effects-with-3d-urban-morphology)
 5. [The effects of building model automatic reconstruction methods for CFD simulations](https://3d.bk.tudelft.nl/education/msctopics/#the-effects-of-building-model-automatic-reconstruction-methods-for-cfd-simulations)
 
+## [Giorgia Giardina](https://www.tudelft.nl/en/ceg/about-faculty/departments/geoscience-engineering/sections/geo-engineering/staff/academic-staff/giardina-g)
+1. [Using 3D BAG to create a national subsidence vulnerability map](https://3d.bk.tudelft.nl/education/msctopics/#using-3d-bag-to-create-a-national-subsidence-vulnerability-map)
+2. [Using 3D BAG to develop finite element models of buildings at regional scale](https://3d.bk.tudelft.nl/education/msctopics/#using-3d-bag-to-develop-finite-element-models-of-buildings-at-regional-scale)
 
 ## [Eftychia Kalogianni](https://www.tudelft.nl/en/staff/e.kalogianni/)
 1. [An xJSON format for ISO 19152 LADM implementation](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#An_xJSON_format_for_ISO_19152_LADM_implementation)
@@ -127,6 +129,9 @@ More to be come in the coming weeks
 3. [Change Detection using LoD](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Change_detection_using_LoD)
 4. [Making a vario-scale 4D point cloud](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Making_a_vario_45scale_4D_point_cloud)
 
+## [Akshay Patil](https://3d.bk.tudelft.nl/apatil/)  
+1. [Coral Reef Complexity: Coral reefs as urban landscapes?](https://3d.bk.tudelft.nl/education/msctopics/#coral-reef-complexity)
+2. [Random City Engine](https://3d.bk.tudelft.nl/education/msctopics/#random-city-engine): Primary advisor: Hugo Ledoux.
 
 ## [Hendrik Ploeger](https://www.tudelft.nl/staff/h.d.ploeger/)
 1. [Intellectual property & data ownership in the open data ecosystem](https://kcopendata.eu/education/thesis-topics/#IP) 
@@ -171,15 +176,3 @@ More to be come in the coming weeks
 1. [Design of a user driven open data ecosystem](https://kcopendata.eu/education/thesis-topics/#userdriven)
 1. [Assessment of the open data ecosystem](https://kcopendata.eu/education/thesis-topics/#ODECO)
 <!-- 3. [Open SDI: user motivations](https://kcopendata.eu/education/thesis-topics/#the-open-data-user) -->
- 
-
-## [Nima Forouzandeh]([https://www.tudelft.nl/en/staff/f.m.welledonker/](https://www.tudelft.nl/staff/n.forouzandeh/?cHash=0eff827e919ebe7ba656d3542c3dcc42))
-1. [Automatic reconstruction of window boundaries for efficient daylight simulation](https://3d.bk.tudelft.nl/education/msctopics/#automatic-reconstruction-of-window-boundaries-for-efficient-daylight-simulation)
-
-## [Giorgia Giardina ](https://www.tudelft.nl/en/ceg/about-faculty/departments/geoscience-engineering/sections/geo-engineering/staff/academic-staff/giardina-g)
-1. [Using 3D BAG to create a national subsidence vulnerability map](https://3d.bk.tudelft.nl/education/msctopics/#using-3d-bag-to-create-a-national-subsidence-vulnerability-map)
-2. [Using 3D BAG to develop finite element models of buildings at regional scale](https://3d.bk.tudelft.nl/education/msctopics/#using-3d-bag-to-develop-finite-element-models-of-buildings-at-regional-scale)
-
-## [Akshay Patil](https://3d.bk.tudelft.nl/apatil/)  
-1. [Coral Reef Complexity: Coral reefs as urban landscapes?](https://3d.bk.tudelft.nl/education/msctopics/#coral-reef-complexity)
-2. [Random City Engine](https://3d.bk.tudelft.nl/education/msctopics/#random-city-engine): Primary advisor: Hugo Ledoux.
