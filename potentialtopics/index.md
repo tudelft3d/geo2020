@@ -30,8 +30,8 @@ permalink: /potentialtopics/
 ---
 
 ## [Ken Arroyo Ohori](https://3d.bk.tudelft.nl/ken/)
-no more topics for this year
-
+1. [Developing methods for edge-matching with customisable heuristics](https://3d.bk.tudelft.nl/education/msctopics/#developing-methods-for-edge-matching-with-customisable-heuristics-geometric-topological-and-semantic)
+More to be come in the coming weeks
 
 ## [Giorgio Agugiaro](https://3d.bk.tudelft.nl/gagugiaro/)
  1. [Adding support for CityGML 3.0 to the 3DCityDB-Tools plugin for QGIS](https://3d.bk.tudelft.nl/education/msctopics/#adding-support-for-citygml-30-to-the-3dcitydb-tools-plugin-for-qgis)
