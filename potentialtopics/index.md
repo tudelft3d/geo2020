@@ -34,8 +34,8 @@ permalink: /potentialtopics/
 More to be come in the coming weeks
 
 ## [Giorgio Agugiaro](https://3d.bk.tudelft.nl/gagugiaro/)
- 1. [EU Project DigiTwins4PEDs: Cooling demand based on the (enriched) semantic 3D city model of Rotterdam](https://3d.bk.tudelft.nl/education/msctopics/#heating-energy-demand-of-the-dutch-building-stock-with-the-help-of-the-3d-bag-20)
- 2. [Development of the client-side 3DCityDB-Tools plugin for QGIS to support CityGML 3.0 data via the new 3DCityDB v. 5](https://3d.bk.tudelft.nl/education/msctopics/#adding-support-for-citygml-30-to-the-3dcitydb-tools-plugin-for-qgis)
+ 1. [...Too cool to be true? Cooling demand based on the (enriched) semantic 3D city model of Rotterdam](https://3d.bk.tudelft.nl/education/msctopics/#too-cool-to-be-true-cooling-demand-based-on-the-enriched-semantic-3d-city-model-of-rotterdam)
+ 2. [Development of the client-side 3DCityDB-Tools plugin for QGIS to support CityGML 3.0 data via the new 3DCityDB v. 5](https://3d.bk.tudelft.nl/education/msctopics/#development-of-the-client-side-part-of-the-3dcitydb-tools-plugin-for-qgis-to-support-citygml-30-data)
  3. [Adding support for CitySim to the 3DCityDB-Tools plugin for QGIS](https://3d.bk.tudelft.nl/education/msctopics/#adding-support-for-citysim-to-the-3dcitydb-tools-plugin-for-qgis)
 
 
