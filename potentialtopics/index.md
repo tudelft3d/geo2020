@@ -39,10 +39,10 @@ More to be come in the coming weeks
  3. [Adding support for CitySim to the 3DCityDB-Tools plugin for QGIS](https://3d.bk.tudelft.nl/education/msctopics/#adding-support-for-citysim-to-the-3dcitydb-tools-plugin-for-qgis)
 
 
-## [Jesus Balado Frias](http://www.gdmc.nl/staff/)
-1. [Design and improvement of self-adaptive 3D structuring elements for mathematical morphology in point clouds](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Design_and_improvement_of_self_45adaptive_3D_structuring_elements_for_mathematical_morphology_in_point_clouds)
-2. [Automatic CityGML urban furniture modelling from point clouds](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Automatic_CityGML_urban_furniture_modelling_from_point_clouds)
-3. [Integration of point clouds in CityGML standard for obtaining a continuous Level of Detail](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Integration_of_point_clouds_in_CityGML_standard_for_obtaining_a_continuous_Level_of_Detail)
+## [Jesús Balado Frías](https://www.gdmc.nl/staff/)
+1. [From low quality point clouds to high quality BIM](https://www.gdmc.nl/education/topics/topics.html#from-low-quality-point-clouds-to-high-quality-bim)
+1. [Design and improvement of self-adaptive 3D structuring elements for mathematical morphology in point clouds](https://www.gdmc.nl/education/topics/topics.html#Design_and_improvement_of_self_45adaptive_3D_structuring_elements_for_mathematical_morphology_in_point_clouds)
+3. [Integration of point clouds in CityGML standard for obtaining a continuous Level of Detail](https://www.gdmc.nl/education/topics/topics.html#Integration_of_point_clouds_in_CityGML_standard_for_obtaining_a_continuous_Level_of_Detail)
 
 
 ## [Stefano Calzati](https://kcopendata.eu/about-the-kcod/team/)
@@ -50,11 +50,6 @@ More to be come in the coming weeks
 2. [Ethical/political issues behind smart urban eenvironments (and digital twinning)](https://kcopendata.eu/education/thesis-topics/#ethical)
 3. [The beauty of coding and programmers as activists](https://kcopendata.eu/education/thesis-topics/#beauty)
 
-
-## [Lucía Díaz-Vilariño](https://www.tudelft.nl/en/staff/l.diaz-vilarino/)
-1. [Indoor/Outdoor seamless modelling intended for navigation ](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Indoor_47Outdoor_seamless_modelling_intended_for_navigation)
-2. [Exploring BIM models for synthetic data generation towards indoor point cloud classification](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Exploring_BIM_models_for_synthetic_data_generation_towards_indoor_point_cloud_classification)
-3. [A model-based approach for layout reconfiguration from indoor point clouds](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#A_model_45based_approach_for_layout_reconfiguration_from_indoor_point_clouds)
 
 ## [Nima Forouzandeh]([https://www.tudelft.nl/en/staff/f.m.welledonker/](https://www.tudelft.nl/staff/n.forouzandeh/?cHash=0eff827e919ebe7ba656d3542c3dcc42))
 1. [Automatic reconstruction of window boundaries for efficient daylight simulation](https://3d.bk.tudelft.nl/education/msctopics/#automatic-reconstruction-of-window-boundaries-for-efficient-daylight-simulation)
@@ -70,20 +65,31 @@ More to be come in the coming weeks
 1. [Using 3D BAG to create a national subsidence vulnerability map](https://3d.bk.tudelft.nl/education/msctopics/#using-3d-bag-to-create-a-national-subsidence-vulnerability-map)
 2. [Using 3D BAG to develop finite element models of buildings at regional scale](https://3d.bk.tudelft.nl/education/msctopics/#using-3d-bag-to-develop-finite-element-models-of-buildings-at-regional-scale)
 
+
+## [Amin Jalilzadeh](https://www.tudelft.nl/staff/a.jalilzadeh/)
+1. [Designing a Data Infrastructure for Digital Twin Technology in Energy Management](https://www.gdmc.nl/education/topics/topics.html#designing-a-data-infrastructure-for-digital-twin-technology-in-energy-management)
+2. [Enhancing Energy Demand Modeling with Spatial Data: A Geographic Approach to Simulation Accuracy](https://www.gdmc.nl/education/topics/topics.html#enhancing-energy-demand-modeling-with-spatial-data-a-geographic-approach-to-simulation-accuracy)
+3. [Optimizing Solar Panel Installations in Urban Districts: A Data-Driven and Digital Twin Integrated Approach](https://www.gdmc.nl/education/topics/topics.html#optimizing-solar-panel-installations-in-urban-districts-a-data-driven-and-digital-twin-integrated-approach)
+
+
 ## [Eftychia Kalogianni](https://www.tudelft.nl/en/staff/e.kalogianni/)
-1. [An xJSON format for ISO 19152 LADM implementation](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#An_xJSON_format_for_ISO_19152_LADM_implementation)
-2. [Air Rights Restrictions and Responsibilities: investigate, model and visualise them in the context of ISO 19152 LADM](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Air_Rights_Restrictions_and_Responsibilities:_investigate_44_model_44_and_visualise_them_in_the_context_of_ISO_19152_LADM)
-3. [A digital twin based on Land Administration](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#A_digital_twin_based_on_Land_Administration)
-4. [Land Administration indicators for ISO 19152 LADM in line with UN Agenda 2030 SDGs](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Land_Administration_indicators_for_ISO_19152_LADM_in_line_with_UN_Agenda_2030_SDGs_and_the_Global_Land_Indicator_Initiative_40GLII_41)
-5. [Visualisation of different types of 3D spatial units](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Visualisation_of_different_types_of_3D_spatial_units)
+1. [Enhancing data reusability in 3D Land Administration Systems in line with ISO 19152 LADM II](https://gdmc.nl/education/topics/topics.html#enhancing-data-reusability-in-3d-land-administration-systems-in-line-with-iso-19152-ladm-ii)
+2. [Identifying blockchain implementation for 3D Land Administration in line with ISO 19152 LADM Edition II](https://gdmc.nl/education/topics/topics.html#identifying-blockchain-implementation-for-3d-land-administration-in-line-with-iso-19152-ladm-edition-ii)
+3. [Identifying land-related indicators for ISO 19152 LADM Edition II](https://gdmc.nl/education/topics/topics.html#identifying-land-related-indicators-for-iso-19152-ladm-edition-ii)
+4. [Air Rights Restrictions and Responsibilities: investigate, model, and visualise them in the context of ISO 19152 LADM](https://gdmc.nl/education/topics/topics.html#Air_Rights_Restrictions_and_Responsibilities:_investigate_44_model_44_and_visualise_them_in_the_context_of_ISO_19152_LADM)
+5. [Cadaster and Madaster](https://gdmc.nl/education/topics/topics.html#Cadaster_and_Madaster)
 
 
 ## [Abdullah Kara](https://www.tudelft.nl/en/staff/a.kara/)
-1. [Visualizing and disseminating property valuation information](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Visualizing_and_disseminating_property_valuation_information)
+1. [Visualizing and disseminating property valuation information](https://www.gdmc.nl/education/topics/topics.html#Visualizing_and_disseminating_property_valuation_information)
+2. [Taking climate change into account in Land Administration: How to improve and evaluate existing systems](https://www.gdmc.nl/education/topics/topics.html#taking-climate-change-into-account-in-land-administration-how-to-improve-and-evaluate-existing-systems)
 
 
-## [Martin Kodde](http://www.gdmc.nl/staff/)
-1. [Quality Control of Aerial Image Derivatives ](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Quality_Control_of_Aerial_Image_Derivatives)
+## [Martin Kodde](https://www.gdmc.nl/staff/)
+1. [3D mesh generation from Oblique Photos with AI (at Geodelta)](https://www.gdmc.nl/education/topics/topics.html#3d-mesh-generation-from-oblique-photos-with-ai-at-geodelta)
+2. [Temporal Analysis of Point Clouds for Identifying Significant Changes in Urban Landscapes (at Geodelta)](https://www.gdmc.nl/education/topics/topics.html#temporal-analysis-of-point-clouds-for-identifying-significant-changes-in-urban-landscapes-at-geodelta)
+3. [Bundle-Block Adjustment with Panorama Imagery (at Geodelta)](https://www.gdmc.nl/education/topics/topics.html#bundle-block-adjustment-with-panorama-imagery-at-geodelta)
+4. [Seamless Oblique Image Mosaics for Aerial Visualization (at Geodelta)](https://www.gdmc.nl/education/topics/topics.html#seamless-oblique-image-mosaics-for-aerial-visualization-at-geodelta)
 
 
 ## [Hugo Ledoux](https://3d.bk.tudelft.nl/hledoux/)
@@ -105,11 +111,11 @@ More to be come in the coming weeks
 
 
 ## [Martijn Meijers](https://www.tudelft.nl/en/staff/b.m.meijers/)
-1. [Comparing compression techniques for 2.5 and 3D point clouds](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Comparing_compression_techniques_for_2.5_and_3D_point_clouds)
-2. [Orchestrating map generalization operations for vario-scale maps](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Improving_the_content_of_vario_45scale_maps)
-3. [Making a vario-scale 4D point cloud](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Making_a_vario_45scale_4D_point_cloud)
-4. [Integrating 3D into a 2D OpenLayers based online GIS - at B3Partners ](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Integrating_3D_into_a_2D_OpenLayers_based_online_GIS_45_at_B3Partners)
-5. [Compare solutions for bringing 3D subsurface data on the web - at Geological Survey of the Netherlands](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Compare_solutions_for_bringing_3D_subsurface_data_on_the_web_45_at_Geological_Survey_of_the_Netherlands)
+1. [Allmaps - Curating, georeferencing and exploring digitized maps](https://www.gdmc.nl/education/topics/topics.html#allmaps-curating-georeferencing-and-exploring-digitized-maps)
+2. [Improving the content of vario-scale maps](https://www.gdmc.nl/education/topics/topics.html#Improving_the_content_of_vario_45scale_maps)
+3. [Making a vario-scale 4D point cloud](https://www.gdmc.nl/education/topics/topics.html#Making_a_vario_45scale_4D_point_cloud)
+4. [Comparing compression techniques for 2.5 and 3D point clouds](https://www.gdmc.nl/education/topics/topics.html#Comparing_compression_techniques_for_2.5_and_3D_point_clouds)
+5. [Compare solutions for bringing 3D subsurface data on the web - at Geological Survey of the Netherlands](https://www.gdmc.nl/education/topics/topics.html#Compare_solutions_for_bringing_3D_subsurface_data_on_the_web_45_at_Geological_Survey_of_the_Netherlands)
 
 
 ## [Liangliang Nan](https://3d.bk.tudelft.nl/liangliang)
@@ -121,12 +127,14 @@ More to be come in the coming weeks
 <!-- 1. [3D digital urban regulations to use GeoBIM for building permission checks](https://3d.bk.tudelft.nl/education/msctopics/#3d-digital-urban-regulations-to-use-geobim-for-building-permission-checks)
 2. [Inferring the needed building permissions from a 3D building model](https://3d.bk.tudelft.nl/education/msctopics/#inferring-the-needed-building-permission-from-a-3d-building-model)
  -->
- 
+
+
 ## [Peter van Oosterom](https://www.tudelft.nl/staff/p.j.m.vanoosterom/)
-1. [Cadastral Map Quality](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Cadastral_map_quality)
-2. [The LADM as Linked Open Data](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#The_LADM_as_Linked_Open_Data.)
-3. [Change Detection using LoD](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Change_detection_using_LoD)
-4. [Making a vario-scale 4D point cloud](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Making_a_vario_45scale_4D_point_cloud)
+1. [Cadastral Map Quality](https://www.gdmc.nl/education/topics/topics.html#Cadastral_map_quality)
+2. [The LADM as Linked Open Data](https://www.gdmc.nl/education/topics/topics.html#The_LADM_as_Linked_Open_Data.)
+3. [Change Detection using LoD](https://www.gdmc.nl/education/topics/topics.html#Change_detection_using_LoD)
+4. [Making a vario-scale 4D point cloud](https://www.gdmc.nl/education/topics/topics.html#Making_a_vario_45scale_4D_point_cloud)
+
 
 ## [Akshay Patil](https://3d.bk.tudelft.nl/apatil/)  
 1. [Coral Reef Complexity: Coral reefs as urban landscapes?](https://3d.bk.tudelft.nl/education/msctopics/#coral-reef-complexity)
@@ -138,13 +146,18 @@ More to be come in the coming weeks
 3. [Liability in the open data ecosystem](https://kcopendata.eu/education/thesis-topics/#liability)
 
 
-<!-- ## [Wilko Quak](http://www.gdmc.nl/staff/)
-1. [Mobility of People](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Topic:_Mobility_of_People) -->
+## [Wilko Quak](https://www.tudelft.nl/staff/c.w.quak/)
+1. [Possibilities of using Solid data pods in a geo environment](https://www.gdmc.nl/education/topics/topics.html#possibilities-of-using-solid-data-pods-in-a-geo-environment)
+2. [Mobility of People](https://www.gdmc.nl/education/topics/topics.html#Topic:_Mobility_of_People)
+3. [Designing a Data Infrastructure for Digital Twin Technology in Energy Management](https://www.gdmc.nl/education/topics/topics.html#designing-a-data-infrastructure-for-digital-twin-technology-in-energy-management)
 
 
-## [Azarakhsh Rafiee](http://www.gdmc.nl/staff/)
-1. [OGC API – Processes for the dissemination of simulation results](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#OGC_API_150_Processes_for_the_dissemination_of_simulation_results)
-2. [Netatmo Sensor Integration in IFC model of TU Delft Architecture and the Built Environment building](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Netatmo_Sensor_Integration_in_IFC_model_of_TU_Delft_Architecture_and_the_Built_Environment_building)
+## [Azarakhsh Rafiee](https://www.tudelft.nl/staff/A.Rafiee/)
+1. [Spatial Resolution Enhancement of Thermal Satellite Imagery through Deep Neural Networks](https://gdmc.nl/education/topics/topics.html#spatial-resolution-enhancement-of-thermal-satellite-imagery-through-deep-neural-networks)
+2. [Detecting building element/material through thermal imagery using Deep Neural Networks approach](https://gdmc.nl/education/topics/topics.html#detecting-building-elementmaterial-through-ground-based-thermal-imagery-using-deep-neural-networks-approach)
+3. [Exploring the impact of tree original point cloud data leverage in urban daylight simulation](https://gdmc.nl/education/topics/topics.html#exploring-the-impact-of-tree-original-point-cloud-data-leverage-in-urban-daylight-simulation)
+4. [Optimization for energy demand-production-storage balance in Local Energy Systems through Deep Reinforcement Learning](https://gdmc.nl/education/topics/topics.html#optimization-for-energy-demand-production-storage-balance-in-local-energy-systems-through-deep-reinforcement-learning)
+5. [Urban form, climate and personal comfort in a highly dense urban environment: the case of Seoul, South Korea](https://gdmc.nl/education/topics/topics.html#urban-form-climate-and-personal-comfort-in-a-highly-dense-urban-environment-the-case-of-seoul-south-korea)
 
 
 ## [Jantien Stoter](https://3d.bk.tudelft.nl/jstoter/)
@@ -160,14 +173,13 @@ More to be come in the coming weeks
 
 
 ## [Edward Verbree](https://www.tudelft.nl/en/staff/e.verbree/)
-1. [Investigating the reliability of indoor objects to act as landmarks](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Topic:_Investigating_the_reliability_of_indoor_objects_to_act_as_landmarks)
-2. [Campus project](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Topic:_Campus_project)
-3. [Positioning and Location Awareness, Point Cloud Cartography or Point Cloud Analysis](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Positioning_and_Location_Awareness_44_Point_Cloud_Cartography_or_Point_Cloud_Analysis)
+1. [Investigating the reliability of indoor objects to act as landmarks](https://www.gdmc.nl/education/topics/topics.html#Topic:_Investigating_the_reliability_of_indoor_objects_to_act_as_landmarks)
+2. [Positioning and Location Awareness, Point Cloud Cartography or Point Cloud Analysis](https://www.gdmc.nl/education/topics/topics.html#Positioning_and_Location_Awareness_44_Point_Cloud_Cartography_or_Point_Cloud_Analysis)
 
 
-## [Robert Voûte](http://www.gdmc.nl/staff/)
-1. [5G Positioning - at CGI ](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#A_5G_Positioning_45_at_CGI)
-2. [Smart 3D Mapping](https://wiki.tudelft.nl/bin/view/Organisation/OTB/GISt/MScThesisTopics#Smart_3D_Mapping_45_at_CGI)
+## [Robert Voûte](https://www.gdmc.nl/staff/)
+1. [Seabed fingerprinting](https://www.gdmc.nl/education/topics/topics.html#seabed-fingerprinting)
+2. [Smart voxels](https://www.gdmc.nl/education/topics/topics.html#smart-voxels)
 
 
 ## [Frederika Welle Donker](https://www.tudelft.nl/en/staff/f.m.welledonker/)
