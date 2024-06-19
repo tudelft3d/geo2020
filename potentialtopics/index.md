@@ -60,6 +60,8 @@ More to be come in the coming weeks
 3. [Coupled and decoupled simulations of urban wind flow for indoor natural ventilation modelling](https://3d.bk.tudelft.nl/education/msctopics/#coupled-and-decoupled-simulations-of-urban-wind-flow-for-indoor-natural-ventilation-modelling)
 4. [Linking Urban Heat Island effects with 3D urban morphology](https://3d.bk.tudelft.nl/education/msctopics/#linking-urban-heat-island-effects-with-3d-urban-morphology)
 5. [The effects of building model automatic reconstruction methods for CFD simulations](https://3d.bk.tudelft.nl/education/msctopics/#the-effects-of-building-model-automatic-reconstruction-methods-for-cfd-simulations)
+6. [Adding trees to City4CFD](https://3d.bk.tudelft.nl/education/msctopics/#adding-trees-to-city4cfd)
+7. [Developing an open-source GIS pipeline tailored for FastEddy](https://3d.bk.tudelft.nl/education/msctopics/#developing-an-open-source-gis-pipeline-tailored-for-fasteddy)
 
 ## [Giorgia Giardina](https://www.tudelft.nl/en/ceg/about-faculty/departments/geoscience-engineering/sections/geo-engineering/staff/academic-staff/giardina-g)
 1. [Using 3D BAG to create a national subsidence vulnerability map](https://3d.bk.tudelft.nl/education/msctopics/#using-3d-bag-to-create-a-national-subsidence-vulnerability-map)
