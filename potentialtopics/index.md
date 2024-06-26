@@ -29,6 +29,13 @@ permalink: /potentialtopics/
 
 ---
 
+## [Weixiao Gao](https://3d.bk.tudelft.nl/weixiao/)
+ 1. [Building point cloud completion](https://3d.bk.tudelft.nl/education/msctopics/#building-point-cloud-completion)
+ 2. [Urban mesh segmentation](https://3d.bk.tudelft.nl/education/msctopics/#urban-mesh-segmentation)
+ 3. [Spatial intelligence for applications in semantic 3D city models](https://3d.bk.tudelft.nl/education/msctopics/#spatial-intelligence-for-applications-in-semantic-3d-city-models)
+ 4. [3D reconstruction for urban objects](https://3d.bk.tudelft.nl/education/msctopics/#3d-reconstruction-for-urban-objects)
+
+
 ## [Ken Arroyo Ohori](https://3d.bk.tudelft.nl/ken/)
 1. [Developing methods for edge-matching with customisable heuristics](https://3d.bk.tudelft.nl/education/msctopics/#developing-methods-for-edge-matching-with-customisable-heuristics-geometric-topological-and-semantic)
 More to be come in the coming weeks
