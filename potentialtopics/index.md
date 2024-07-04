@@ -29,6 +29,13 @@ permalink: /potentialtopics/
 
 ---
 
+## [Weixiao Gao](https://3d.bk.tudelft.nl/weixiao/)
+ 1. [Building point cloud completion](https://3d.bk.tudelft.nl/education/msctopics/#building-point-cloud-completion)
+ 2. [Urban mesh segmentation](https://3d.bk.tudelft.nl/education/msctopics/#urban-mesh-segmentation)
+ 3. [Spatial intelligence for applications in semantic 3D city models](https://3d.bk.tudelft.nl/education/msctopics/#spatial-intelligence-for-applications-in-semantic-3d-city-models)
+ 4. [3D reconstruction for urban objects](https://3d.bk.tudelft.nl/education/msctopics/#3d-reconstruction-for-urban-objects)
+
+
 ## [Ken Arroyo Ohori](https://3d.bk.tudelft.nl/ken/)
 1. [Developing methods for edge-matching with customisable heuristics](https://3d.bk.tudelft.nl/education/msctopics/#developing-methods-for-edge-matching-with-customisable-heuristics-geometric-topological-and-semantic)
 More to be come in the coming weeks
@@ -107,7 +114,9 @@ More to be come in the coming weeks
 
 ## [Camilo León-Sánchez](https://3d.bk.tudelft.nl/cleon/)
 1. [Urban energy simulations linking CitySim with the 3DCityDB](https://github.com/tudelft3d/website/blob/main/education/msctopics/index.md#urban-energy-simulations-linking-citysim-with-the-3dcitydb)
-1. [(Further) Development and Testing of the Energy Extension for CityJSON (v1.x)](https://github.com/tudelft3d/website/blob/main/education/msctopics/index.md#further-development-and-testing-of-the-energy-extension-for-cityjson-v1x)
+2. [(Further) Development and Testing of the Energy Extension for CityJSON (v1.x)](https://3d.bk.tudelft.nl/education/msctopics/#further-development-and-testing-of-the-energy-extension-for-cityjson-v1x)
+3. [Accuracy assesment of in-house urban energy building simulation tool](https://3d.bk.tudelft.nl/education/msctopics/#accuracy-assesment-of-in-house-urban-energy-building-simulation-tool)
+4. [Development of a Graphical User Interface for Visualizing Building Energy Data](https://3d.bk.tudelft.nl/education/msctopics/#development-of-a-graphical-user-interface-for-visualizing-building-energy-data)
 
 ## [Bastiaan van Loenen](https://www.tudelft.nl/en/staff/b.vanloenen/)
 1. [Governance of the open data ecosystem](https://kcopendata.eu/education/thesis-topics/#IP)
