@@ -62,6 +62,8 @@ More to be come in the coming weeks
 5. [The effects of building model automatic reconstruction methods for CFD simulations](https://3d.bk.tudelft.nl/education/msctopics/#the-effects-of-building-model-automatic-reconstruction-methods-for-cfd-simulations)
 6. [Adding trees to City4CFD](https://3d.bk.tudelft.nl/education/msctopics/#adding-trees-to-city4cfd)
 7. [Developing an open-source GIS pipeline tailored for FastEddy](https://3d.bk.tudelft.nl/education/msctopics/#developing-an-open-source-gis-pipeline-tailored-for-fasteddy)
+8. [Citizen Voices in Climate Action: Developing digital platforms for citizen engagement in climate planning and design](https://3d.bk.tudelft.nl/education/msctopics/#citizen-voices-in-climate-action-developing-digital-platforms-for-citizen-engagement-in-climate-planning-and-design)
+9. [Revealing energy inequalities in The Netherlands](https://3d.bk.tudelft.nl/education/msctopics/#revealing-energy-inequalities-in-the-netherlands)
 
 ## [Giorgia Giardina](https://www.tudelft.nl/en/ceg/about-faculty/departments/geoscience-engineering/sections/geo-engineering/staff/academic-staff/giardina-g)
 1. [Using 3D BAG to create a national subsidence vulnerability map](https://3d.bk.tudelft.nl/education/msctopics/#using-3d-bag-to-create-a-national-subsidence-vulnerability-map)
