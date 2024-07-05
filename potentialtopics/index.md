@@ -37,8 +37,9 @@ permalink: /potentialtopics/
 
 
 ## [Ken Arroyo Ohori](https://3d.bk.tudelft.nl/ken/)
+1. [(Semi-)automatic modeling of indoor building 3D models for daylight simulation with Lidar enabled mobile devices](https://3d.bk.tudelft.nl/education/msctopics/#semi-automatic-modeling-of-indoor-building-3d-models-for-daylight-simulation-with-lidar-enabled-mobile-devices)
 1. [Developing methods for edge-matching with customisable heuristics](https://3d.bk.tudelft.nl/education/msctopics/#developing-methods-for-edge-matching-with-customisable-heuristics-geometric-topological-and-semantic)
-More to be come in the coming weeks
+1. More to be come in the coming weeks...
 
 ## [Giorgio Agugiaro](https://3d.bk.tudelft.nl/gagugiaro/)
  1. [...Too cool to be true? Cooling demand based on the (enriched) semantic 3D city model of Rotterdam](https://3d.bk.tudelft.nl/education/msctopics/#too-cool-to-be-true-cooling-demand-based-on-the-enriched-semantic-3d-city-model-of-rotterdam)
@@ -60,6 +61,7 @@ More to be come in the coming weeks
 
 ## [Nima Forouzandeh]([https://www.tudelft.nl/en/staff/f.m.welledonker/](https://www.tudelft.nl/staff/n.forouzandeh/?cHash=0eff827e919ebe7ba656d3542c3dcc42))
 1. [Automatic reconstruction of window boundaries for efficient daylight simulation](https://3d.bk.tudelft.nl/education/msctopics/#automatic-reconstruction-of-window-boundaries-for-efficient-daylight-simulation)
+1. [(Semi-)automatic modeling of indoor building 3D models for daylight simulation with Lidar enabled mobile devices](https://3d.bk.tudelft.nl/education/msctopics/#semi-automatic-modeling-of-indoor-building-3d-models-for-daylight-simulation-with-lidar-enabled-mobile-devices)
 
 ## [Clara García-Sánchez](https://3d.bk.tudelft.nl/gsclara/)
 1. [Optimizing building mesh designs for computational fluid dynamics using machine learning.](https://3d.bk.tudelft.nl/education/msctopics/#optimizing-building-mesh-designs-for-computational-fluid-dynamics-using-machine-learning)
