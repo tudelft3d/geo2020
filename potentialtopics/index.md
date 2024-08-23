@@ -29,17 +29,12 @@ permalink: /potentialtopics/
 
 ---
 
-## [Weixiao Gao](https://3d.bk.tudelft.nl/weixiao/)
- 1. [Building point cloud completion](https://3d.bk.tudelft.nl/education/msctopics/#building-point-cloud-completion)
- 2. [Urban mesh segmentation](https://3d.bk.tudelft.nl/education/msctopics/#urban-mesh-segmentation)
- 3. [Spatial intelligence for applications in semantic 3D city models](https://3d.bk.tudelft.nl/education/msctopics/#spatial-intelligence-for-applications-in-semantic-3d-city-models)
- 4. [3D reconstruction for urban objects](https://3d.bk.tudelft.nl/education/msctopics/#3d-reconstruction-for-urban-objects)
-
 
 ## [Ken Arroyo Ohori](https://3d.bk.tudelft.nl/ken/)
+1. [Creation of planar partitions from mismatched datasets](https://3d.bk.tudelft.nl/education/msctopics/#creation-of-planar-partitions-from-mismatched-datasets)
+1. [Different heuristics for CGAL polygon repair](https://3d.bk.tudelft.nl/education/msctopics/#different-heuristics-for-cgal-polygon-repair)
 1. [(Semi-)automatic modeling of indoor building 3D models for daylight simulation with Lidar enabled mobile devices](https://3d.bk.tudelft.nl/education/msctopics/#semi-automatic-modeling-of-indoor-building-3d-models-for-daylight-simulation-with-lidar-enabled-mobile-devices)
 1. [Developing methods for edge-matching with customisable heuristics](https://3d.bk.tudelft.nl/education/msctopics/#developing-methods-for-edge-matching-with-customisable-heuristics-geometric-topological-and-semantic)
-1. More to be come in the coming weeks...
 
 ## [Giorgio Agugiaro](https://3d.bk.tudelft.nl/gagugiaro/)
  1. [...Too cool to be true? Cooling demand based on the (enriched) semantic 3D city model of Rotterdam](https://3d.bk.tudelft.nl/education/msctopics/#too-cool-to-be-true-cooling-demand-based-on-the-enriched-semantic-3d-city-model-of-rotterdam)
@@ -62,6 +57,12 @@ permalink: /potentialtopics/
 ## [Nima Forouzandeh]([https://www.tudelft.nl/en/staff/f.m.welledonker/](https://www.tudelft.nl/staff/n.forouzandeh/?cHash=0eff827e919ebe7ba656d3542c3dcc42))
 1. [Automatic reconstruction of window boundaries for efficient daylight simulation](https://3d.bk.tudelft.nl/education/msctopics/#automatic-reconstruction-of-window-boundaries-for-efficient-daylight-simulation)
 1. [(Semi-)automatic modeling of indoor building 3D models for daylight simulation with Lidar enabled mobile devices](https://3d.bk.tudelft.nl/education/msctopics/#semi-automatic-modeling-of-indoor-building-3d-models-for-daylight-simulation-with-lidar-enabled-mobile-devices)
+
+## [Weixiao Gao](https://3d.bk.tudelft.nl/weixiao/)
+ 1. [Building point cloud completion](https://3d.bk.tudelft.nl/education/msctopics/#building-point-cloud-completion)
+ 2. [Urban mesh segmentation](https://3d.bk.tudelft.nl/education/msctopics/#urban-mesh-segmentation)
+ 3. [Spatial intelligence for applications in semantic 3D city models](https://3d.bk.tudelft.nl/education/msctopics/#spatial-intelligence-for-applications-in-semantic-3d-city-models)
+ 4. [3D reconstruction for urban objects](https://3d.bk.tudelft.nl/education/msctopics/#3d-reconstruction-for-urban-objects)
 
 ## [Clara García-Sánchez](https://3d.bk.tudelft.nl/gsclara/)
 1. [Optimizing building mesh designs for computational fluid dynamics using machine learning.](https://3d.bk.tudelft.nl/education/msctopics/#optimizing-building-mesh-designs-for-computational-fluid-dynamics-using-machine-learning)
