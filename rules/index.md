@@ -17,12 +17,12 @@ permalink: /rules/
 </section>
 ## The official graduation material
 
+- [Official Graduation Manual 2023-2024](GraduationManualGeomatics2024-2025.pdf)
 - [Official Graduation Manual 2023-2024](GraduationManualGeomatics2023-2024.pdf)
 - [Official Graduation Manual 2022-2023](GraduationManualGeomatics2022-2023.pdf)
 - [Official Graduation Manual 2021-2022](GraduationManualGeomatics2021-2022.pdf)
 - [Official Graduation Manual 2020-2021](GraduationManualGeomatics2020-2021.pdf)
 - [Official Graduation Manual 2019-2020](GraduationManualGeomatics2019-2020.pdf)
-- [Official Graduation Manual 2018-2019](GraduationManualGeomatics2018-2019.pdf)
    
 Notice that you have to follow the rules of the year you started your graduation work.
 Even if it takes you 2 years to complete, the rules that applied when you started are the rules that apply during your whole graduation process.
