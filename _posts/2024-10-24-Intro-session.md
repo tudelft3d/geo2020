@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Intro session on 4th June at 15 room Q"
+title:  "Intro session on 24th October at 11 room R"
 author: Clara Garcia-Sanchez
 date:   2024-10-17 00:00
 ---
