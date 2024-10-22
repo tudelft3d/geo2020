@@ -1,0 +1,5 @@
+This is a file to collect all issues found during the test of the myCase system. 
+Please add any specific issue found down here, with the date. 
+Example:
+
+- 20/10/2024: student cannot go to next step because there is not file attachment. 
