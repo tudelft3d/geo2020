@@ -7,7 +7,7 @@ date:   2024-11-6 00:00
 
 Dear all, 
 
-From today on the new system to follow the graduation process is available:  [MyCase](mycase.tudelft.nl).
+From today on the new system to follow the graduation process is available:  [MyCase](https://mycase.tudelft.nl).
 
 When you use the system, please be critical and let us know whether:
 
