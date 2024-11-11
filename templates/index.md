@@ -61,7 +61,7 @@ Download the [full LaTeX source in one ZIP](https://github.com/tudelftgeomatics/
 Notice that the TU Delft has a [generic LaTeX template for report](https://www.overleaf.com/latex/templates/tu-delft-report-slash-thesis-template/swythjmksywm), that can also be used, but don't forget to add the parts necessary (table of content, table of figures, appendices, etc.).
 
 You are of course allowed to use Word (or others), if you want.
-But we do not offer a template, although the TU Delft (kinda) does: [download here](https://filelist.tudelft.nl/Studentenportal/Faculteitspecifiek/Bouwkunde/Onderwijs/Formulieren/Graduation_Plan_Template%202023-2024.docx)
+But we do not offer a template, although the TU Delft (kinda) does, you can follow the steps here: [download here](https://www.tudelft.nl/en/tu-delft-corporate-design/media/word-templates)
 
 
 
