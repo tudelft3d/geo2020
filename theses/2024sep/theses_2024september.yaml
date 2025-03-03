@@ -24,7 +24,7 @@ Alting:
   \ to easily incorporate realistic tree data, ultimately leading to more accurate\
   \ urban wind flow simulations."
 - .nan
-- ./img/Alting.png
+- ./img/Alting.jpg
 Andinasari:
 - Citra
 - Point Cloud for 3D Cadastral
@@ -50,7 +50,7 @@ Andinasari:
 
   3. Which web architecture is suitable for visualizing the resulting 3D cadastre?'
 - .nan
-- ./img/Andinasari.png
+- ./img/Andinasari.jpg
 Baba:
 - Hidemichi
 - Cloud Optimization Strategies for CityJSON in 3D Urban Modeling
@@ -71,7 +71,7 @@ Baba:
   processing. This work aims to enhance the scalability and usability of 3D city models,
   advancing urban planning and smart city applications.
 - .nan
-- ./img/Baba.png
+- ./img/Baba.jpg
 Bainus:
 - Der Derian Auliyaa
 - Integration of Geospatial Point Clouds Across Island, Using Features as Ground Control
@@ -118,7 +118,7 @@ Bhatt:
   \ but also sets a foundation for broader applications in building performance and\
   \ smart urban development."
 - .nan
-- ./img/Bhatt.png
+- ./img/Bhatt.jpg
 Boertjes:
 - Lars
 - Adaptive Mesh Refinement for 3D Reconstruction of Buildings Using the Segment Anything
@@ -164,7 +164,7 @@ Cheng:
   costs, extends accessibility, and supports scalable applications in urban planning,
   disaster management, and digital heritage preservation.
 - .nan
-- ./img/Cheng.png
+- ./img/Cheng.jpg
 Gan:
 - Haohua
 - 3D reconstruction of linear urban objects from aerial lidar point clouds
@@ -194,7 +194,7 @@ Gan:
   structure, and discover a possible primitive-based or skeleton-based reconstruction
   method.'
 - .nan
-- ./img/Gan.png
+- ./img/Gan.jpg
 Gao:
 - Yan
 - Labeling vario-scale maps
@@ -219,7 +219,7 @@ Gao:
   \ should (dis)appear or fade out/in(grow/shrink) as scale changes, enhancing map\
   \ usability.\nResults may contribute to vario-scale map-building software."
 - .nan
-- ./img/Gao.png
+- ./img/Gao.jpg
 Giampaolo:
 - Michele
 - "The Impact of Urban Climate on Personal Mobility Choices: A Case Study of Seoul\u2019\
@@ -238,7 +238,7 @@ Giampaolo:
   \ determine whether mobility patterns can offer insight on human climate comfort\
   \ levels."
 - .nan
-- ./img/Giampaolo.png
+- ./img/Giampaolo.jpg
 Gong:
 - Xiaoluo
 - Seamless Oblique Image Mosaics for Aerial Visualization
@@ -281,7 +281,7 @@ Huizer:
   such as antennas, than the sum of its parts would provide--that is, LIDAR and aerial
   photography.
 - Antea Group, exact contact person unclear
-- ./img/Huizer.png
+- ./img/Huizer.jpg
 Iliopoulos:
 - Georgios
 - (Semi-)automatic modeling of indoor building 3D models for daylight simulation with
@@ -306,7 +306,7 @@ Iliopoulos:
   \ impact on daylight  simulations will be assessed by comparing them with manually\
   \ generated models representing the ground truth."
 - .nan
-- ./img/Iliopoulos.png
+- ./img/Iliopoulos.jpg
 Joh:
 - Hyeji
 - Generating Synthetic Distributions of Housing Units for Modelling Economic Segregation
@@ -384,7 +384,7 @@ Li:
   \ This will improve transparency and support stakeholder decision making through\
   \ enhanced data communication and temporal analysis capabilities."
 - .nan
-- ./img/Li.png
+- ./img/Li.jpg
 Manden:
 - Bart
 - The effects of building model automatic reconstruction methods for CFD simulations
@@ -404,7 +404,7 @@ Manden:
   and reliability of CFD simulations. Ultimately, the findings may contribute to establishing
   guidelines for effective modelling approaches in CFD applications.'
 - .nan
-- ./img/Manden.png
+- ./img/Manden.jpg
 "Mart\xEDnez":
 - Javier
 - Using thermal imagery to differentiate rock and soil types with deep learning techniques
@@ -430,7 +430,7 @@ Manden:
   \ image clarity, thermal patterns). \n\nImage source: Soil temperature map (Peipei\
   \ Lin, 2015)."
 - .nan
-- "./img/Mart\xEDnez.png"
+- "./img/Mart\xEDnez.jpg"
 Michalas:
 - Michalis
 - Super-Resolution and Domain Transfer for Enhanced  Aerial Imagery
@@ -455,7 +455,7 @@ Michalas:
   \ high resolutions and supporting Readar B.V.\u2019s production pipeline with consistent,\
   \ detail-rich datasets across the Netherlands."
 - Sven Briels
-- ./img/Michalas.png
+- ./img/Michalas.jpg
 Monahan:
 - Jessica
 - Designing Climate-Responsive Cities - A Morphology-Based Tool for Urban Wind Flow
@@ -482,7 +482,7 @@ Monahan:
   \ local climates. This approach aims to make climate-sensitive design more accessible\
   \ for planners and architects."
 - .nan
-- ./img/Monahan.png
+- ./img/Monahan.jpg
 Mouzakidis:
 - Dimitrios
 - LADM-Based Digital Twin for Archaeological Site Information Registration
@@ -507,7 +507,7 @@ Mouzakidis:
   standards related to data format, grammar, and implementation as with APIs and Web
   Feature Services should be explored (proposed by ISO, OGC, and W3C).
 - "CGI NEDERLAND B.V (Robert Vo\xFBte, Vice President Consulting Geo-ICT)"
-- ./img/Mouzakidis.png
+- ./img/Mouzakidis.jpg
 Rahmawati:
 - Adhisye
 - "\u2026Too cool to be true? Cooling demand based on the (enriched) semantic 3D city\
@@ -533,7 +533,7 @@ Rahmawati:
   also includes evaluating the accuracy of the simulated cooling demand and exploring
   effective methods for presenting these values.
 - 'Gementee of Rotterdam: Mr. Frerye Hechavarria'
-- ./img/Rahmawati.png
+- ./img/Rahmawati.jpg
 Tarczynski:
 - Rafal Marek
 - "Integrating Machine Learning to Enhance Transportation Forecasting in Urban Strategy\u2019\
@@ -578,7 +578,7 @@ Tew:
   focused approach to green spaces offers a practical framework for cities seeking
   to strengthen ecological and community resilience through strategic land use planning.
 - .nan
-- ./img/Tew.png
+- ./img/Tew.jpg
 Tsalapati:
 - Victoria
 - Exploring the impact of tree original point cloud data leverage in urban daylight
@@ -605,7 +605,7 @@ Tsalapati:
   or custom code using Ladybug and Honeybee libraries. Lastly, the results will be
   evaluated.
 - .nan
-- ./img/Tsalapati.png
+- ./img/Tsalapati.jpg
 Wang:
 - Zhuoyue
 - Enhancing Smart Point Clouds with HBIM Attributes for Dynamic Heritage Conservation
@@ -622,7 +622,7 @@ Wang:
   state of the site. This integration facilitates ongoing preservation efforts by
   maintaining a real-time, enriched model of heritage structures.
 - .nan
-- ./img/Wang.png
+- ./img/Wang.jpg
 Yang:
 - Qiaorui
 - Building an Intelligent Spatial Knowledge Graph for Energy Management
@@ -658,7 +658,7 @@ Zhao:
   sharpness, and scale consistency. The AHN dataset and 3D BAG building models serve
   as both training and validation data.'
 - .nan
-- ./img/Zhao.png
+- ./img/Zhao.jpg
 de Niet:
 - Lotte
 - Reconstructing 3D apartment units from legal apartment drawings
@@ -689,7 +689,7 @@ de Niet:
   time allows, aligning the models with BIM legal standards and alternative approaches
   to visualizing ownership could be explored.'
 - Kadaster, Bhavya Kausika
-- ./img/de Niet.png
+- ./img/de Niet.jpg
 van Arnhem:
 - Marieke Margaretha
 - Temporal Change Detection and Visualization in Point Clouds
@@ -707,4 +707,4 @@ van Arnhem:
   is tested using the AHN datasets, it is designed to be adaptable to point clouds
   of varying densities.'
 - Geodelta, Annemieke Verbraeck (annemieke@geodelta.com)
-- ./img/van Arnhem.png
+- ./img/van Arnhem.jpg
