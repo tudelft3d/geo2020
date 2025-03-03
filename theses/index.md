@@ -4,6 +4,7 @@ title: Theses starting each 6mo
 permalink: /theses/
 ---
 
+- [September 2024]({{ "/theses/2024sep/" | prepend: site.baseurl }})
 - [April 2024]({{ "/theses/2024april/" | prepend: site.baseurl }})
 - [September 2023]({{ "/theses/2023sep/" | prepend: site.baseurl }})
 - [April 2023]({{ "/theses/2023april/" | prepend: site.baseurl }})
