@@ -15,19 +15,11 @@ permalink: /faq/
 
 - - -
 
-#### Why are there 2 separates courses? GEO2011 & GEO2020
-
-[GEO2011](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=59783) is for the preparation work and up to the P2 (including it).
-If you pass P2, you pass GEO2011 (and get the 10 ECTS).
-There is no grade attached to it, it's either a pass or a fail (a retake is possible though).
-
-[GEO2020](http://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=35531) is for the rest of the graduation trajectory; you get a grade at the end of P5 (and the remaining 30 ECTS).
-
 - - -
 
 #### Which Graduation Manual apply to me?
 
-The [Graduation Manual]({{ "/rules/" | prepend: site.baseurl }}) , and thus the rules, change almost every year.
+The [Graduation Manual]({{ "/rules/" | prepend: site.baseurl }}), and thus the rules, change almost every year.
 The differences are usually small, but some are significant (eg submitting a reflection, role of co-reader, etc).
 
 You have to follow the rules of the year you started your graducation work.
@@ -158,10 +150,10 @@ The evaluation criteria that will be used by the committee to mark the final the
 
 - - -
 
-#### What is a complete draft at P4?
+#### What is a complete draft at A3?
 
 
-The deliverable at P4 is "complete draft thesis", and many of you asked their supervisor: "what does that mean?".
+The deliverable at A3 is "complete draft thesis", and many of you asked their supervisor: "what does that mean?".
 The answer to this is very subjective, and thus varies from supervisors to supervisors, so discuss this with them.
 The main point is that the committee needs to assess whether what has been done so far (and submitted) is at least a 6.0, if this is so then a GO is given. 
 You then have about 1 month to improve your thesis for the P5, where a mark is given.
@@ -222,8 +214,7 @@ _7. Appendices_
 
 - - -
 
-#### Withdrawing from P4
+#### Withdrawing from A3
 
 - inform your supervisors, the coreader and the delegate examiner
-- send an email to the Board of Examiners (examencommissie-bk@tudelft.nl) stating your name and student number, and declare that you withdraw from P4.
-- you need to refill the P4 form before the next P4 period, thus to register again.
+- send an email to the Board of Examiners (examencommissie-bk@tudelft.nl) stating your name and student number, and declare that you withdraw from A3.
