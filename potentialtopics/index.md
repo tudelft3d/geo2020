@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Potential topics
+color: link-60
 permalink: /potentialtopics/
 ---
 

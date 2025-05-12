@@ -2,12 +2,10 @@
 layout: default
 ---
 
-<section class="hero is-primary">
+<section class="hero has-background-{{ page.color }}">
   <div class="hero-body">
-    <div class="container">
-      <a href="{{ '/' | prepend: site.baseurl}}"><i class="fas fa-arrow-circle-left"></i></a>
-      <p class="title"> {{page.title}}</p>
-    </div>
+    <a href="{{ '/' | prepend: site.baseurl}}"><i class="fas fa-arrow-circle-left has-text-{{ page.color }}-invert"></i></a>
+    <p class="title has-text-{{ page.color }}-invert">{{ page.title }}</p>
   </div>
 </section>
 

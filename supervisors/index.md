@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Stuff for supervisors
+color: info-60
 permalink: /supervisors/
 redirect_from:
   - /teachers/

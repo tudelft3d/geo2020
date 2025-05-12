@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Templates for deliverables
+color: warning-60
 permalink: /templates/
 ---
 

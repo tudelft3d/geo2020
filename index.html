@@ -1,157 +1,117 @@
 ---
 layout: default
-title: GEO2020--MSc Geomatics
+title: GEO2021--MSc Geomatics
 ---
 
 <section class="section">
+  <div class="fixed-grid has-3-cols">
+    <div class="grid has-text-centered">
 
+      <div class="cell">
+        <span class="has-text-primary" style="font-size: 60px;">GEO2021</span><br />
+        <span class="has-text-info" style="font-size: 60px;">MSc Geomatics</span>
+      </div>
 
-<div class="tile is-ancestor">
-  <div class="tile">
-    <div class="tile is-parent is-4">
-      <article class="tile is-child">
-        <figure class="image">
-        <img src="assets/img/logo.svg">
-        </figure>
-      </article>
-    </div>
-    <div class="tile is-parent is-4 has-text-centered">
-      <article class="tile is-child notification box is-danger">
-      <a href="{{ '/rules' | prepend: site.baseurl}}"> 
+      <div class="cell notification box has-background-danger-60 has-text-danger-60-invert">
+        <a href="{{ '/rules' | prepend: site.baseurl}}"> 
           <span style="font-size: 60px;">
             <i class="fas fa-parking"></i>
           </span>
         </a>
         <p class="subtitle">Info about the Ps</p>
-      </article>
-    </div>
-    <div class="tile is-parent is-4 has-text-centered">
-      <article class="tile is-child notification box is-info">
+      </div>
+
+      <div class="cell notification box has-background-info-60 has-text-info-60-invert">
         <a href="{{ '/faq' | prepend: site.baseurl}}"> 
           <span style="font-size: 60px;">
             <i class="fas fa-question"></i>
           </span>
         </a>
         <p class="subtitle">FAQ</p>
-      </article>
-    </div>
-  </div>
-</div>  
-  
+      </div>
 
-<div class="tile is-ancestor">
-  <div class="tile">
-    <div class="tile is-parent has-text-centered">
-      <article class="tile is-child notification box is-dark">
+      <div class="cell notification box has-background-dark has-text-dark-invert">
         <a href="{{ '/exampletheses' | prepend: site.baseurl}}"> 
           <span style="font-size: 60px;">
             <i class="fas fa-graduation-cap"></i>
           </span>
         </a>
         <p class="subtitle">Example theses</p>
-      </article>
-    </div>
-    <div class="tile is-parent has-text-centered">
-      <article class="tile is-child notification box is-warning">
+      </div>
+
+      <div class="cell notification box has-background-warning-60 has-text-warning-60-invert">
         <a href="{{ '/templates' | prepend: site.baseurl}}"> 
           <span style="font-size: 60px;">
             <i class="fas fa-file"></i>
           </span>
         </a>
         <p class="subtitle">Templates for deliverables</p>
-      </article>
-    </div>
-    <div class="tile is-parent has-text-centered">
-      <article class="tile is-child notification box is-primary">
+      </div>
+
+      <div class="cell notification box has-background-primary-60 has-text-primary-60-invert">
         <a href="{{ '/tips' | prepend: site.baseurl}}"> 
           <span style="font-size: 60px;">
             <i class="fas fa-lightbulb"></i>
           </span>
         </a>  
         <p class="subtitle">Research & writing tips</p>
-      </article>
-    </div>
-  </div>
-</div>
+      </div>
 
-
-<div class="tile is-ancestor">
-  <div class="tile">
-    <div class="tile is-parent is-4 has-text-centered">
-      <article class="tile is-child notification box is-link">
+      <div class="cell notification box has-background-link-60 has-text-link-60-invert">
         <a href="{{ '/potentialtopics' | prepend: site.baseurl}}"> 
           <span style="font-size: 60px;">
             <i class="fas fa-list-ol"></i>
           </span>
         </a>
         <p class="subtitle">Potential topics</p>
-        </article>
-    </div>
-    <div class="tile is-parent is-4 has-text-centered">
-      <article class="tile is-child notification box is-success">
+      </div>
+
+      <div class="cell notification box has-background-success-60 has-text-success-60-invert">
         <a href="{{ '/company' | prepend: site.baseurl}}"> 
           <span style="font-size: 60px;">
             <i class="fas fa-cog"></i>
           </span>
         </a>
         <p class="subtitle">Graduating with a company</p>
-      </article>
-    </div>
-    <div class="tile is-parent is-4 has-text-centered">
-      <article class="tile is-child notification box is-info">
+      </div>
+
+      <div class="cell notification box has-background-info-60 has-text-info-60-invert">
         <a href="{{ '/supervisors' | prepend: site.baseurl}}"> 
           <span style="font-size: 60px;">
             <i class="fas fa-chalkboard-teacher"></i>
           </span>
         </a>
         <p class="subtitle">Stuff for supervisors</p>
-      </article>
-    </div>
-  </div>
-</div>
+      </div>
 
-
-<div class="tile is-ancestor">
-  <div class="tile">
-    <div class="tile is-parent is-8">
-      <article class="tile is-child notification is-light box">
+      <div class="cell is-col-span-2 is-row-span-2 notification box is-light has-text-left">
         <div class="content">
           <p class="title"><i class="fas fa-rss"></i> Latest news</p>
           {% for post in site.posts limit:5 %}
-            <p><b>{{ post.date | date_to_string }}:</b> <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></p>
+          <p><b>{{ post.date | date_to_string }}:</b> <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></p>
           {% endfor %}
           <br>
           <p><a href="{{ '/news' | prepend: site.baseurl}}"><i class="fas fa-chevron-circle-right"></i> longer list of news</a></p>
         </div>
-      </article>
-    </div>
-  <div class="tile ">
-    <div class="tile is-vertical is-parent has-text-centered">
-      <article class="tile is-child notification box is-white">
+      </div>
+
+      <div class="cell notification box is-white">
         <a href="{{ '/theses/' | prepend: site.baseurl}}"> 
-                    <span style="font-size: 60px;">
+          <span style="font-size: 60px;">
             <i class="fas fa-file-alt"></i>
           </span>
         </a>
         <p class="subtitle">Current Theses</p>
-      </article>
-    <div class="tile is-child box">
-      <p class="title">Dates</p>
-      <p><a href="{{ '/dates/Jaarkalender_afstuderen_2024-2025.pdf' | prepend: site.baseurl}}"><i class="fas fa-chevron-circle-right"></i> BK academic graduation calendar 2024-2025</a></p>
-    </div>
-    </div>
-  </div>
-</div>
-</div>
+      </div>
 
+      <div class="cell notification box">
+        <p class="title">Dates</p>
+        <p><a href="{{ '/dates/Jaarkalender_afstuderen_2024-2025.pdf' | prepend: site.baseurl}}"><i class="fas fa-chevron-circle-right"></i> BK academic graduation calendar 2024-2025</a></p>
+      </div>
 
-<div class="tile is-ancestor">
-  <div class="tile is-parent is-12 has-text-centered">
-    <article class="tile is-child notification box has-text-centered is-primary" style="flex: 1 1 auto;">
-      <a href="{{ '/coordinator' | prepend: site.baseurl}}"> <i class="fas fa-at"></i> contact the coordinator</a>
-    </article>
+      <div class="cell is-col-span-3 notification box has-background-primary-60 has-text-primary-60-invert">
+        <a href="{{ '/coordinator' | prepend: site.baseurl}}"> <i class="fas fa-at"></i> contact the coordinator</a>
+      </div>
+    </div>
   </div>
-  </div>
-  
 </section>
-

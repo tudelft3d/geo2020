@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Research & writing tips
+color: primary-60
 permalink: /tips/
 ---
 

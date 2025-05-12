@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Example theses
+color: dark
 permalink: /exampletheses/
 ---
 

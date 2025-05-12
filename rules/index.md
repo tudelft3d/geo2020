@@ -1,6 +1,7 @@
 ---
 layout: page
-title: "Info about the P"
+title: "Info about the Ps"
+color: danger-60
 permalink: /rules/
 ---
 

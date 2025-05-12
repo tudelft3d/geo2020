@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Theses starting each 6mo
+color: white
 permalink: /theses/
 ---
 
