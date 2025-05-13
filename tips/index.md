@@ -131,7 +131,7 @@ It is a good idea to let one of them proof-read the thesis to see if they unders
 
 #### With the P5 thesis, submit a rebuttal/corrections document
 
-Your committee will have to read your thesis twice: before P4 (draft thesis) and before P5 (final version).
+Your committee will have to read your thesis twice: before A3 (draft thesis) and before A4 (final version).
 It's in your interest to tell them clearly what was changed between the two versions: they will appreciate not having to re-read parts that haven't changed, and will be able to focus on the parts you've improved.
 
 We thus suggest that you submit a rebuttal and corrections document: a ~2-page document, submitted as extra (or in an email).
