@@ -19,8 +19,7 @@ permalink: /rules/
 
 ## The official graduation material
 
-Note that you have to follow the rules of the year you started your graduation work.
-<!-- Even if it takes you 2 years to complete, the rules that applied when you started are the rules that apply during your whole graduation process. -->
+Note that you have to follow the rules of the academic year when you started your graduation work.
 
 - [Official Graduation Manual 2024-2025](GraduationManualGeomatics2024-2025.pdf)
 - [Official Graduation Manual 2023-2024](GraduationManualGeomatics2023-2024.pdf)
@@ -34,43 +33,40 @@ Note that you have to follow the rules of the year you started your graduation w
 
 <!-- <div data-tf-live="01JRAE19NS8QBE1VGW9C8GXWNS"></div><script src="//embed.typeform.com/next/embed.js"></script> -->
 
+<!-- - Register your MSc graduation project in [MyCase](https://mycase.tudelft.nl), including supervisors, planned dates and a short project proposal -->
+
+1. Typeform?
+2. Scheduling of A1?
+
 ## A1 (Kick-off)
 
-- How to register
-- Template
-- What to submit
-
-<!-- - you do not need to register for A1 yourself, the coordinator (Ken) does this for all students who submitted topics
-- [template A1](../templates/#p2)
-- one week before your A1, you need to email your final A1 proposal to: (1) your first supervisor; (2) your second supervisor; (3) the delegate of the board of examiners assigned to you (you can see that in the calendar entry for your A1); (4)  'BoardofExaminers-BK@tudelft.nl'.
-The email must state as subject: "A1 graduation plan + [your student number]".  -->
-
+1. Find a thesis topic and supervisors
+2. Write a project proposal. If you want, you can use [this template](../templates/#proposal).
+3. At least one week before your A1, you must register your project in [MyCase](https://mycase.tudelft.nl), including uploading the proposal
+4. Your supervisors will read your proposal. At the kick-off meeting, your supervisors will ask you questions about it and decide if it's approved.
+5. Continue / retake? Register dates for A3 and A4 in SuperSaaS?
 
 ## A2 (Midterm)
 
-<!-- - you do not need to register for A2 or do anything special
-- at one meeting with your first supervisor (before registering for A3), you should reflect on the progress done
-- your first supervisor will register the A2 in the system -->
-
+1. Discuss with your supervisors to know what you need to do for the midterm. It's good practice to have a more structured meeting to discuss your progress and (updated) plans
+2. Upload a document in [MyCase](https://mycase.tudelft.nl), such as the slides used for this meeting, updated project plan or the thesis as it stands
+3. Continue to green light / midterm / discontinue?
+4. Pick a co-reader. This person will read and send feedback/questions to your supervisors. This person is chosen by your supervisors and you. It's the best person at TU Delft for the topic, but outsiders from other universities are allowed (and can attend online). Instructions for approaching co-reader...
 
 ## A3 (Green light)
 
-<!-- - during the P2 session, you are registered for P4 (and a date is chosen). If this was done, you do **not** need to register for P4 
-- however, you do need to cancel your P4 if you don't go to the planned date. You do this by sending an email to your 2 supervisors, the delegate, and to `afstuderen-bk@tudelft.nl`
-- if you are not registered for P4, then [this form](https://www.tudelft.nl/en/student/a-be-student-portal/practical-affairs/forms) must be used
-- for the P4, you need to pick a co-reader, this person will read and send feedback/questions to your supervisors. This person is chosen by your supervisors and you. It's the best person at TUDelft for the topic, and outsiders from other universities are allowed (and can attend online).
-- what needs to be submitted is between your supervisors and you, speak to them. Usually, a *draft* of your thesis needs to be handed in. A draft means what your supervisors say it should be, there are no strict rules (but [this](https://3d.bk.tudelft.nl/courses/geo2020/faq/#what-is-a-complete-draft-at-p4) can help)
-- you need to upload the draft to the Brightspace Plagiarism Scan page. It's complex, so follow the [steps on this page](../plagiarism)
-- P4 is a go/nogo, thus what you submit is assessed.
-- [template P4](../templates/#p4p5) -->
+<i class="fa-solid fa-triangle-exclamation"></i> If you don't plan to do your A3 at the specified date, you must cancel your A3. Do it by sending an email to your 2 supervisors, the delegate, and to `afstuderen-bk@tudelft.nl`.
+
+1. Discuss with your supervisors to know what you need to submit. Usually, a **draft** of your thesis is expected. A draft means what your supervisors say it should be, there are no strict rules (but [this](https://3d.bk.tudelft.nl/courses/geo2020/faq/#what-is-a-complete-draft-at-p4) can help). If you want, you can use [this template](../templates/#thesis).
+2. Study progress thing in MyCase?
+3. At least one week before your A3, you must upload your submission as a deliverable in [MyCase](https://mycase.tudelft.nl) and to the [Brightspace Plagiarism Scan](https://brightspace.tudelft.nl/d2l/home/47493) page (P4 Final).
+4. Your supervisors and co-reader will read your submission. The first supervisor will check the Plagiarism Scan results. At the green light meeting, your supervisors will ask questions about it and decide if it's approved. The co-reader will send comments/questions to your first supervisor and might attend the meeting.
+5. Approved?
 
 
 ## A4 (Finalisation)
 
-<!-- - there is no forms to register for A4, your 1st supervisor does that for you at A3
-- [template A4](../templates/#p4p5)
-- [rubric for marking the final thesis](../rubric/)
-- [submit a rebuttal/corrections document with your thesis](https://3d.bk.tudelft.nl/courses/geo2020/tips/#with-the-p5-thesis-submit-a-rebuttalcorrections-document)
-- you must submit your final thesis to all members of the committee (chairperson + both supervisors + co-reader) one week before your P5; you should include the co-reader.
-- maximum 1 day after the P5, you have to upload your final thesis to the TU Delft repository, and please [follow these rules](https://3d.bk.tudelft.nl/courses/geo2020/faq/#how-to-upload-your-final-thesis-to-the-tud-repository) -->
-
+1. At least one week before your A4, you must upload your submission as a deliverable in [MyCase](https://mycase.tudelft.nl) and to the [Brightspace Plagiarism Scan](https://brightspace.tudelft.nl/d2l/home/47493) page (P5 Final). It's also a good practice to [send a rebuttal/corrections document](https://3d.bk.tudelft.nl/courses/geo2020/tips/#with-the-p5-thesis-submit-a-rebuttalcorrections-document) to your supervisors and co-reader.
+2. Your supervisors and co-reader will read your submission. The first supervisor will check the Plagiarism Scan results. At the finalisation meeting, your supervisors and co-reader will ask questions about it and decide your final mark according to the [rubric](../rubric/).
+3. What can happen? Cum laude?
+3. Maximum 1 day after the P5, you have to upload your final thesis to the TU Delft repository, and please [follow these rules](https://3d.bk.tudelft.nl/courses/geo2020/faq/#how-to-upload-your-final-thesis-to-the-tud-repository)

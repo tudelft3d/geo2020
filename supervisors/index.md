@@ -37,37 +37,38 @@ Read p.19 of the [Official Graduation Manual 2023-2024](../rules/GraduationManua
 
 ### A0 (Preparation)
 
-  - check that the supervisory team is the one that was agreed upon and approve it in the system
+
 
 ### A1 (Kick-off)
 
-  - both supervisors should read A1 proposal
-  - both supervisors must attend A1, and ask questions
-  - both supervisors jointly decide if it's a go or nogo
-  - 1st supervisor must put in the system the final result of A1 (continue/retake)
+- check that the supervisors are the ones that were agreed upon and approve it in the system
+- both supervisors should read A1 proposal
+- both supervisors must attend A1, and ask questions
+- both supervisors jointly decide if it's a go or nogo
+- 1st supervisor must put in the system the final result of A1 (continue/retake)
 
 ### A2 (Midterm)
 
-  - between A1 and A3, there should one meeting to discuss the progress of the student
-  - feedback must be given, with tips to improve
-  - after the student has uploaded a document in MyCase (eg thesis as it stands or the slides used for a A2 presentation), the 1st supervisor must mark the A2 as done in the system by selecting Continue to Green Light phase.
+- between A1 and A3, there should one meeting to discuss the progress of the student
+- feedback must be given, with tips to improve
+- after the student has uploaded a document in MyCase (eg thesis as it stands or the slides used for a A2 presentation), the 1st supervisor must mark the A2 as done in the system by selecting Continue to Green Light phase.
 
 ### A3 (Green light)
 
-  - before A3 a co-reader must be chosen
-  - the co-reader must skim/read the draft version and submit comments and potential questions to the 1st supervisor. The co-reader doesn't need to attend A3.
-  - both supervisors must read carefully the draft and ensure that the student has a chance to pass. You're wasting everyone's time if you know you'll give a nogo and still have the A3.
-  - you have to assess if the work is original, and thus you need to go to the [Brightspace Plagiarism Scan thingy](https://brightspace.tudelft.nl/d2l/home/47493) and check the report. ([Full details here](../rules/Nieuw_Teacher_mail_V4.docx)).
-  - both supervisors must attend A3
-  - 1st supervisor must put in the system the result of A3
+- before A3 a co-reader must be chosen
+- the co-reader must skim/read the draft version and submit comments and potential questions to the 1st supervisor. The co-reader doesn't need to attend A3.
+- both supervisors must read carefully the draft and ensure that the student has a chance to pass. You're wasting everyone's time if you know you'll give a nogo and still have the A3.
+- you have to assess if the work is original, and thus you need to go to the [Brightspace Plagiarism Scan thingy](https://brightspace.tudelft.nl/d2l/lms/dropbox/admin/mark/folder_submissions_users.d2l?db=148114&ou=47493) and check the report. ([Full details here](../rules/Nieuw_Teacher_mail_V4.docx)).
+- both supervisors must attend A3
+- 1st supervisor must put in the system the result of A3
 
 ### A4 (Finalisation)
-  
-  - you have to assess if the work is original, and thus you need to go to the [Brightspace Plagiarism Scan thingy](https://brightspace.tudelft.nl/d2l/home/47493) and check the report. ([Full details here](../rules/Nieuw_Teacher_mail_V4.docx)).
-  - both supervisors must attend A4, and the co-reader, and ask questions
-  - grade the student with [the rubric](../rubric/)
-  - make a speech in front of family and friends
-  - smile a lot while doing this
-  - 1st supervisor must put the final grade in the system
+
+- you have to assess if the work is original, and thus you need to go to the [Brightspace Plagiarism Scan thingy](https://brightspace.tudelft.nl/d2l/lms/dropbox/admin/mark/folder_submissions_users.d2l?db=148117&ou=47493) and check the report. ([Full details here](../rules/Nieuw_Teacher_mail_V4.docx)).
+- both supervisors must attend A4, and the co-reader, and ask questions
+- grade the student with [the rubric](../rubric/)
+- make a speech in front of family and friends
+- smile a lot while doing this
+- 1st supervisor must put the final grade in the system
 
 

@@ -15,11 +15,11 @@ permalink: /templates/
 - - -
 
 
-<section id="p2">
+<section id="proposal">
 </section>
-## P2 template
+## Proposal template
 
-The document for P2 is a research proposal that must contain all the elements listed in the template available in the [graduation manual]({{ "/rules/" | prepend: site.baseurl }}) (Appendix 2).
+The document for A1 is a project proposal that must contain all the elements listed in the template available in the [graduation manual]({{ "/rules/" | prepend: site.baseurl }}) (Appendix 2).
 
 *Ignore* any other template you might get from the central BK system if different, they send these emails without realising that Geomatics doesn't have the same criteria.
 
@@ -42,12 +42,9 @@ It contains:
   - since specific data and tools have to be used, it's good to present these concretely, so that the mentors know that you have a grasp of all aspects of the project;
   - the references.
 
-<!-- For the system, you need to write a *short version* (1-2 sentences per point) so that these details can be uploaded and be accessible by the chair person of your P2/P4/P5. -->
-<!-- Do not upload the full project plan, this one is only for your mentors. -->
-
-<section id="p4p5">
+<section id="thesis">
 </section>
-## P4/P5 template
+## Thesis template
 
 Officially, there is no template.
 However, we have made a [LaTeX template](https://github.com/tudelft3d/msc_geomatics_thesis_template) containing all the parts that are required (eg title page, copyright, abstract, acknowledgements, table of contents, list of figures, appendices, etc.) and is structured in such a way that most/all supervisors expect.
