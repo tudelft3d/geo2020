@@ -2,6 +2,7 @@
 layout: page
 title: "Info about the As"
 color: danger-60
+logo: fa-a
 permalink: /rules/
 ---
 

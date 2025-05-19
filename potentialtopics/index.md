@@ -2,6 +2,7 @@
 layout: page
 title: Potential topics
 color: link-60
+logo: fa-list
 permalink: /potentialtopics/
 ---
 

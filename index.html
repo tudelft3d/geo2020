@@ -7,14 +7,25 @@ title: GEO2021--MSc Geomatics
   <div class="fixed-grid has-3-cols has-2-cols-mobile">
     <div class="grid has-text-centered">
 
+      <div class="cell is-col-span-2 is-hidden-tablet">
+        <span class="has-text-primary is-size-1">GEO2021</span><br />
+        <span class="has-text-info is-size-3">MSc Geomatics</span>
+      </div>
+
       <div class="cell is-hidden-mobile">
         <span class="has-text-primary is-size-1">GEO2021</span><br />
         <span class="has-text-info is-size-3">MSc Geomatics</span>
       </div>
 
-      <div class="cell is-col-span-2 is-hidden-tablet">
-        <span class="has-text-primary is-size-1">GEO2021</span><br />
-        <span class="has-text-info is-size-3">MSc Geomatics</span>
+      <div class="cell is-col-span-2 is-row-span-2 notification box is-light has-text-left">
+        <div class="content">
+          <p class="title"><i class="fas fa-rss"></i> Latest news</p>
+          {% for post in site.posts limit:5 %}
+          <p><b>{{ post.date | date_to_string }}:</b> <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></p>
+          {% endfor %}
+          <br>
+          <p><a href="{{ '/news' | prepend: site.baseurl}}"><i class="fas fa-chevron-circle-right"></i> longer list of news</a></p>
+        </div>
       </div>
 
       <div class="cell notification box has-background-danger-60 has-text-danger-60-invert">
@@ -24,6 +35,15 @@ title: GEO2021--MSc Geomatics
           </span>
         </a>
         <p class="subtitle">Info about the As</p>
+      </div>
+
+      <div class="cell notification box has-background-warning-60 has-text-warning-60-invert">
+        <a href="{{ '/templates' | prepend: site.baseurl}}"> 
+          <span class="is-size-1">
+            <i class="fa-solid fa-pen-ruler"></i>
+          </span>
+        </a>
+        <p class="subtitle">Templates for deliverables</p>
       </div>
 
       <div class="cell notification box has-background-info-60 has-text-info-60-invert">
@@ -44,13 +64,13 @@ title: GEO2021--MSc Geomatics
         <p class="subtitle">Example theses</p>
       </div>
 
-      <div class="cell notification box has-background-warning-60 has-text-warning-60-invert">
-        <a href="{{ '/templates' | prepend: site.baseurl}}"> 
+      <div class="cell notification box has-background-success-60 has-text-success-60-invert">
+        <a href="{{ '/company' | prepend: site.baseurl}}"> 
           <span class="is-size-1">
-            <i class="fa-solid fa-pen-ruler"></i>
+            <i class="fa-solid fa-briefcase"></i>
           </span>
         </a>
-        <p class="subtitle">Templates for deliverables</p>
+        <p class="subtitle">Graduating with a company</p>
       </div>
 
       <div class="cell notification box has-background-primary-60 has-text-primary-60-invert">
@@ -71,15 +91,6 @@ title: GEO2021--MSc Geomatics
         <p class="subtitle">Potential topics</p>
       </div>
 
-      <div class="cell notification box has-background-success-60 has-text-success-60-invert">
-        <a href="{{ '/company' | prepend: site.baseurl}}"> 
-          <span class="is-size-1">
-            <i class="fa-solid fa-briefcase"></i>
-          </span>
-        </a>
-        <p class="subtitle">Graduating with a company</p>
-      </div>
-
       <div class="cell notification box has-background-info-60 has-text-info-60-invert">
         <a href="{{ '/supervisors' | prepend: site.baseurl}}"> 
           <span class="is-size-1">
@@ -87,17 +98,6 @@ title: GEO2021--MSc Geomatics
           </span>
         </a>
         <p class="subtitle">Stuff for supervisors</p>
-      </div>
-
-      <div class="cell is-col-span-2 is-row-span-2 notification box is-light has-text-left">
-        <div class="content">
-          <p class="title"><i class="fas fa-rss"></i> Latest news</p>
-          {% for post in site.posts limit:5 %}
-          <p><b>{{ post.date | date_to_string }}:</b> <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></p>
-          {% endfor %}
-          <br>
-          <p><a href="{{ '/news' | prepend: site.baseurl}}"><i class="fas fa-chevron-circle-right"></i> longer list of news</a></p>
-        </div>
       </div>
 
       <div class="cell notification box is-white">

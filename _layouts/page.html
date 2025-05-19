@@ -4,8 +4,11 @@ layout: default
 
 <section class="hero has-background-{{ page.color }}">
   <div class="hero-body">
-    <a href="{{ '/' | prepend: site.baseurl}}"><i class="fas fa-arrow-circle-left has-text-{{ page.color }}-invert"></i></a>
-    <p class="title has-text-{{ page.color }}-invert">{{ page.title }}</p>
+    <p class="title has-text-{{ page.color }}-invert">
+      <a href="{{ '/' | prepend: site.baseurl}}"><i class="fas fa-arrow-circle-left has-text-{{ page.color }}-invert"></i></a>
+      <span class="is-size-1"><i class="fa-solid {{ page.logo }}"></i></span>
+      {{ page.title }}
+    </p>
   </div>
 </section>
 

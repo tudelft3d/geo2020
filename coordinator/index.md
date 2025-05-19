@@ -2,6 +2,7 @@
 layout: page
 title: Coordinator
 color: primary-60
+logo: fa-at
 permalink: /coordinator/
 ---
 

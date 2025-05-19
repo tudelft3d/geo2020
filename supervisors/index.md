@@ -2,6 +2,7 @@
 layout: page
 title: Stuff for supervisors
 color: info-60
+logo: fa-person-chalkboard
 permalink: /supervisors/
 redirect_from:
   - /teachers/

@@ -2,6 +2,7 @@
 layout: page
 title: Frequently asked questions
 color: info-60
+logo: fa-question
 permalink: /faq/
 ---
 

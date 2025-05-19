@@ -2,6 +2,7 @@
 layout: page
 title: Graduation projects in collaboration with a company
 color: success-60
+logo: fa-briefcase
 permalink: /company/
 ---
 

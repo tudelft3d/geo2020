@@ -2,6 +2,7 @@
 layout: page
 title: Example theses
 color: dark
+logo: fa-book
 permalink: /exampletheses/
 ---
 
