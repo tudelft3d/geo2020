@@ -4,12 +4,17 @@ title: GEO2021--MSc Geomatics
 ---
 
 <section class="section">
-  <div class="fixed-grid has-3-cols">
+  <div class="fixed-grid has-3-cols has-2-cols-mobile">
     <div class="grid has-text-centered">
 
-      <div class="cell">
-        <span class="has-text-primary is-size-1 is-size-3-mobile">GEO2021</span><br />
-        <span class="has-text-info is-size-3 is-size-5-mobile">MSc Geomatics</span>
+      <div class="cell is-hidden-mobile">
+        <span class="has-text-primary is-size-1">GEO2021</span><br />
+        <span class="has-text-info is-size-3">MSc Geomatics</span>
+      </div>
+
+      <div class="cell is-col-span-2 is-hidden-tablet">
+        <span class="has-text-primary is-size-1">GEO2021</span><br />
+        <span class="has-text-info is-size-3">MSc Geomatics</span>
       </div>
 
       <div class="cell notification box has-background-danger-60 has-text-danger-60-invert">
@@ -113,7 +118,10 @@ title: GEO2021--MSc Geomatics
         <p class="subtitle">Graduation calendar 2024-2025</p>
       </div>
 
-      <div class="cell is-col-span-3 notification box has-background-primary-60 has-text-primary-60-invert">
+      <div class="cell is-col-span-3 notification box has-background-primary-60 has-text-primary-60-invert is-hidden-mobile">
+        <a href="{{ '/coordinator' | prepend: site.baseurl}}"> <i class="fas fa-at"></i> contact the coordinator</a>
+      </div>
+      <div class="cell is-col-span-2 notification box has-background-primary-60 has-text-primary-60-invert is-hidden-tablet">
         <a href="{{ '/coordinator' | prepend: site.baseurl}}"> <i class="fas fa-at"></i> contact the coordinator</a>
       </div>
     </div>
