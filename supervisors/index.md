@@ -23,8 +23,8 @@ redirect_from:
 - Set the graduation dates on SuperSaaS: [A1](https://www.supersaas.nl/schedule/OenS/Geomatics_P2), [A3](https://www.supersaas.nl/schedule/OenS/Geomatics_P4) and [A4](https://www.supersaas.nl/schedule/OenS/Geomatics_P5)
 - [Plagiarism Scan](https://brightspace.tudelft.nl/d2l/home/47493) 
 - [Rubric for marking](../rubric/)
-- [Change of supervisor form](https://d1rkab7tlqy5f1.cloudfront.net/Studentenportal/Faculteitspecifiek/Bouwkunde/Onderwijs/Formulieren/Change%20mentor%20team.pdf)
-- [Many useful forms related to the MSc (URLs change all the time...)](https://www.tudelft.nl/en/student/faculties/a-be-student-portal/education/forms/)
+<!-- - [Change of supervisor form](https://d1rkab7tlqy5f1.cloudfront.net/Studentenportal/Faculteitspecifiek/Bouwkunde/Onderwijs/Formulieren/Change%20mentor%20team.pdf) -->
+- [Many useful forms related to the MSc (URLs change all the time...)](https://www.tudelft.nl/en/student/a-be-student-portal/practical-affairs/forms)
 - [SharePoint](https://sharepoint.tudelft.nl/sites/BK/OS/graduationregistration/Lists/Polls/April%2020172018.aspx) (the old system)
 
 

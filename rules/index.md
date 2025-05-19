@@ -35,16 +35,16 @@ Note that you have to follow the rules of the academic year when you started you
 
 <!-- - Register your MSc graduation project in [MyCase](https://mycase.tudelft.nl), including supervisors, planned dates and a short project proposal -->
 
-1. Typeform?
-2. Scheduling of A1?
+1. Find a thesis topic and supervisors
+2. Typeform?
+3. Scheduling of A1?
 
 ## A1 (Kick-off)
 
-1. Find a thesis topic and supervisors
-2. Write a project proposal. If you want, you can use [this template](../templates/#proposal).
-3. At least one week before your A1, you must register your project in [MyCase](https://mycase.tudelft.nl), including uploading the proposal
-4. Your supervisors will read your proposal. At the kick-off meeting, your supervisors will ask you questions about it and decide if it's approved.
-5. Continue / retake? Register dates for A3 and A4 in SuperSaaS?
+1. Write a project proposal. If you want, you can use [this template](../templates/#proposal).
+2. At least one week before your A1, you must register your project in [MyCase](https://mycase.tudelft.nl), including uploading the proposal
+3. Your supervisors will read your proposal. At the kick-off meeting, your supervisors will ask you questions about it and decide if it's approved.
+4. Continue / retake? Register dates for A3 and A4 in SuperSaaS?
 
 ## A2 (Midterm)
 
@@ -60,8 +60,8 @@ Note that you have to follow the rules of the academic year when you started you
 1. Discuss with your supervisors to know what you need to submit. Usually, a **draft** of your thesis is expected. A draft means what your supervisors say it should be, there are no strict rules (but [this](https://3d.bk.tudelft.nl/courses/geo2020/faq/#what-is-a-complete-draft-at-p4) can help). If you want, you can use [this template](../templates/#thesis).
 2. Study progress thing in MyCase?
 3. At least one week before your A3, you must upload your submission as a deliverable in [MyCase](https://mycase.tudelft.nl) and to the [Brightspace Plagiarism Scan](https://brightspace.tudelft.nl/d2l/home/47493) page (P4 Final).
-4. Your supervisors and co-reader will read your submission. The first supervisor will check the Plagiarism Scan results. At the green light meeting, your supervisors will ask questions about it and decide if it's approved. The co-reader will send comments/questions to your first supervisor and might attend the meeting.
-5. Approved?
+4. Your supervisors and co-reader will read your submission. The first supervisor will check the Plagiarism Scan results. At the green light meeting, your supervisors will ask questions about it and decide if it's approved. The co-reader will send comments/questions to your first supervisor and might attend the meeting. 
+5. Approved? Grade decision?
 
 
 ## A4 (Finalisation)
@@ -69,4 +69,4 @@ Note that you have to follow the rules of the academic year when you started you
 1. At least one week before your A4, you must upload your submission as a deliverable in [MyCase](https://mycase.tudelft.nl) and to the [Brightspace Plagiarism Scan](https://brightspace.tudelft.nl/d2l/home/47493) page (P5 Final). It's also a good practice to [send a rebuttal/corrections document](https://3d.bk.tudelft.nl/courses/geo2020/tips/#with-the-p5-thesis-submit-a-rebuttalcorrections-document) to your supervisors and co-reader.
 2. Your supervisors and co-reader will read your submission. The first supervisor will check the Plagiarism Scan results. At the finalisation meeting, your supervisors and co-reader will ask questions about it and decide your final mark according to the [rubric](../rubric/).
 3. What can happen? Cum laude?
-3. Maximum 1 day after the P5, you have to upload your final thesis to the TU Delft repository, and please [follow these rules](https://3d.bk.tudelft.nl/courses/geo2020/faq/#how-to-upload-your-final-thesis-to-the-tud-repository)
+3. Maximum 1 day after the A4, you have to upload your final thesis to the TU Delft repository, and please [follow these rules](https://3d.bk.tudelft.nl/courses/geo2020/faq/#how-to-upload-your-final-thesis-to-the-tud-repository)
