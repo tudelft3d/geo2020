@@ -109,13 +109,10 @@ permalink: /potentialtopics/
 
 
 ## [Hugo Ledoux](https://3d.bk.tudelft.nl/hledoux/)
-1. [(Further) Developing a polyhedral mesher for CFD geometries](https://3d.bk.tudelft.nl/education/msctopics/#further-developing-a-polyhedral-mesher-for-cfd-geometries)
 1. [How can 3D alpha wrapping be best used to repair buildings?](https://3d.bk.tudelft.nl/education/msctopics/#how-can-3d-alpha-wrapping-be-best-used-to-repair-buildings)
-1. [Synthetic population distributions of housing units for modeling economic segregation](https://3d.bk.tudelft.nl/education/msctopics/#synthetic-population-distributions-of-housing-units-for-modeling-economic-segregation)
 1. [Estimating noise pollution with machine learning?](https://3d.bk.tudelft.nl/education/msctopics/#estimating-noise-pollution-with-machine-learning)
 1. [Modern metadata for CityJSON](https://3d.bk.tudelft.nl/education/msctopics/#modern-metadata-for-cityjson)
-<!-- 1. [Random City Engine](https://3d.bk.tudelft.nl/education/msctopics/#random-city-engine) -->
-
+1. [Water (level) detection with ICESat-2 measurements](https://3d.bk.tudelft.nl/education/msctopics/#water-level-detection-with-icesat-2-measurements)
 
 ## [Camilo León-Sánchez](https://3d.bk.tudelft.nl/cleon/)
 1. [Urban energy simulations linking CitySim with the 3DCityDB](https://github.com/tudelft3d/website/blob/main/education/msctopics/index.md#urban-energy-simulations-linking-citysim-with-the-3dcitydb)
