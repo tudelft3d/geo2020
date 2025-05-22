@@ -1,23 +1,22 @@
 ---
 layout: page
-title: Important dates
+title: Graduation calendars
+color: light
+logo: fa-calendar-days
 permalink: /dates/
 ---
 
-[BK academic graduation calendar 2024-2025](Jaarkalender_afstuderen_2024-2025.pdf) 
+Current:
+- [start in Q2](2025-2026 q2.pdf)
+- [start in Q4](2025-2026 q4.pdf)
+- [old system (Ps)](2025-2026 old.pdf)
 
-[BK academic graduation calendar 2023-2024](Jaarkalender_afstuderen_2023-2024.pdf) 
-
-[BK academic graduation calendar 2022-2023](Jaarkalender_afstuderen_2022-2023.pdf) 
-
-[BK academic graduation calendar 2021-2022](Jaarkalender_afstuderen_2021-2022.pdf) 
-
-[BK academic graduation calendar 2020-2021](Jaarkalender_afstuderen_2020-2021.pdf) 
-
-[BK academic graduation calendar 2019-2020](Jaarkalender_afstuderen_2019-2020.pdf) 
-
-
-<!-- (http://studenten.tudelft.nl/fileadmin/Files/studentenportal/os/BKspecifiek/Jaarkalender_2016-2017_def_afstuderen.pdf). -->
-
-
-
+Archive:
+- [2024-2025](2024-2025.pdf) 
+- [2023-2024](2023-2024.pdf) 
+- [2022-2023](2022-2023.pdf) 
+- [2021-2022](2021-2022.pdf) 
+- [2020-2021](2020-2021.pdf) 
+- [2019-2020](2019-2020.pdf) 
+- [2018-2019](2018-2019.pdf) 
+- [2017-2018](2017-2018.pdf) 

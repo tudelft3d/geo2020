@@ -28,9 +28,18 @@ redirect_from:
 - [Many useful forms related to the MSc (URLs change all the time...)](https://www.tudelft.nl/en/student/a-be-student-portal/practical-affairs/forms)
 - [SharePoint](https://sharepoint.tudelft.nl/sites/BK/OS/graduationregistration/Lists/Polls/April%2020172018.aspx) (the old system)
 
+## Graduation manuals
+
+- [Official Graduation Manual 2024-2025](../rules/GraduationManualGeomatics2024-2025.pdf)
+- [Official Graduation Manual 2023-2024](../rules/GraduationManualGeomatics2023-2024.pdf)
+- [Official Graduation Manual 2022-2023](../rules/GraduationManualGeomatics2022-2023.pdf)
+- [Official Graduation Manual 2021-2022](../rules/GraduationManualGeomatics2021-2022.pdf)
+- [Official Graduation Manual 2020-2021](../rules/GraduationManualGeomatics2020-2021.pdf)
+- [Official Graduation Manual 2019-2020](../rules/GraduationManualGeomatics2019-2020.pdf)
+
 
 ## What if I can't be there at one A?
-Read p.19 of the [Official Graduation Manual 2023-2024](../rules/GraduationManualGeomatics2023-2024.pdf).
+Read p.19 of the [Official Graduation Manual 2024-2025](../rules/GraduationManualGeomatics2024-2025.pdf).
 
 - - -
 

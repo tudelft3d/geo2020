@@ -37,7 +37,7 @@ Note that you have to follow the rules of the academic year when you started you
 <!-- - Register your MSc graduation project in [MyCase](https://mycase.tudelft.nl), including supervisors, planned dates and a short project proposal -->
 
 1. Find a thesis topic and supervisors
-2. Typeform?
+2. Typeform? Or just use MyCase?
 3. Scheduling of A1?
 
 ## A1 (Kick-off)

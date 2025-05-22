@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Theses starting each 6mo
+title: Theses started in
 color: white
 logo: fa-book
 permalink: /theses/
