@@ -39,7 +39,7 @@ redirect_from:
 
 
 ## What if I can't be there at one A?
-Read p.19 of the [Official Graduation Manual 2024-2025](../rules/GraduationManualGeomatics2024-2025.pdf).
+Read p.19 of the [Official Graduation Manual 2024-2025](../rules/GraduationManualGeomatics2024-2025.pdf) (or equivalent).
 
 - - -
 
@@ -47,15 +47,17 @@ Read p.19 of the [Official Graduation Manual 2024-2025](../rules/GraduationManua
 
 ### A0 (Preparation)
 
-
+- check that the supervisors are the ones that were agreed upon and approve it in MyCase
+- schedule the A1 date in SuperSaaS before the deadline
 
 ### A1 (Kick-off)
 
-- check that the supervisors are the ones that were agreed upon and approve it in the system
 - both supervisors should read A1 proposal
 - both supervisors must attend A1, and ask questions
-- both supervisors jointly decide if it's a go or nogo
-- 1st supervisor must put in the system the final result of A1 (continue/retake)
+- both supervisors jointly decide if it's a go (continue) or nogo (retake)
+- 1st supervisor must put in the system the final result of the A1
+- if it's a go, both supervisors, student and delegate should decide on A3 and A4 dates from the slots available in SuperSaaS and enter it in the system
+- if it's a no/go, the same but for a new A1 date in the next period
 
 ### A2 (Midterm)
 

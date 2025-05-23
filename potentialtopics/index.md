@@ -13,21 +13,19 @@ permalink: /potentialtopics/
   </div>
   <div class="message-body">
     <ul>
-      <li>You can pick a topic from June until September 15th the latest, where you need to have a topic and at least one supervisor selected</li>
+      <li>You can pick a topic from June until September 19th the latest, where you need to have a topic and at least one supervisor selected</li>
       <li>Be warned that if you wait for September, then it is possible that your topic is already gone and your favourite supervisor is full</li>
-      <li>A topic can be changed a bit until the P1 (mid-November)</li>
+      <li>A topic can be changed a bit until the A2 (mid-November)</li>
       <li>You can pick any topics below, or you can speak to a geomatics staff and if you agree on a topic, then submit it (with a temporary title)</li>
-      <li>If your topic is in collaboration with an external party, keep in mind that several staff follow the <a href="https://3d.bk.tudelft.nl/courses/geo2020/openscience/">requirements for open science</a></li>
-      <li>If you have agreed on a topic with a supervisor and they agree, no need to submit #2 and #3 topic, put blanks or just type *no further topics*</li>
+      <li>If your topic is in collaboration with an external party, keep in mind that several staff follow the <a href="../openscience/">requirements for open science</a></li>
+      <!-- <li>If you have agreed on a topic with a supervisor and they agree, no need to submit #2 and #3 topic, put blanks or just type *no further topics*</li> -->
       <li>Only the 1st supervisor is relevant at this point, the 2nd can be added later</li>
       <li>Questions? discord channel #geo2020 is the best place to ask</li>
     </ul>  
   </div>
 </article>
 
-<div class="columns is-mobile">
-<div data-tf-widget="OBWlIPIO" data-tf-opacity="100" data-tf-iframe-props="title=GEO2020 topic pick 2023" data-tf-transitive-search-params data-tf-medium="snippet" style="width:100%;height:500px;"></div><script src="//embed.typeform.com/next/embed.js"></script>
-</div>
+<div data-tf-live="01JVYR7EZE44W3YHFMM1DED3Y3"></div><script src="//embed.typeform.com/next/embed.js"></script>
 
 ---
 
