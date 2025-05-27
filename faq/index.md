@@ -18,13 +18,13 @@ permalink: /faq/
 
 - - -
 
-#### Which Graduation Manual apply to me?
+#### Which Graduation Manual applies to me?
 
 The [Graduation Manual]({{ "/rules/" | prepend: site.baseurl }}), and thus the rules, change almost every year.
 The differences are usually small, but some are significant (eg submitting a reflection, role of co-reader, etc).
 
-You have to follow the rules of the year you started your graducation work.
-Even if it takes you 2 years to complete, the rules that applied when you started are the rules that apply during your whole graduation process.
+You have to follow the rules of the year when you started your graducation work.
+Even if it takes you 2+ years to complete, the rules that applied when you started are the rules that apply during your whole graduation process.
 
 - - -
 
@@ -32,7 +32,7 @@ Even if it takes you 2 years to complete, the rules that applied when you starte
 
 Two options:
 
-  1. you like one MSc Geomatics staff and like her/his area of research? Contact directly that person to discuss a topic.
+  1. you like one MSc Geomatics staff and like their area of research? Contact directly that person to discuss a topic. The same applies if you already have your own ideas for what you want to do.
   2. have a look at the [potential topics]({{ "/potentialtopics/" | prepend: site.baseurl }}) offered and contact directly the person(s) listed.
 
 - - -
@@ -56,13 +56,12 @@ But we provide a [LaTeX one]({{ "/templates/" | prepend: site.baseurl }}) to hel
 
 #### How to upload your final thesis to the TUD repository
 
-You must upload your final thesis + presentation slides maximum 1 day after your P5.
+You must upload your final thesis + presentation slides maximum 1 day after your A4.
 This is important, if you forget you might not get your diploma!
 
 [=> Instructions to upload your thesis](https://repository.tudelft.nl/content/education-upload-tips)
 
 To ensure that all theses from the MSc Geomatics can be easily found and that there is consistency between them, please follow these guidelines:
-
 
 ![](img/uploadrepo.png){:width="400px"}
 
@@ -130,14 +129,14 @@ Geomatics is not in the list, but the average is clearly under 100, and in many 
 
 __You do not need to write a separate reflection__, this does not apply to the MSc Geomatics thesis, but to other programmes at BK.
 
-If you get (threatening) emails from the administration at BK asking for it: reply that it's not required for your study and CC the coordinator of the thesis (Hugo Ledoux).
+If you get (threatening) emails from the administration at BK asking for it: reply that it's not required for your study and CC the coordinator of the thesis (Ken Arroyo Ohori).
 
 
 - - -
 
 #### Can my thesis be written in Dutch?
 
-No, it must be in English. And your presentations (P1, P2, P3, P4 and P5) must also all be made in English.
+No, it must be in English. And your presentations (A1, A3 and A4) must also all be made in English.
 
 - - -
 
@@ -217,5 +216,5 @@ _7. Appendices_
 
 #### Withdrawing from A3
 
-- inform your supervisors, the coreader and the delegate examiner
-- send an email to the Board of Examiners (examencommissie-bk@tudelft.nl) stating your name and student number, and declare that you withdraw from A3.
+- inform your supervisors, the co-reader and the delegate
+- send an email to afstuderen-bk@tudelft.nl stating your name and student number, and declare that you withdraw from A3.

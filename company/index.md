@@ -30,7 +30,7 @@ In the [potential topics]({{ "/potentialtopics/" | prepend: site.baseurl }}) we 
 You can also propose yours if you have already contact.
 
 However, please do not contact directly companies that are not listed here, unless you already know someone there.
-The best way to graduate in collaboration with a company is to do it through a staff of Geomatics, she/he often has contacts with industry.
+The best way to graduate in collaboration with a company is to do it through a staff of Geomatics, they often have contacts with industry.
 Thus speak to a staff and ask if they have a good project with a company.
 
 [This document explains the rules and guidelines.](O&S_rules_guidelines_graduating_company.pdf)

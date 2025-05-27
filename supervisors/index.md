@@ -24,11 +24,13 @@ redirect_from:
 - Set the graduation dates on SuperSaaS: [A1](https://www.supersaas.nl/schedule/OenS/Geomatics_P2), [A3](https://www.supersaas.nl/schedule/OenS/Geomatics_P4) and [A4](https://www.supersaas.nl/schedule/OenS/Geomatics_P5)
 - [Plagiarism Scan](https://brightspace.tudelft.nl/d2l/home/47493) 
 - [Rubric for marking](../rubric/)
-<!-- - [Change of supervisor form](https://d1rkab7tlqy5f1.cloudfront.net/Studentenportal/Faculteitspecifiek/Bouwkunde/Onderwijs/Formulieren/Change%20mentor%20team.pdf) -->
+- [MyTimetable](https://mytimetable.tudelft.nl/schedule) to check scheduled A1s, A3s and A4s. Add timetable > Student group > BK-Graduation.
 - [Many useful forms related to the MSc (URLs change all the time...)](https://www.tudelft.nl/en/student/a-be-student-portal/practical-affairs/forms)
-- [SharePoint](https://sharepoint.tudelft.nl/sites/BK/OS/graduationregistration/Lists/Polls/April%2020172018.aspx) (the old system)
+- [SharePoint](https://sharepoint.tudelft.nl/sites/BK/OS/graduationregistration/Lists/Polls/April%2020172018.aspx) (for students who started their thesis before the 2025-2026 academic year).
 
 ## Graduation manuals
+
+<i class="fa-solid fa-triangle-exclamation"></i> You need to use the manual of the academic year when the student started their thesis.
 
 - [Official Graduation Manual 2024-2025](../rules/GraduationManualGeomatics2024-2025.pdf)
 - [Official Graduation Manual 2023-2024](../rules/GraduationManualGeomatics2023-2024.pdf)
@@ -39,7 +41,7 @@ redirect_from:
 
 
 ## What if I can't be there at one A?
-Read p.19 of the [Official Graduation Manual 2024-2025](../rules/GraduationManualGeomatics2024-2025.pdf) (or equivalent).
+Read p.19 of the [Official Graduation Manual 2024-2025](../rules/GraduationManualGeomatics2024-2025.pdf) (or equivalent for other years).
 
 - - -
 
@@ -47,40 +49,40 @@ Read p.19 of the [Official Graduation Manual 2024-2025](../rules/GraduationManua
 
 ### A0 (Preparation)
 
-- check that the supervisors are the ones that were agreed upon and approve it in MyCase
-- schedule the A1 date in SuperSaaS before the deadline
+- Schedule the A1 date in SuperSaaS before the [registration deadline](../dates/).
 
 ### A1 (Kick-off)
 
-- both supervisors should read A1 proposal
-- both supervisors must attend A1, and ask questions
-- both supervisors jointly decide if it's a go (continue) or nogo (retake)
-- 1st supervisor must put in the system the final result of the A1
-- if it's a go, both supervisors, student and delegate should decide on A3 and A4 dates from the slots available in SuperSaaS and enter it in the system
-- if it's a no/go, the same but for a new A1 date in the next period
+- Check that the supervisors are the ones that were agreed upon and approve it in MyCase.
+- Both supervisors should read the proposal.
+- Both supervisors must attend the A1 meeting and ask questions.
+- Both supervisors jointly decide if it's a go (continue to Midterm) or no-go (retake).
+- The 1st supervisor must put in the system the final result of the A1.
+  - If it's a go (continue to Midterm), both supervisors, student and delegate should decide on A3 and A4 dates from the slots available in SuperSaaS and enter it in the system.
+  - If it's a no/go (retake), the same but for a new A1 date in the next period.
 
 ### A2 (Midterm)
 
-- between A1 and A3, there should one meeting to discuss the progress of the student
-- feedback must be given, with tips to improve
-- after the student has uploaded a document in MyCase (eg thesis as it stands or the slides used for a A2 presentation), the 1st supervisor must mark the A2 as done in the system by selecting Continue to Green Light phase.
+- Between A1 and A3, there should one meeting with both supervisors to discuss the progress of the student.
+- Feedback must be given with tips to improve.
+- After the student has uploaded a document in MyCase (eg thesis as it stands or the slides used for a A2 presentation), the 1st supervisor must mark the A2 as done in the system by selecting Continue to Green Light phase. <i class="fa-solid fa-triangle-exclamation"></i> If this is not done, BK admin won't schedule the A3. If you feel the work is not sufficient for the midterm yet, you can select the Continue in Midterm option, but this also means that the A3 meeting won't be scheduled.
+- Together with the student choose a co-reader.
 
 ### A3 (Green light)
 
-- before A3 a co-reader must be chosen
-- the co-reader must skim/read the draft version and submit comments and potential questions to the 1st supervisor. The co-reader doesn't need to attend A3.
-- both supervisors must read carefully the draft and ensure that the student has a chance to pass. You're wasting everyone's time if you know you'll give a nogo and still have the A3.
-- you have to assess if the work is original, and thus you need to go to the [Brightspace Plagiarism Scan thingy](https://brightspace.tudelft.nl/d2l/lms/dropbox/admin/mark/folder_submissions_users.d2l?db=148114&ou=47493) and check the report. ([Full details here](../rules/Nieuw_Teacher_mail_V4.docx)).
-- both supervisors must attend A3
-- 1st supervisor must put in the system the result of A3
+- Both supervisors must read carefully the thesis draft and ensure that the student has a chance to pass. You're wasting everyone's time if you know you'll give a no-go and still have the A3.
+- The 1st supervisor has to assess if the work is original, and thus you need to go to the [Brightspace Plagiarism Scan](https://brightspace.tudelft.nl/d2l/lms/dropbox/admin/mark/folder_submissions_users.d2l?db=148114&ou=47493) and check the report.
+- The co-reader must skim/read the draft version and submit comments and potential questions to the 1st supervisor. The co-reader doesn't need to attend the A3 meeting.
+ and check the report.
+- Both supervisors must attend the A3 meeting and ask questions.
+  - If it's a go (continue to Finalisation), both supervisors should also decide the preliminary mark of the student. Note that the final mark at the A4 might only be within 0.5 points of the preliminary one. The 1st supervisor must put in the system the result of the A3.
+  - If it's a go (continue to Finalisation), both supervisors, student and delegate should decide on new A3 and A4 dates from the slots available in SuperSaaS and enter them in the system.
 
 ### A4 (Finalisation)
 
-- you have to assess if the work is original, and thus you need to go to the [Brightspace Plagiarism Scan thingy](https://brightspace.tudelft.nl/d2l/lms/dropbox/admin/mark/folder_submissions_users.d2l?db=148117&ou=47493) and check the report. ([Full details here](../rules/Nieuw_Teacher_mail_V4.docx)).
-- both supervisors must attend A4, and the co-reader, and ask questions
-- grade the student with [the rubric](../rubric/)
-- make a speech in front of family and friends
-- smile a lot while doing this
-- 1st supervisor must put the final grade in the system
-
-
+- Both supervisors and the co-reader must read carefully the thesis.
+- The 1st supervisor has to assess if the work is original, and thus you need to go to the [Brightspace Plagiarism Scan](https://brightspace.tudelft.nl/d2l/lms/dropbox/admin/mark/folder_submissions_users.d2l?db=148114&ou=47493) and check the report.
+- Both supervisors and the co-reader must attend the A4 meeting and ask questions.
+- Both supervisors and the co-reader grade the student with [the rubric](../rubric/).
+- The 1st supervisor makes a speech in front of family and friends. Smile a lot while doing this.
+- The 1st supervisor must put the final grade in the system.
