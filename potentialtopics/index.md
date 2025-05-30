@@ -13,13 +13,14 @@ permalink: /potentialtopics/
   </div>
   <div class="message-body">
     <ul>
-      <li>You can pick a topic from June until September 19th the latest, where you need to have a topic and at least one supervisor selected</li>
-      <li>Be warned that if you wait for September, then it is possible that your topic is already gone and your favourite supervisor is full</li>
+      <li>You can submit a topic from June until September 19th the latest, where you need to have a topic and at least one supervisor selected</li>
+      <li>Be warned that if you wait until September, then it is possible that your topic is already gone and your favourite supervisor is full</li>
       <li>A topic can be changed a bit until the A1 registration date (mid-November)</li>
-      <li>You can pick any topics below, or you can speak to a geomatics staff and if you agree on a topic, then submit it (with a temporary title)</li>
+      <li>Some recommended topics are below. Click on the links for more info, which will take you to the different pages in the websites of the groups involved in Geomatics education.</li>
+      <li>You can directly choose one of the topics below, or you can speak to a geomatics staff and agree on a custom topic, then submit it (with a temporary title)</li>
       <li>If your topic is in collaboration with an external party, keep in mind that several staff follow the <a href="../openscience/">requirements for open science</a></li>
       <li>Only the 1st supervisor is relevant at this point, the 2nd can be added later</li>
-      <li>Questions? discord channel #geo2020 is the best place to ask</li>
+      <li>Questions? you can ask in the Discord channel <a href="https://discord.gg/3nr9N4BE">#geo2021</a> or <a href="https://geomatics.bk.tudelft.nl/geo2021/coordinator/">contact the thesis coordinator</a></li>
     </ul>  
   </div>
 </article>
