@@ -3,7 +3,7 @@ name: jekyll build
 on: 
   push:
     branches: 
-    - main
+    - geo2020
 
 jobs:
   build:
