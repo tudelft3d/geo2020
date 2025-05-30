@@ -30,13 +30,15 @@ permalink: /potentialtopics/
 ---
 
 ## [Giorgio Agugiaro](https://3d.bk.tudelft.nl/gagugiaro/)
- 1. [...Too cool to be true? Cooling demand based on the (enriched) semantic 3D city model of Rotterdam](https://3d.bk.tudelft.nl/education/msctopics/#too-cool-to-be-true-cooling-demand-based-on-the-enriched-semantic-3d-city-model-of-rotterdam)
- 2. [Development of the client-side 3DCityDB-Tools plugin for QGIS to support CityGML 3.0 data via the new 3DCityDB v. 5](https://3d.bk.tudelft.nl/education/msctopics/#development-of-the-client-side-part-of-the-3dcitydb-tools-plugin-for-qgis-to-support-citygml-30-data)
- 3. [Adding support for CitySim to the 3DCityDB-Tools plugin for QGIS](https://3d.bk.tudelft.nl/education/msctopics/#adding-support-for-citysim-to-the-3dcitydb-tools-plugin-for-qgis)
+1. [...Too cool to be true? Cooling demand based on the (enriched) semantic 3D city model of Rotterdam](https://3d.bk.tudelft.nl/education/msctopics/#too-cool-to-be-true-cooling-demand-based-on-the-enriched-semantic-3d-city-model-of-rotterdam)
+2. [Development of the client-side 3DCityDB-Tools plugin for QGIS to support CityGML 3.0 data via the new 3DCityDB v. 5](https://3d.bk.tudelft.nl/education/msctopics/#development-of-the-client-side-part-of-the-3dcitydb-tools-plugin-for-qgis-to-support-citygml-30-data)
+3. [Adding support for CitySim to the 3DCityDB-Tools plugin for QGIS](https://3d.bk.tudelft.nl/education/msctopics/#adding-support-for-citysim-to-the-3dcitydb-tools-plugin-for-qgis)
+4. [IFC in PostgreSQL/PostGIS](https://3d.bk.tudelft.nl/education/msctopics/#ifc-in-postgresqlpostgis)
 
 ## [Ken Arroyo Ohori](https://3d.bk.tudelft.nl/ken/)
 1. [Creation of planar partitions from mismatched datasets](https://3d.bk.tudelft.nl/education/msctopics/#creation-of-planar-partitions-from-mismatched-datasets)
-1. [Different heuristics for CGAL polygon repair](https://3d.bk.tudelft.nl/education/msctopics/#different-heuristics-for-cgal-polygon-repair)
+2. [Different heuristics for CGAL polygon repair](https://3d.bk.tudelft.nl/education/msctopics/#different-heuristics-for-cgal-polygon-repair)
+3. [IFC in PostgreSQL/PostGIS](https://3d.bk.tudelft.nl/education/msctopics/#ifc-in-postgresqlpostgis)
 
 ## [Jesús Balado Frías](https://www.gdmc.nl/staff/)
 1. [From low quality point clouds to high quality BIM](https://www.gdmc.nl/education/topics/topics.html#from-low-quality-point-clouds-to-high-quality-bim)
