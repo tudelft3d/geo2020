@@ -15,7 +15,7 @@ jobs:
       run: sudo apt install ruby-full
     - name: Install dependencies
       run: |
-        sudo gem install jekyll parslet htmlentities jekyll-redirect-from
+        sudo gem install jekyll jekyll-redirect-from
     - uses: actions/checkout@v1
     - name: jekyll build
       run: |
