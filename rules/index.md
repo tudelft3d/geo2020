@@ -30,7 +30,7 @@ Even if it takes you 2 years to complete, the rules that applied when you starte
 
 ## P1
 
-<div data-tf-live="01JRAE19NS8QBE1VGW9C8GXWNS"></div><script src="//embed.typeform.com/next/embed.js"></script>
+<!-- <div data-tf-live="01JRAE19NS8QBE1VGW9C8GXWNS"></div><script src="//embed.typeform.com/next/embed.js"></script> -->
 
 ## P2
 

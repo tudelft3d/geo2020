@@ -23,9 +23,9 @@ permalink: /potentialtopics/
   </div>
 </article>
 
-<div class="columns is-mobile">
+<!-- <div class="columns is-mobile">
 <div data-tf-widget="OBWlIPIO" data-tf-opacity="100" data-tf-iframe-props="title=GEO2020 topic pick 2023" data-tf-transitive-search-params data-tf-medium="snippet" style="width:100%;height:500px;"></div><script src="//embed.typeform.com/next/embed.js"></script>
-</div>
+</div> -->
 
 ---
 
