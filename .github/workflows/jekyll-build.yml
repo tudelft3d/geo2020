@@ -3,7 +3,7 @@ name: jekyll build
 on: 
   push:
     branches: 
-    - geo2020
+    - main
 
 jobs:
   build:
@@ -21,4 +21,4 @@ jobs:
       run: |
         jekyll build --trace
     - name: trigger update
-      run: curl -L ${{ secrets.UPDATE_URL }}
+      run: curl -L ${{ secrets.NEW_UPDATE_URL }}
