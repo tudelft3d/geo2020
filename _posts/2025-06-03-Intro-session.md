@@ -13,3 +13,7 @@ I hope to see you all there! =)
 
 
 Clara
+
+- - -
+
+The slides from the intro session are available [here](https://geomatics.bk.tudelft.nl/geo2021/introsession/geo2021_intro_2025-06.pdf).
