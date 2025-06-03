@@ -54,7 +54,7 @@ Note that you have to follow the rules of the academic year when you started you
 
 ## A3 (Green light)
 
-<i class="fa-solid fa-triangle-exclamation"></i> If you don't plan to do your A3 at the specified date, you must cancel your A3. Do it by sending an email to your 2 supervisors, the delegate, and to `afstuderen-bk@tudelft.nl`.
+<i class="fa-solid fa-triangle-exclamation"></i> If you don't plan to do your A3 at the specified date, you must cancel your A3. Do it by sending an email to your 2 supervisors, the co-reader, the delegate, and to `afstuderen-bk@tudelft.nl`.
 
 1. Discuss with your supervisors to know what you need to submit. Usually, a **draft** of your thesis is expected. A draft means what your supervisors say it should be, there are no strict rules (but [this](../faq/#what-is-a-complete-draft-at-p4) can help). If you want, you can use [this template](../templates/#thesis).
 2. At least one week before your A3, you must register that you have completed the required parts of your study and upload your submission as a deliverable in [MyCase](https://mycase.tudelft.nl) and to the [Brightspace Plagiarism Scan](https://brightspace.tudelft.nl/d2l/home/47493) page (P4 Final).
