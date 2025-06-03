@@ -11,5 +11,8 @@ I will also give some information about the new graduation system we will need t
 
 I hope to see you all there! =)
 
-
 Clara
+
+- - -
+
+The slides from the intro session are available <a href="{{ '/introsession/geo2021_intro_2025-06.pdf' | prepend: site.baseurl}}">here</a>.

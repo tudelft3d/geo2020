@@ -1,6 +1,8 @@
 ---
 layout: page
 title: News
+color: light
+logo: fa-newspaper
 permalink: /news/
 ---
 
