@@ -2,13 +2,16 @@
 layout: default
 ---
 
-<section class="hero is-link">
+<section class="hero has-background-light">
   <div class="hero-body">
-    <div class="container">
-      <a href="{{ '/news' | prepend: site.baseurl}}"><i class="fas fa-arrow-circle-left"></i></a>
-      <h2 class="title">{{page.title}}</h2>
-      <h3 class="subtitle">{{ page.date | date: "%b %-d, %Y" }} {% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</h3>
-    </div>
+    <p class="title has-text-light-invert">
+      <a href="{{ '/news' | prepend: site.baseurl}}"><i class="fas fa-arrow-circle-left has-text-light-invert"></i></a>
+      <span class="is-size-1"><i class="fa-solid fa-newspaper"></i></span>
+      {{page.title}}
+    </p>
+    <p class="subtitle has-text-light-invert">
+      {{ page.date | date: "%b %-d, %Y" }} {% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}
+    </p>
   </div>
 </section>
 
