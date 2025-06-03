@@ -9,7 +9,7 @@ permalink: /news/
 <h2>Subscribe to receive the news</h2>
 <div id="mc_embed_shell">
 	<div id="mc_embed_signup">
-	    <form action="https://tudelft.us12.list-manage.com/subscribe/post?u=e232253e1c3c3152374abfdd1&amp;id=53540258a3&amp;f_id=004e8fe0f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_self" novalidate="">
+	    <form action="https://tudelft.us12.list-manage.com/subscribe/post?u=e232253e1c3c3152374abfdd1&amp;id=53540258a3&amp;f_id=004d8fe0f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_self" novalidate="">
 	    	<p>By e-mail:</p>
 	    	<p class="control has-icons-left">
 	    		<input class="input" type="email" name="EMAIL" id="mce-EMAIL" placeholder="Email" />
