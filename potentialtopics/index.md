@@ -61,8 +61,9 @@ permalink: /potentialtopics/
 
 ## [Clara García-Sánchez](https://3d.bk.tudelft.nl/gsclara/)
 1. [Optimizing building mesh designs for computational fluid dynamics using machine learning.](https://3d.bk.tudelft.nl/education/msctopics/#optimizing-building-mesh-designs-for-computational-fluid-dynamics-using-machine-learning)
-2. [To mesh or not to mesh: immersed boundary methods and porosity in OpenFOAM](https://3d.bk.tudelft.nl/education/msctopics/#to-mesh-or-not-to-mesh-immersed-boundary-methods-and-porosity-in-openfoam) 
-3. [The effects of building model automatic reconstruction methods for CFD simulations](https://3d.bk.tudelft.nl/education/msctopics/#the-effects-of-building-model-automatic-reconstruction-methods-for-cfd-simulations)
+2. [To mesh or not to mesh: immersed boundary methods and porosity in OpenFOAM](https://3d.bk.tudelft.nl/education/msctopics/#to-mesh-or-not-to-mesh-immersed-boundary-methods-and-porosity-in-openfoam)
+3. [Using urban morphology to optimize biking and running routes in cities?](https://3d.bk.tudelft.nl/education/msctopics/#Using-urban-morphology-to-optimize-biking-and-running-routes-in-cities?)
+4. [The effects of building model automatic reconstruction methods for CFD simulations](https://3d.bk.tudelft.nl/education/msctopics/#the-effects-of-building-model-automatic-reconstruction-methods-for-cfd-simulations)
 5. [Developing an open-source GIS pipeline tailored for FastEddy](https://3d.bk.tudelft.nl/education/msctopics/#developing-an-open-source-gis-pipeline-tailored-for-fasteddy)
 6. [Citizen Voices in Climate Action: Developing digital platforms for citizen engagement in climate planning and design](https://3d.bk.tudelft.nl/education/msctopics/#citizen-voices-in-climate-action-developing-digital-platforms-for-citizen-engagement-in-climate-planning-and-design)
 7. [Revealing energy inequalities in The Netherlands](https://3d.bk.tudelft.nl/education/msctopics/#revealing-energy-inequalities-in-the-netherlands)
