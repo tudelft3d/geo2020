@@ -47,6 +47,8 @@ permalink: /potentialtopics/
 1. [Design and improvement of self-adaptive 3D structuring elements for mathematical morphology in point clouds](https://www.gdmc.nl/education/topics/topics.html#Design_and_improvement_of_self_45adaptive_3D_structuring_elements_for_mathematical_morphology_in_point_clouds)
 3. [Integration of point clouds in CityGML standard for obtaining a continuous Level of Detail](https://www.gdmc.nl/education/topics/topics.html#Integration_of_point_clouds_in_CityGML_standard_for_obtaining_a_continuous_Level_of_Detail)
 
+## [Daniele Cannatella](https://3d.bk.tudelft.nl/dcannatella/)
+1. [Developing an open-source Multifunctional Green Infrastructure Planning Support System](https://3d.bk.tudelft.nl/education/msctopics/#designing-a-nature-based-solutions-planning-support-system)
 
 ## [Nima Forouzandeh](https://www.tudelft.nl/staff/n.forouzandeh/)
 1. [Automatic reconstruction of window boundaries for efficient daylight simulation](https://3d.bk.tudelft.nl/education/msctopics/#automatic-reconstruction-of-window-boundaries-for-efficient-daylight-simulation)
