@@ -54,10 +54,8 @@ permalink: /potentialtopics/
 1. [Automatic reconstruction of window boundaries for efficient daylight simulation](https://3d.bk.tudelft.nl/education/msctopics/#automatic-reconstruction-of-window-boundaries-for-efficient-daylight-simulation)
 
 ## [Weixiao Gao](https://3d.bk.tudelft.nl/weixiao/)
- 1. [Building point cloud completion](https://3d.bk.tudelft.nl/education/msctopics/#building-point-cloud-completion)
- 2. [Urban mesh segmentation](https://3d.bk.tudelft.nl/education/msctopics/#urban-mesh-segmentation)
- 3. [Spatial intelligence for applications in semantic 3D city models](https://3d.bk.tudelft.nl/education/msctopics/#spatial-intelligence-for-applications-in-semantic-3d-city-models)
- 4. [3D reconstruction for urban objects](https://3d.bk.tudelft.nl/education/msctopics/#3d-reconstruction-for-urban-objects)
+ 1. [Urban Mesh Segmentation](https://3d.bk.tudelft.nl/education/msctopics/#urban-mesh-segmentation)
+ 2. [3D Reconstruction for Man-Made Urban Linear Objects](https://3d.bk.tudelft.nl/education/msctopics/#3d-reconstruction-for-man-made-urban-linear-objects)
 
 ## [Clara García-Sánchez](https://3d.bk.tudelft.nl/gsclara/)
 1. [Optimizing building mesh designs for computational fluid dynamics using machine learning.](https://3d.bk.tudelft.nl/education/msctopics/#optimizing-building-mesh-designs-for-computational-fluid-dynamics-using-machine-learning)
