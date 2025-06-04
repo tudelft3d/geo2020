@@ -48,15 +48,8 @@ permalink: /potentialtopics/
 3. [Integration of point clouds in CityGML standard for obtaining a continuous Level of Detail](https://www.gdmc.nl/education/topics/topics.html#Integration_of_point_clouds_in_CityGML_standard_for_obtaining_a_continuous_Level_of_Detail)
 
 
-## [Stefano Calzati](https://kcopendata.eu/about-the-kcod/team/)
-1. [Geodata governance design](https://kcopendata.eu/education/thesis-topics/#geodata)
-2. [Ethical/political issues behind smart urban eenvironments (and digital twinning)](https://kcopendata.eu/education/thesis-topics/#ethical)
-3. [The beauty of coding and programmers as activists](https://kcopendata.eu/education/thesis-topics/#beauty)
-
-
-## [Nima Forouzandeh]([https://www.tudelft.nl/en/staff/f.m.welledonker/](https://www.tudelft.nl/staff/n.forouzandeh/?cHash=0eff827e919ebe7ba656d3542c3dcc42))
+## [Nima Forouzandeh](https://www.tudelft.nl/staff/n.forouzandeh/)
 1. [Automatic reconstruction of window boundaries for efficient daylight simulation](https://3d.bk.tudelft.nl/education/msctopics/#automatic-reconstruction-of-window-boundaries-for-efficient-daylight-simulation)
-1. [(Semi-)automatic modeling of indoor building 3D models for daylight simulation with Lidar enabled mobile devices](https://3d.bk.tudelft.nl/education/msctopics/#semi-automatic-modeling-of-indoor-building-3d-models-for-daylight-simulation-with-lidar-enabled-mobile-devices)
 
 ## [Weixiao Gao](https://3d.bk.tudelft.nl/weixiao/)
  1. [Building point cloud completion](https://3d.bk.tudelft.nl/education/msctopics/#building-point-cloud-completion)
@@ -136,11 +129,6 @@ permalink: /potentialtopics/
 2. [BuildingBlocks: Enhancing 3D urban understanding and reconstruction with a comprehensive multi-modal dataset](https://3d.bk.tudelft.nl/education/msctopics/#buildingblocks-enhancing-3d-urban-understanding-and-reconstruction-with-a-comprehensive-multi-modal-dataset)
 <!-- all topics have gone for this year -->
 
-<!-- ## [Francesca Noardo](http://www.noardo.eu/) -->
-<!-- 1. [3D digital urban regulations to use GeoBIM for building permission checks](https://3d.bk.tudelft.nl/education/msctopics/#3d-digital-urban-regulations-to-use-geobim-for-building-permission-checks)
-2. [Inferring the needed building permissions from a 3D building model](https://3d.bk.tudelft.nl/education/msctopics/#inferring-the-needed-building-permission-from-a-3d-building-model)
- -->
-
 
 ## [Peter van Oosterom](https://www.tudelft.nl/staff/p.j.m.vanoosterom/)
 1. [Cadastral Map Quality](https://www.gdmc.nl/education/topics/topics.html#Cadastral_map_quality)
@@ -177,10 +165,9 @@ permalink: /potentialtopics/
 1. [Developing Level of Detail framework for 3D cadastre implementation in practice](https://3d.bk.tudelft.nl/education/msctopics/#3d-cadastre)
 2. [Developing methods for edge-matching with customisable heuristics](https://3d.bk.tudelft.nl/education/msctopics/#developing-methods-for-edge-matching-with-customisable-heuristics-geometric-topological-and-semantic)
 3. [Supporting earthquake risk assessment by 3D city models](https://3d.bk.tudelft.nl/education/msctopics/#supporting-earthquake-risk-assessment-by-3d-city-models)
-4. [Reconstructing 3D apartment units from legal apartment drawings](https://3d.bk.tudelft.nl/education/msctopics/#reconstructing-3d-apartment-units-from-legal-apartment-drawings)
-5. [3D delineation of urban river spaces](https://3d.bk.tudelft.nl/education/msctopics/#3d-delineation-of-urban-river-spaces)
-6. [Update 3D BAG from different point clouds](https://3d.bk.tudelft.nl/education/msctopics/#update-3d-bag-from-different-point-clouds)
-7. [Development on quality assessment of point cloud datasets](https://3d.bk.tudelft.nl/education/msctopics/#development-on-quality-assessment-of-point-cloud-datasets)
+4. [3D delineation of urban river spaces](https://3d.bk.tudelft.nl/education/msctopics/#3d-delineation-of-urban-river-spaces)
+5. [Update 3D BAG from different point clouds](https://3d.bk.tudelft.nl/education/msctopics/#update-3d-bag-from-different-point-clouds)
+6. [Development on quality assessment of point cloud datasets](https://3d.bk.tudelft.nl/education/msctopics/#development-on-quality-assessment-of-point-cloud-datasets)
 
 <!-- 2. [Reconstructing a 3D road network for the whole Netherlands (for the National Road Data set (NWB))](https://nationaalwegenbestand.nl/nieuws/hoogte-informatie-toegevoegd-aan-nwb-voor-omgevingswet) [with NWB] -->
 
