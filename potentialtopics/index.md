@@ -49,9 +49,6 @@ permalink: /potentialtopics/
 
 ## [Daniele Cannatella](https://3d.bk.tudelft.nl/dcannatella/)
 1. [Developing an open-source Multifunctional Green Infrastructure Planning Support System](https://3d.bk.tudelft.nl/education/msctopics/#designing-a-nature-based-solutions-planning-support-system)
-   
-## [Nima Forouzandeh](https://www.tudelft.nl/staff/n.forouzandeh/)
-1. [Automatic reconstruction of window boundaries for efficient daylight simulation](https://3d.bk.tudelft.nl/education/msctopics/#automatic-reconstruction-of-window-boundaries-for-efficient-daylight-simulation)
 
 ## [Weixiao Gao](https://3d.bk.tudelft.nl/weixiao/)
  1. [Urban Mesh Segmentation](https://3d.bk.tudelft.nl/education/msctopics/#urban-mesh-segmentation)
