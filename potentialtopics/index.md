@@ -68,11 +68,6 @@ permalink: /potentialtopics/
 6. [Citizen Voices in Climate Action: Developing digital platforms for citizen engagement in climate planning and design](https://3d.bk.tudelft.nl/education/msctopics/#citizen-voices-in-climate-action-developing-digital-platforms-for-citizen-engagement-in-climate-planning-and-design)
 7. [Revealing energy inequalities in The Netherlands](https://3d.bk.tudelft.nl/education/msctopics/#revealing-energy-inequalities-in-the-netherlands)
 
-## [Giorgia Giardina](https://www.tudelft.nl/en/ceg/about-faculty/departments/geoscience-engineering/sections/geo-engineering/staff/academic-staff/giardina-g)
-1. [Using 3D BAG to create a national subsidence vulnerability map](https://3d.bk.tudelft.nl/education/msctopics/#using-3d-bag-to-create-a-national-subsidence-vulnerability-map)
-2. [Using 3D BAG to develop finite element models of buildings at regional scale](https://3d.bk.tudelft.nl/education/msctopics/#using-3d-bag-to-develop-finite-element-models-of-buildings-at-regional-scale)
-
-
 ## [Amin Jalilzadeh](https://www.tudelft.nl/staff/a.jalilzadeh/)
 1. [Designing a Data Infrastructure for Digital Twin Technology in Energy Management](https://www.gdmc.nl/education/topics/topics.html#designing-a-data-infrastructure-for-digital-twin-technology-in-energy-management)
 2. [Enhancing Energy Demand Modeling with Spatial Data: A Geographic Approach to Simulation Accuracy](https://www.gdmc.nl/education/topics/topics.html#enhancing-energy-demand-modeling-with-spatial-data-a-geographic-approach-to-simulation-accuracy)
