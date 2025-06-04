@@ -129,11 +129,6 @@ permalink: /potentialtopics/
 3. [Change Detection using LoD](https://www.gdmc.nl/education/topics/topics.html#Change_detection_using_LoD)
 4. [Making a vario-scale 4D point cloud](https://www.gdmc.nl/education/topics/topics.html#Making_a_vario_45scale_4D_point_cloud)
 
-
-## [Akshay Patil](https://3d.bk.tudelft.nl/apatil/)  
-1. [Coral Reef Complexity: Coral reefs as urban landscapes?](https://3d.bk.tudelft.nl/education/msctopics/#coral-reef-complexity)
-2. [Random City Engine](https://3d.bk.tudelft.nl/education/msctopics/#random-city-engine): Primary advisor: Hugo Ledoux.
-
 ## [Hendrik Ploeger](https://www.tudelft.nl/staff/h.d.ploeger/)
 1. [Intellectual property & data ownership in the open data ecosystem](https://kcopendata.eu/education/thesis-topics/#IP) 
 2. [Privacy in the open data ecosystem](https://kcopendata.eu/education/thesis-topics/#privacy-and-open-data)
