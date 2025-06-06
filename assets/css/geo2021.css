@@ -1,0 +1,66 @@
+@media (prefers-color-scheme: dark) {
+
+	.has-background-danger-60 {
+		background-color: hsl(var(--bulma-danger-h), var(--bulma-danger-s), var(--bulma-danger-30-l)) !important;
+	}
+
+	.has-text-danger-60-invert {
+		color: hsl(var(--bulma-danger-h), var(--bulma-danger-s), var(--bulma-danger-30-invert-l)) !important;
+	}
+
+	.has-background-warning-60 {
+		background-color: hsl(var(--bulma-warning-h), var(--bulma-warning-s), var(--bulma-warning-30-l)) !important;
+	}
+
+	.has-text-warning-60-invert {
+		color: hsl(var(--bulma-warning-h), var(--bulma-warning-s), var(--bulma-warning-30-invert-l)) !important;
+	}
+
+	.has-background-light {
+		background-color: hsl(var(--bulma-light-h), var(--bulma-light-s), var(--bulma-light-invert-l)) !important;
+	}
+
+	.has-text-light-invert {
+		color: hsl(var(--bulma-light-h), var(--bulma-light-s), var(--bulma-light-l)) !important;
+	}
+
+	.has-background-info-60 {
+		background-color: hsl(var(--bulma-info-h), var(--bulma-info-s), var(--bulma-info-30-l)) !important;
+	}
+
+	.has-text-info-60-invert {
+		color: hsl(var(--bulma-info-h), var(--bulma-info-s), var(--bulma-info-30-invert-l)) !important;
+	}
+
+	.has-background-success-60 {
+		background-color: hsl(var(--bulma-success-h), var(--bulma-success-s), var(--bulma-success-30-l)) !important;
+	}
+
+	.has-text-success-60-invert {
+		color: hsl(var(--bulma-success-h), var(--bulma-success-s), var(--bulma-success-30-invert-l)) !important;
+	}
+
+	.has-background-primary-60 {
+		background-color: hsl(var(--bulma-primary-h), var(--bulma-primary-s), var(--bulma-primary-30-l)) !important;
+	}
+
+	.has-text-primary-60-invert {
+		color: hsl(var(--bulma-primary-h), var(--bulma-primary-s), var(--bulma-primary-30-invert-l)) !important;
+	}
+
+	.has-background-white {
+		background-color: hsl(var(--bulma-white-h), var(--bulma-white-s), var(--bulma-white-invert-l)) !important;
+	}
+
+	.has-text-white-invert {
+		color: hsl(var(--bulma-white-h), var(--bulma-white-s), var(--bulma-white-l)) !important;
+	}
+
+	.has-background-link-60 {
+		background-color: hsl(var(--bulma-link-h), var(--bulma-link-s), var(--bulma-link-30-l)) !important;
+	}
+
+	/*.has-text-link-60-invert {
+		color: hsl(var(--bulma-link-h), var(--bulma-link-s), var(--bulma-link-30-invert-l)) !important;
+	}*/
+}
