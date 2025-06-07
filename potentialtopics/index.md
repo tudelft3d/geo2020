@@ -133,9 +133,8 @@ permalink: /potentialtopics/
 
 
 ## [Wilko Quak](https://www.tudelft.nl/staff/c.w.quak/)
-1. [Possibilities of using Solid data pods in a geo environment](https://www.gdmc.nl/education/topics/topics.html#possibilities-of-using-solid-data-pods-in-a-geo-environment)
-2. [Mobility of People](https://www.gdmc.nl/education/topics/topics.html#Topic:_Mobility_of_People)
-3. [Designing a Data Infrastructure for Digital Twin Technology in Energy Management](https://www.gdmc.nl/education/topics/topics.html#designing-a-data-infrastructure-for-digital-twin-technology-in-energy-management)
+1. [Mobility of People](https://www.gdmc.nl/education/topics/topics.html#Topic:_Mobility_of_People)
+2. [Designing a Data Infrastructure for Digital Twin Technology in Energy Management](https://www.gdmc.nl/education/topics/topics.html#designing-a-data-infrastructure-for-digital-twin-technology-in-energy-management)
 
 
 ## [Azarakhsh Rafiee](https://www.tudelft.nl/staff/A.Rafiee/)
