@@ -139,11 +139,11 @@ permalink: /potentialtopics/
 
 ## [Azarakhsh Rafiee](https://www.tudelft.nl/staff/A.Rafiee/)
 1. [Spatial Resolution Enhancement of Thermal Satellite Imagery through Deep Neural Networks](https://gdmc.nl/education/topics/topics.html#spatial-resolution-enhancement-of-thermal-satellite-imagery-through-deep-neural-networks)
-2. [Detecting building element/material through thermal imagery using Deep Neural Networks approach](https://gdmc.nl/education/topics/topics.html#detecting-building-elementmaterial-through-ground-based-thermal-imagery-using-deep-neural-networks-approach)
-3. [Exploring the impact of tree original point cloud data leverage in urban daylight simulation](https://gdmc.nl/education/topics/topics.html#exploring-the-impact-of-tree-original-point-cloud-data-leverage-in-urban-daylight-simulation)
-4. [Optimization for energy demand-production-storage balance in Local Energy Systems through Deep Reinforcement Learning](https://gdmc.nl/education/topics/topics.html#optimization-for-energy-demand-production-storage-balance-in-local-energy-systems-through-deep-reinforcement-learning)
-5. [Urban form, climate and personal comfort in a highly dense urban environment: the case of Seoul, South Korea](https://gdmc.nl/education/topics/topics.html#urban-form-climate-and-personal-comfort-in-a-highly-dense-urban-environment-the-case-of-seoul-south-korea)
-
+2. [Wind Field Visualization in Game Engine](https://gdmc.nl/education/topics/topics.html#wind-field-visualization-in-game-engine)
+3. [Air temperature estimation through thermal satellite imagery](https://gdmc.nl/education/topics/topics.html#air-temperature-estimation-through-thermal-satellite-imagery)
+4. [Improving Building Performance Prediction through Physics-aware Bayesian Neural Network (BNN)](https://gdmc.nl/education/topics/topics.html#improving-building-performance-prediction-through-physics-aware-bayesian-neural-network-bnn)
+5. [Detecting building element/material through thermal imagery using Deep Neural Networks approach](https://gdmc.nl/education/topics/topics.html#detecting-building-elementmaterial-through-ground-based-thermal-imagery-using-deep-neural-networks-approach)
+6. [Optimization for energy demand-production-storage balance in Local Energy Systems through Deep Reinforcement Learning](https://gdmc.nl/education/topics/topics.html#optimization-for-energy-demand-production-storage-balance-in-local-energy-systems-through-deep-reinforcement-learning)
 
 ## [Jantien Stoter](https://3d.bk.tudelft.nl/jstoter/)
 1. [Developing Level of Detail framework for 3D cadastre implementation in practice](https://3d.bk.tudelft.nl/education/msctopics/#3d-cadastre)
