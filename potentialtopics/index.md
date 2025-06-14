@@ -13,11 +13,17 @@ permalink: /potentialtopics/
   </div>
   <div class="message-body">
     <ul>
-      <li>You can submit a topic from June until September 19th the latest, where you need to have a topic and at least one supervisor selected</li>
-      <li>Be warned that if you wait until September, then it is possible that your topic is already gone and your favourite supervisor is full</li>
-      <li>A topic can be changed a bit until the A1 registration date (mid-November)</li>
-      <li>Some recommended topics are below. Click on the links for more info, which will take you to the different pages in the websites of the groups involved in Geomatics education.</li>
-      <li>You can directly choose one of the topics below, or you can speak to a geomatics staff and agree on a custom topic, then submit it (with a temporary title)</li>
+      <li>You can submit a topic from June until September 19th the latest. By then, you need to have a topic and at least one supervisor selected.</li>
+      <li>Be warned that if you wait until September, then it is possible that your topic is already gone and your favourite supervisor is full.</li>
+      <li>A topic can be changed a bit until the A1 registration date (mid-November).</li>
+      <li>There are three groups involved in Geomatics education: <a href="https://3d.bk.tudelft.nl">3D geoinformation</a>, <a href="https://www.gdmc.nl">GIS technology (GDMC)</a> and the <a href="https://kcopendata.eu/">Knowledge center open data</a>. Your 1st supervisor must be a staff from one of these groups, PhD candidates included.</li>
+      <li>The lists of potential MSc thesis topics from the groups and a list of recommended topics are below. Click on the links for more info, which will take you to the different pages in the websites of the groups.</li>
+      <li>You can:
+        <ol>
+          <li>choose one of the topics below, speak to the relevant supervisors for details and to confirm that you will do it, then submit the form, or</li>
+          <li>speak to a geomatics staff and agree on a custom topic, then submit the form.</li>
+        </ol>
+      </li>
       <li>If your topic is in collaboration with an external party, keep in mind that several staff follow the <a href="../openscience/">requirements for open science</a></li>
       <li>Only the 1st supervisor is relevant at this point, the 2nd can be added later</li>
       <li>Questions? you can ask in the Discord channel <a href="https://discord.gg/3nr9N4BE">#geo2021</a> or <a href="https://geomatics.bk.tudelft.nl/geo2021/coordinator/">contact the thesis coordinator</a></li>
@@ -28,6 +34,16 @@ permalink: /potentialtopics/
 <div data-tf-live="01JVYR7EZE44W3YHFMM1DED3Y3"></div><script src="//embed.typeform.com/next/embed.js"></script>
 
 ---
+
+# Topics per chair / group
+
+* [3D geoinformation](https://3d.bk.tudelft.nl/education/msctopics/)
+* [GIS technology / GDMC](https://gdmc.nl/education/topics/)
+* [Knowledge center open data](https://kcopendata.eu/education/thesis-topics/)
+
+---
+
+# Topics per supervisor
 
 ## [Giorgio Agugiaro](https://3d.bk.tudelft.nl/gagugiaro/)
 1. [Adding support for CitySim to the 3DCityDB-Tools plugin for QGIS](https://3d.bk.tudelft.nl/education/msctopics/#adding-support-for-citysim-to-the-3dcitydb-tools-plugin-for-qgis)
